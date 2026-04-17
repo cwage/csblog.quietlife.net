@@ -5,7 +5,20 @@
       <ul>
         {% assign sorted_cats = site.categories | sort %}
         {% for cat in sorted_cats %}
-        <li><a href="{{ '/' | relative_url }}">{{ cat[0] }}</a> ({{ cat[1].size }})</li>
+        <li><a href="{{ '/categories/' | relative_url }}#{{ cat[0] | slugify }}">{{ cat[0] }}</a> ({{ cat[1].size }})</li>
+        {% endfor %}
+      </ul>
+    </li>
+
+    <li id="authors">
+      <h2>Authors</h2>
+      <ul>
+        {% assign posts_by_author = site.posts | group_by: "author" %}
+        {% assign sorted_authors = posts_by_author | sort: "name" %}
+        {% for author in sorted_authors %}
+          {% if author.name != "" %}
+          <li><a href="{{ '/authors/' | relative_url }}#{{ author.name | slugify }}">{{ author.name }}</a> ({{ author.size }})</li>
+          {% endif %}
         {% endfor %}
       </ul>
     </li>
@@ -15,7 +28,7 @@
       <ul>
         {% assign posts_by_month = site.posts | group_by_exp: "post", "post.date | date: '%Y-%m'" %}
         {% for month in posts_by_month %}
-        <li><a href="{{ '/' | relative_url }}">{{ month.items[0].date | date: "%B %Y" }}</a> ({{ month.size }})</li>
+        <li><a href="{{ '/archives/' | relative_url }}#{{ month.name }}">{{ month.items[0].date | date: "%B %Y" }}</a> ({{ month.size }})</li>
         {% endfor %}
       </ul>
     </li>

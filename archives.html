@@ -1,0 +1,14 @@
+---
+layout: default
+title: Archives
+---
+{% assign posts_by_month = site.posts | group_by_exp: "post", "post.date | date: '%Y-%m'" %}
+{% for month in posts_by_month %}
+  <h2 class="date" id="{{ month.name }}">{{ month.items[0].date | date: "%B %Y" }} ({{ month.size }})</h2>
+  {% for post in month.items %}
+  <div class="post">
+    <h3 class="storytitle"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <div class="meta">{{ post.date | date: "%B %d, %Y" }}{% if post.author %} &mdash; {{ post.author }}{% endif %}</div>
+  </div>
+  {% endfor %}
+{% endfor %}

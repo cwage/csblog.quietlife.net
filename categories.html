@@ -1,0 +1,14 @@
+---
+layout: default
+title: Categories
+---
+{% assign sorted_cats = site.categories | sort %}
+{% for cat in sorted_cats %}
+  <h2 class="date" id="{{ cat[0] | slugify }}">{{ cat[0] }} ({{ cat[1].size }})</h2>
+  {% for post in cat[1] %}
+  <div class="post">
+    <h3 class="storytitle"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <div class="meta">{{ post.date | date: "%B %d, %Y" }}{% if post.author %} &mdash; {{ post.author }}{% endif %}</div>
+  </div>
+  {% endfor %}
+{% endfor %}

@@ -1,0 +1,17 @@
+---
+layout: default
+title: Authors
+---
+{% assign posts_by_author = site.posts | group_by: "author" %}
+{% assign sorted_authors = posts_by_author | sort: "name" %}
+{% for author in sorted_authors %}
+  {% if author.name != "" %}
+  <h2 class="date" id="{{ author.name | slugify }}">{{ author.name }} ({{ author.size }})</h2>
+  {% for post in author.items %}
+  <div class="post">
+    <h3 class="storytitle"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <div class="meta">{{ post.date | date: "%B %d, %Y" }}{% if post.categories.size > 0 %} &mdash; {% for cat in post.categories %}<a href="{{ '/categories/' | relative_url }}#{{ cat | slugify }}">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</div>
+  </div>
+  {% endfor %}
+  {% endif %}
+{% endfor %}

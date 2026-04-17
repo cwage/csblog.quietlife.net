@@ -16,10 +16,10 @@ title: CentreBlog
       {% if post.categories.size > 0 %}
       Filed under:
       {% for cat in post.categories %}
-        {{ cat }}{% unless forloop.last %}, {% endunless %}
+        <a href="{{ '/categories/' | relative_url }}#{{ cat | slugify }}">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
       {% endfor %}
       {% endif %}
-      {% if post.author %} &mdash; {{ post.author }}{% endif %}
+      {% if post.author %} &mdash; <a href="{{ '/authors/' | relative_url }}#{{ post.author | slugify }}">{{ post.author }}</a>{% endif %}
     </div>
 
     <div class="storycontent">
