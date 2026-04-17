@@ -5,7 +5,7 @@ date: 2012-10-03
 author: Jonathan Parrish
 categories: [Company News, Miscellaneous]
 ---
-[![Barcamp Nashville](http://blog.centresource.com/wp-content/uploads/2012/10/barcamp-300x71.gif)](<http://blog.centresource.com/wp-content/uploads/2012/10/barcamp.gif> "Barcamp Nashville")On October 1, [BarCamp Nashville](<http://www.barcampnashville.org/bcn12/>) announced its sessions for the October 20 event which celebrates all that is tech and marketing in Nashville, Tennessee. The unconference to end all unconferences is a yearly huzzah for the Centresource crew, and this year we are extremely excited about our representation at the event.
+[![Barcamp Nashville](https://csblog.quietlife.net/wp-content/uploads/2012/10/barcamp-300x71.gif)](<https://csblog.quietlife.net/wp-content/uploads/2012/10/barcamp.gif> "Barcamp Nashville")On October 1, [BarCamp Nashville](<http://www.barcampnashville.org/bcn12/>) announced its sessions for the October 20 event which celebrates all that is tech and marketing in Nashville, Tennessee. The unconference to end all unconferences is a yearly huzzah for the Centresource crew, and this year we are extremely excited about our representation at the event.
 
 While the BarCamp [session selection is at random](<http://www.barcampnashville.org/bcn12/speak>), the Centresource team is representing strongly, and we are stoked! Here is a list of the Centresourcerers and their respective topics.
 

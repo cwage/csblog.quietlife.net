@@ -5,7 +5,7 @@ date: 2015-08-31
 ---
 According to the United States Bureau of Labor Statistics, employment across all IT jobs is expected to grow by 22% through 2020. Despite this steady increase of openings in the technology industry, competition for talented individuals in the tech industry is at unprecedented levels, which raises the question- how does a company successful recruit the best developers and tech talent as competition continues to grow? Here are 10 key tips to keep in mind:
 
-![hiring-developers-tech-talent](http://blog.centresource.com/wp-content/uploads/2015/08/hiring-tips-devops-recruiting-how-to-advice-300x141.jpg)
+![hiring-developers-tech-talent](https://csblog.quietlife.net/wp-content/uploads/2015/08/hiring-tips-devops-recruiting-how-to-advice-300x141.jpg)
 
   1. Keep an ongoing relationship with potential hires. Even if there is not an open position for them at the time, it is well worth establishing a relationship with talented individuals for future open positions. You want to make sure you are pursuing the person, not the slot you want to fill
   2. Be sure to ease into a relationship. There's a lot of middle ground between no relationship and a full-time salaried hire. People are freelancing more and more, so be open to arrangements that let you both test the waters to see if you're compatible -- sometimes you need to date before you marry. Conversely, don't drag things on forever. If you're in a part-time/contractor relationship with someone that is clearly looking for a full-time gig, and you have any hesitation, don't string them along. 
@@ -22,33 +22,33 @@ According to the United States Bureau of Labor Statistics, employment across all
 
 * * *
 
-  * [Culture](<http://blog.centresource.com/category/culture/>)
-  * [Development](<http://blog.centresource.com/category/development/>)
+  * [Culture](<https://csblog.quietlife.net/category/culture/>)
+  * [Development](<https://csblog.quietlife.net/category/development/>)
 
 
 
 ![](http://1.gravatar.com/avatar/7161279d50404ed72822c03cf312b08f?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Chris Wage](<http://blog.centresource.com/author/cwage/> "Posts by Chris Wage")
+#### [Chris Wage](<https://csblog.quietlife.net/author/cwage/> "Posts by Chris Wage")
 
 CHRIS is best identified by the ubiquitous camera around his neck. A true local, Chris is from Nashville, TN. He once had an ongoing argument with an artist behind an online political comic that lasted for several years. It turned out that their families were holler neighbors from many years ago, a modern-day Hatfields & McCoys. (If you understood any of those last two sentences, you are clearly from the south.) Two more fun facts just because: Chris bought one of his first cars from Dean Ween from the band Ween and he will beat you at chess.
 
 
 
 
-[ ![How'd We Do? A Look Back at our Web Predictions](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/11/18/howd-look-back-web-predictions/>)
+[ ![How'd We Do? A Look Back at our Web Predictions](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/11/18/howd-look-back-web-predictions/>)
 
-### [How'd We Do? A Look Back at our Web Predictions](<http://blog.centresource.com/2014/11/18/howd-look-back-web-predictions/>)
+### [How'd We Do? A Look Back at our Web Predictions](<https://csblog.quietlife.net/2014/11/18/howd-look-back-web-predictions/>)
 
-November 18, 2014 / [Culture](<http://blog.centresource.com/category/culture/>)
+November 18, 2014 / [Culture](<https://csblog.quietlife.net/category/culture/>)
 
 On Sept. 2, 2009, in the Centresource company meeting, our CEO had the staff break ...
 
-[ ![The 3 Pitfalls of App Development](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2015/08/20/the-3-pitfalls-of-app-development/>)
+[ ![The 3 Pitfalls of App Development](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/08/20/the-3-pitfalls-of-app-development/>)
 
-### [The 3 Pitfalls of App Development](<http://blog.centresource.com/2015/08/20/the-3-pitfalls-of-app-development/>)
+### [The 3 Pitfalls of App Development](<https://csblog.quietlife.net/2015/08/20/the-3-pitfalls-of-app-development/>)
 
-August 20, 2015 / [Development](<http://blog.centresource.com/category/development/>)
+August 20, 2015 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 As a business owner you are always looking for the next step - how you ...
 
@@ -56,4 +56,4 @@ As a business owner you are always looking for the next step - how you ...
 
 # Post navigation
 
-[← The 3 Pitfalls of App Development](<http://blog.centresource.com/2015/08/20/the-3-pitfalls-of-app-development/>)
+[← The 3 Pitfalls of App Development](<https://csblog.quietlife.net/2015/08/20/the-3-pitfalls-of-app-development/>)

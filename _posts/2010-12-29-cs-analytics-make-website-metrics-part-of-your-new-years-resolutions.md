@@ -5,7 +5,7 @@ date: 2010-12-29
 author: Stephen Yeargin
 categories: [Interactive Strategy, SEM]
 ---
-![frederick_winslow_taylor_crop](http://blog.centresource.com/wp-content/uploads/2010/12/frederick_winslow_taylor_crop-200x300.jpg)  
+![frederick_winslow_taylor_crop](https://csblog.quietlife.net/wp-content/uploads/2010/12/frederick_winslow_taylor_crop-200x300.jpg)  
 Some old dude.
 
 [Fredrick Taylor](<http://en.wikipedia.org/wiki/Frederick_Winslow_Taylor>) was a renowned engineer whose pioneering work in scientific management lead to teaching the old adage that one "can only manage what you can measure" that you will find is the _modus operandi_ of most managers you will encounter in business. Particularly applied in motion study, Taylor and later work by Frank Gilbreth revolutionized the way that a laborer went about their job -- finding ways to maximize productivity rather than simply increasing the labor force.

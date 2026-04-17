@@ -5,4 +5,4 @@ date: 2005-05-04
 author: Chris
 categories: [Alerts]
 ---
-Kasperky's site has some [more details](<http://www.viruslist.com/en/viruses/encyclopedia?virusid=79908>) on the latest variation of Sober.P [going around](<https://web.archive.org/web/20060112094817/http://blog.centresource.com/2005/05/03/sober-variant-soberp/>).
+Kasperky's site has some [more details](<http://www.viruslist.com/en/viruses/encyclopedia?virusid=79908>) on the latest variation of Sober.P [going around](<https://csblog.quietlife.net/2005/05/03/sober-variant-soberp/>).

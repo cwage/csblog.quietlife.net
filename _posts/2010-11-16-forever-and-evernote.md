@@ -5,7 +5,7 @@ date: 2010-11-16
 author: Martha Girdler
 categories: [Software]
 ---
-![Evernote](http://blog.centresource.com/wp-content/uploads/2010/11/evernote.jpg)
+![Evernote](https://csblog.quietlife.net/wp-content/uploads/2010/11/evernote.jpg)
 
 I know I'm a little late to the game and our CEO Nick Holland might go all ["Executive" ](<http://goo.gl/5tQU0>)on me for writing this before him, but I have something that might change your life (that is, if you're a chronically unorganized person like myself). 
 

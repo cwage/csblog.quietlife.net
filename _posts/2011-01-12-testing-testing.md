@@ -5,7 +5,7 @@ date: 2011-01-12
 author: Billy Cerveny
 categories: [Interactive Strategy, Marketing, SEM, SEO]
 ---
-![](http://blog.centresource.com/wp-content/uploads/2011/01/exp-1-300x112.gif)
+![](https://csblog.quietlife.net/wp-content/uploads/2011/01/exp-1-300x112.gif)
 
 A lot has been made of multivariate and A/B testing with e-commerce sites. Anyone who has spent any amount of time reflecting on branding and marketing knows intuitively those small differences in color, layout and wording have a tremendous impact on conversion rates. Every once in awhile, however, someone gives us a great example of the real power of multivariate testing. 
 

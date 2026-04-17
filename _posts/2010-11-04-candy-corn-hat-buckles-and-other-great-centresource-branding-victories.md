@@ -5,7 +5,7 @@ date: 2010-11-04
 author: Billy Cerveny
 categories: [Content, Marketing]
 ---
-![candy_corn](http://blog.centresource.com/wp-content/uploads/2010/11/candy_corn-300x230.jpg)
+![candy_corn](https://csblog.quietlife.net/wp-content/uploads/2010/11/candy_corn-300x230.jpg)
 
 The holiday season is upon us and this is the time of year I break out the themed sweaters, pour myself a hot mug of nostalgia and remember my favorite branding and marketing victories at centresource. While we've done a number of high profile campaigns that made household names out of products like the color Red, Happiness and the Internet, I have to say my favorite clients thus far have been Halloween, Thanksgiving and Christmas.
 

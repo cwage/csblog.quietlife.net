@@ -19,7 +19,7 @@ Andrew Green
 TwelveSouth  
 Founder & Creative Director"
 
-![](http://blog.centresource.com/wp-content/uploads/2011/02/bookarc-by-twelvesouth-247x300.jpg)
+![](https://csblog.quietlife.net/wp-content/uploads/2011/02/bookarc-by-twelvesouth-247x300.jpg)
 
 I quickly responded and he and I worked out the logistics over a few more emails. He arranged for me to pick up a brand new Bookarc from his mom...free of charge! Wait. Did I say free? Yep. Free. I said, "Let me at least pay you for this." He responded with, "Please accept this as my gift to you for going out of your way to find our BookArc. There are other choices of iPad stands out there - and we're glad you chose us. Have a great  
 gig this evening and wish the Bride  

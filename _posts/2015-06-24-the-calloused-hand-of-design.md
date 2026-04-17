@@ -7,7 +7,7 @@ Evolution can be defined as iterative innovation. Therefore, without innovation,
 
 ## **The House Method**
 
-![The House Method](http://blog.centresource.com/wp-content/uploads/2015/06/blueprints-300x186.jpg)This methodology derives it's name from our house analogy we use to describe it. Think of building a website or product as building a house - it starts with evaluating the environment and identifying foreseeable obstacles. After this survey of the land is complete, the architect can begin to paint their vision for the 'house' (taking into account the environment's strengths and challenges). These two steps can be equated to our strategy and planning sessions. We evaluate the competitive landscape, user challenges, and business strengths. With this, we create a rough plan of action which bleeds into the very early stages of production.
+![The House Method](https://csblog.quietlife.net/wp-content/uploads/2015/06/blueprints-300x186.jpg)This methodology derives it's name from our house analogy we use to describe it. Think of building a website or product as building a house - it starts with evaluating the environment and identifying foreseeable obstacles. After this survey of the land is complete, the architect can begin to paint their vision for the 'house' (taking into account the environment's strengths and challenges). These two steps can be equated to our strategy and planning sessions. We evaluate the competitive landscape, user challenges, and business strengths. With this, we create a rough plan of action which bleeds into the very early stages of production.
 
 This rough plan outlines our constraints, our opportunities, and overall direction. Imagine these are the ingredients stirred into the cement at the foundation of the house. It sets the bounds and guides the shape through a strong, level foundation - without it, the house would collapse. An imbalance of any single ingredient can lead to a crumbling or cracked foundation so it is important to carefully mix, pour, and shape.
 
@@ -27,35 +27,35 @@ We raise our calloused hand, fortified through more than a decade of expertise a
 
 * * *
 
-  * [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
-  * [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+  * [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+  * [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 
 
-[agile-development](<http://blog.centresource.com/tag/agile-development/>)[interactive-strategy](<http://blog.centresource.com/tag/interactive-strategy/>)[website design](<http://blog.centresource.com/tag/website-design/>)
+[agile-development](<https://csblog.quietlife.net/tag/agile-development/>)[interactive-strategy](<https://csblog.quietlife.net/tag/interactive-strategy/>)[website design](<https://csblog.quietlife.net/tag/website-design/>)
 
 ![](http://1.gravatar.com/avatar/d99404d27017ee0f697dc4b039efcffc?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Eli Williamson](<http://blog.centresource.com/author/ewilliamson/> "Posts by Eli Williamson")
+#### [Eli Williamson](<https://csblog.quietlife.net/author/ewilliamson/> "Posts by Eli Williamson")
 
 ELI is a sucker for all things Nashville. From the constant flow of inspiration, to the wind-dusted old signage, to the reclaimed wood of the local coffee shops, he loves this city. In fact, he even appreciates the influx of ironic (or are they?) mustaches. Raised in Cincinnati, Eli received his Bachelors in Visual Communication, specializing in Interactive Media from Ohio University, College of Visual Communication. He's lived in Nashville since graduation and when asked where he'd go if he could travel anywhere, he said he'd take a trip to the Moon, or Mars, whichever has a cheaper flight--and we're pretty sure he's not kidding.
 
 
 
 
-[ ![What is semalt? What is buttons-for-website?](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2015/02/10/semalt-buttons-website/>)
+[ ![What is semalt? What is buttons-for-website?](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/02/10/semalt-buttons-website/>)
 
-### [What is semalt? What is buttons-for-website?](<http://blog.centresource.com/2015/02/10/semalt-buttons-website/>)
+### [What is semalt? What is buttons-for-website?](<https://csblog.quietlife.net/2015/02/10/semalt-buttons-website/>)
 
-February 10, 2015 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>), [Marketing](<http://blog.centresource.com/category/marketing/>)
+February 10, 2015 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>), [Marketing](<https://csblog.quietlife.net/category/marketing/>)
 
 If you keep an eye on your Google Analytics referral sources, you've probably noticed a ...
 
-[ ![Testing Your Way To a Better Idea pt. 2](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
+[ ![Testing Your Way To a Better Idea pt. 2](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
 
-### [Testing Your Way To a Better Idea pt. 2](<http://blog.centresource.com/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
+### [Testing Your Way To a Better Idea pt. 2](<https://csblog.quietlife.net/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
 
-March 21, 2014 / [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+March 21, 2014 / [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 Last time we talked about the importance of a verified, evolving idea. We talked about ...
 
@@ -63,4 +63,4 @@ Last time we talked about the importance of a verified, evolving idea. We talked
 
 # Post navigation
 
-[← Development Tools I Use Everyday](<http://blog.centresource.com/2015/06/19/development-tools-i-use-everyday/>)
+[← Development Tools I Use Everyday](<https://csblog.quietlife.net/2015/06/19/development-tools-i-use-everyday/>)

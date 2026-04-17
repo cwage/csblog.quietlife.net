@@ -13,7 +13,7 @@ Similarly, Wikipedia has boldly pulled their whole site down for the entire day,
 
 Even Google has made a statement about these acts today:
 
-[![](http://blog.centresource.com/wp-content/uploads/2012/01/googlesopa.png)](<http://blog.centresource.com/wp-content/uploads/2012/01/googlesopa.png> "googlesopa")
+[![](https://csblog.quietlife.net/wp-content/uploads/2012/01/googlesopa.png)](<https://csblog.quietlife.net/wp-content/uploads/2012/01/googlesopa.png> "googlesopa")
 
 The problem with these bills is the seemingly innocuous nature of them. "Stop Online Piracy"? "Protect Intellectual Property"? We are all for curbing piracy, but this bill takes the term "piracy" to a whole new level. Typical piracy acts (like the DMCA) strive to curb illegal downloading and streaming, but SOPA and PIPA are after the actual sites hosting the content.
 

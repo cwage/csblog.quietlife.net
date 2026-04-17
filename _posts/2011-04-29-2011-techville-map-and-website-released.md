@@ -5,7 +5,7 @@ date: 2011-04-29
 author: Lyndsay Rush
 categories: [Company News, Miscellaneous]
 ---
-[![](http://blog.centresource.com/wp-content/uploads/2011/04/Screen-shot-2011-04-28-at-12.57.21-PM.png)](<http://blog.centresource.com/wp-content/uploads/2011/04/Screen-shot-2011-04-28-at-12.57.21-PM.png> "Screen shot 2011-04-28 at 12.57.21 PM")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/04/Screen-shot-2011-04-28-at-12.57.21-PM.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/04/Screen-shot-2011-04-28-at-12.57.21-PM.png> "Screen shot 2011-04-28 at 12.57.21 PM")
 
 Here ye, here ye: the [Nashville Technology Council](<http://www.technologycouncil.com/>) officially released the 2011  _Techville_ map!
 

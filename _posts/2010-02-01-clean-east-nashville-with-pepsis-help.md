@@ -5,7 +5,7 @@ date: 2010-02-01
 author: Will Acuff
 categories: [Company News, Miscellaneous, Operations]
 ---
-![Pepsi Refresh / Clean East](https://web.archive.org/web/20150523191915/http://blog.centresource.com/wp-content/uploads/2010/02/Screen-shot-2010-02-01-at-Feb-1-1.49.20-PM-300x237.png)As an Operations Manager at CS, I spend most of my time trying to figure out how to make our internal processes smoother, so we can spend more time creating amazing applications. All that to say I don't get to explore the web too often. However, sometimes our developers will tell me about cool new technology or web 'initiatives' that I have to check out. Such was the case with the Pepsi Refresh Project.
+![Pepsi Refresh / Clean East](https://csblog.quietlife.net/wp-content/uploads/2010/02/Screen-shot-2010-02-01-at-Feb-1-1.49.20-PM-300x237.png)As an Operations Manager at CS, I spend most of my time trying to figure out how to make our internal processes smoother, so we can spend more time creating amazing applications. All that to say I don't get to explore the web too often. However, sometimes our developers will tell me about cool new technology or web 'initiatives' that I have to check out. Such was the case with the Pepsi Refresh Project.
 
 When I realized that Pepsi was offering grant money to various non profits and community organizations instead of spending tons on Super Bowl ads I was blown away. What a great idea to both raise your brands public image and help change communities across the U.S. As an active volunteer in East Nashville through such organizations as the KIPP School, YMCA youth sports, United Way, and City Church, I thought it couldn't hurt to apply for a cause I started about 2 years ago called Clean East.
 

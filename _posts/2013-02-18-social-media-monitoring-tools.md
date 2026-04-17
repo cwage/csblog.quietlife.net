@@ -5,7 +5,7 @@ date: 2013-02-18
 author: Larissa Sylvester
 categories: [Miscellaneous, Social Media]
 ---
-[![Social Media](http://blog.centresource.com/wp-content/uploads/2013/02/social-media-hand-300x200.jpg)](<http://blog.centresource.com/wp-content/uploads/2013/02/social-media-hand.jpg> "Social Media")These days, virtually every business and organization has a social media account, and sometimes multiple accounts. Social media has taken over the marketing world and it's a great way to get your brand noticed and keep your target audience updated.
+[![Social Media](https://csblog.quietlife.net/wp-content/uploads/2013/02/social-media-hand-300x200.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2013/02/social-media-hand.jpg> "Social Media")These days, virtually every business and organization has a social media account, and sometimes multiple accounts. Social media has taken over the marketing world and it's a great way to get your brand noticed and keep your target audience updated.
 
 Social media works very well to attract attention to your brand, but it is very important to have a tool that tracks and monitors all interactions so that you are updated on any issues and feedback. There are many free and inexpensive social monitoring tools available. There are tools that monitor social campaigns, upcoming events, comments and forums, and Twitter and Facebook.
 

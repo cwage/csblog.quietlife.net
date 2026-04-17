@@ -5,7 +5,7 @@ date: 2010-11-15
 author: Jason Jones
 categories: [Web Design]
 ---
-[![clients-from-hell](http://blog.centresource.com/wp-content/uploads/2010/11/clients-from-hell-244x300.jpg)](<http://www.clientsfromhell.net/>)
+[![clients-from-hell](https://csblog.quietlife.net/wp-content/uploads/2010/11/clients-from-hell-244x300.jpg)](<http://www.clientsfromhell.net/>)
 
 As a designer I love the website [Clients From Hell](<http://clientsfromhell.net/>). If you're not familiar with it, it's essentially a collection of the crazy things clients say that make designers want to beat their head against a sharp pointed object. I will go there sometimes just for comic-relief. It's therapeutic knowing other designers are hearing things even worse than what I am dealing with. Here are a few of my favorites:
 

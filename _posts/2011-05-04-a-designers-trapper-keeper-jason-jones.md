@@ -5,11 +5,11 @@ date: 2011-05-04
 author: Jason B. Jones
 categories: [Miscellaneous, Web Design]
 ---
-![](http://blog.centresource.com/wp-content/uploads/2011/05/trapperkeeper.png)
+![](https://csblog.quietlife.net/wp-content/uploads/2011/05/trapperkeeper.png)
 
 **1\. What's in your graphic design 'Trapper Keeper' these days?**
 
-![](http://blog.centresource.com/wp-content/uploads/2011/05/1.jpg)
+![](https://csblog.quietlife.net/wp-content/uploads/2011/05/1.jpg)
 
 1\. iPad 2 2. Balsamiq 3. Bose QC3 Headphones 4. Browser Sketch Pad 5. Griffin Stylus 6. Dribbble 7. Nespresso Capsules
 

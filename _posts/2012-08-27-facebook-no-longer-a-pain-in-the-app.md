@@ -5,7 +5,7 @@ date: 2012-08-27
 author: Jonathan Parrish
 categories: [Mobile, Social Media]
 ---
-[![Facebook App](http://blog.centresource.com/wp-content/uploads/2012/08/facebook_mobile-300x225.png)](<http://blog.centresource.com/wp-content/uploads/2012/08/facebook_mobile.png> "Facebook App")Last Thursday, Facebook provided its iPhone and iPad app users with a [much welcomed update](<http://itunes.apple.com/us/app/facebook/id284882215?mt=8>). The app had been sluggish, buggy, and frustrating. I often found myself using the app, and just giving up on it because it was so bogged down. I wondered how could one of the most tech-centered companies in the world not have an incredible mobile app, and I was definitely not alone. 
+[![Facebook App](https://csblog.quietlife.net/wp-content/uploads/2012/08/facebook_mobile-300x225.png)](<https://csblog.quietlife.net/wp-content/uploads/2012/08/facebook_mobile.png> "Facebook App")Last Thursday, Facebook provided its iPhone and iPad app users with a [much welcomed update](<http://itunes.apple.com/us/app/facebook/id284882215?mt=8>). The app had been sluggish, buggy, and frustrating. I often found myself using the app, and just giving up on it because it was so bogged down. I wondered how could one of the most tech-centered companies in the world not have an incredible mobile app, and I was definitely not alone. 
 
 While it is a notable improvement, the update isn't just the typical bug fix though. It is a step towards the social network digging deeper into the mobile world. As most folks are transitioning their web usage from laptops to mobile phones and tablets, companies like Facebook and Google are adjusting their platforms to stay viable and profitable. 
 

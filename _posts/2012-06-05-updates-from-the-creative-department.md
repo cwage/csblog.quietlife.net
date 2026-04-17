@@ -11,6 +11,6 @@ This past spring we designed and developed a fun project called 'iART Health'. S
 
 Our challenge presented to our team was how to display these hundreds of posters in a creative and organized way without feeling too busy. As the designer I knew I wanted to incorporate illustrations as well as a grid system to display the posters. Our developers did an amazing job using Isotope, a jQuery plugin, to create a dynamic and responsive grid system.
 
-[](<http://blog.centresource.com/wp-content/uploads/2012/05/Screen-shot-2012-05-29-at-3.16.23-PM.png>)[![](http://blog.centresource.com/wp-content/uploads/2012/05/Screen-shot-2012-05-29-at-3.16.23-PM.png)](<http://blog.centresource.com/wp-content/uploads/2012/05/Screen-shot-2012-05-29-at-3.16.23-PM.png>)
+[](<https://csblog.quietlife.net/wp-content/uploads/2012/05/Screen-shot-2012-05-29-at-3.16.23-PM.png>)[![](https://csblog.quietlife.net/wp-content/uploads/2012/05/Screen-shot-2012-05-29-at-3.16.23-PM.png)](<https://csblog.quietlife.net/wp-content/uploads/2012/05/Screen-shot-2012-05-29-at-3.16.23-PM.png>)
 
 To learn more about iART Health and to see the work we created, visit [www.iarthealth.com](<http://iarthealth.com/>).

@@ -3,7 +3,7 @@ layout: post
 title: "How does UX design fit together with marketing goals?"
 date: 2015-04-17
 ---
-![UX & Marketing](http://blog.centresource.com/wp-content/uploads/2015/04/Venn-Diagram-1429282763526680bb-c7de-4fa5-8b51-891cae1f7ddf-300x225.jpg)I often see an unjustified stratification between UX and marketing goals. These work together, hand-in-hand to achieve great success for a product or service. Examples of assimilation are frequently used in partnership with intentional UI decisions. A UI (user interface) is the so-called "skin" of a product that plays into the aesthetic of the marketing materials. Each have their specific purposes but all of which make up the user's overall experience (UX).
+![UX & Marketing](https://csblog.quietlife.net/wp-content/uploads/2015/04/Venn-Diagram-1429282763526680bb-c7de-4fa5-8b51-891cae1f7ddf-300x225.jpg)I often see an unjustified stratification between UX and marketing goals. These work together, hand-in-hand to achieve great success for a product or service. Examples of assimilation are frequently used in partnership with intentional UI decisions. A UI (user interface) is the so-called "skin" of a product that plays into the aesthetic of the marketing materials. Each have their specific purposes but all of which make up the user's overall experience (UX).
 
 Marketing goals are set and through a great UX, the user can achieve said goals. Mechanisms such as clear and persistent calls-to-action (CTAs) contribute toward a common marketing goal of customer engagement. By having an outlet for a user to take a next step (contact us, view products, etc.) there aren't any dead ends. User experiences often fall into the category of unknown but when situations are thoroughly thought through, marketing goals are very easy to achieve. That said, achievement is a poor term, as growth comes iteratively. Goals can be reached but they should then be exceeded, reassessed, and redefined.
 
@@ -15,33 +15,33 @@ Overall there should not be a stratification between UX and marketing goals, rat
 
 * * *
 
-  * [Marketing](<http://blog.centresource.com/category/marketing/>)
-  * [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+  * [Marketing](<https://csblog.quietlife.net/category/marketing/>)
+  * [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 
 
-[interactive marketing](<http://blog.centresource.com/tag/interactive-marketing/>)[Marketing](<http://blog.centresource.com/tag/marketing/>)[user experience](<http://blog.centresource.com/tag/user-experience/>)[user interface](<http://blog.centresource.com/tag/user-interface/>)[ux](<http://blog.centresource.com/tag/ux/>)[UX-Design](<http://blog.centresource.com/tag/uxdesign/>)
+[interactive marketing](<https://csblog.quietlife.net/tag/interactive-marketing/>)[Marketing](<https://csblog.quietlife.net/tag/marketing/>)[user experience](<https://csblog.quietlife.net/tag/user-experience/>)[user interface](<https://csblog.quietlife.net/tag/user-interface/>)[ux](<https://csblog.quietlife.net/tag/ux/>)[UX-Design](<https://csblog.quietlife.net/tag/uxdesign/>)
 
 ![](http://1.gravatar.com/avatar/d99404d27017ee0f697dc4b039efcffc?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Eli Williamson](<http://blog.centresource.com/author/ewilliamson/> "Posts by Eli Williamson")
+#### [Eli Williamson](<https://csblog.quietlife.net/author/ewilliamson/> "Posts by Eli Williamson")
 
 
 
 
-[ ![The Lean UX Canvas](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/09/18/lean-ux-canvas/>)
+[ ![The Lean UX Canvas](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/09/18/lean-ux-canvas/>)
 
-### [The Lean UX Canvas](<http://blog.centresource.com/2014/09/18/lean-ux-canvas/>)
+### [The Lean UX Canvas](<https://csblog.quietlife.net/2014/09/18/lean-ux-canvas/>)
 
-September 18, 2014 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>), [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+September 18, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>), [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 We work with a lot of companies in varying states of maturity. Some prospective clients ...
 
-[ ![Testing Your Way To a Better Idea pt. 2](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
+[ ![Testing Your Way To a Better Idea pt. 2](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
 
-### [Testing Your Way To a Better Idea pt. 2](<http://blog.centresource.com/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
+### [Testing Your Way To a Better Idea pt. 2](<https://csblog.quietlife.net/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
 
-March 21, 2014 / [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+March 21, 2014 / [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 Last time we talked about the importance of a verified, evolving idea. We talked about ...
 
@@ -49,4 +49,4 @@ Last time we talked about the importance of a verified, evolving idea. We talked
 
 # Post navigation
 
-[← Playbook 2.0 is Here!](<http://blog.centresource.com/2015/04/15/playbook-2-0-is-here/>)
+[← Playbook 2.0 is Here!](<https://csblog.quietlife.net/2015/04/15/playbook-2-0-is-here/>)

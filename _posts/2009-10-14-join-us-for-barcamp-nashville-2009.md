@@ -5,7 +5,7 @@ date: 2009-10-14
 author: Stephen Yeargin
 categories: [Company News]
 ---
-[![Legendary Sponsor](http://blog.centresource.com/wp-content/uploads/2009/10/bcn09_sponsor_250x250.gif)](<https://web.archive.org/web/20091025081446/http://barcampnashville.com/>)
+[![Legendary Sponsor](https://csblog.quietlife.net/wp-content/uploads/2009/10/bcn09_sponsor_250x250.gif)](<https://web.archive.org/web/20091025081446/http://barcampnashville.com/>)
 
 It will be LEGENDARY!
 

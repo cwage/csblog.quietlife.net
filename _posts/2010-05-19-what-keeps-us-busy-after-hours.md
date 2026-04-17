@@ -13,7 +13,7 @@ Here is a snapshot of some of the recent projects that have kept our development
 
 ### Donate Nashville / WeAreNashville.org
 
-[![donate-nashville](http://blog.centresource.com/wp-content/uploads/2010/05/donate-nashville-300x183.png)](<http://www.donatenashville.org/>)_Team: Chip Hayner, Brent Shaffer (and over 30+ other volunteers)_
+[![donate-nashville](https://csblog.quietlife.net/wp-content/uploads/2010/05/donate-nashville-300x183.png)](<http://www.donatenashville.org/>)_Team: Chip Hayner, Brent Shaffer (and over 30+ other volunteers)_
 
 When the city of Nashville was flooded in early May, many of us were left stunned that the costliest non-hurricane natural disaster in United States history had struck our home. The flood waters began to recede late Monday night, but by Tuesday the Nashville technology community was already working to find a way to help. During the regularly scheduled [Symfony Group](<http://groups.google.com/group/nashville-symfony>) meeting, our office transformed into a war room of developers, designers, strategists, copywriters and other volunteers to build a "help your neighbor" donations platform based on a simple premise: If you have a need, list it; If you have time, stuff or money give, list it.
 
@@ -29,7 +29,7 @@ Check out the site at <https://web.archive.org/web/20100519/http://www.wearenash
 
 ### Superglue
 
-[![superglue](http://blog.centresource.com/wp-content/uploads/2010/05/superglue1-300x178.png)](<http://github.com/superglue>)_Developer: Jared Scheel_
+[![superglue](https://csblog.quietlife.net/wp-content/uploads/2010/05/superglue1-300x178.png)](<http://github.com/superglue>)_Developer: Jared Scheel_
 
 Superglue is a lightweight, easy to use PHP "micro framework" for Web development. The idea is that designers and developers can quickly deploy a static Web site, but do so in such a way that future feature development will still fit nicely into a MVC pattern. It's super geeky and still in active development, but stable versions have already found their way into a couple of CentreSource projects.
 
@@ -39,7 +39,7 @@ Check it out at <https://web.archive.org/web/20100519/http://github.com/superglu
 
 ### Idol Schmidol
 
-[![idol-schmidol](http://blog.centresource.com/wp-content/uploads/2010/05/idol-schmidol-300x183.png)](<http://www.idolschmildol.com/>)_Team: Chip Hayner, Brent Shaffer_
+[![idol-schmidol](https://csblog.quietlife.net/wp-content/uploads/2010/05/idol-schmidol-300x183.png)](<http://www.idolschmildol.com/>)_Team: Chip Hayner, Brent Shaffer_
 
 _LOST_ is probably the only show that is talked about more around CentreSource than _American Idol_. Similarly, during football season, there is a lot of trash talking about which fantasy team dominated (or was not so-dominant) over the weekend. Thus, Idol Schmidol was born. Now, not only can you watch folks belt out 30-plus variations of "Billie Jean", you can trash talk to your friends too!
 
@@ -49,7 +49,7 @@ Check out the site at <https://web.archive.org/web/20100519/http://www.idolschmi
 
 ### Nshvll.org
 
-[![nshvll](http://blog.centresource.com/wp-content/uploads/2010/05/nshvll-300x183.png)](<http://nshvll.org/>)_Developer: Travis Roberts_
+[![nshvll](https://csblog.quietlife.net/wp-content/uploads/2010/05/nshvll-300x183.png)](<http://nshvll.org/>)_Developer: Travis Roberts_
 
 Borrowing the idea from [Prtlnd.com](<http://prtlnd.com/>), Travis decided to create an easy directory to the Nashville interactive community. It was built on the [Ruby on Rails](<https://web.archive.org/web/20100522121613/http://rubyonrails.org/>) framework. If you are a developer, blogger, copywriter, strategist or any other Internet-related profession in Nashville, be sure to add your profile!
 
@@ -59,7 +59,7 @@ Check out the site at <https://web.archive.org/web/20100519/http://nshvll.org/>.
 
 ### Conanize Yourself
 
-[![conanize-yourself](http://blog.centresource.com/wp-content/uploads/2010/05/conanize-yourself-300x183.png)](<http://www.conanyourself.com/>)_Developer: Brent Shaffer_
+[![conanize-yourself](https://csblog.quietlife.net/wp-content/uploads/2010/05/conanize-yourself-300x183.png)](<http://www.conanyourself.com/>)_Developer: Brent Shaffer_
 
 Remember when Conan O'Brien hosted the Tonight Show on NBC? While "CoCo" is launching a new show on TBS this fall, you can still answer the question that has baffled the mystics for centuries: "What would I look like with Conan's hair?"
 

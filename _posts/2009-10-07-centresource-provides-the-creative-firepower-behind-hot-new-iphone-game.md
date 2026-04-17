@@ -5,7 +5,7 @@ date: 2009-10-07
 author: Stephen Yeargin
 categories: [Company News, Marketing]
 ---
-[![Screenshot from gpsAssassin's attack screen.](http://blog.centresource.com/wp-content/uploads/2009/10/gpsAssassin.png)](<http://itunes.com/apps/gpsAssassin>)
+[![Screenshot from gpsAssassin's attack screen.](https://csblog.quietlife.net/wp-content/uploads/2009/10/gpsAssassin.png)](<http://itunes.com/apps/gpsAssassin>)
 
 Screenshot from gpsAssassin's attack screen.
 

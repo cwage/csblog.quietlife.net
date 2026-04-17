@@ -15,11 +15,11 @@ The idea of "progressive enhancement" is to get a site looking the way to want i
 
 Border-radius is probably the most useful of the CSS3 attributes. It allows you to add rounded corners to any box item. Using this new property saves a lot of time and divs from the old way of achieving rounded corners with background images. The great thing about border-radius is that it works in all of the major browsers (I'm not including Opera in this category) except IE8 and below. So, most likely, the majority of your site visitors will see your snazzy rounded corners.
 
-![border-radius](http://blog.centresource.com/wp-content/uploads/2010/06/border-radius.png)
+![border-radius](https://csblog.quietlife.net/wp-content/uploads/2010/06/border-radius.png)
 
 You can also target specific corners.
 
-![border-radius-top-left](http://blog.centresource.com/wp-content/uploads/2010/06/border-radius-top-left.png)
+![border-radius-top-left](https://csblog.quietlife.net/wp-content/uploads/2010/06/border-radius-top-left.png)
 
 Notice that we use the `border-radius` attribute (which will eventually be the standard, and which Chrome already understands), but we also include the proprietary attributes `-moz-border-radius` for Firefox and `-webkit-border-radius` for Safari.
 
@@ -29,7 +29,7 @@ Notice that we use the `border-radius` attribute (which will eventually be the s
 
 By far my favorite method for adding that last little bit of polish to your site. It's amazing how much better a heading or body text looks with a subtle text-shadow added to it. I think it adds a nice level of depth to the text.
 
-![text shadow example](http://blog.centresource.com/wp-content/uploads/2010/06/text-shadow.png)
+![text shadow example](https://csblog.quietlife.net/wp-content/uploads/2010/06/text-shadow.png)
 
 It's as simple as adding the following line to your CSS:
 
@@ -41,7 +41,7 @@ It's as simple as adding the following line to your CSS:
 
 Another great example of a progressive enhancement that makes a site look great, but one that a user of an old browser won't miss. RGBA just allows to you define a color with an opacity value (between 0.0 and 1.0) for any place you would normally use a regular RGB color (or hex color). It's main uses are for making background or text colors semi-transparent.
 
-![rgba](http://blog.centresource.com/wp-content/uploads/2010/06/rgba.png)
+![rgba](https://csblog.quietlife.net/wp-content/uploads/2010/06/rgba.png)
 
 ### Closing Thoughts
 

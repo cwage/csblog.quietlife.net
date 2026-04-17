@@ -56,34 +56,34 @@ Are you a good fit? We hope so. To apply, send a message and your resume to [job
 
 * * *
 
-  * [News](<http://blog.centresource.com/category/news/>)
+  * [News](<https://csblog.quietlife.net/category/news/>)
 
 
 
-[careers](<http://blog.centresource.com/tag/careers/>)[centresource](<http://blog.centresource.com/tag/centresource/>)[hiring](<http://blog.centresource.com/tag/hiring/>)[jobs](<http://blog.centresource.com/tag/jobs/>)[Marketing](<http://blog.centresource.com/tag/marketing/>)
+[careers](<https://csblog.quietlife.net/tag/careers/>)[centresource](<https://csblog.quietlife.net/tag/centresource/>)[hiring](<https://csblog.quietlife.net/tag/hiring/>)[jobs](<https://csblog.quietlife.net/tag/jobs/>)[Marketing](<https://csblog.quietlife.net/tag/marketing/>)
 
 ![](http://1.gravatar.com/avatar/58a8d7bffbe9b1c52860e08219d64d8b?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Shaun Jackson](<http://blog.centresource.com/author/sjackson/> "Posts by Shaun Jackson")
+#### [Shaun Jackson](<https://csblog.quietlife.net/author/sjackson/> "Posts by Shaun Jackson")
 
 Shaun is one of the few centresourcerers (yeah, that's right) that came to us as a client first. Shaun was a long-time centresource client and friend of the firm -- we worked closely with Shaun as our client contact at Warner Bros. Records, where he managed all things web and interactive for a large roster of artists. Shaun is a true geek for the web with an expert-level understanding of analytics, SEO, web promotion, and how users behave online. He brings that expert-level understanding of how people use the web to his role as marketing strategist. He has a strong inclination to trust data over hunches. He's also Canadian, although we don't hold that against him! (At least most of the time, eh?)
 
 
 
 
-[ ![Hiring: Sales Development Representative](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2015/04/21/hiring-sales-development-representative/>)
+[ ![Hiring: Sales Development Representative](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/04/21/hiring-sales-development-representative/>)
 
-### [Hiring: Sales Development Representative](<http://blog.centresource.com/2015/04/21/hiring-sales-development-representative/>)
+### [Hiring: Sales Development Representative](<https://csblog.quietlife.net/2015/04/21/hiring-sales-development-representative/>)
 
-April 21, 2015 / [News](<http://blog.centresource.com/category/news/>)
+April 21, 2015 / [News](<https://csblog.quietlife.net/category/news/>)
 
 JOB TITLE Sales Development Representative SUMMARY The Sales Development Representative (SDR) prospects into lists of ...
 
-[ ![Why We Do the Centresource Mixer](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/11/05/centresource-mixer/>)
+[ ![Why We Do the Centresource Mixer](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/11/05/centresource-mixer/>)
 
-### [Why We Do the Centresource Mixer](<http://blog.centresource.com/2014/11/05/centresource-mixer/>)
+### [Why We Do the Centresource Mixer](<https://csblog.quietlife.net/2014/11/05/centresource-mixer/>)
 
-November 5, 2014 / [News](<http://blog.centresource.com/category/news/>)
+November 5, 2014 / [News](<https://csblog.quietlife.net/category/news/>)
 
 For the last six years, we have opened our doors at Centresource to the Nashville ...
 
@@ -91,6 +91,6 @@ For the last six years, we have opened our doors at Centresource to the Nashvill
 
 # Post navigation
 
-[← A Team That Plays Together, Stays Together](<http://blog.centresource.com/2015/04/29/a-team-that-plays-together-stays-together/>)
+[← A Team That Plays Together, Stays Together](<https://csblog.quietlife.net/2015/04/29/a-team-that-plays-together-stays-together/>)
 
-[Why an Editorial Content Calendar is a Must for your Sales Team - and How to Create One →](<http://blog.centresource.com/2015/05/06/why-an-editorial-content-calendar-is-a-must-for-your-sales-team-and-how-to-create-one/>)
+[Why an Editorial Content Calendar is a Must for your Sales Team - and How to Create One →](<https://csblog.quietlife.net/2015/05/06/why-an-editorial-content-calendar-is-a-must-for-your-sales-team-and-how-to-create-one/>)

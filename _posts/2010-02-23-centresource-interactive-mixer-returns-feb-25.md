@@ -5,7 +5,7 @@ date: 2010-02-23
 author: Missy Larzelere
 categories: [Company News]
 ---
-[![February 2010 Mixer Invite](http://blog.centresource.com/wp-content/uploads/2010/02/Feb2010Mixer-300x213.jpg)](<https://web.archive.org/web/20140628053435/http://mixer.centresource.com/>)The [Interactive Mixer hosted by CentreSource](<https://web.archive.org/web/20140628053435/http://mixer.centresource.com/>) is back! Escape the cold weather for a little get-together -- come by our North Fourth offices, and mix with others in the Nashville community. This will be a bi-monthly event the last Thursday of every other month. Hope to see you here!
+[![February 2010 Mixer Invite](https://csblog.quietlife.net/wp-content/uploads/2010/02/Feb2010Mixer-300x213.jpg)](<https://web.archive.org/web/20140628053435/http://mixer.centresource.com/>)The [Interactive Mixer hosted by CentreSource](<https://web.archive.org/web/20140628053435/http://mixer.centresource.com/>) is back! Escape the cold weather for a little get-together -- come by our North Fourth offices, and mix with others in the Nashville community. This will be a bi-monthly event the last Thursday of every other month. Hope to see you here!
 
 > **Host:** CentreSource Interactive Agency _(Hey! That's us!)_  
 >  **What:** February 2010 Interactive Mixer  

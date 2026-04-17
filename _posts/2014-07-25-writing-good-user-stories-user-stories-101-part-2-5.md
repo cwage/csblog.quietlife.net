@@ -3,9 +3,9 @@ layout: post
 title: "Writing Good User Stories (User Stories 101: Part 2 of 5)"
 date: 2014-07-25
 ---
-[![User stories 101](http://blog.centresource.com/content/uploads/2014/07/user_stories_101-01-300x194.jpg)](<http://blog.centresource.com/content/uploads/2014/07/user_stories_101-01.jpg>)
+[![User stories 101](https://csblog.quietlife.net/content/uploads/2014/07/user_stories_101-01-300x194.jpg)](<https://csblog.quietlife.net/content/uploads/2014/07/user_stories_101-01.jpg>)
 
-In [Part 1 of our "User Stories 101" series](<http://blog.centresource.com/2014/07/14/user-story/> "user stories"), I introduced the basic model of a user story:
+In [Part 1 of our "User Stories 101" series](<https://csblog.quietlife.net/2014/07/14/user-story/> "user stories"), I introduced the basic model of a user story:
 
 _As a << user >>, I want << feature >> so that I can << receive value >>._
 
@@ -70,38 +70,38 @@ _(More to come on some of those topics in a future post in this series.)_
 
 I write stories almost exclusively on 3×5 notecards. I _love_ notecards. They're cheap, physical objects that can be moved around, grouped together, or (my favorite) torn up. I also typically use a standard Sharpie marker, as the physical constraint **forbids me from writing too much detail on a card**. Sometimes I lay them out on a table, or tape them to a wall. They typically get grouped, organized, prioritized and discussed in great detail while they're still physical cards.
 
-**Next time, in[Part 3](<http://blog.centresource.com/2014/07/29/collecting-user-stories/> "collecting user stories"), we'll talk about how to collect requirements for good user stories and actually write them. Stay tuned.**
+**Next time, in[Part 3](<https://csblog.quietlife.net/2014/07/29/collecting-user-stories/> "collecting user stories"), we'll talk about how to collect requirements for good user stories and actually write them. Stay tuned.**
 
 _Editor's Note: This series was originally drafted by Jon Arnold, but was not published until after he left Centresource for his next adventure as Product Manager at Taonii. You can find Jon on Twitter[@jonarnold](<https://twitter.com/jonarnold> "jon arnold twitter")._
 
 * * *
 
-  * [Development](<http://blog.centresource.com/category/development/>)
+  * [Development](<https://csblog.quietlife.net/category/development/>)
 
 
 
-[Development](<http://blog.centresource.com/tag/development/>)
+[Development](<https://csblog.quietlife.net/tag/development/>)
 
 ![](http://0.gravatar.com/avatar/2152101bbbd6554dcb5b80894835408f?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [staff](<http://blog.centresource.com/author/staff/> "Posts by staff")
+#### [staff](<https://csblog.quietlife.net/author/staff/> "Posts by staff")
 
 
 
 
-[ ![The Easiest Way To Find Your Dream Drupal Job](http://blog.centresource.com/content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/10/21/easiest-way-find-dream-drupal-job/>)
+[ ![The Easiest Way To Find Your Dream Drupal Job](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/10/21/easiest-way-find-dream-drupal-job/>)
 
-### [The Easiest Way To Find Your Dream Drupal Job](<http://blog.centresource.com/2014/10/21/easiest-way-find-dream-drupal-job/>)
+### [The Easiest Way To Find Your Dream Drupal Job](<https://csblog.quietlife.net/2014/10/21/easiest-way-find-dream-drupal-job/>)
 
-October 21, 2014 / [Development](<http://blog.centresource.com/category/development/>)
+October 21, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 The Drupal Association recently announced a new website for recruiters and job-seekers in the Drupal ...
 
-[ ![Import Drupal Content in Rails \(The Quick and Dirty Way\)](http://blog.centresource.com/content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/05/09/import-drupal-content-in-rails-the-quick-and-dirty-way/>)
+[ ![Import Drupal Content in Rails \(The Quick and Dirty Way\)](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/05/09/import-drupal-content-in-rails-the-quick-and-dirty-way/>)
 
-### [Import Drupal Content in Rails (The Quick and Dirty Way)](<http://blog.centresource.com/2014/05/09/import-drupal-content-in-rails-the-quick-and-dirty-way/>)
+### [Import Drupal Content in Rails (The Quick and Dirty Way)](<https://csblog.quietlife.net/2014/05/09/import-drupal-content-in-rails-the-quick-and-dirty-way/>)
 
-May 9, 2014 / [Development](<http://blog.centresource.com/category/development/>)
+May 9, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 Here in the bucolic surroundings of Centresource, we have many tools at our disposal. We ...
 
@@ -109,6 +109,6 @@ Here in the bucolic surroundings of Centresource, we have many tools at our disp
 
 # Post navigation
 
-[← Why construction companies need digital marketing strategies](<http://blog.centresource.com/2014/07/24/construction-companies-need-digital-marketing-strategies/>)
+[← Why construction companies need digital marketing strategies](<https://csblog.quietlife.net/2014/07/24/construction-companies-need-digital-marketing-strategies/>)
 
-[Collecting User Stories (User Stories 101: Part 3 of 5) →](<http://blog.centresource.com/2014/07/29/collecting-user-stories-user-stories-101-part-3-5/>)
+[Collecting User Stories (User Stories 101: Part 3 of 5) →](<https://csblog.quietlife.net/2014/07/29/collecting-user-stories-user-stories-101-part-3-5/>)

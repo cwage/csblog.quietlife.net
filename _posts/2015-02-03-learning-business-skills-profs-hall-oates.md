@@ -15,34 +15,34 @@ Next time you're looking for inspiration to take your work game to the next leve
 
 * * *
 
-  * [Culture](<http://blog.centresource.com/category/culture/>)
+  * [Culture](<https://csblog.quietlife.net/category/culture/>)
 
 
 
-[business](<http://blog.centresource.com/tag/business/>)
+[business](<https://csblog.quietlife.net/tag/business/>)
 
 ![](http://0.gravatar.com/avatar/a5d16f6a77040266898549e4958503a3?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Will Acuff](<http://blog.centresource.com/author/wacuff/> "Posts by Will Acuff")
+#### [Will Acuff](<https://csblog.quietlife.net/author/wacuff/> "Posts by Will Acuff")
 
 Will has energy. In fact, we once caught Will drinking an 18 oz can of Jolt cola, and once the rush wore off it seemed to only take away from his natural drive. As our Manager of Consulting, Will uses this energy to juggle multiple client demands at once, as well as a sangfroid determination...
 
 
 
 
-[ ![Four Tips to Giving Great End-Of-Year Client Gifts](http://blog.centresource.com/content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/01/27/4-tips-to-giving-great-end-of-year-client-gifts/>)
+[ ![Four Tips to Giving Great End-Of-Year Client Gifts](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/01/27/4-tips-to-giving-great-end-of-year-client-gifts/>)
 
-### [Four Tips to Giving Great End-Of-Year Client Gifts](<http://blog.centresource.com/2014/01/27/4-tips-to-giving-great-end-of-year-client-gifts/>)
+### [Four Tips to Giving Great End-Of-Year Client Gifts](<https://csblog.quietlife.net/2014/01/27/4-tips-to-giving-great-end-of-year-client-gifts/>)
 
-January 27, 2014 / [Culture](<http://blog.centresource.com/category/culture/>), [Uncategorized](<http://blog.centresource.com/category/uncategorized/>)
+January 27, 2014 / [Culture](<https://csblog.quietlife.net/category/culture/>), [Uncategorized](<https://csblog.quietlife.net/category/uncategorized/>)
 
 Providing an end-of-year client gift to a few customers that stood out and showing them ...
 
-[ ![Spring Mixer Highlights](http://blog.centresource.com/content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/04/07/spring-mixer-highlights/>)
+[ ![Spring Mixer Highlights](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/04/07/spring-mixer-highlights/>)
 
-### [Spring Mixer Highlights](<http://blog.centresource.com/2014/04/07/spring-mixer-highlights/>)
+### [Spring Mixer Highlights](<https://csblog.quietlife.net/2014/04/07/spring-mixer-highlights/>)
 
-April 7, 2014 / [Culture](<http://blog.centresource.com/category/culture/>)
+April 7, 2014 / [Culture](<https://csblog.quietlife.net/category/culture/>)
 
 Thanks to everyone who joined us for the Centresource Spring Mixer on March 27. A ...
 
@@ -50,6 +50,6 @@ Thanks to everyone who joined us for the Centresource Spring Mixer on March 27. 
 
 # Post navigation
 
-[← Keep Your Development Customer-Focused](<http://blog.centresource.com/2015/01/29/keep-development-customer-focused/>)
+[← Keep Your Development Customer-Focused](<https://csblog.quietlife.net/2015/01/29/keep-development-customer-focused/>)
 
-[6 Easy Ways to Know if Your Site Has a UX Problem →](<http://blog.centresource.com/2015/02/05/6-easy-ways-know-site-ux-problem/>)
+[6 Easy Ways to Know if Your Site Has a UX Problem →](<https://csblog.quietlife.net/2015/02/05/6-easy-ways-know-site-ux-problem/>)

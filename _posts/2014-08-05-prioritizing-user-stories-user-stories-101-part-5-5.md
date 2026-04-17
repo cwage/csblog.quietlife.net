@@ -3,13 +3,13 @@ layout: post
 title: "Prioritizing User Stories (User Stories 101: Part 5 of 5)"
 date: 2014-08-05
 ---
-Over this [series in user stories](<http://blog.centresource.com/2014/07/14/user-story/> "user stories"), we've gone through how to identify users, how to lay out their needs, how to [document them into stories](<http://blog.centresource.com/2014/07/25/writing-good-user-stories/> "how to write user stories"), and how to put additional detail around those requirements. Now we need to answer the tough question: what do we actually do first?
+Over this [series in user stories](<https://csblog.quietlife.net/2014/07/14/user-story/> "user stories"), we've gone through how to identify users, how to lay out their needs, how to [document them into stories](<https://csblog.quietlife.net/2014/07/25/writing-good-user-stories/> "how to write user stories"), and how to put additional detail around those requirements. Now we need to answer the tough question: what do we actually do first?
 
 Typically, we always**seek the easiest, highest value items to work on next**. To get there, though, we still need to determine what's easy and what's valuable.
 
 ### Valuing Stories
 
-[![User stories 101](http://blog.centresource.com/wp-content/uploads/2014/07/user_stories_101-01-300x194.jpg)](<http://blog.centresource.com/wp-content/uploads/2014/07/user_stories_101-01.jpg>)
+[![User stories 101](https://csblog.quietlife.net/wp-content/uploads/2014/07/user_stories_101-01-300x194.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2014/07/user_stories_101-01.jpg>)
 
 For every story, we think through the following:
 
@@ -80,32 +80,32 @@ _Editor's Note: This series was originally drafted by Jon Arnold, but was not pu
 
 * * *
 
-  * [Development](<http://blog.centresource.com/category/development/>)
+  * [Development](<https://csblog.quietlife.net/category/development/>)
 
 
 
-[Development](<http://blog.centresource.com/tag/development/>)
+[Development](<https://csblog.quietlife.net/tag/development/>)
 
 ![](http://0.gravatar.com/avatar/2152101bbbd6554dcb5b80894835408f?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [staff](<http://blog.centresource.com/author/staff/> "Posts by staff")
+#### [staff](<https://csblog.quietlife.net/author/staff/> "Posts by staff")
 
 
 
 
-[ ![Acceptance Testing \(User Stories 101: Part 4 of 5\)](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
+[ ![Acceptance Testing \(User Stories 101: Part 4 of 5\)](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
 
-### [Acceptance Testing (User Stories 101: Part 4 of 5)](<http://blog.centresource.com/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
+### [Acceptance Testing (User Stories 101: Part 4 of 5)](<https://csblog.quietlife.net/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
 
-August 1, 2014 / [Development](<http://blog.centresource.com/category/development/>)
+August 1, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 In Part 3 of our "User Stories 101" series, we talked about how user stories are great ...
 
-[ ![5 Reasons To Choose a Digital Agency Over a Unicorn](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/06/06/5-reasons-choose-digital-agency-unicorn/>)
+[ ![5 Reasons To Choose a Digital Agency Over a Unicorn](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/06/06/5-reasons-choose-digital-agency-unicorn/>)
 
-### [5 Reasons To Choose a Digital Agency Over a Unicorn](<http://blog.centresource.com/2014/06/06/5-reasons-choose-digital-agency-unicorn/>)
+### [5 Reasons To Choose a Digital Agency Over a Unicorn](<https://csblog.quietlife.net/2014/06/06/5-reasons-choose-digital-agency-unicorn/>)
 
-June 6, 2014 / [Development](<http://blog.centresource.com/category/development/>)
+June 6, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 So here's the scenario: you have a product you want to build, but like most people ...
 
@@ -113,6 +113,6 @@ So here's the scenario: you have a product you want to build, but like most peop
 
 # Post navigation
 
-[← Acceptance Testing (User Stories 101: Part 4 of 5)](<http://blog.centresource.com/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
+[← Acceptance Testing (User Stories 101: Part 4 of 5)](<https://csblog.quietlife.net/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
 
-[Boost Your SEO Rank With SSL →](<http://blog.centresource.com/2014/08/19/boost-seo-rank-ssl/>)
+[Boost Your SEO Rank With SSL →](<https://csblog.quietlife.net/2014/08/19/boost-seo-rank-ssl/>)

@@ -15,4 +15,4 @@ BarCamp is the perfect opportunity to hear from great speakers, unwind with musi
 
 ["Nashville is ready for a celebration of our interactive, music, design and marketing communities"](<https://barcamp.pbwiki.com/BarCampNashville>) \- we wholeheartedly agree. 
 
-![bcnashville_150x1001.gif](http://blog.centresource.com/wp-content/uploads/2007/08/bcnashville_150x1001.thumbnail.gif)
+![bcnashville_150x1001.gif](https://csblog.quietlife.net/wp-content/uploads/2007/08/bcnashville_150x1001.thumbnail.gif)

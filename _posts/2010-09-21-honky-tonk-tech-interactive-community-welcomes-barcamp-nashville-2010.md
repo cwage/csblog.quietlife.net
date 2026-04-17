@@ -5,7 +5,7 @@ date: 2010-09-21
 author: Stephen Yeargin
 categories: [Company News]
 ---
-[![BarCamp Nashville 2010](http://blog.centresource.com/wp-content/uploads/2010/09/bcn10_gen_banner250sq.gif)](<http://www.barcampnashville.org/>)
+[![BarCamp Nashville 2010](https://csblog.quietlife.net/wp-content/uploads/2010/09/bcn10_gen_banner250sq.gif)](<http://www.barcampnashville.org/>)
 
 The end of summer signals the start of great times in Nashville. Aside from the start of football and hockey season, it also means that [BarCamp Nashville](<http://www.barcampnashville.org/>) is just around the corner. Entering its fourth year as a mainstay in the interactive community in the middle Tennessee area, this year's event returns Saturday, October 16 to [Cadillac Ranch on Broadway](<http://maps.google.com/maps/place?cid=8248122209257652856>).
 

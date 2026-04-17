@@ -5,7 +5,7 @@ date: 2011-01-25
 author: Jason Jones
 categories: [Web Design]
 ---
-[![](http://blog.centresource.com/wp-content/uploads/2011/01/20101014-mhwsyneearp6e7tnc1wrwsaxid.jpg)](<http://blog.centresource.com/wp-content/uploads/2011/01/20101014-mhwsyneearp6e7tnc1wrwsaxid.jpg> "20101014-mhwsyneearp6e7tnc1wrwsaxid")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/01/20101014-mhwsyneearp6e7tnc1wrwsaxid.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/01/20101014-mhwsyneearp6e7tnc1wrwsaxid.jpg> "20101014-mhwsyneearp6e7tnc1wrwsaxid")
 
 We just went through the process of interviewing for some UI Design positions to join our growing team.
 

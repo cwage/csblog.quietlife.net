@@ -5,7 +5,7 @@ date: 2011-04-13
 author: Jason B. Jones
 categories: [Miscellaneous, Social Media]
 ---
-[![](http://blog.centresource.com/wp-content/uploads/2011/04/jj_pinterest.jpg)](<http://blog.centresource.com/wp-content/uploads/2011/04/jj_pinterest.jpg> "jj_pinterest")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/04/jj_pinterest.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/04/jj_pinterest.jpg> "jj_pinterest")
 
 I started using the website http://pinterest.com/ a few months ago and am, quite frankly, hooked.
 
@@ -19,7 +19,7 @@ Then I got an email from my mom.
 
 She reminded me that as a child I would annually compose a detailed Christmas / Birthday List starting around summer time (assumably much too early). Of course I didn't make a simple itemized list like most 11 year old boys and girls... no, I was a compulsive and precocious designer from the womb. I would like to submit for your viewing pleasure my now 20 year old Christmas list.
 
-[![](http://blog.centresource.com/wp-content/uploads/2011/04/old_christmas_list.jpg)](<http://blog.centresource.com/wp-content/uploads/2011/04/old_christmas_list.jpg> "old_christmas_list")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/04/old_christmas_list.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/04/old_christmas_list.jpg> "old_christmas_list")
 
 Here are a few of my take-aways from this archaeological discovery:
 

@@ -5,7 +5,7 @@ date: 2010-09-09
 author: Lyndsay Rush
 categories: [Company News]
 ---
-[![Nashville Area Chamber of Commerce](http://blog.centresource.com/wp-content/uploads/2010/09/nashvilleareachamberofcommerce.png)](<http://www.nashvillechamber.com/>)I don't believe in fortune tellers. Or fortune cookies for that matter. I also don't believe in magic 8 balls, in case you were wondering.
+[![Nashville Area Chamber of Commerce](https://csblog.quietlife.net/wp-content/uploads/2010/09/nashvilleareachamberofcommerce.png)](<http://www.nashvillechamber.com/>)I don't believe in fortune tellers. Or fortune cookies for that matter. I also don't believe in magic 8 balls, in case you were wondering.
 
 But when it comes to predicting the future, I do believe in the [Nashville Area Chamber of Commerce](<http://www.nashvillechamber.com/>) Future 50 awards.
 

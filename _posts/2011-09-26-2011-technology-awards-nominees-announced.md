@@ -5,7 +5,7 @@ date: 2011-09-26
 author: Jon Arnold
 categories: [Miscellaneous]
 ---
-[![](http://blog.centresource.com/wp-content/uploads/2011/09/techawards_banner1.jpg)](<http://blog.centresource.com/wp-content/uploads/2011/09/techawards_banner1.jpg> "Tech Awards")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/09/techawards_banner1.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/09/techawards_banner1.jpg> "Tech Awards")
 
 We are ecstatic to announce that we've once again made the Nashville Technology Council's Tech Awards Nominees List! Not only is our agency up for Company of the Year, but our own [Brandon Valentine](<http://www.twitter.com/bvalentine615>) and [Lyndsay Rush](<http://www.twitter.com/rushbomb>) scored noms for Developer of the Year and Social Media / Blogger of the Year, respectively.
 

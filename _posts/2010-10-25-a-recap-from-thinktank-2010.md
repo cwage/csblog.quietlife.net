@@ -5,7 +5,7 @@ date: 2010-10-25
 author: Jason Jones
 categories: [Web Design]
 ---
-![ThinkTank 2010](http://blog.centresource.com/wp-content/uploads/2010/10/thinktank2010.png)
+![ThinkTank 2010](https://csblog.quietlife.net/wp-content/uploads/2010/10/thinktank2010.png)
 
 For me conferences are 1/2 wildly inspiring and 1/2 a judo chop to the throat on how much I have to learn. This past weekend's ThinkTank 2010 was no exception. Centresource's creative team is proud to be closely involved with our local chapter of the AIGA who puts on ThinkTank annually. This year's event brought together over 300 local design professionals and students to learn from some of our nation's leading creatives. This years speakers were:
 
@@ -20,6 +20,6 @@ It was an amazing day of inspiration and networking. If you are looking for a gr
 
 * * *
 
-[![flashflex_400x135](http://blog.centresource.com/wp-content/uploads/2010/10/flashflex_400x135-300x101.jpg)](<http://blog.centresource.com/2010/10/06/designers-are-from-mars-developers-are-from-venus/>)
+[![flashflex_400x135](https://csblog.quietlife.net/wp-content/uploads/2010/10/flashflex_400x135-300x101.jpg)](<https://csblog.quietlife.net/2010/10/06/designers-are-from-mars-developers-are-from-venus/>)
 
-_Editor's Note: Be sure to check out the next AIGA event at 6:30 p.m. Wednesday, October 27 at our 4th Avenue offices. See the[announcement post](<http://blog.centresource.com/2010/10/06/designers-are-from-mars-developers-are-from-venus/>)._
+_Editor's Note: Be sure to check out the next AIGA event at 6:30 p.m. Wednesday, October 27 at our 4th Avenue offices. See the[announcement post](<https://csblog.quietlife.net/2010/10/06/designers-are-from-mars-developers-are-from-venus/>)._

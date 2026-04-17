@@ -5,7 +5,7 @@ date: 2010-11-16
 author: Will Acuff
 categories: [Operations]
 ---
-![wmj](http://blog.centresource.com/wp-content/uploads/2010/11/11509_14_0_lte5odi5otu1mtgxmzi3njizmti0.jpg)
+![wmj](https://csblog.quietlife.net/wp-content/uploads/2010/11/11509_14_0_lte5odi5otu1mtgxmzi3njizmti0.jpg)
 
 Interactive Agencies are known for pushing the technological envelope in almost every way. But if you asked them how they were managing their projects you might be surprised at the archaic answers. Excel spreadsheets to handle timeline & budget, invoicing through an outdated version of Quickbooks, and designs shared by zipped emails. Four years ago this described us well. Our ambition and creativity were hampered by our lack of consistent process. Then we met [Workamajig](<http://www.creative-manager.com/>). 
 

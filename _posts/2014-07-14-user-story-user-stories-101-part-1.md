@@ -3,7 +3,7 @@ layout: post
 title: "What Is A User Story? (User Stories 101: Part 1)"
 date: 2014-07-14
 ---
-[![User stories 101](http://blog.centresource.com/wp-content/uploads/2014/07/user_stories_101-01-300x194.jpg)](<http://blog.centresource.com/wp-content/uploads/2014/07/user_stories_101-01.jpg>)
+[![User stories 101](https://csblog.quietlife.net/wp-content/uploads/2014/07/user_stories_101-01-300x194.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2014/07/user_stories_101-01.jpg>)
 
 A user story is "a description of a feature that can provide value to a user of a specific system or software." User stories can help you make better products.
 
@@ -47,36 +47,36 @@ So there are three modular pieces: Users, features, and value. As mentioned befo
 
 What does the thing actually need to do, and who does it serve? There's more to it than that, but that's the basic operating syntax.
 
-**In[Part 2](<http://blog.centresource.com/2014/07/25/writing-good-user-stories/> "writing good user stories"), we'll talk about how to actually write them and how to collect requirements for good stories. It'll be fun.**
+**In[Part 2](<https://csblog.quietlife.net/2014/07/25/writing-good-user-stories/> "writing good user stories"), we'll talk about how to actually write them and how to collect requirements for good stories. It'll be fun.**
 
 _Editor's Note: This series was originally drafted by Jon Arnold, but was not published until after he left Centresource for his next adventure as Product Manager at Taonii. You can find Jon on Twitter[@jonarnold](<http://www.twitter.com/jonarnold>)._
 
 * * *
 
-  * [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
+  * [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
 
 
 
 ![](http://0.gravatar.com/avatar/2152101bbbd6554dcb5b80894835408f?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [staff](<http://blog.centresource.com/author/staff/> "Posts by staff")
+#### [staff](<https://csblog.quietlife.net/author/staff/> "Posts by staff")
 
 
 
 
-[ ![Building User Personas: Why? How?](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/12/09/building-user-personas/>)
+[ ![Building User Personas: Why? How?](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/12/09/building-user-personas/>)
 
-### [Building User Personas: Why? How?](<http://blog.centresource.com/2014/12/09/building-user-personas/>)
+### [Building User Personas: Why? How?](<https://csblog.quietlife.net/2014/12/09/building-user-personas/>)
 
-December 9, 2014 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>), [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+December 9, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>), [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 Why? Most great products are born out of recognizing a common problem that has no ...
 
-[ ![How to Write a Case Study That People Want to Read](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/12/12/write-case-study-people-want-read/>)
+[ ![How to Write a Case Study That People Want to Read](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/12/12/write-case-study-people-want-read/>)
 
-### [How to Write a Case Study That People Want to Read](<http://blog.centresource.com/2014/12/12/write-case-study-people-want-read/>)
+### [How to Write a Case Study That People Want to Read](<https://csblog.quietlife.net/2014/12/12/write-case-study-people-want-read/>)
 
-December 12, 2014 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
+December 12, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
 
 Every good story has a narrative arc. You may remember this from english class... Exposition: ...
 
@@ -84,6 +84,6 @@ Every good story has a narrative arc. You may remember this from english class..
 
 # Post navigation
 
-[← 5 Reasons To Choose a Digital Agency Over a Unicorn](<http://blog.centresource.com/2014/06/06/5-reasons-choose-digital-agency-unicorn/>)
+[← 5 Reasons To Choose a Digital Agency Over a Unicorn](<https://csblog.quietlife.net/2014/06/06/5-reasons-choose-digital-agency-unicorn/>)
 
-[Swift Wasn't the Coolest Feature at WWDC 2014 →](<http://blog.centresource.com/2014/07/16/swift-and-other-wwdc-news/>)
+[Swift Wasn't the Coolest Feature at WWDC 2014 →](<https://csblog.quietlife.net/2014/07/16/swift-and-other-wwdc-news/>)

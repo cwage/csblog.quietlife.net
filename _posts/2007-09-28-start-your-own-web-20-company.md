@@ -7,7 +7,7 @@ The beauty of Web 2.0 is that anyone with the ability to click a mouse and a gre
 
 Start with a company name and [click your way to fame and fortune!](<http://www.onemorelevel.com/games.php?game=566>) You'll be able to raise money, hire AJAX coders, Flash designers and even spend some money on a Super Bowl ad.
 
-![socialpath.jpg](http://blog.centresource.com/wp-content/uploads/2007/09/socialpath.jpg)
+![socialpath.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/09/socialpath.jpg)
 
 [Sim Web 2.0 Simulator](<http://www.onemorelevel.com/games.php?game=566>)
 

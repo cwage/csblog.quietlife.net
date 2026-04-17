@@ -19,10 +19,10 @@ Looks like they are making a concerted effort for [Acid2 compliance](<http://www
 
 Acid2 Reference Rendering:
 
-![Acid2 reference rendering](https://web.archive.org/web/20060117075846/http://blog.centresource.com/wp-content/referenceacid2.png)
+![Acid2 reference rendering](https://csblog.quietlife.net/wp-content/referenceacid2.png)
 
 Opera Rendering:
 
-![Opera Acid2 rendering](https://web.archive.org/web/20060117083155/http://blog.centresource.com/wp-content/operaacid2.png)
+![Opera Acid2 rendering](https://csblog.quietlife.net/wp-content/operaacid2.png)
 
 Not too shabby.
