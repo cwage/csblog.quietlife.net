@@ -9,7 +9,7 @@ Most of my Linux/BSD servers are convenient located in a network I control, usua
 
 For those situations, locking down the box's networking with a simple iptables ruleset is the obvious choice. Naturally, a server should always be thoroughly [locked down](<http://chris.quietlife.net/2003/12/18/securing-a-linux-box-in-the-great-wide-open/>) before you rely on a firewall of any sort, but the iptables rules adds another layer of security.
 
-There are many good hardening toolkits out there like [Bastille](<http://www.bastille-linux.org/>), but frankly I have always found them to be overkill. In addition, I prefer to do things manually, since then I also have the confidence they were done properly. In any event, here is the shell of an iptables script that I use to lock down new servers:
+There are many good hardening toolkits out there like [Bastille](<https://web.archive.org/web/20050426075533/http://www.bastille-linux.org/>), but frankly I have always found them to be overkill. In addition, I prefer to do things manually, since then I also have the confidence they were done properly. In any event, here is the shell of an iptables script that I use to lock down new servers:
 
   
 `  

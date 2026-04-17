@@ -4,7 +4,7 @@ title: "Dell India Expands"
 date: 2005-04-29
 author: Chris
 ---
-Looks like Dell is not worried about past problems in India, and is [expanding its Indian workforce](<http://www.channelregister.co.uk/2005/04/29/dell_india_binge/>)
+Looks like Dell is not worried about past problems in India, and is [expanding its Indian workforce](<https://web.archive.org/web/20050507025317/http://www.channelregister.co.uk/2005/04/29/dell_india_binge/>)
 
 > Dell's India staff will swell to more than 10,000 workers by year end, as the company fills out call center and software development roles.
 > 

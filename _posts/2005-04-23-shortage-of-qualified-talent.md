@@ -3,7 +3,7 @@ layout: post
 title: "Shortage of Qualified Talent?"
 date: 2005-04-23
 ---
-[College freshmen less interested in tech | CNET News.com](<http://news.com.com/College+freshmen+less+interested+in+tech/2100-1022_3-5681438.html?tag=nefd.top>)
+[College freshmen less interested in tech | CNET News.com](<https://web.archive.org/web/20050427005817/http://news.com.com/College+freshmen+less+interested+in+tech/2100-1022_3-5681438.html?tag=nefd.top>)
 
 This is troubling news, and only reinforced by our recent efforts to locate quality talent in the Nashville marketplace. However, I think some deeper analysis may reveal a typical ebb & flow of many industries.
 
