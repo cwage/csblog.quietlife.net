@@ -4,7 +4,7 @@ title: "Google Mars"
 date: 2006-03-12
 author: Chris
 ---
-[![surface of mars](https://csblog.quietlife.net/wp-content/mars.jpg)](<http://mars.google.com/>)On the day of [Percival Lowell](<https://web.archive.org/web/20060220084811/http://en.wikipedia.org/wiki/Percival_Lowell>)'s birthday, Google has announced the launch of [Google Mars](<http://mars.google.com/>) (think Google Maps but for Mars, get it?). Noel Gorelick (a friend of mine) and Michael Weiss-Malik from Arizona State University worked with Google to combine google maps technology with the data from [THEMIS](<https://web.archive.org/web/20060404180958/http://themis.asu.edu/>), the most detailed imagery of Mars to date.
+[![surface of mars](/wp-content/mars.jpg)](<http://mars.google.com/>)On the day of [Percival Lowell](<https://web.archive.org/web/20060220084811/http://en.wikipedia.org/wiki/Percival_Lowell>)'s birthday, Google has announced the launch of [Google Mars](<http://mars.google.com/>) (think Google Maps but for Mars, get it?). Noel Gorelick (a friend of mine) and Michael Weiss-Malik from Arizona State University worked with Google to combine google maps technology with the data from [THEMIS](<https://web.archive.org/web/20060404180958/http://themis.asu.edu/>), the most detailed imagery of Mars to date.
 
 Full press release below the jump:
 

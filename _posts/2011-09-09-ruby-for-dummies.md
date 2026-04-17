@@ -5,7 +5,7 @@ date: 2011-09-09
 author: Beth Mathews
 categories: [Miscellaneous, Rails, Ruby, Web Development]
 ---
-[![Lesson 1 for Dummies](https://csblog.quietlife.net/wp-content/uploads/2011/09/lesson1fordummies1-300x217.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/09/lesson1fordummies1.jpg> "Lesson 1 for Dummies")As a print designer gone web designer, I've entered into a world of unfamiliar phrases that I'm quickly becoming familiar with. The first unfamiliar phrase I heard was "Ruby on rails". In my mind I would think, "Ruby who?" and "What about the Wizard of Oz and her ruby slippers"? (Laugh it up developers). Well, have no fear all you fellow print and web designers that may not know exactly who or what this "Ruby" is. I present to you you....Ruby for Dummies.
+[![Lesson 1 for Dummies](/wp-content/uploads/2011/09/lesson1fordummies1-300x217.jpg)](</wp-content/uploads/2011/09/lesson1fordummies1.jpg> "Lesson 1 for Dummies")As a print designer gone web designer, I've entered into a world of unfamiliar phrases that I'm quickly becoming familiar with. The first unfamiliar phrase I heard was "Ruby on rails". In my mind I would think, "Ruby who?" and "What about the Wizard of Oz and her ruby slippers"? (Laugh it up developers). Well, have no fear all you fellow print and web designers that may not know exactly who or what this "Ruby" is. I present to you you....Ruby for Dummies.
 
 **Where did Ruby come from?[](<http://www.oddee.com/item_96451.aspx>)**
 

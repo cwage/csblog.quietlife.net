@@ -5,7 +5,7 @@ date: 2011-11-30
 author: Beth Mathews
 categories: [Miscellaneous]
 ---
-![](https://csblog.quietlife.net/wp-content/uploads/2011/11/Screen-Shot-2011-11-30-at-9.45.48-PM.png)
+![](/wp-content/uploads/2011/11/Screen-Shot-2011-11-30-at-9.45.48-PM.png)
 
 Tomorrow at Centresource, we're turning it red! Our team is partnering with the local non-profit blood:water mission to 'Turn It: Red' on World AID's Day.
 

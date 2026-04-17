@@ -28,4 +28,4 @@ Here's a final shot of the WWF composite. No animals were harmed in the making o
   
 
 
-![centreforce_blog1](https://csblog.quietlife.net/wp-content/uploads/2010/12/centreforce_blog1.jpg)
+![centreforce_blog1](/wp-content/uploads/2010/12/centreforce_blog1.jpg)

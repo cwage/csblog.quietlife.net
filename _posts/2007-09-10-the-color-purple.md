@@ -5,7 +5,7 @@ date: 2007-09-10
 ---
 **Vandelay Website Design** has gathered together a tremendous resource for website designers for understanding and implementing effective color schemes. If you're a newbie or an old timer, you'll want to add these links to your toolbox.
 
-![r80o-pantone.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/09/r80o-pantone.jpg)
+![r80o-pantone.jpg](/wp-content/uploads/2007/09/r80o-pantone.jpg)
 
 Articles include:  
 The Psychology and Meaning of Colors  

@@ -4,7 +4,7 @@ title: "PHP vs ASP.NET - The battle Rages on"
 date: 2005-06-06
 categories: [Development]
 ---
-Continuing with my [support of PHP](<https://csblog.quietlife.net/2005/06/06/defending-php-mysql-lamp/>), I've gathered articles comparing PHP 4.x/5 to Microsoft's ASP.NET. Its important to note that .NET is a framework & ASP is the web version of a .NET program, whereas PHP is an actual language. ASP.NET can actually be written in a variety of languages such as C#, VB.NET, etc.
+Continuing with my [support of PHP](</2005/06/06/defending-php-mysql-lamp/>), I've gathered articles comparing PHP 4.x/5 to Microsoft's ASP.NET. Its important to note that .NET is a framework & ASP is the web version of a .NET program, whereas PHP is an actual language. ASP.NET can actually be written in a variety of languages such as C#, VB.NET, etc.
 
 As one of Nashville's PHP Development firms, we encounter clients asking us the merits of ASP.NET vs PHP. Typically, this arises when we are competing for a project with a Microsoft development shop. What we've come to realize is that both platforms and languages can get the job done - its just a matter of:
 

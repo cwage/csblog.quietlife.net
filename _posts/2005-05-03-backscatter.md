@@ -5,7 +5,7 @@ date: 2005-05-03
 author: Chris
 categories: [Spam]
 ---
-Nick highlighted some of the disadvantages of E-mail handshaking as a spam prevention method (or "challenge/response" for the technical term) in [this post](<https://csblog.quietlife.net/2005/05/03/100-accurate-spam-protection-is-a-lie/>). Yet another disadvantage is a little understood, highly problematic and confusing problem called "backscatter". What is backscatter exactly? To explain backscatter, we need to start with how mailservers dealt with unknown users in the past:
+Nick highlighted some of the disadvantages of E-mail handshaking as a spam prevention method (or "challenge/response" for the technical term) in [this post](</2005/05/03/100-accurate-spam-protection-is-a-lie/>). Yet another disadvantage is a little understood, highly problematic and confusing problem called "backscatter". What is backscatter exactly? To explain backscatter, we need to start with how mailservers dealt with unknown users in the past:
 
 ### Mailservers and NDRs
 

@@ -5,7 +5,7 @@ date: 2010-04-06
 author: Stephen Yeargin
 categories: [Drupal, Interactive Strategy, Planning]
 ---
-[![Civic Bank & Trust](https://csblog.quietlife.net/wp-content/uploads/2010/04/Civic-Bank-Trust-300x209.png)](<http://www.civicbanktn.com/>)
+[![Civic Bank & Trust](/wp-content/uploads/2010/04/Civic-Bank-Trust-300x209.png)](<http://www.civicbanktn.com/>)
 
 Earlier this week we launched a redesigned site for [Civic Bank & Trust](<https://web.archive.org/web/20100406/http://www.civicbanktn.com/>), a Nashville-based bank that we have been working with since 2007. The new look and feel is very different than the the prior version, originally designed to match their printed materials. The site features a dynamic slideshow to promote their financial products and services, an area to highlight team members, and an overall better organization of the site's content so that is easy for a visitor find the information they need. 
 

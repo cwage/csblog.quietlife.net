@@ -3,7 +3,7 @@ layout: post
 title: "Your cheatin' brain"
 date: 2007-09-13
 ---
-![got-milk.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/09/got-milk.jpg)
+![got-milk.jpg](/wp-content/uploads/2007/09/got-milk.jpg)
 
 _"I'm trying to think, but nothing happens."_ \- Curly
 

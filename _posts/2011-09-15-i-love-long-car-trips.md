@@ -5,7 +5,7 @@ date: 2011-09-15
 author: Chip Hayner
 categories: [Web Development]
 ---
-No, really... [![](https://csblog.quietlife.net/wp-content/uploads/2011/09/road-300x199.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/09/road.jpeg> "Open Road")I _do_ love long car trips.
+No, really... [![](/wp-content/uploads/2011/09/road-300x199.jpg)](</wp-content/uploads/2011/09/road.jpeg> "Open Road")I _do_ love long car trips.
 
 There's something fun and exciting about the process of charting out the best path to get to your chosen destination. You spend time carefully thinking through your stops along the way -- based on what you want to be able to see, how much time you have, and how long you think you can stand to be in the car.
 

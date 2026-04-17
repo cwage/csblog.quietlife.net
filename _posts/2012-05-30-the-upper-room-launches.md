@@ -5,7 +5,7 @@ date: 2012-05-30
 author: Patrick Quicci
 categories: [Company News]
 ---
-I don't know [![](https://csblog.quietlife.net/wp-content/uploads/2012/05/logo.png)](<https://csblog.quietlife.net/wp-content/uploads/2012/05/logo.png> "Upper Room")about you, but any organization (or person for that matter) that's more than 75 years old, automatically earns our respect.
+I don't know [![](/wp-content/uploads/2012/05/logo.png)](</wp-content/uploads/2012/05/logo.png> "Upper Room")about you, but any organization (or person for that matter) that's more than 75 years old, automatically earns our respect.
 
 So when The Upper Room--a part of The Methodist Church General Board of Discipleship--called us to help manage their content, we immediately jumped at the chance.
 

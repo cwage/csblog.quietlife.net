@@ -15,7 +15,7 @@ Here at Centresource, we start any product build by guiding our clients through 
 
 
 
-![new-business-idea](https://csblog.quietlife.net/wp-content/uploads/2015/10/light-bulbs-918581_1920-300x200.jpg)We consider these three exercises to be integral in the starting ideation and identification of your product. They help identify what your potential market share may be, as well as your projected financial gains and losses once you move into being a full-time product owner.
+![new-business-idea](/wp-content/uploads/2015/10/light-bulbs-918581_1920-300x200.jpg)We consider these three exercises to be integral in the starting ideation and identification of your product. They help identify what your potential market share may be, as well as your projected financial gains and losses once you move into being a full-time product owner.
 
 **Prototyping**
 
@@ -33,32 +33,32 @@ By this point, you've gone through product identification, including market shar
 
 * * *
 
-  * [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+  * [Interactive Strategy](</category/interactive-strategy-2/>)
 
 
 
 ![](http://1.gravatar.com/avatar/75b245664eaa6d08108bb6bd4c337499?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Tomiko Peirano](<https://csblog.quietlife.net/author/tpeirano/> "Posts by Tomiko Peirano")
+#### [Tomiko Peirano](</author/tpeirano/> "Posts by Tomiko Peirano")
 
 TOMI is cool. You sense this right off the bat when you meet her, but for further proof look no further than her best friendship* with Isaac Hayes--Shaft himself. She's from Yamhill Valley in Oregon and graduated with a Bachelors of Fine Arts from NY University. When transitioning from NY to Nashville she was surprised by the openness and approachability of the people who live here--which made it surprisingly easy to transition from NYC. When she is not giving off cool vibes, she enjoys cooking, reading, writing and hiking the parks of Nashville. *Meeting him once and chatting for a few minutes counts as BFFs, right?
 
 
 
 
-[ ![Who Owns Growth?](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/03/10/owns-growth/>)
+[ ![Who Owns Growth?](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2015/03/10/owns-growth/>)
 
-### [Who Owns Growth?](<https://csblog.quietlife.net/2015/03/10/owns-growth/>)
+### [Who Owns Growth?](</2015/03/10/owns-growth/>)
 
-March 10, 2015 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+March 10, 2015 / [Interactive Strategy](</category/interactive-strategy-2/>)
 
 Year after year, businesses claim that growth is the most mission-critical, top priority task at ...
 
-[ ![Is the Inside Sales Position Becoming Obsolete?](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/09/05/inside-sales-position-becoming-obsolete/>)
+[ ![Is the Inside Sales Position Becoming Obsolete?](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2014/09/05/inside-sales-position-becoming-obsolete/>)
 
-### [Is the Inside Sales Position Becoming Obsolete?](<https://csblog.quietlife.net/2014/09/05/inside-sales-position-becoming-obsolete/>)
+### [Is the Inside Sales Position Becoming Obsolete?](</2014/09/05/inside-sales-position-becoming-obsolete/>)
 
-September 5, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+September 5, 2014 / [Interactive Strategy](</category/interactive-strategy-2/>)
 
 As the world of marketing automation continues to grow, I have often wondered how this ...
 
@@ -66,6 +66,6 @@ As the world of marketing automation continues to grow, I have often wondered ho
 
 # Post navigation
 
-[← Should My Company Be on Instagram? What About Twitter? Snapchat?](<https://csblog.quietlife.net/2015/09/24/should-my-company-be-on-instagram-what-about-twitter-snapchat/>)
+[← Should My Company Be on Instagram? What About Twitter? Snapchat?](</2015/09/24/should-my-company-be-on-instagram-what-about-twitter-snapchat/>)
 
-[From Camry to Camper: A Journey In The Responsive Web →](<https://csblog.quietlife.net/2015/10/14/responsive-web-design/>)
+[From Camry to Camper: A Journey In The Responsive Web →](</2015/10/14/responsive-web-design/>)

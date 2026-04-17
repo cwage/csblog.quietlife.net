@@ -49,33 +49,33 @@ Also, Android is better :)
 
 * * *
 
-  * [Development](<https://csblog.quietlife.net/category/development/>)
-  * [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
+  * [Development](</category/development/>)
+  * [UX-Design](</category/uxdesign/>)
 
 
 
 ![](http://1.gravatar.com/avatar/d15bdb77fb1ff88a40e904294d1806cf?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Zach Keller](<https://csblog.quietlife.net/author/zkeller/> "Posts by Zach Keller")
+#### [Zach Keller](</author/zkeller/> "Posts by Zach Keller")
 
 ZACH is a rarity. He's a born-and-raised Nashville-native. Please take a moment to pause and reflect on this anomaly. Ok back to business. Zach loves music and has a strong sense of creativity, as evidenced by his ongoing tinkering on any number of Volkswagens. As a major fan of futbol, he hopes to someday get to London to try and catch an Arsenal soccer game. Zach is a (tie) dye-hard Phish fan (see what we did there?) and and he once drove his Jeep Cherokee to 46 of the lower 48 states of the US following his favorite band.
 
 
 
 
-[ ![Playbook 2.0 is Here!](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/04/15/playbook-2-0-is-here/>)
+[ ![Playbook 2.0 is Here!](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2015/04/15/playbook-2-0-is-here/>)
 
-### [Playbook 2.0 is Here!](<https://csblog.quietlife.net/2015/04/15/playbook-2-0-is-here/>)
+### [Playbook 2.0 is Here!](</2015/04/15/playbook-2-0-is-here/>)
 
-April 15, 2015 / [Development](<https://csblog.quietlife.net/category/development/>)
+April 15, 2015 / [Development](</category/development/>)
 
 We at Centresource love open source software. We use open source projects every day from ...
 
-[ ![The Easiest Way To Find Your Dream Drupal Job](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/10/21/easiest-way-find-dream-drupal-job/>)
+[ ![The Easiest Way To Find Your Dream Drupal Job](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2014/10/21/easiest-way-find-dream-drupal-job/>)
 
-### [The Easiest Way To Find Your Dream Drupal Job](<https://csblog.quietlife.net/2014/10/21/easiest-way-find-dream-drupal-job/>)
+### [The Easiest Way To Find Your Dream Drupal Job](</2014/10/21/easiest-way-find-dream-drupal-job/>)
 
-October 21, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
+October 21, 2014 / [Development](</category/development/>)
 
 The Drupal Association recently announced a new website for recruiters and job-seekers in the Drupal ...
 
@@ -83,6 +83,6 @@ The Drupal Association recently announced a new website for recruiters and job-s
 
 # Post navigation
 
-[← How To Make Sure Your New Business Doesn't Fail](<https://csblog.quietlife.net/2015/10/12/make-sure-your-new-business-doesnt-fail/>)
+[← How To Make Sure Your New Business Doesn't Fail](</2015/10/12/make-sure-your-new-business-doesnt-fail/>)
 
-[We Won Three W3 Awards! →](<https://csblog.quietlife.net/2015/10/20/we-won-three-w3-awards/>)
+[We Won Three W3 Awards! →](</2015/10/20/we-won-three-w3-awards/>)

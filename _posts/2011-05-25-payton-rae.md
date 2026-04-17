@@ -5,7 +5,7 @@ date: 2011-05-25
 author: Lyndsay Rush
 categories: [Interactive Strategy, Marketing]
 ---
-![](https://csblog.quietlife.net/wp-content/uploads/2011/05/Payton-Rae-300x300.jpg)
+![](/wp-content/uploads/2011/05/Payton-Rae-300x300.jpg)
 
 We have some exciting news about one of our recent projects!
 

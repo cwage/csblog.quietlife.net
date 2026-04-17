@@ -13,7 +13,7 @@ I don't know where these people found time to [hold a mock trial](<http://www.in
 > 
 > But defense lawyer Stewart Baker, a partner in the Washington office of Steptoe and Johnson LLP, argued that it would be a violation of privacy for ISPs to check subscribers' computers. It would be nearly impossible for ISPs to distinguish between legitimate Internet traffic, such as a subscriber's browser updating a weather map every few seconds, and a computer being used in a denial of service attack, added Baker, representing a group of fictional ISPs. 
 
-This is a fascinating debate. In the past, when I've mentioned [port 25 blocking](<https://csblog.quietlife.net/2005/05/17/port-25-blocking/>), good points were raised about the fact that most ISPs see this as a slippery slope insofar as:
+This is a fascinating debate. In the past, when I've mentioned [port 25 blocking](</2005/05/17/port-25-blocking/>), good points were raised about the fact that most ISPs see this as a slippery slope insofar as:
 
   1. Being perceived as having rigid usage policies, and:
   2. Being held liable for lapses in their protection

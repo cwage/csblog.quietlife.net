@@ -5,7 +5,7 @@ date: 2009-05-15
 author: Aaron Briggs
 categories: [Miscellaneous]
 ---
-[![All Hail the Golden Kraut](https://csblog.quietlife.net/wp-content/uploads/2009/05/picture-1.png)](<https://web.archive.org/web/20090227164705/http://www.thegoldenkraut.com/>)
+[![All Hail the Golden Kraut](/wp-content/uploads/2009/05/picture-1.png)](<https://web.archive.org/web/20090227164705/http://www.thegoldenkraut.com/>)
 
 All Hail the Golden Kraut
 
@@ -21,7 +21,7 @@ Afterwards, I suggested we had two options for dealing with something so ridicul
 
 So, we implemented Golden Kraut and Silvery Beans as an interactive tool. How? We give one Golden Kraut and one Silvery Beans each month to the most deserving members of our team. We use the free Google Docs Form tool to submit nominations in a single location that is reviewed at the end of the month by our management team. The nominations are frequently so genuinely complementary (and hilarious) that we share them openly at our weekly staff meetings.
 
-[![Jason "Shamus" O'Brien's Silvery Beans Win](https://csblog.quietlife.net/wp-content/uploads/2009/05/picture-2-300x179.png)](<https://web.archive.org/web/20090227164705/http://www.thegoldenkraut.com/>)
+[![Jason "Shamus" O'Brien's Silvery Beans Win](/wp-content/uploads/2009/05/picture-2-300x179.png)](<https://web.archive.org/web/20090227164705/http://www.thegoldenkraut.com/>)
 
 Jason "Shamus" O'Brien's Silvery Beans Win
 

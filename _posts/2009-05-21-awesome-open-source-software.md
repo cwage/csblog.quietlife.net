@@ -5,7 +5,7 @@ date: 2009-05-21
 author: Nicholas Holland
 categories: [Miscellaneous, Operations]
 ---
-In preparation for my presentation ([Try some Open Source.... Everybody's doing it](<https://csblog.quietlife.net/2009/05/21/try-some-open-source-everybodys-doing-it/>)), I've compiled some of the best offerings in the land of OSS.
+In preparation for my presentation ([Try some Open Source.... Everybody's doing it](</2009/05/21/try-some-open-source-everybodys-doing-it/>)), I've compiled some of the best offerings in the land of OSS.
 
 **Utilities**  
 Firefox ([http://www.mozilla.com](<http://www.mozilla.com/>)) - Browser  

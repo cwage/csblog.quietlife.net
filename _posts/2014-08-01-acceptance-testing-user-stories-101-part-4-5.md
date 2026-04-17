@@ -3,9 +3,9 @@ layout: post
 title: "Acceptance Testing (User Stories 101: Part 4 of 5)"
 date: 2014-08-01
 ---
-[![User stories 101](https://csblog.quietlife.net/content/uploads/2014/07/user_stories_101-01-300x194.jpg)](<https://csblog.quietlife.net/content/uploads/2014/07/user_stories_101-01.jpg>)
+[![User stories 101](/content/uploads/2014/07/user_stories_101-01-300x194.jpg)](</content/uploads/2014/07/user_stories_101-01.jpg>)
 
-In [Part 3](<https://csblog.quietlife.net/2014/07/29/collecting-user-stories/>) of our "User Stories 101" series, we talked about how **user stories are great placeholders for functionality, but are not all the functional requirements we need**. To go deeper on actually conveying need, we should integrate a series of acceptance tests to confirm that a story is satisfied.
+In [Part 3](</2014/07/29/collecting-user-stories/>) of our "User Stories 101" series, we talked about how **user stories are great placeholders for functionality, but are not all the functional requirements we need**. To go deeper on actually conveying need, we should integrate a series of acceptance tests to confirm that a story is satisfied.
 
 Or, put another way: how do we know when a user story is done?
 
@@ -48,32 +48,32 @@ _Editor's Note: This series was originally drafted by Jon Arnold, but was not pu
 
 * * *
 
-  * [Development](<https://csblog.quietlife.net/category/development/>)
+  * [Development](</category/development/>)
 
 
 
-[Development](<https://csblog.quietlife.net/tag/development/>)
+[Development](</tag/development/>)
 
 ![](http://0.gravatar.com/avatar/2152101bbbd6554dcb5b80894835408f?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [staff](<https://csblog.quietlife.net/author/staff/> "Posts by staff")
+#### [staff](</author/staff/> "Posts by staff")
 
 
 
 
-[ ![Import Drupal Content in Rails \(The Quick and Dirty Way\)](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/05/09/import-drupal-content-in-rails-the-quick-and-dirty-way/>)
+[ ![Import Drupal Content in Rails \(The Quick and Dirty Way\)](/content/themes/marroco/assets/img/empty/pixel.png) ](</2014/05/09/import-drupal-content-in-rails-the-quick-and-dirty-way/>)
 
-### [Import Drupal Content in Rails (The Quick and Dirty Way)](<https://csblog.quietlife.net/2014/05/09/import-drupal-content-in-rails-the-quick-and-dirty-way/>)
+### [Import Drupal Content in Rails (The Quick and Dirty Way)](</2014/05/09/import-drupal-content-in-rails-the-quick-and-dirty-way/>)
 
-May 9, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
+May 9, 2014 / [Development](</category/development/>)
 
 Here in the bucolic surroundings of Centresource, we have many tools at our disposal. We ...
 
-[ ![How the Rules of Improv Made Me a Better Consultant](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/10/23/rules-improv-made-better-consultant/>)
+[ ![How the Rules of Improv Made Me a Better Consultant](/content/themes/marroco/assets/img/empty/pixel.png) ](</2014/10/23/rules-improv-made-better-consultant/>)
 
-### [How the Rules of Improv Made Me a Better Consultant](<https://csblog.quietlife.net/2014/10/23/rules-improv-made-better-consultant/>)
+### [How the Rules of Improv Made Me a Better Consultant](</2014/10/23/rules-improv-made-better-consultant/>)
 
-October 23, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
+October 23, 2014 / [Development](</category/development/>)
 
 It may sound unrelated, but the four basic tenets of improv have influenced how I ...
 
@@ -81,6 +81,6 @@ It may sound unrelated, but the four basic tenets of improv have influenced how 
 
 # Post navigation
 
-[← Collecting User Stories (User Stories 101: Part 3 of 5)](<https://csblog.quietlife.net/2014/07/29/collecting-user-stories-user-stories-101-part-3-5/>)
+[← Collecting User Stories (User Stories 101: Part 3 of 5)](</2014/07/29/collecting-user-stories-user-stories-101-part-3-5/>)
 
-[Prioritizing User Stories (User Stories 101: Part 5 of 5) →](<https://csblog.quietlife.net/2014/08/05/prioritizing-user-stories-user-stories-101-part-5-5/>)
+[Prioritizing User Stories (User Stories 101: Part 5 of 5) →](</2014/08/05/prioritizing-user-stories-user-stories-101-part-5-5/>)

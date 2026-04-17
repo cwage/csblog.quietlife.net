@@ -7,4 +7,4 @@ categories: [Operations]
 ---
 History has proven to me that it is very difficult for clients to understand time & knowledge as an actual currency. If you're in the time & materials industry, you'll appreciate what I'm talking about. My wife, who's a lawyer, was kind enough to send me a song that really helps me bridge the gap with my clients :) [Remember, this is meant to be funny - don't get your feelings hurt!]
 
-[The Billing Song (mp3 - 700.48 KB)](<https://csblog.quietlife.net/wp-content/uploads/2009/01/the_billing_song.mp3> "The Billing Song \(mp3 - 700.48 KB\)")
+[The Billing Song (mp3 - 700.48 KB)](</wp-content/uploads/2009/01/the_billing_song.mp3> "The Billing Song \(mp3 - 700.48 KB\)")

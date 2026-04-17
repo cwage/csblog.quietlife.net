@@ -5,7 +5,7 @@ date: 2011-09-21
 author: Jon Arnold
 categories: [Miscellaneous]
 ---
-[![Tomato Vine](https://csblog.quietlife.net/wp-content/uploads/2011/09/tomatovine-300x197.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/09/tomatovine.jpg> "Tomato Vine")
+[![Tomato Vine](/wp-content/uploads/2011/09/tomatovine-300x197.jpg)](</wp-content/uploads/2011/09/tomatovine.jpg> "Tomato Vine")
 
 I'm a productivity nerd. I've tried more to-do applications and note-taking systems than I can remember, and have built up several ridiculous systems to help me stay organized over the years. I think geeks typically build systems for two reasons:
 
@@ -16,7 +16,7 @@ I'm a productivity nerd. I've tried more to-do applications and note-taking syst
 
 So, we love systems. That's why I was so excited to hear our [CEO Nick Holland](<http://twitter.com/#!/nicholasholland>), in a recent meeting, explain his favorite productivity system to the room. He indicated that our large gathering would easily go off the rails and he suggested we run the meeting on **Pomodoros** to keep us on track. He explained that a [Pomodoro](<http://en.wikipedia.org/wiki/Pomodoro_Technique>) was a time cycle: the group would work for twenty-five minutes without ceasing, and when time ran out, we'd take a five minute break. (And we're talking a full "Class, drop your pencils" break - no focusing on the project during those breaks.)
 
-[![Pomodoro Timer](https://csblog.quietlife.net/wp-content/uploads/2011/09/timer2-150x150.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/09/timer2.png> "Pomodoro Timer")_Pomodoro is the Italian word for "tomato", aptly named after the Italian kitchen timers the system was born from._
+[![Pomodoro Timer](/wp-content/uploads/2011/09/timer2-150x150.png)](</wp-content/uploads/2011/09/timer2.png> "Pomodoro Timer")_Pomodoro is the Italian word for "tomato", aptly named after the Italian kitchen timers the system was born from._
 
 I was reminded of a system called **(10+2)*5** , which cycles ten minutes of work for a two minute break. Do this five times to compile sixty minutes, or one hour of productive work completed. I tried this and honestly found the [(10+2)*5 system](<http://www.43folders.com/2005/10/11/procrastination-hack-1025>) to be a little too spastic: I'd find myself just digging into a task when the break bell rang. Consequently the two minutes would fly by, leaving me knee deep in reading tweets or checking email but with a system that told me to get back to work.
 

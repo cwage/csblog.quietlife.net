@@ -9,7 +9,7 @@ One somewhat new feature of [Google Analytics](<http://www.google.com/analytics/
 
 Think about how this could benefit your own analysis of your website traffic. If you run a storefront, populating the extra data (such as when an e-mail or print campaign launched) can be really eye-opening when digging through the tons of data that Google Analytics lets you dive into. Being able to cross-reference traffic surges with offline events can be really handy when sharing the data with the rest of your team.
 
-![traffic-spike](https://csblog.quietlife.net/wp-content/uploads/2010/12/traffic-spike.png)
+![traffic-spike](/wp-content/uploads/2010/12/traffic-spike.png)
 
 If you use Google Analytics, you can find this feature by clicking on any date in a report timeline. There will be a read-out of how many visits occurred on that day, with a link to "Create Annotation". Click that link, and a form appears beneath the timeline to store the date and a comment. You can star certain annotations if you want to filter your results later.
 

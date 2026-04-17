@@ -5,7 +5,7 @@ date: 2007-09-20
 ---
 Nonprofit marketing expert Nancy E. Schwartz has written an article that non-profits should read: **Six Steps to Finding the Right Web Site Development Firm for Your Nonprofit.**
 
-![1413547717_49207a7b0e_m.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/09/1413547717_49207a7b0e_m.jpg)
+![1413547717_49207a7b0e_m.jpg](/wp-content/uploads/2007/09/1413547717_49207a7b0e_m.jpg)
 
 > Choosing the right Web site development firm can be a difficult decision - especially in today's changing world, where there are many firms promising to meet or exceed your nonprofit's goals through Web site design and programming. Since your resources are limited and you want to get the most from them, it's vital that you find the best match.
 > 

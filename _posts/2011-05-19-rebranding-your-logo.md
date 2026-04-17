@@ -9,11 +9,11 @@ I recently stumbled upon a [collection](<http://www.flickr.com/photos/jordanlloy
 
 **A logo design is the most important and cost effect effective element of branding.**
 
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/05/Screen-shot-2011-05-18-at-11.22.41-AM-300x267.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/05/Screen-shot-2011-05-18-at-11.22.41-AM.png> "Screen shot 2011-05-18 at 11.22.41 AM")
+[![](/wp-content/uploads/2011/05/Screen-shot-2011-05-18-at-11.22.41-AM-300x267.png)](</wp-content/uploads/2011/05/Screen-shot-2011-05-18-at-11.22.41-AM.png> "Screen shot 2011-05-18 at 11.22.41 AM")
 
 **What happens when you want to re-create your logo?** Rebranding can be difficult to do, especially if there is an emotional attachment to the logo. For example, the Gap and NBC attempted to rebrand their logo this past year and it cause a huge uproar.
 
-[](<https://csblog.quietlife.net/wp-content/uploads/2011/05/NBC-Rebrand.png>)[![](https://csblog.quietlife.net/wp-content/uploads/2011/05/NBC-Rebrand2.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/05/NBC-Rebrand2.png>)
+[](</wp-content/uploads/2011/05/NBC-Rebrand.png>)[![](/wp-content/uploads/2011/05/NBC-Rebrand2.png)](</wp-content/uploads/2011/05/NBC-Rebrand2.png>)
 
 Here are a few tips to keep in mind when redesigning your logo:
 

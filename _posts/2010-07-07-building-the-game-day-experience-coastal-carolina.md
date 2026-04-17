@@ -5,7 +5,7 @@ date: 2010-07-07
 author: Katy Ludington
 categories: [Content, Interactive Strategy, Marketing, Web Design]
 ---
-[![coastaltix](https://csblog.quietlife.net/wp-content/uploads/2010/07/coastaltix-300x202.png)](<http://www.coastaltix.com/>)
+[![coastaltix](/wp-content/uploads/2010/07/coastaltix-300x202.png)](<http://www.coastaltix.com/>)
 
 We are really excited to announce the launch of a new interactive portal for [Coastal Carolina University](<http://www.coastal.edu/>)'s Athletic Department to help promote football ticket sales. They shared with us this press release they sent out earlier this week about the site.
 

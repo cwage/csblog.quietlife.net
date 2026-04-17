@@ -5,7 +5,7 @@ date: 2011-01-27
 author: Lyndsay Rush
 categories: [Content]
 ---
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/01/visa-logo-its-everywhere-you-want-to-be-slogan.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/01/visa-logo-its-everywhere-you-want-to-be-slogan.jpg> "visa-logo-its-everywhere-you-want-to-be-slogan")
+[![](/wp-content/uploads/2011/01/visa-logo-its-everywhere-you-want-to-be-slogan.jpg)](</wp-content/uploads/2011/01/visa-logo-its-everywhere-you-want-to-be-slogan.jpg> "visa-logo-its-everywhere-you-want-to-be-slogan")
 
 I love a good slogan.
 

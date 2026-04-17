@@ -5,7 +5,7 @@ date: 2010-09-16
 author: Lyndsay Rush
 categories: [Company News]
 ---
-![](https://csblog.quietlife.net/wp-content/uploads/2010/09/picture-31.png)
+![](/wp-content/uploads/2010/09/picture-31.png)
 
 In this town, when I say 'singer' you think of a dozen of your closest friends and their hopes and dreams.
 

@@ -29,7 +29,7 @@ That's what the people over at [Baydin](<http://emailgame.baydin.com/about.html>
 
 They've created a fun, simple [Email Game](<http://emailgame.baydin.com/ >). And it works like this:
 
-![](https://csblog.quietlife.net/wp-content/uploads/2011/01/Picture-4.png)
+![](/wp-content/uploads/2011/01/Picture-4.png)
 
 Enter your email address, click play, and watch the game help you sort through your inbox. The faster you work-and the more you take action (responding, deleting, archiving) the more points you get.
 

@@ -5,7 +5,7 @@ date: 2012-10-17
 author: Jeremy Holland
 categories: [Hardware, Linux/BSD, Miscellaneous, Productivity, Utilities, Web Development, Windows]
 ---
-[Continued from Part I](<https://csblog.quietlife.net/2012/10/15/a-confederacy-of-oses-part-i/>)
+[Continued from Part I](</2012/10/15/a-confederacy-of-oses-part-i/>)
 
 Due to many factors, setting up Linux turned out to be Hell. Both the kernel and GRUB wouldn't have the ability to recognize the aforementioned pseudo-RAID array as a single disk until later (I'm still not sure if GRUB does), so I first had to effectively wipe the filesystem in its entirety and destroy all partitions; turn off the pseudo-RAID functionality in the BIOS (a miracle they allowed me to do so, considering everything else they expressly hid therefrom), re-partition the two drives as truly separate devices, and reinstall Windows on one disk while setting up Linux on the other. That was a night of my life I'll never get back, and I considered dropping Windows from the lot entirely, but figured it might be handy to have as a last resort / testing platform and so opted to keep it at the last moment.
 
@@ -23,4 +23,4 @@ Because of these and other thoughts, I decided to try an experiment: I would swi
 
 Now, Windows has its problems: certainly it's an absolute crap development environment if you want any real, low-level control of a machine, or if you want to do any development in a language that wasn't pinched off from the Great Golden Sphincter of Redmond. The registry's a horrid design that - despite purportedly being recognized as such by its own engineers - has stubbornly persisted through multiple versions and will almost certainly be there in the next. The built-in command-line interface (cmd) and nearly every third-party one I have yet discovered are all so underpowered as to be little more than curiosities and toys. I won't even get  _started_ about security. However, it does do one thing quite well: provide an ultimately pleasant, consistently usable desktop environment. For everything else - as they say - there's Linux.
 
-[Continued in Part III!](<https://csblog.quietlife.net/2012/10/19/a-confederacy-of-oses-part-iii/>)
+[Continued in Part III!](</2012/10/19/a-confederacy-of-oses-part-iii/>)

@@ -5,7 +5,7 @@ date: 2010-12-15
 author: Travis Roberts
 categories: [Security]
 ---
-![lock](https://csblog.quietlife.net/wp-content/uploads/2010/12/lock-294x300.png)
+![lock](/wp-content/uploads/2010/12/lock-294x300.png)
 
 Recently, gossip site Gawker (along with all of its sub-sites) had their [data breached by hackers](<http://blogs.forbes.com/firewall/2010/12/13/the-lessons-of-gawkers-security-mess/>). This exposed emails, usernames and passwords for a reported 1.2 million accounts.
 

@@ -4,7 +4,7 @@ title: "Advantage Consulting Services: Spammers"
 date: 2006-01-27
 author: Chris
 ---
-Earlier today, I [posted](<https://csblog.quietlife.net/2006/01/27/human-spam/>) about spam received in a blog comment that was clearly posted by an actual person. In that post, I mentioned tracking down (not hard in this case) and calling the company that appeared to be behind the spam, [Advantage Consulting Services](<https://web.archive.org/web/20060127085307/http://www.advantageconsultingservices.com/>). Surprisingly, "V. Patel" called me back.
+Earlier today, I [posted](</2006/01/27/human-spam/>) about spam received in a blog comment that was clearly posted by an actual person. In that post, I mentioned tracking down (not hard in this case) and calling the company that appeared to be behind the spam, [Advantage Consulting Services](<https://web.archive.org/web/20060127085307/http://www.advantageconsultingservices.com/>). Surprisingly, "V. Patel" called me back.
 
 I told him I was interested in their company's product and started off just asking him questions about SEO in general, followed by some leading questions about how linking might affect pagerank (_hint hint_). CentreSource deals quite a bit with SEO, though with legitimate "white-hat" vendors (naturally), so I had a fair idea of what I could ask to probe for nefarious practices, but he pretty much kept it legit. Eventually I cut to the chase and explained why I was really calling, I asked him if he spammed the blog. To my further surprise, he said yes, and that he was "sorry". Yeah, well, I'm sorry too, pal.
 

@@ -5,7 +5,7 @@ date: 2012-05-14
 author: Evan Owens
 categories: [Company News, Miscellaneous]
 ---
-This morning in our[![](https://csblog.quietlife.net/wp-content/uploads/2012/05/ackbar.gif)](<https://csblog.quietlife.net/wp-content/uploads/2012/05/ackbar.gif> "It's a Trap") team meeting, I spoke about a common struggle we face as people interpersonally. It affects our personal and professional lives equally and can have repercussions further than we can imagine. It's the topic of "offenses." The topic of conflict resolution is never out-of-date because it is a timeless struggle for business leaders.
+This morning in our[![](/wp-content/uploads/2012/05/ackbar.gif)](</wp-content/uploads/2012/05/ackbar.gif> "It's a Trap") team meeting, I spoke about a common struggle we face as people interpersonally. It affects our personal and professional lives equally and can have repercussions further than we can imagine. It's the topic of "offenses." The topic of conflict resolution is never out-of-date because it is a timeless struggle for business leaders.
 
 We've all been there...where we either offended someone or were offended. Recently in a team meeting, I made a passive aggressive comment as a joke that was received as disrespectful and hurtful. When a team member corrected me on the offense, I did exactly what many of us are tempted to do and began to try and build consensus among other employees that I wasn't out of line. However, that plan backfired when they all agreed that I was out of line. So my plan to build an army of people who saw my viewpoint didn't exist.
 

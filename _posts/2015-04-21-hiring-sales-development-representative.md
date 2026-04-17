@@ -45,34 +45,34 @@ Know a good fit? Share the job posting with them with the links below.
 
 * * *
 
-  * [News](<https://csblog.quietlife.net/category/news/>)
+  * [News](</category/news/>)
 
 
 
-[careers](<https://csblog.quietlife.net/tag/careers/>)[centresource](<https://csblog.quietlife.net/tag/centresource/>)[hiring](<https://csblog.quietlife.net/tag/hiring/>)[jobs](<https://csblog.quietlife.net/tag/jobs/>)[sales development representative](<https://csblog.quietlife.net/tag/sales-development-representative/>)[sdr](<https://csblog.quietlife.net/tag/sdr/>)
+[careers](</tag/careers/>)[centresource](</tag/centresource/>)[hiring](</tag/hiring/>)[jobs](</tag/jobs/>)[sales development representative](</tag/sales-development-representative/>)[sdr](</tag/sdr/>)
 
 ![](http://0.gravatar.com/avatar/4311c20c17ffe761b27169735d027005?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Katy Ludington](<https://csblog.quietlife.net/author/kludington/> "Posts by Katy Ludington")
+#### [Katy Ludington](</author/kludington/> "Posts by Katy Ludington")
 
 You'll often catch Katy checking scores on ESPN, or trying to come up with a clever mascot for centresource. We drafted Katy from the sports marketing world and she's became a critical part of the CS squad. Her experience says it all: Sports Illustrated, Michigan State, Baylor U, University of Akron - heck she's even spent some time at Vanderbilt.
 
 
 
 
-[ ![A Team That Plays Together, Stays Together](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/04/29/a-team-that-plays-together-stays-together/>)
+[ ![A Team That Plays Together, Stays Together](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2015/04/29/a-team-that-plays-together-stays-together/>)
 
-### [A Team That Plays Together, Stays Together](<https://csblog.quietlife.net/2015/04/29/a-team-that-plays-together-stays-together/>)
+### [A Team That Plays Together, Stays Together](</2015/04/29/a-team-that-plays-together-stays-together/>)
 
-April 29, 2015 / [News](<https://csblog.quietlife.net/category/news/>)
+April 29, 2015 / [News](</category/news/>)
 
 "You can learn more about a person in an hour of play than you can ...
 
-[ ![We Won A Graphic Design USA Award!](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
+[ ![We Won A Graphic Design USA Award!](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2015/04/24/we-won-a-graphic-design-usa-award/>)
 
-### [We Won A Graphic Design USA Award!](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
+### [We Won A Graphic Design USA Award!](</2015/04/24/we-won-a-graphic-design-usa-award/>)
 
-April 24, 2015 / [News](<https://csblog.quietlife.net/category/news/>)
+April 24, 2015 / [News](</category/news/>)
 
 We are very excited to announce that we recently won a 2015 American Web Design ...
 
@@ -80,6 +80,6 @@ We are very excited to announce that we recently won a 2015 American Web Design 
 
 # Post navigation
 
-[← How does UX design fit together with marketing goals?](<https://csblog.quietlife.net/2015/04/17/how-does-ux-design-fit-together-with-marketing-goals/>)
+[← How does UX design fit together with marketing goals?](</2015/04/17/how-does-ux-design-fit-together-with-marketing-goals/>)
 
-[We Won A Graphic Design USA Award! →](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
+[We Won A Graphic Design USA Award! →](</2015/04/24/we-won-a-graphic-design-usa-award/>)

@@ -17,6 +17,6 @@ To fuel even more sales is the release of Mac OS X Leopard with [300 new feature
 
 As usual, Apple's Maketing doesn't miss a beat: Apple's retail launch of Leopard will take place at 6 p.m. local time this Friday, October 24 at Apple Retail stores across the U.S. Apple Stores will be giving out Leopard T-Shirts to the first 500 customers. 
 
-![macs-everywhere-450px.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/10/macs-everywhere-450px.jpg)
+![macs-everywhere-450px.jpg](/wp-content/uploads/2007/10/macs-everywhere-450px.jpg)
 
 Photo Source: [Mollie Sterling and The Missouri School of Journalism](<http://duggmirror.com/apple/Look_at_them_apples/>)

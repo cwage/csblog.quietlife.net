@@ -5,7 +5,7 @@ date: 2011-03-14
 author: Jeremy Mitchell
 categories: [Social Media]
 ---
-![](https://csblog.quietlife.net/wp-content/uploads/2011/03/social-networking-tornado3.jpg)Yesterday Ask.Inc.com asked the question: "Do social networks affect the market? How?"
+![](/wp-content/uploads/2011/03/social-networking-tornado3.jpg)Yesterday Ask.Inc.com asked the question: "Do social networks affect the market? How?"
 
 My answer to that question was:
 

@@ -13,6 +13,6 @@ If you're too young to experience being a Jimmy Buffett Parrot Head from the ear
 
 Rock the Block - digitally - at The Exit/In and add to the history.
 
-![BarCamp badge](https://csblog.quietlife.net/wp-content/uploads/2007/08/bcnashville_150x100.thumbnail.gif)
+![BarCamp badge](/wp-content/uploads/2007/08/bcnashville_150x100.thumbnail.gif)
 
 [View the full schedule](<https://web.archive.org/web/20070912135219/http://www.barcampnashville.com/blog/speaking-schedule-the-exitin/>)

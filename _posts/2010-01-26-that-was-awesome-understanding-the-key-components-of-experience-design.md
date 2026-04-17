@@ -7,7 +7,7 @@ categories: [Content, Interactive Strategy, Marketing, Usability, Web Design]
 ---
 When was the last time you had a really enjoyable experience with a product or service? Do you remember how it made you feel? Do you remember what about it made you feel that way? What about your experience stuck out most in your mind? If you are like me, some of these questions can be fairly difficult to answer, while others may be incredibly obvious. On top of this, the answers may seem clearer in one case than they do in another. Welcome to the world of experience design. This post is primarily taken from the first part of a presentation I made a BarCamp Nashville in 2009, entitled "[Whoa! Creating Engaging User Experiences](<https://web.archive.org/web/20100103191104/http://barcampnashville.com/session/whoa-creating-engaging-user-experiences>)". 
 
-![Slide from Whoa! Creating Engaging User Experiences](https://csblog.quietlife.net/wp-content/uploads/2010/01/whoa.jpg)
+![Slide from Whoa! Creating Engaging User Experiences](/wp-content/uploads/2010/01/whoa.jpg)
 
 Slide from Whoa! Creating Engaging User Experiences
 
@@ -17,7 +17,7 @@ Unfortunately, there were some technical difficulties, so I do not have the vide
 
 According to [The New Everyday: Views on Ambient Intelligence](<https://web.archive.org/web/20100113115314/http://www.amazon.com/New-Everyday-View-Ambient-Intelligence/dp/9064505020>), experience design (XP) is the practice of "designing products, processes, services, events, and environments with a focus placed on the quality of the user experience and culturally relevant solutions, with less emphasis placed on increasing and improving functionality of the design." 
 
-[![The New Everyday: View on Ambient Intelligence](https://csblog.quietlife.net/wp-content/uploads/2010/01/neweveryday.jpg)](<https://web.archive.org/web/20100113115314/http://www.amazon.com/New-Everyday-View-Ambient-Intelligence/dp/9064505020>)
+[![The New Everyday: View on Ambient Intelligence](/wp-content/uploads/2010/01/neweveryday.jpg)](<https://web.archive.org/web/20100113115314/http://www.amazon.com/New-Everyday-View-Ambient-Intelligence/dp/9064505020>)
 
 The New Everyday: View on Ambient Intelligence
 
@@ -60,7 +60,7 @@ What information do you want to disseminate, and how will you organize it? Const
 
 How will users interact with your experience? This is your opportunity to be creative! I am extremely impressed with the influx of augmented reality on mobile devices. For example, if you have a compatible device, check out the [Amazon Mobile application](<https://web.archive.org/web/20100201235944/http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000291661>). 
 
-![Amazon Remembers](https://csblog.quietlife.net/wp-content/uploads/2010/01/amazonremembers.jpg)
+![Amazon Remembers](/wp-content/uploads/2010/01/amazonremembers.jpg)
 
 Amazon Remembers
 

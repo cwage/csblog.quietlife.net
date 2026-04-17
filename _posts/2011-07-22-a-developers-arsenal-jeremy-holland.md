@@ -31,7 +31,7 @@ Martin Fowler. His books and experiences have contributed a great deal to my own
 
 I never stop being a programmer, and I never stop learning new things. While I definitely don't subscribe to umpteen-thousand RSS feeds, I **have** amassed quite a library during my career (of which I am quite proud - picture below), and am constantly reading a book at least somewhat related to the subject. As far as getting excited about new tech goes, it takes a lot to impress me, so said excitement is pretty rare nowadays. Still, if I had to say something, I'd say graph databases: still in their infancy, but I think a decade or so down the line we might be seeing some awesome implementations and uses for same.
 
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/07/2011-07-22_18-08-28_802-300x169.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/07/2011-07-22_18-08-28_802.jpg> "2011-07-22_18-08-28_802")
+[![](/wp-content/uploads/2011/07/2011-07-22_18-08-28_802-300x169.jpg)](</wp-content/uploads/2011/07/2011-07-22_18-08-28_802.jpg> "2011-07-22_18-08-28_802")
 
 A few aren't mine, but it's good to have our developer bookshelf in one place.
 

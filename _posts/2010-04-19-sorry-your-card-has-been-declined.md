@@ -5,7 +5,7 @@ date: 2010-04-19
 author: Stephen Yeargin
 categories: [Interactive Strategy, Usability]
 ---
-![debix](https://csblog.quietlife.net/wp-content/uploads/2010/04/debix-268x300.png)
+![debix](/wp-content/uploads/2010/04/debix-268x300.png)
 
 Most people would not be very excited to receive an e-mail that says "Payment Declined." Did I forget to pay a bill? Is my credit card over the limit? Did my rent check get double posted? What on earth is going on? For me, this was actually welcome news. It means that I had found the only way to get past a critical flaw in a Web application.
 

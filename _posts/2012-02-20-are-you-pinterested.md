@@ -5,7 +5,7 @@ date: 2012-02-20
 author: Vanessa Frye
 categories: [Interactive Strategy, Social Media]
 ---
-[![](https://csblog.quietlife.net/wp-content/uploads/2012/02/Pinterest_logo-300x75.png)](<https://csblog.quietlife.net/wp-content/uploads/2012/02/Pinterest_logo.png> "Pinterest logo")With interactive marketing being so largely concerned with engagement through web and mobile presences, social media tends to play a major role in conversions. As of late, social media platform [Pinterest](<http://www.pinterest.com/>), has reared it's lovely head. As an avid recipe-finding, fitness-seeking, outfit-shopping junky, this site has proved to feed my addiction. While the obsession has become widespread, there are still lots of people unaware of this phenomenon.
+[![](/wp-content/uploads/2012/02/Pinterest_logo-300x75.png)](</wp-content/uploads/2012/02/Pinterest_logo.png> "Pinterest logo")With interactive marketing being so largely concerned with engagement through web and mobile presences, social media tends to play a major role in conversions. As of late, social media platform [Pinterest](<http://www.pinterest.com/>), has reared it's lovely head. As an avid recipe-finding, fitness-seeking, outfit-shopping junky, this site has proved to feed my addiction. While the obsession has become widespread, there are still lots of people unaware of this phenomenon.
 
 Some may wonder what Pinterest actually is and why it is so 'Pinteresting'. Sorry, I can't help myself. Pinterest is a vision board-styled social photo sharing site especially popular among women. The site and iPhone app allow users to create and manage theme-based image collections.
 

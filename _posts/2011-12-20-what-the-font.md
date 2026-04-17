@@ -16,19 +16,19 @@ But wait. As of about 5 years ago, us web designers heard rumors that there are 
 
 [Gallerytopia.com](<http://gallerytopia.com/>)
 
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/12/Gallerytopia-Mobile-websites-for-Photographers-Designers.jpeg)](<http://gallerytopia.com/>)
+[![](/wp-content/uploads/2011/12/Gallerytopia-Mobile-websites-for-Photographers-Designers.jpeg)](<http://gallerytopia.com/>)
 
 * * *
 
 [BestAboutPages.com](<http://bestaboutpages.com/>)
 
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/12/Best-About-Pages---Showcasing-the-best-of-the-best-about-pages-on-the-web-»-About.jpg)](<http://bestaboutpages.com/>)
+[![](/wp-content/uploads/2011/12/Best-About-Pages---Showcasing-the-best-of-the-best-about-pages-on-the-web-»-About.jpg)](<http://bestaboutpages.com/>)
 
 * * *
 
 [LesleeMitchell.com/blog](<http://lesleemitchell.com/blog>)
 
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/12/Leslee-Mitchell.jpg)](<http://lesleemitchell.com/>)
+[![](/wp-content/uploads/2011/12/Leslee-Mitchell.jpg)](<http://lesleemitchell.com/>)
 
 * * *
 

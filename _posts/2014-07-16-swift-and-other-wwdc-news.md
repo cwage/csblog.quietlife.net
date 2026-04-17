@@ -58,38 +58,38 @@ _The primary sources we followed for WWDC coverage were[Engaget](<http://www.eng
 
 * * *
 
-  * [Development](<https://csblog.quietlife.net/category/development/>)
+  * [Development](</category/development/>)
 
 
 
 ![](http://1.gravatar.com/avatar/938ffc89363cb34da3857656792b0a10?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Jonathan Moreland](<https://csblog.quietlife.net/author/jmoreland/> "Posts by Jonathan Moreland")
+#### [Jonathan Moreland](</author/jmoreland/> "Posts by Jonathan Moreland")
 
 
 
 
-[ ![Acceptance Testing \(User Stories 101: Part 4 of 5\)](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
+[ ![Acceptance Testing \(User Stories 101: Part 4 of 5\)](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
 
-### [Acceptance Testing (User Stories 101: Part 4 of 5)](<https://csblog.quietlife.net/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
+### [Acceptance Testing (User Stories 101: Part 4 of 5)](</2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
 
-August 1, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
+August 1, 2014 / [Development](</category/development/>)
 
 In Part 3 of our "User Stories 101" series, we talked about how user stories are great ...
 
-[ ![How To Use S3Auth With Amazon S3](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/10/08/use-s3auth-amazon-s3/>)
+[ ![How To Use S3Auth With Amazon S3](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2014/10/08/use-s3auth-amazon-s3/>)
 
-### [How To Use S3Auth With Amazon S3](<https://csblog.quietlife.net/2014/10/08/use-s3auth-amazon-s3/>)
+### [How To Use S3Auth With Amazon S3](</2014/10/08/use-s3auth-amazon-s3/>)
 
-October 8, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
+October 8, 2014 / [Development](</category/development/>)
 
 Here at Centresource, we create new projects for clients all the time. There is a ...
 
-[ ![Playbook: Improving Our UX Design Efficiency](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/04/10/playbook-improving-our-ux-design-efficiency/>)
+[ ![Playbook: Improving Our UX Design Efficiency](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2014/04/10/playbook-improving-our-ux-design-efficiency/>)
 
-### [Playbook: Improving Our UX Design Efficiency](<https://csblog.quietlife.net/2014/04/10/playbook-improving-our-ux-design-efficiency/>)
+### [Playbook: Improving Our UX Design Efficiency](</2014/04/10/playbook-improving-our-ux-design-efficiency/>)
 
-April 10, 2014 / [Development](<https://csblog.quietlife.net/category/development/>), [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
+April 10, 2014 / [Development](</category/development/>), [UX-Design](</category/uxdesign/>)
 
 Recently Centresource published our first open source tool to the world. Please welcome Playbook. Playbook is ...
 
@@ -97,6 +97,6 @@ Recently Centresource published our first open source tool to the world. Please 
 
 # Post navigation
 
-[← What Is A User Story? (User Stories 101: Part 1)](<https://csblog.quietlife.net/2014/07/14/user-story-user-stories-101-part-1/>)
+[← What Is A User Story? (User Stories 101: Part 1)](</2014/07/14/user-story-user-stories-101-part-1/>)
 
-[Everything you need to know about Swift, Apple's new programming language →](<https://csblog.quietlife.net/2014/07/18/everything-need-know-swift-apples-new-programming-language/>)
+[Everything you need to know about Swift, Apple's new programming language →](</2014/07/18/everything-need-know-swift-apples-new-programming-language/>)

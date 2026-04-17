@@ -5,11 +5,11 @@ date: 2011-04-18
 author: Lyndsay Rush
 categories: [Content, Interactive Strategy]
 ---
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/04/Screen-shot-2011-04-18-at-10.33.45-AM.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/04/Screen-shot-2011-04-18-at-10.33.45-AM.png> "Screen shot 2011-04-18 at 10.33.45 AM")
+[![](/wp-content/uploads/2011/04/Screen-shot-2011-04-18-at-10.33.45-AM.png)](</wp-content/uploads/2011/04/Screen-shot-2011-04-18-at-10.33.45-AM.png> "Screen shot 2011-04-18 at 10.33.45 AM")
 
 I always knew one day robots would take over my job.
 
-And no offense to [CS Maxximus](<https://csblog.quietlife.net/2010/10/22/guest-post-cs-maxximus-tells-the-story-of-the-2010-centresource-barcamp-sponsorship-campaign/>), of course, but I've always wanted to believe that the creative arts have a long life ahead of them because they're just that: creative (read: non-robotic.)
+And no offense to [CS Maxximus](</2010/10/22/guest-post-cs-maxximus-tells-the-story-of-the-2010-centresource-barcamp-sponsorship-campaign/>), of course, but I've always wanted to believe that the creative arts have a long life ahead of them because they're just that: creative (read: non-robotic.)
 
 But, alas, the beginning of the end may be here for me. I introduce to you the [Sloganizer.](<http://www.sloganizer.net/en/>)
 

@@ -3,7 +3,7 @@ layout: post
 title: "Learning Product Management From... Fruit Salad?"
 date: 2015-08-04
 ---
-![Fruit Salad](https://csblog.quietlife.net/wp-content/uploads/2015/08/Sweet_Summer_Rainbow_Fruit_Salad-200x300.jpg)Last week, the Centresource Strategy team went to [Braintrust's](<http://braintrustgroup.com/scrum/>) CSPO (Certified Scrum Product Owner) Training. Braintrust describes Scrum as a "way to get work done" and most simply put, this is exactly what we went to learn. For two days, we froze under A/C vents in a conference room carefully reviewing what it takes to be a successful Product Owner.
+![Fruit Salad](/wp-content/uploads/2015/08/Sweet_Summer_Rainbow_Fruit_Salad-200x300.jpg)Last week, the Centresource Strategy team went to [Braintrust's](<http://braintrustgroup.com/scrum/>) CSPO (Certified Scrum Product Owner) Training. Braintrust describes Scrum as a "way to get work done" and most simply put, this is exactly what we went to learn. For two days, we froze under A/C vents in a conference room carefully reviewing what it takes to be a successful Product Owner.
 
 Building software is never simple, but by using simple methods to manage the workflow and prioritization of work, one can greatly impact the quality of the final product. Additionally, embracing the values (commitment, focus, openness, respect and courage) internally and with our clients means better products and happier teams.
 
@@ -29,33 +29,33 @@ Now that we're officially certified (along with several other Centresource team 
 
 * * *
 
-  * [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
-  * [News](<https://csblog.quietlife.net/category/news/>)
+  * [Interactive Strategy](</category/interactive-strategy-2/>)
+  * [News](</category/news/>)
 
 
 
 ![](http://0.gravatar.com/avatar/c57958ce0b6db896b34457757f250343?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Maureen Higgins](<https://csblog.quietlife.net/author/mhiggins/> "Posts by Maureen Higgins")
+#### [Maureen Higgins](</author/mhiggins/> "Posts by Maureen Higgins")
 
 MAUREEN is a book and beach lover (and thinks the two go hand in hand). In fact, her dream vacation would be to the Caribbean island of Anguilla, where she'd be sure to read one book a day (her annual vacation ritual). After growing up in Boston, she majored in Communications with a focus on Marketing & Advertising at Loyola College in Baltimore before making her way down south. Her favorite things about living in Nashville are the food and music scenes.
 
 
 
 
-[ ![Test yourself before you... test yourself?](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/09/02/test-test/>)
+[ ![Test yourself before you... test yourself?](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2014/09/02/test-test/>)
 
-### [Test yourself before you... test yourself?](<https://csblog.quietlife.net/2014/09/02/test-test/>)
+### [Test yourself before you... test yourself?](</2014/09/02/test-test/>)
 
-September 2, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+September 2, 2014 / [Interactive Strategy](</category/interactive-strategy-2/>)
 
 How many times have you launched a marketing initiative and then you move onto the ...
 
-[ ![The Impossible Triad - Cheap, Quick and Good](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/09/30/impossible-triad-cheap-quick-good/>)
+[ ![The Impossible Triad - Cheap, Quick and Good](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2014/09/30/impossible-triad-cheap-quick-good/>)
 
-### [The Impossible Triad - Cheap, Quick and Good](<https://csblog.quietlife.net/2014/09/30/impossible-triad-cheap-quick-good/>)
+### [The Impossible Triad - Cheap, Quick and Good](</2014/09/30/impossible-triad-cheap-quick-good/>)
 
-September 30, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+September 30, 2014 / [Interactive Strategy](</category/interactive-strategy-2/>)
 
 There's an old adage in the world of project management that you can get a ...
 
@@ -63,6 +63,6 @@ There's an old adage in the world of project management that you can get a ...
 
 # Post navigation
 
-[← Creating a Culture of Loving Sarcasm](<https://csblog.quietlife.net/2015/07/23/creating-a-culture-of-loving-sarcasm/>)
+[← Creating a Culture of Loving Sarcasm](</2015/07/23/creating-a-culture-of-loving-sarcasm/>)
 
-[What is "Googlebot cannot access CSS and JS files?" →](<https://csblog.quietlife.net/2015/08/10/what-is-googlebot-cannot-access-css-and-js-files/>)
+[What is "Googlebot cannot access CSS and JS files?" →](</2015/08/10/what-is-googlebot-cannot-access-css-and-js-files/>)

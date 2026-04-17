@@ -5,7 +5,7 @@ date: 2011-11-29
 author: Jon Arnold
 categories: [Miscellaneous]
 ---
-As you may know, here at Centresource we employ the [ROWE](<http://en.wikipedia.org/wiki/ROWE>) time management system. We've talked about it at [great](<https://csblog.quietlife.net/2011/03/30/rowe-part-1-journey-to-the-dark-side/>) [length](<https://csblog.quietlife.net/2011/04/11/rowe-ii-defining-the-r/>) [on](<https://csblog.quietlife.net/2011/04/19/rowe-iii-the-review/>) [this](<https://csblog.quietlife.net/2011/03/16/going-rowe-my-first-30-days/>) [blog](<https://csblog.quietlife.net/2005/05/31/underlying-computing-shifts/>) before, but I'd like to spend a little more time talking about how to effectively implement it on a personal level.
+As you may know, here at Centresource we employ the [ROWE](<http://en.wikipedia.org/wiki/ROWE>) time management system. We've talked about it at [great](</2011/03/30/rowe-part-1-journey-to-the-dark-side/>) [length](</2011/04/11/rowe-ii-defining-the-r/>) [on](</2011/04/19/rowe-iii-the-review/>) [this](</2011/03/16/going-rowe-my-first-30-days/>) [blog](</2005/05/31/underlying-computing-shifts/>) before, but I'd like to spend a little more time talking about how to effectively implement it on a personal level.
 
 As a relatively new hire to the team, and coming from the corporate world, ROWE was quite a culture shock. It went something like this:
 
@@ -27,7 +27,7 @@ I do my best to avoid procrastination and time wasting, but I'm human. Failure t
 
   1. Monitoring Your Time
 
-It's important to find simple tools to help keep you on track. I've spoken on the wonders of the [Pomodoro technique](<https://csblog.quietlife.net/2011/09/21/how-an-italian-tomato-fixed-my-brain/>), which aligns your focus on one single thirty minute task. This system puts your mind on a nice cycle of productivity, allowing you to focus without getting too overwhelmed or stressed out.
+It's important to find simple tools to help keep you on track. I've spoken on the wonders of the [Pomodoro technique](</2011/09/21/how-an-italian-tomato-fixed-my-brain/>), which aligns your focus on one single thirty minute task. This system puts your mind on a nice cycle of productivity, allowing you to focus without getting too overwhelmed or stressed out.
 
 When I complete a task, it's easy to minimize my current working window, open up a browser, and look at [cat photos](<http://icanhascheezburger.com/>) on the Internet. While taking a break is necessary (and [really, really cute](<http://www.cuteoverload.com/>)), it's best to try and only allow distractions for a five minute time period.
 
@@ -49,4 +49,4 @@ The biggest thing that contributes to distraction when working remotely? Your ow
 
 Remember: working remotely is a privilege, something hard-earned and hard-kept. With the right systems in place, you can focus yourself in any environment. Good ROWE, and good luck.
 
-_Once you've optimized your productivity process for working remotely, be sure to[tweet us](<http://www.twitter.com/centresource>) with your ["Where Did You ROWE?"](<https://csblog.quietlife.net/2011/08/29/where-do-you-rowe/>) photos!_
+_Once you've optimized your productivity process for working remotely, be sure to[tweet us](<http://www.twitter.com/centresource>) with your ["Where Did You ROWE?"](</2011/08/29/where-do-you-rowe/>) photos!_

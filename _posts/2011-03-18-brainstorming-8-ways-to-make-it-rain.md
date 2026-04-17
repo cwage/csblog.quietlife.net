@@ -5,7 +5,7 @@ date: 2011-03-18
 author: Lyndsay Rush
 categories: [Interactive Strategy, Marketing]
 ---
-![The perfect example of a bad idea \(this picture\) in a safe environment \(this blog.\)](https://csblog.quietlife.net/wp-content/uploads/2011/03/Picture-14-300x227.png)
+![The perfect example of a bad idea \(this picture\) in a safe environment \(this blog.\)](/wp-content/uploads/2011/03/Picture-14-300x227.png)
 
 If you're anything like me, you've long been taught that a bad idea is just that--bad. And furthermore that there's no time or place for such things.
 

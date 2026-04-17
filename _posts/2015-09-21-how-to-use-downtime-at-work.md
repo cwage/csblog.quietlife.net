@@ -13,7 +13,7 @@ On the flipside, ask people what tools they're using in general, both at the off
 
 It's a good idea, in general, to task yourself and your company with regular tool review intervals. Maybe every three to six months you look at what's caught on and what's withered on the vine. It's also a good opportunity to assign folks to vet free trial accounts.
 
-**Be Your Own Client![downtime-at-work](https://csblog.quietlife.net/wp-content/uploads/2015/09/downtime-300x220.jpg)**
+**Be Your Own Client![downtime-at-work](/wp-content/uploads/2015/09/downtime-300x220.jpg)**
 
 If you work in a consultancy or an agency, chances are you have a fair number of formal processes you take your clients through on a regular basis -- but do you have a feedback loop in place?
 
@@ -37,32 +37,32 @@ While at times it can be difficult to use downtime at work effectively, free tim
 
 * * *
 
-  * [Culture](<https://csblog.quietlife.net/category/culture/>)
+  * [Culture](</category/culture/>)
 
 
 
 ![](http://1.gravatar.com/avatar/75b245664eaa6d08108bb6bd4c337499?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Tomiko Peirano](<https://csblog.quietlife.net/author/tpeirano/> "Posts by Tomiko Peirano")
+#### [Tomiko Peirano](</author/tpeirano/> "Posts by Tomiko Peirano")
 
 TOMI is cool. You sense this right off the bat when you meet her, but for further proof look no further than her best friendship* with Isaac Hayes--Shaft himself. She's from Yamhill Valley in Oregon and graduated with a Bachelors of Fine Arts from NY University. When transitioning from NY to Nashville she was surprised by the openness and approachability of the people who live here--which made it surprisingly easy to transition from NYC. When she is not giving off cool vibes, she enjoys cooking, reading, writing and hiking the parks of Nashville. *Meeting him once and chatting for a few minutes counts as BFFs, right?
 
 
 
 
-[ ![Wish We Had Thought of This](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/09/26/wish-thought/>)
+[ ![Wish We Had Thought of This](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2014/09/26/wish-thought/>)
 
-### [Wish We Had Thought of This](<https://csblog.quietlife.net/2014/09/26/wish-thought/>)
+### [Wish We Had Thought of This](</2014/09/26/wish-thought/>)
 
-September 26, 2014 / [Culture](<https://csblog.quietlife.net/category/culture/>)
+September 26, 2014 / [Culture](</category/culture/>)
 
 As a company that prides ourselves in finding solutions for our clients, we make it ...
 
-[ ![How'd We Do? A Look Back at our Web Predictions](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/11/18/howd-look-back-web-predictions/>)
+[ ![How'd We Do? A Look Back at our Web Predictions](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2014/11/18/howd-look-back-web-predictions/>)
 
-### [How'd We Do? A Look Back at our Web Predictions](<https://csblog.quietlife.net/2014/11/18/howd-look-back-web-predictions/>)
+### [How'd We Do? A Look Back at our Web Predictions](</2014/11/18/howd-look-back-web-predictions/>)
 
-November 18, 2014 / [Culture](<https://csblog.quietlife.net/category/culture/>)
+November 18, 2014 / [Culture](</category/culture/>)
 
 On Sept. 2, 2009, in the Centresource company meeting, our CEO had the staff break ...
 
@@ -70,6 +70,6 @@ On Sept. 2, 2009, in the Centresource company meeting, our CEO had the staff bre
 
 # Post navigation
 
-[← How to Recruit Developers & Tech Talent](<https://csblog.quietlife.net/2015/08/31/how-to-recruit-developers-tech-talent/>)
+[← How to Recruit Developers & Tech Talent](</2015/08/31/how-to-recruit-developers-tech-talent/>)
 
-[Should My Company Be on Instagram? What About Twitter? Snapchat? →](<https://csblog.quietlife.net/2015/09/24/should-my-company-be-on-instagram-what-about-twitter-snapchat/>)
+[Should My Company Be on Instagram? What About Twitter? Snapchat? →](</2015/09/24/should-my-company-be-on-instagram-what-about-twitter-snapchat/>)

@@ -5,13 +5,13 @@ date: 2011-04-21
 author: Beth Mathews
 categories: [Miscellaneous]
 ---
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/04/trapperkeeper2.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/04/trapperkeeper2.png> "trapperkeeper")
+[![](/wp-content/uploads/2011/04/trapperkeeper2.png)](</wp-content/uploads/2011/04/trapperkeeper2.png> "trapperkeeper")
 
 I'm always fascinated with other designer's tricks of the trades so when I saw [Design Sponge](<http://www.designspongeonline.com/category/whats-in-your-toolbox>) feature a 'What's in Your Tool Box" series, I knew it would be fun for our designers here at centresource to showcase our tools, or in other words, show a designer's trapper keeper.****
 
 **1\. What's in your graphic design 'Trapper Keeper' these days?**
 
-**[](<https://csblog.quietlife.net/wp-content/uploads/2011/04/whats-in-your-tool-box1.jpg>)[![](https://csblog.quietlife.net/wp-content/uploads/2011/04/whats-in-your-tool-box2.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/04/whats-in-your-tool-box2.jpg>)  
+**[](</wp-content/uploads/2011/04/whats-in-your-tool-box1.jpg>)[![](/wp-content/uploads/2011/04/whats-in-your-tool-box2.jpg)](</wp-content/uploads/2011/04/whats-in-your-tool-box2.jpg>)  
 **
 
 1\. Mac Book Pro 2. Asus external monitor 3. User interface design stencils 4. Pandora radio 5. Ear buds to listen to music and help "get in the zone" 6. A great sketch book! 7. Green tea to help me stay alert

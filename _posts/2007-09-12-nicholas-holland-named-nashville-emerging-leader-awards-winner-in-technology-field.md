@@ -5,7 +5,7 @@ date: 2007-09-12
 ---
 **Nicholas Holland** , President and CEO of CentreSource Inc. (www.centresource.com), Nashville's leading custom web design and web application development firm, was named a Nashville Emerging Leader Awards Winner in the Technology field.
 
-![1365645231_ea91a078a0_m.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/09/1365645231_ea91a078a0_m.jpg)
+![1365645231_ea91a078a0_m.jpg](/wp-content/uploads/2007/09/1365645231_ea91a078a0_m.jpg)
 
 The **[Nashville Area Chamber of Commerce](<http://www.nashvillechamber.com/>)** and the **[20/20 Leadership Alliance](<http://www.ypnashville.org/>)** hosted the Inaugural Nashville Emerging Leaders Awards (NELAs) Ceremony at Vanderbilt University's Student Life Center September 6, 2007. The NELAs recognizes young professionals in 12 industry classifications who are excelling in their careers and making a difference in the Nashville community.
 
