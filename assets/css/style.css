@@ -65,7 +65,6 @@ h2.date, h2.sidebarhead, h2 {
   font: bold 100% "Times New Roman", Times, serif;
   margin: 15px 0 2px 0;
   padding-bottom: 2px;
-  white-space: nowrap;
   clear: both;
 }
 
@@ -296,4 +295,86 @@ code {
 
 .pagination a {
   padding: 2px 8px;
+}
+
+/* Keep media from blowing out narrow viewports */
+img, iframe, video, embed, object {
+  max-width: 100%;
+  height: auto;
+}
+
+pre {
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+/* Tablet: shrink the sidebar a bit so content has room */
+@media (max-width: 1024px) {
+  #content {
+    margin: 30px 12em 0 1.5em;
+    padding-right: 20px;
+  }
+  #menu {
+    width: 11em;
+    padding: 20px 0 10px 15px;
+  }
+}
+
+/* Phone: stack the sidebar below content, relax tight margins */
+@media (max-width: 720px) {
+  #header {
+    font-size: 160%;
+    padding-left: 8px;
+  }
+  #header img {
+    max-width: 60%;
+    height: auto;
+  }
+
+  #content {
+    margin: 20px 1em 0 1em;
+    padding-right: 0;
+  }
+
+  #menu {
+    position: static;
+    width: auto;
+    right: auto;
+    top: auto;
+    border-left: 0;
+    border-top: 1px dotted #ccc;
+    margin: 2em 1em 0 1em;
+    padding: 10px 0 10px 0;
+  }
+
+  #menu form {
+    margin: 0;
+  }
+
+  .storycontent {
+    padding-left: 0;
+  }
+
+  p, dt, dd, li, .feedback {
+    padding-left: 0;
+  }
+
+  blockquote {
+    margin-left: 0.75em;
+  }
+
+  /* Stop prev/next nav from colliding — stack them */
+  #navigation .alignleft,
+  #navigation .alignright {
+    float: none;
+    display: block;
+    text-align: center;
+    margin: 4px 0;
+  }
+
+  /* Long words / URLs shouldn't force horizontal scroll */
+  .storycontent, .storytitle, p, li {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
 }
