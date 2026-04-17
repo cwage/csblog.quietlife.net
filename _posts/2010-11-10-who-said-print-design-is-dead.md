@@ -13,4 +13,4 @@ Here at Centresource we do a lot of initial sketch concepts / prototypes for cli
 
 It is great how they standardize many common UI elements to quickly stencil and then move on to more important client specifics. It comes with the stencil and a mechanical pencil, but you can also buy Browser Sketch Pads which are amazing. I suspect I will be using this for every one of our bootcamps from now on (and the crowd cheered).
 
-Check them out at <http://www.uistencils.com/>
+Check them out at <https://web.archive.org/web/20101110/http://www.uistencils.com/>

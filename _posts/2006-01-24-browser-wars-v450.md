@@ -8,6 +8,6 @@ OperaWatch [notes a weird phenomenon](<http://operawatch.blogspot.com/2006/01/sw
 
 Pretty weird. I am a big emusic fan and a big Opera fan -- where do my allegiances lie?! Any guesses as to the explanation for this?
 
-**UPDATE:** [about.com's take](<http://mp3.about.com/od/wheretobuymusic/a/emusic_bias.htm>):
+**UPDATE:** [about.com's take](<https://web.archive.org/web/20060205051007/http://mp3.about.com/od/wheretobuymusic/a/emusic_bias.htm>):
 
 > My best guess would be that they're pulling for a greater market share from the browsers that use them the least, in which case I guess savvy Firefox users are being punished for using eMusic more than anyone else.

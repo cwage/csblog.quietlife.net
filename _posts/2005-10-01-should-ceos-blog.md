@@ -26,17 +26,17 @@ This is a real concern and I think that all CEO's should be aware of such risks.
 
 Ultimately, I believe all CEO's have a duty to communicate with their employees & customers on a regular basis. Whether that's through an annual report or a blog, it doesn't matter. The same duty of care should be maintained for each.
 
-I've already typed why I made the decision to embrace a company blog. You can [read it here](<http://blog.centresource.com/2005/10/01/why-have-a-company-blog-a-ceos-perspective/>). I also found (via Dave's article), a great article on why CEO's should blog by Jeneane D. Sessum. She interviews many CEO's around the country and asks them why they blog, etc.
+I've already typed why I made the decision to embrace a company blog. You can [read it here](<https://web.archive.org/web/20060112085902/http://blog.centresource.com/2005/10/01/why-have-a-company-blog-a-ceos-perspective/>). I also found (via Dave's article), a great article on why CEO's should blog by Jeneane D. Sessum. She interviews many CEO's around the country and asks them why they blog, etc.
 
 **Her article lists blogs from CEO's & Executives such as:**  
-[Bob Cramer](<http://blogs.livevault.com/bob/>), CEO of LiveVault  
+[Bob Cramer](<https://web.archive.org/web/20050925011723/http://blogs.livevault.com/bob/>), CEO of LiveVault  
 [Karen Christensen](<http://www.berkshirepublishing.com/blog/>), CEO of Berkshire Publishing  
 [Gil Friend](<http://radio.weblogs.com/0109157/>), CEO of Natural Logic  
-[Phil Libin](<http://www.vastlyimportant.com/>), CEO of CoreStreet  
-[Matt Blumberg](<http://onlyonce.blogs.com/onlyonce/>), CEO of Return Path  
+[Phil Libin](<https://web.archive.org/web/20050830003828/http://www.vastlyimportant.com/>), CEO of CoreStreet  
+[Matt Blumberg](<https://web.archive.org/web/20050915024244/http://onlyonce.blogs.com/onlyonce/>), CEO of Return Path  
 [Christopher Locke](<http://www.chiefbloggingofficer.com/>), CBO (Chief Blogging Officer - yes, its a real title) of Highbeam  
 [Bob Lutz](<http://fastlane.gmblogs.com/>), Vice President of General Motors  
-[Jonathan Schwartz](<http://www.blogs.sun.com/roller/page/jonathan>), CEO/President of Sun Microsystems  
-[Mark Cuban](<http://www.blogmaverick.com/>), Business Mogul and Owner of Dallas Mavericks
+[Jonathan Schwartz](<https://web.archive.org/web/20051001121602/http://www.blogs.sun.com/roller/page/jonathan>), CEO/President of Sun Microsystems  
+[Mark Cuban](<https://web.archive.org/web/20051001052617/http://www.blogmaverick.com/>), Business Mogul and Owner of Dallas Mavericks
 
-_[Original Article](<http://blogs.ittoolbox.com/linux/world/archives/005829.asp>) found on IT ToolBox._
+_[Original Article](<https://web.archive.org/web/20051210065111/http://blogs.ittoolbox.com/linux/world/archives/005829.asp>) found on IT ToolBox._

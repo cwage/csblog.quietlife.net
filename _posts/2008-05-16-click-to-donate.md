@@ -9,6 +9,6 @@ Pay per click, cost per impression, return of investment(ROI), and conversion ra
 
 Advertiser's can reap the benefits from creating positively associated relationships. These relationships create and appease the social awareness that prospective consumer may be looking for. The hard part is what goes on in the boardroom where these advertising/marketing decisions are made. "How much are we spending and What is our ROI?" These questions arise from the lack of concrete returns.
 
-[http://www.charityusa.com](<http://www.charityusa.com/>)
+[http://www.charityusa.com](<https://web.archive.org/web/20100210024808/http://www.charityusa.com/>)
 
-[http://www.freerice.com](<http://www.freerice.com/>)
+[http://www.freerice.com](<https://web.archive.org/web/20080516134023/http://www.freerice.com/>)

@@ -4,7 +4,7 @@ title: "siteground's braindead spam-filtering"
 date: 2007-06-29
 author: Chris
 ---
-We have a customer of ours who pays us both for e-mail/web hosting as well as our anti-spam/anti-virus relay service, [Swirbo](<http://www.swirbo.com/>). Swirbo is a service that filters mail by having mail for a domain sent to it first, via MX records, and then relayed to its final destination.
+We have a customer of ours who pays us both for e-mail/web hosting as well as our anti-spam/anti-virus relay service, [Swirbo](<https://web.archive.org/web/20070628164348/http://www.swirbo.com/>). Swirbo is a service that filters mail by having mail for a domain sent to it first, via MX records, and then relayed to its final destination.
 
 Recently, this customer began reporting that she was unable to receive e-mail from certain people. Some investigation yielded this information from Swirbo, while attempting to deliver a legit e-mail message from someone on aol.com:
 
@@ -36,6 +36,6 @@ This was their response, after which they immediately closed the ticket (which I
 
 So, aside from their hideous customer service and refusal to give me a chance to respond to a support inquiry, we have what appears to be a very braindead attempt at spam-filtering by Siteground. What they seem to be saying is that when they receive an SMTP connection, they check the reverse-DNS for the IP, and if the domain name in the resulting A record doesn't match the sender's domain, they reject it. This makes no sense, and contravenes any number of standard practices involving SMTP relays. I'm assuming they only do this for certain larger domains (AOL, Yahoo, etc.), otherwise it's hard to imagine how their customers get any mail at all. The potential here for false-positives is huge.
 
-Similar problems as this emerge with [SPF](<http://en.wikipedia.org/wiki/Sender_Policy_Framework>), but this is above and beyond even that.
+Similar problems as this emerge with [SPF](<https://web.archive.org/web/20071012125810/http://en.wikipedia.org/wiki/Sender_Policy_Framework>), but this is above and beyond even that.
 
 Unfortunately, due to Siteground's complete lack of support, broken e-mail, and inability to address this problem, we'll probably be migrating what few accounts we have with them somewhere else.

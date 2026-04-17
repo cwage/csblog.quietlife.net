@@ -9,8 +9,8 @@ Over time, the culture changed from outward to inward as the endless meetings, r
 
 In a short time, managing upwards of 200 internal e-mails with the various threads and off topic sidebars began controlling our workday and subsequently, productivity! There was no more time to ring the cowbell as we were so busy with the urgent versus the things that really matter - providing value, returning phone calls, following up on tasks - basics that we come to expect and deliver as clients, customers and stakeholders.
 
-If you're being buried alive by e-mail, set aside some time to hear from **Merlin Mann**. Known for his blog [**43Folders**](<http://www.43folders.com/>), Merlin writes about personal productivity, life hacks, and simple ways to make your life a little better.
+If you're being buried alive by e-mail, set aside some time to hear from **Merlin Mann**. Known for his blog [**43Folders**](<https://web.archive.org/web/20070701103210/http://www.43folders.com/>), Merlin writes about personal productivity, life hacks, and simple ways to make your life a little better.
 
 Recently, Merlin presented a lecture at Google entitled "Inbox Zero". There are practical tips offered in a framework to stop e-mail from taking over our lives. Once e-mails are properly processed, there are more opportunities to build relationships; face-to-face, voice-to-voice. We could use more cowbell in our lives! 
 
-[Slides available](<http://www.slideshare.net/merlinmann/inbox-zero-actionbased-email>)
+[Slides available](<https://web.archive.org/web/20071011204310/http://www.slideshare.net/merlinmann/inbox-zero-actionbased-email>)

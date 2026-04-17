@@ -6,4 +6,4 @@ categories: [Miscellaneous]
 ---
 This is the best Flash Website I've ever seen... period... end of story... unbelievable...
 
-<http://www.vodafone.com/flash/futures/>
+<https://web.archive.org/web/20050526/http://www.vodafone.com/flash/futures/>

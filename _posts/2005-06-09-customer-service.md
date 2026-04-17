@@ -22,4 +22,4 @@ Via [broadbandreports](<http://www.broadbandreports.com/shownews/64403>), a good
 >  London Ontario Canada N6A 3C4 Fax: (519) 660-6770  
 >  ==================================================================== 
 
-Probably a bad time for me to pitch [Swirbo](<http://www.swirbo.com/>) to this guy?
+Probably a bad time for me to pitch [Swirbo](<https://web.archive.org/web/20050522012737/http://www.swirbo.com/>) to this guy?

@@ -11,5 +11,5 @@ The New York Times published [an article](<http3A2F2Fwww.nytimes.com2F20052F072F
 > 
 > His free code, which can be downloaded over the Internet, acts as a software key, Mr. Wildenborg explained. He said it merely unlocked the sexually graphic images that are hidden inside the game and written by programmers who work for the game's developer, Rockstar Games, which is owned by Take-Two Interactive, a leading game publisher. 
 
-The 'Easter Egg' has been verified and proof can be [obtained here](<http://www.gtasanandreas.net/news/single.php?id=1469>).  
+The 'Easter Egg' has been verified and proof can be [obtained here](<https://web.archive.org/web/20050815081250/http://www.gtasanandreas.net/news/single.php?id=1469>).  
 *Warning, this link includes images/video of sexually explicit nature*

@@ -5,7 +5,7 @@ date: 2006-01-12
 author: Chris
 categories: [News, Software]
 ---
-Looks like [Thunderbird 1.5](<http://www.mozilla.com/thunderbird/releases/1.5.html>) is out. List of new features below the fold:
+Looks like [Thunderbird 1.5](<https://web.archive.org/web/20060114065226/http://www.mozilla.com/thunderbird/releases/1.5.html>) is out. List of new features below the fold:
 
   * Automated update to streamline product upgrades. Notification of an update is more prominent,  
 and updates to Thunderbird may now be half a megabyte or smaller. Updating extensions has also improved.

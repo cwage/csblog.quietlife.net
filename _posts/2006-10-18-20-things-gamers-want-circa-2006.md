@@ -19,6 +19,6 @@ Here are some great quotes from the article:
 
 > Finally, we can have a game world where, like the real world, the rich kids have all of the cool stuff! While you're fighting for 50 hours on an XBox role playing game to get the +50 Magical Shield of Shielding, some snotty kid just went out and bought one with real-world money thanks to his $150.00 weekly allowance from Daddy! 
 
-In my opinion, he's spot on... many of the games feel a bit 'formula'. Like the article points out, perhaps expanding budgets cause developers to stick with 'what works'. Eventually there will be a market for free-lance game designers - especially if the right tools make it to the open source world. Just look at [PlaneShift - its a real open source MMORPG](<http://www.planeshift.it/main_01.html>)... with players and everything!
+In my opinion, he's spot on... many of the games feel a bit 'formula'. Like the article points out, perhaps expanding budgets cause developers to stick with 'what works'. Eventually there will be a market for free-lance game designers - especially if the right tools make it to the open source world. Just look at [PlaneShift - its a real open source MMORPG](<https://web.archive.org/web/20061023003142/http://www.planeshift.it/main_01.html>)... with players and everything!
 
 Anyways, thank you [David Wong and Haimoimoi for writing such a great article](<http://www.pointlesswasteoftime.com/games/manifesto.html>).

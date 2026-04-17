@@ -9,7 +9,7 @@ Content is king, right?It takes great content to both 1) optimize your website f
 
 Great content is keyword-focused, frequent, and direct. It's also brief - probably even more brief than you'd want to assume.
 
-[This study on web usability](<http://www.useit.com/alertbox/percent-text-read.html>) highlights some startling facts for those long-winded writers among us (myself included):
+[This study on web usability](<https://web.archive.org/web/20080511183606/http://www.useit.com/alertbox/percent-text-read.html>) highlights some startling facts for those long-winded writers among us (myself included):
 
   * Users tend to spend a baseline of about 25 seconds on your page if they're actually reading content. In that 25 seconds, they're reading about 104 words.
   * Users only spend 4.4 seconds more on your site for each additional 100 words of content - meaning they're not really reading it. (Most people read at a rate of about 200 to 250 words per minute.)

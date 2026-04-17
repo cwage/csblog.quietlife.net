@@ -4,7 +4,7 @@ title: "mysql FULLTEXT search length"
 date: 2005-06-09
 author: Chris
 ---
-I discovered something interesting today. We couldn't figure out why our internal documentation wiki (which uses [mediawiki](<http://wikipedia.sourceforge.net/>)) seemed to search so poorly. i.e., if you searched for "ftp", you got no results, even though there were tons of entries with "FTP" in them.
+I discovered something interesting today. We couldn't figure out why our internal documentation wiki (which uses [mediawiki](<https://web.archive.org/web/20050610031454/http://wikipedia.sourceforge.net/>)) seemed to search so poorly. i.e., if you searched for "ftp", you got no results, even though there were tons of entries with "FTP" in them.
 
 I suspected it had to do with length limitations, and I was right -- but it has nothing to do with mediawiki. It's MySQL's FULLTEXT searching, which is limited to 4+ characters minimum by default. Luckily, it's customizable. In our case, I simply added this line to /etc/mysql/my.cnf in the [mysqld] section:
 

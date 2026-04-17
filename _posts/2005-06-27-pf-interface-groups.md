@@ -4,7 +4,7 @@ title: "pf interface groups"
 date: 2005-06-27
 author: Chris
 ---
-Some [cool additions](<http://marc.theaimsgroup.com/?l=openbsd-misc&m=111894940807554&w=2>) to OpenBSD's pf:
+Some [cool additions](<https://web.archive.org/web/20210723223540/http://marc.theaimsgroup.com/?l=openbsd-misc&m=111894940807554&w=2>) to OpenBSD's pf:
 
 > An interface group, is, well, a group of interfaces (surprised,  
 >  anyone?). Interfaces can join and leave interface groups any time, and  

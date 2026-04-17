@@ -3,7 +3,7 @@ layout: post
 title: "MS provides free download of Visual Web Developer 2005 Express Edition Beta 2"
 date: 2005-06-07
 ---
-Microsoft is providing [a free download](<http://msdn.microsoft.com/asp.net/getvwd/>) of their beta 2 version of Visual Web Developer 2005 Express eition.
+Microsoft is providing [a free download](<https://web.archive.org/web/20050608012251/http://msdn.microsoft.com/asp.net/getvwd/>) of their beta 2 version of Visual Web Developer 2005 Express eition.
 
 Here the pitch:
 

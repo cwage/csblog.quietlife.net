@@ -5,7 +5,7 @@ date: 2012-05-23
 author: Evan Owens
 categories: [Miscellaneous]
 ---
-This is part 2 of 2 on a series [![](http://blog.centresource.com/wp-content/uploads/2012/05/Messages-Image1966799549.png)](<http://blog.centresource.com/wp-content/uploads/2012/05/Messages-Image1966799549.png> "Messages Image\(1966799549\)")regarding the the power of asking the right questions. During the last blog we looked at how the questions a leader asks will indicate what they really care about. Recently Andy Stanley discussed six questions every leader should be asking. I've expanded on each of his questions by sharing my own thoughts. Below are the questions he discusses and the full podcast can be found here: <http://itunes.apple.com/us/podcast/andy-stanley-leadership-podcast/id290055666>
+This is part 2 of 2 on a series [![](http://blog.centresource.com/wp-content/uploads/2012/05/Messages-Image1966799549.png)](<http://blog.centresource.com/wp-content/uploads/2012/05/Messages-Image1966799549.png> "Messages Image\(1966799549\)")regarding the the power of asking the right questions. During the last blog we looked at how the questions a leader asks will indicate what they really care about. Recently Andy Stanley discussed six questions every leader should be asking. I've expanded on each of his questions by sharing my own thoughts. Below are the questions he discusses and the full podcast can be found here: <https://web.archive.org/web/20120523/http://itunes.apple.com/us/podcast/andy-stanley-leadership-podcast/id290055666>
 
 **1\. Which gauges should we be watching.**
 

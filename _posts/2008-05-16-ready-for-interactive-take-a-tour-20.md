@@ -9,6 +9,6 @@ I've seen this a few too many times now - a business starts talking about intera
 
 So here's my best advice: if you're ready to start thinking about interactive, take a few minutes and play with the best of the best tools out there. Just start with the greatest hits. Get a feel for how they work, and how powerful user-created data and content has made Web 2.0.
 
-For quick reference, we just ran across [this list of the 100 best Web 2.0 services.](<http://www.webware.com/html/ww/2007.html>) You'll see things you're probably already familiar with like Google (of course), Yahoo, MySpace. But then other tools that we still find ourselves introducing for the first time - great tools like StumbleUpon, Basecamp, Flickr, and more.
+For quick reference, we just ran across [this list of the 100 best Web 2.0 services.](<https://web.archive.org/web/20080509143701/http://www.webware.com/html/ww/2007.html>) You'll see things you're probably already familiar with like Google (of course), Yahoo, MySpace. But then other tools that we still find ourselves introducing for the first time - great tools like StumbleUpon, Basecamp, Flickr, and more.
 
 And, funny enough, they even left Twitter off the list. Guess we'll keep explaining that one. (All kidding aside, though, we're here to explain these things and show you the value in using them. And the geek in me really kind of likes explaining Twitter.)

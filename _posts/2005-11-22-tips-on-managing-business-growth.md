@@ -12,7 +12,7 @@ Inevitably, a small growing firm reaches its capacity limit at some point in the
 
 If the entreprenuer incorrectly hires, they hurts the business by having excess capacity sitting on the bench and not generating a needed ROI. If the entprenuer incorrectly rides the storm, the firm suffers by having stressed employees, lower quality, and even a damaged reputation. This tricky balance is what makes the 'G-Word' a very difficult process to manage - especially as a small business.
 
-Here are some great tips for managing business growth from [Businesstown.com](<http://www.businesstown.com/managing/growth-advice.asp>)
+Here are some great tips for managing business growth from [Businesstown.com](<https://web.archive.org/web/20051125083624/http://www.businesstown.com/managing/growth-advice.asp>)
 
 > * Establish credit lines that grow  
 >  Whenever possible, try to establish credit lines that will grow along with the business. For example, in setting up a credit line with your bank, try to get a credit line based on a percentage of your receivables, rather than a constant, static amount. Chances are your credit line will be reviewed by your bank annually and will be subject to ceilings and restrictions, but try to build as much flexibility into your borrowing relationships as you can. This will leave you better equipped to finance fast growth. Also try to establish credit lines with your trade suppliers that grow along with your business as well.
@@ -30,10 +30,10 @@ Here are some great tips for managing business growth from [Businesstown.com](<h
 There are many, many strategies to managing growth. The most valuable advice is for you to actually sit down and analyze your business. Determine your growth, how it is affecting you, and what steps you need to take to cope.
 
 Here are more great resources:  
-[NFIB - Managing Growth](<http://www.nfib.com/page/managingGrowth.html>)  
-[Business Journal - Manage Growth](<http://www.bizjournals.com/dallas/stories/2001/08/20/focus4.html>)  
-[SCORE - 60 Second Guide to Managing Growth](<http://www.score.org/60_guide_managing_growth.html>)
+[NFIB - Managing Growth](<https://web.archive.org/web/20051125091949/http://www.nfib.com/page/managingGrowth.html>)  
+[Business Journal - Manage Growth](<https://web.archive.org/web/20060209174654/http://www.bizjournals.com/dallas/stories/2001/08/20/focus4.html>)  
+[SCORE - 60 Second Guide to Managing Growth](<https://web.archive.org/web/20051124063542/http://www.score.org/60_guide_managing_growth.html>)
 
 Lastly, I also found a great article about seeking a board of directors to assist in managing your growth. This isn't a novel idea - just a novel idea for small entreprenuers. We feel like we are kings of our domains, so it's difficult for us to consider seeking advice from a panel of peers. Nonetheless, check out the article:
 
-[Tips on Establishing a Board of Directors](<http://www.startupjournal.com/columnists/growth/20040218-growth.html>)
+[Tips on Establishing a Board of Directors](<https://web.archive.org/web/20051127081103/http://www.startupjournal.com/columnists/growth/20040218-growth.html>)

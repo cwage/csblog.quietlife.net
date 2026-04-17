@@ -4,7 +4,7 @@ title: "tower of google"
 date: 2005-06-01
 author: Chris
 ---
-If half of the things mentioned in [this factory tour webcast](<http://blog.outer-court.com/archive/2005-05-22-n83.html>) by Google come to fruition, it will be a fascinating development:
+If half of the things mentioned in [this factory tour webcast](<https://web.archive.org/web/20050602003738/http://blog.outer-court.com/archive/2005-05-22-n83.html>) by Google come to fruition, it will be a fascinating development:
 
 > At the recent web cast of the Google Factory Tour, researcher Franz Och presented the current state of the Google Machine Translation Systems. He compared translations of the current Google translator, and the status quo of the Google Research Lab's activities. The results were highly impressive. A sentence in Arabic which is now being translated to a nonsensical "Alpine white new presence tape registered for coffee confirms Laden" is now in the Research Labs being translated to "The White House Confirmed the Existence of a New Bin Laden Tape."
 > 

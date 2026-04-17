@@ -11,9 +11,9 @@ First up is a dangerous inconsistency in how Microsoft Windows handles file dele
 
 In any event, the ramifications are that users in Windows are generally not overly-cautious in deleting files because they generally have the safety net of the Recycling Bin. This dependency is dangerous when they encounter shared files because that safety net disappears. I just had a client call me with precisely this situation -- he had deleted (accidentally) an entire folder from a share and was asking why it wasn't in his Recycling Bin. Naturally we could retrieve it from a backup, but not everyone is so lucky.
 
-At first I thought there was something I was overlooking here -- surely Windows wouldn't leave people hanging in such an obvious way, but alas, as some quick research [has confirmed](<http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=22273>) that this it's true.
+At first I thought there was something I was overlooking here -- surely Windows wouldn't leave people hanging in such an obvious way, but alas, as some quick research [has confirmed](<https://web.archive.org/web/20051222125935/http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=22273>) that this it's true.
 
-One of the many ways in which [Samba](<http://www.samba.org/>) has a leg up on Windows for filesharing is that Samba allows you to account for this problem by using the "recycle" vfs object so that files are never deleted, but are instead moved to a directory. Example config:
+One of the many ways in which [Samba](<https://web.archive.org/web/20051024000744/http://www.samba.org/>) has a leg up on Windows for filesharing is that Samba allows you to account for this problem by using the "recycle" vfs object so that files are never deleted, but are instead moved to a directory. Example config:
 
 > [RecycleShare]  
 >  comment = Share with Recycling  

@@ -3,7 +3,7 @@ layout: post
 title: "Apple's new Intel-Powerbook"
 date: 2006-03-14
 ---
-Apple has released another Macintel machine: a sexy new powerbook that they are dubbing "the finest laptop in the world". Combining Intel's new CORE Duo Chip (two chips on one), a profile of 1" and 5.6lbs, and all the pizazz of Mac OS X - this laptop is poised to be a real winner. Perhaps most surprising is how affordable it is... starting around $2000. I found an [honest overview](<http://www.lawcrossing.com/article/index.php?id=1402>) of the machine at [Law Crossing](<http://www.lawcrossing.com/>) (surprising) - here are some brief exerpts:  
+Apple has released another Macintel machine: a sexy new powerbook that they are dubbing "the finest laptop in the world". Combining Intel's new CORE Duo Chip (two chips on one), a profile of 1" and 5.6lbs, and all the pizazz of Mac OS X - this laptop is poised to be a real winner. Perhaps most surprising is how affordable it is... starting around $2000. I found an [honest overview](<https://web.archive.org/web/20060626061604/http://www.lawcrossing.com/article/index.php?id=1402>) of the machine at [Law Crossing](<https://web.archive.org/web/20060308074752/http://www.lawcrossing.com/>) (surprising) - here are some brief exerpts:  
 
 
 > Included on the fresh list is its 1,440-by-900-pixel screen that is dazzling in its brightness and a minuscule, almost hidden, iSight camera located above it, perfect for snapping pics and making videos.  

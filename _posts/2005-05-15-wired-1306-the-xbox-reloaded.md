@@ -3,9 +3,9 @@ layout: post
 title: "Wired 13.06: The Xbox Reloaded"
 date: 2005-05-15
 ---
-There are two companies I've always said I don't want to go against - Walmart & Microsoft. Anyone with the courage to take on Sony in the video game market - and start to win ([Click here to read more](<http://www.wired.com/wired/archive/13.06/xbox.html>)) must be given respect. No monopolies... just raw power of money and influence.
+There are two companies I've always said I don't want to go against - Walmart & Microsoft. Anyone with the courage to take on Sony in the video game market - and start to win ([Click here to read more](<https://web.archive.org/web/20050516013230/http://www.wired.com/wired/archive/13.06/xbox.html>)) must be given respect. No monopolies... just raw power of money and influence.
 
-Here's the proof they knew what they were doing... thank goodness [CentreSource](<http://www.centresource.com/>) is not in their sight!
+Here's the proof they knew what they were doing... thank goodness [CentreSource](<https://web.archive.org/web/20050522020014/http://www.centresource.com/>) is not in their sight!
 
 > _  
 > On Valentine's Day 2000, Ballmer and Gates sat down with Allard and the heads of a handful of other Microsoft divisions for an all-day meeting to decide whether to make the $2 billion commitment required to get Xbox off the ground. Allard sketched out a road map in an email he sent around on the morning of the meeting:_

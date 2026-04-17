@@ -4,7 +4,7 @@ title: "LinkedIn and SimplyHired: Match made in heaven"
 date: 2005-06-14
 categories: [News]
 ---
-[LinkedIn ](<http://www.linkedin.com/>)and [SimplyHired ](<http://www.simplyhired.com/>)are teaming up to make a powerful service ([as described by Dave Taylor](<http://blogs.ittoolbox.com/linux/world/archives/004595.asp>)):
+[LinkedIn ](<https://web.archive.org/web/20051015052818/http://www.linkedin.com/>)and [SimplyHired ](<https://web.archive.org/web/20050614010721/http://www.simplyhired.com/>)are teaming up to make a powerful service ([as described by Dave Taylor](<http://blogs.ittoolbox.com/linux/world/archives/004595.asp>)):
 
 > It's great to learn, therefore, that the two companies have jointly released a job networking system that uses the power of SimplyHired's database and the social networking (really, if it's business-related, I feel that "social networking" is a misnomer, but that's the big buzz word) of LinkedIn to produce a powerful and fascinating hybrid.
 > 

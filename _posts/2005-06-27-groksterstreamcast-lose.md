@@ -4,7 +4,7 @@ title: "grokster/streamcast lose"
 date: 2005-06-27
 author: Chris
 ---
-Well, it's official: Grokster and Streamcast [lost the SCOTUS case](<http://www.scotusblog.com/movabletype/archives/2005/06/grokster_stream.html>):
+Well, it's official: Grokster and Streamcast [lost the SCOTUS case](<https://web.archive.org/web/20050629015832/http://www.scotusblog.com/movabletype/archives/2005/06/grokster_stream.html>):
 
 > The Supreme Court ruled unanimously that developers of software violate federal copyright law when they provide computer users with the means to share music and movie files downloaded from the Internet, at least when the software companies take "affirmative steps to foster infringement." 
 

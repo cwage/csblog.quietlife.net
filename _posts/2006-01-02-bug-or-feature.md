@@ -5,7 +5,7 @@ date: 2006-01-02
 author: Chris
 categories: [Malware, News]
 ---
-F-secure has some [interesting commentary](<http://www.f-secure.com/weblog/#00000761>) on the latest [Windows WMF vulnerability](<http://www.microsoft.com/technet/security/advisory/912840.mspx>):
+F-secure has some [interesting commentary](<http://www.f-secure.com/weblog/#00000761>) on the latest [Windows WMF vulnerability](<https://web.archive.org/web/20060103101643/http://www.microsoft.com/technet/security/advisory/912840.mspx>):
 
 > The feature now in the limelight is known as the [Escape()](<http://msdn.microsoft.com/library/default.asp?url=/library/en-us/gdi/prntspol_0d6b.asp>) function and especially the [SetAbortProc](<http://msdn.microsoft.com/library/default.asp?url=/library/en-us/gdi/prntspol_0883.asp>) subfunction.
 > 

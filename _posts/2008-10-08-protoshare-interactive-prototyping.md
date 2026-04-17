@@ -5,7 +5,7 @@ date: 2008-10-08
 author: Mark Wise
 categories: [Planning]
 ---
-I was recently recommended [Protoshare](<http://protoshare.com/>) by some of the team here at c{s} and tasked with giving it a thorough look-through. I browsed the online docs, signed up for an account, and played around with it - here are the results of my digging:
+I was recently recommended [Protoshare](<https://web.archive.org/web/20081008032458/http://protoshare.com/>) by some of the team here at c{s} and tasked with giving it a thorough look-through. I browsed the online docs, signed up for an account, and played around with it - here are the results of my digging:
 
 ### Initial Thoughts:
 

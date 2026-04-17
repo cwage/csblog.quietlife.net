@@ -8,8 +8,8 @@ Referrer Spam is the bane of any blogger's statistic tracking. These low-life pe
 
 In the CentreBlog, our top 10 referrers are all Spammers - primarily split between online casinos and generic directories with hundreds of links. Given that its a Sunday afternoon and I some free time, I decided to go against the crowd and NOT IGNORE IT.
 
-My hunt starts off by trying to figure out who the referrers actually are. I start off with a basic WHOIS search ([http://www.whois.sc](<http://www.whois.sc/>)) on the #1 entry, thebenjamingate.com.  
-_For the record,[Internic.net](<http://www.internic.net/>) \- once known for their usefulness - is practically worthless in a WHOIS search._
+My hunt starts off by trying to figure out who the referrers actually are. I start off with a basic WHOIS search ([http://www.whois.sc](<https://web.archive.org/web/20050719235654/http://www.whois.sc/>)) on the #1 entry, thebenjamingate.com.  
+_For the record,[Internic.net](<https://web.archive.org/web/20050828232308/http://www.internic.net/>) \- once known for their usefulness - is practically worthless in a WHOIS search._
 
 Here are the results:
     
@@ -40,7 +40,7 @@ Here are the results:
 So now I know that:  
 1) This domain has been registered for a long time (since April 10, 2000). This person is probably no novice when it comes to the Internet. Also, they have probably left a trail somewhere...  
 2) The web server hosts 108 sites. I bet they are all Referrer Spam sites. If I can get this person stopped, I may make a small difference on the Internet!  
-3) **The most important data:** I know they are hosted at [ServerMatrix](<http://www.servermatrix.com/>) (a division of [The Planet](<http://www.theplanet.com/>)) and I know the IP address (70.84.113.250).
+3) **The most important data:** I know they are hosted at [ServerMatrix](<http://www.servermatrix.com/>) (a division of [The Planet](<https://web.archive.org/web/20050828225454/http://www.theplanet.com/>)) and I know the IP address (70.84.113.250).
 
 The WHOIS Site also returns the following contact info:
     
@@ -75,7 +75,7 @@ The WHOIS Site also returns the following contact info:
 
 Upon reading this info, I am doubtful that any of it is true. Even if it is, I highly doubt that anyone with the last name Zhao will have a real first name of 'Jackie'. When I see the phone number, I am immediately suspicious... Who has an (800) number? Nevertheless, I try calling it first... _SURPRISE, SURPRISE!_ It's a '**Sex Hotline** ' asking for my CC#. This guy is a real stand up fella. I bet his kids will turn out great...
 
-Since that isn't his real number, I try to see if I can find him via [Reverse Phone Number](<http://www.reversephonedirectory.com/>) lookup and address hunting. No dice - imagine that.
+Since that isn't his real number, I try to see if I can find him via [Reverse Phone Number](<https://web.archive.org/web/20050829002255/http://www.reversephonedirectory.com/>) lookup and address hunting. No dice - imagine that.
 
 All I have left is his email address... so I decide to send him an email.
 
@@ -90,12 +90,12 @@ All I have left is his email address... so I decide to send him an email.
 >  CentreSource Inc.  
 >  Nashville, TN 37210 
 
-Before I contact ServerMatrix, I remember [a great article about a guy tracking down Spyware](<http://blog.centresource.com/2005/05/04/why-make-spyware/>) and its affiliates. He brought up a good point - follow the money. So I go back to the culprit's website and identify who is paying the slime-ball his money.
+Before I contact ServerMatrix, I remember [a great article about a guy tracking down Spyware](<https://web.archive.org/web/20050921042049/http://blog.centresource.com/2005/05/04/why-make-spyware/>) and its affiliates. He brought up a good point - follow the money. So I go back to the culprit's website and identify who is paying the slime-ball his money.
 
 On the page (beyond all the links to gambling), I notice 'Webmasters, remember to join our Casino Affiliate Program'. Here's the kicker, the link is:  
 **adv.casinoblasters.com/index.php?JackyZhao**
 
-So his name is not Jackie, but Jacky. So I go to Google and type in " _Jacky Zhao_ " for all exact matches. **EUREKA!** I find one 'Jacky Zhao' [offering to sell a domain](<http://www.searchengineforums.com/apps/webmaster.forums/forum::buy-my-website/thread::1086441304/action::thread/>) (xjoke.net) and listing all of the page impressions it gets per month. Even more interesting, his name is listed in the actual text message as Jackie Zhao. So I hurriedly go back to the WHOIS site to see who owns xjoke.net.
+So his name is not Jackie, but Jacky. So I go to Google and type in " _Jacky Zhao_ " for all exact matches. **EUREKA!** I find one 'Jacky Zhao' [offering to sell a domain](<https://web.archive.org/web/20051221043657/http://www.searchengineforums.com/apps/webmaster.forums/forum::buy-my-website/thread::1086441304/action::thread/>) (xjoke.net) and listing all of the page impressions it gets per month. Even more interesting, his name is listed in the actual text message as Jackie Zhao. So I hurriedly go back to the WHOIS site to see who owns xjoke.net.
 
 Heeeeere's Jackie! But I am not 100% sure it's him - this Jackie is from China and the site now belongs to Andy Su. I try to visit the site, but the site won't resolve. What I am really looking for is the smoking gun - a site tied to this Jackie that shows up on the original casino site server.
     
@@ -114,7 +114,7 @@ So I keep reading his posts on the SEO site, and I find another one where he is 
 
 I conduct a tracert (trace-route command in DOS), but I don't get the smoking gun I was looking for - but close. The website, mp3cdsoft.com is hosted at ServerMatrix too - but on a different IP address. I conduct the normal WHOIS search on it, but all the contact info is blocked. It seems that a service called NameCheap.com will keep spammers info protected. My suspicions were confirmed when I saw the WHOIS database showed them as being listed as Spammers.
 
-> Blacklist Status: Listed - Cached Today ([details](<http://www.whois.sc/rbl/?ip=67.18.111.42>)) 
+> Blacklist Status: Listed - Cached Today ([details](<https://web.archive.org/web/20050719235654/http://www.whois.sc/rbl/?ip=67.18.111.42>)) 
 
 On a hunch, I decide to check other domains listed in our Referrer Spam list. I choose one, innerspacerecords.com, and launch a WHOIS on it. **BINGO - WE HAVE A WINNER!** Its listed at ServerMatrix, has Jackie Zhao as the Contact, and has the IP address 67.18.111.42 - the very same IP for mp3cdsoft.com. Its 100% confirmed, we now know it was the right Jacky.
 

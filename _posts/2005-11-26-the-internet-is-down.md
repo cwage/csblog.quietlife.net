@@ -9,7 +9,7 @@ Nearly everyone that has worked in tech support before (or even those that haven
 
 This happened to me a few months ago. We had a customer calling to ask why they were being flooded with calls from their users about their web application (which we host) was down.
 
-At first, I was perplexed, because I was on their server via SSH and also logged into the web application with no problems. No latency, no bandwidth problems, no load. Nothing. Then I remembered the news I had read that week. Cogent and Level3 were in the midst of a [billing spat](<http://www.computerworld.com/managementtopics/outsourcing/isptelecom/story/0,10801,105210,00.html>), and as a result, they were dropping eachothers' peering connections.
+At first, I was perplexed, because I was on their server via SSH and also logged into the web application with no problems. No latency, no bandwidth problems, no load. Nothing. Then I remembered the news I had read that week. Cogent and Level3 were in the midst of a [billing spat](<https://web.archive.org/web/20051023015947/http://www.computerworld.com/managementtopics/outsourcing/isptelecom/story/0,10801,105210,00.html>), and as a result, they were dropping eachothers' peering connections.
 
 So, we got some of the people complaining on the phone and got their IP address, and a few traceroutes later, sure enough, we verified that they were going through Level3 to get to us and were being dropped off the face of the earth.
 

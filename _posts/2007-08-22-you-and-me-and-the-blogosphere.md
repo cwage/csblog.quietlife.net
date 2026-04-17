@@ -3,9 +3,9 @@ layout: post
 title: "You and Me, and the Blogosphere"
 date: 2007-08-22
 ---
-It is a given assumption that Al Gore invented the Internet. A recent conversation came up as to who was "the world's first blogger." Some say it was Camille or Dave. Hopefully that burning debate will be put to rest now that weBloggers are about to get their very own, ground breaking, inaugural convention: the [BlogWorld Expo](<http://www.blogworldexpo.com/>) where else but in Las Vegas!
+It is a given assumption that Al Gore invented the Internet. A recent conversation came up as to who was "the world's first blogger." Some say it was Camille or Dave. Hopefully that burning debate will be put to rest now that weBloggers are about to get their very own, ground breaking, inaugural convention: the [BlogWorld Expo](<https://web.archive.org/web/20070822120521/http://www.blogworldexpo.com/>) where else but in Las Vegas!
 
-[VivaLaBlog!](<http://www.sifry.com/alerts/archives/000493.html>)
+[VivaLaBlog!](<https://web.archive.org/web/20070822213535/http://www.sifry.com/alerts/archives/000493.html>)
 
 According to their site, BlogWorld is " _the first and only industry-wide tradeshow, conference, and media event dedicated to promoting the dynamic industry of blogging and new media. In addition to the only industry-wide exhibition, BlogWorld will feature the largest blogging conference in the world including more than 50 seminars, panel discussions and keynotes from iconic personalities on the leading-edge of online technology and internet-savvy business_."
 
@@ -30,7 +30,7 @@ According to their site, BlogWorld is " _the first and only industry-wide trades
 * Blog readers average **23 hours online** each week .
 
 > **FIRST BLOGWORLD & NEW MEDIA EXPO TO BE WORLD'S LARGEST GATHERING OF BLOGGERS**  
->  Registration Now Open at [www.blogworldexpo.com](<http://www.blogworldexpo.com/>)
+>  Registration Now Open at [www.blogworldexpo.com](<https://web.archive.org/web/20070822120521/http://www.blogworldexpo.com/>)
 > 
 > LAS VEGAS - August 20, 2007 - Thousands of bloggers, vloggers and podcasters are set to descend on Las Vegas for BlogWorld & New Media Expo, the world's first, industry-wide blogging tradeshow. The inaugural event, to be held at the Las Vegas Convention Center Thursday - Friday, Nov. 8 - 9, 2007, with pre-show seminars Wednesday, Nov. 7, will bring together professional to citizen journalists, entertainment icons, industry pundits, and popular social communities, as well as internet radio and TV producers and podcasters in the most important assembly of future new media moguls. Registration is now open.
 > 

@@ -24,9 +24,9 @@ My statement on XML is based on the following from xml.com: "In order to appreci
 
 Thank you all for the comments. With your help the next draft will be cleaned up and hopefully free of factual errors.
 
-A higher quality version is available for download here: [LINK](<http://www.mediafire.com/?6duzg3zioyd>) Please note that this is the second draft and the final version will not be available until late February after I review all comments and revise the video. Please return for a new download link at that time.
+A higher quality version is available for download here: [LINK](<https://web.archive.org/web/20071011185420/http://www.mediafire.com/?6duzg3zioyd>) Please note that this is the second draft and the final version will not be available until late February after I review all comments and revise the video. Please return for a new download link at that time.
 
-The song is "There's Nothing Impossible" by Deus, available for free at [LINK](<http://www.jamendo.com/en/album/103/>)
+The song is "There's Nothing Impossible" by Deus, available for free at [LINK](<https://web.archive.org/web/20070913014946/http://www.jamendo.com/en/album/103/>)
 
 Deus offers music under a Creative Commons Attribution-NonCommercial-ShareAlike 2.0 license, yet one more example of the interlinking of people sharing and collaborating this video is attempting to illustrate.
 

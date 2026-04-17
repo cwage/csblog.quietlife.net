@@ -53,7 +53,7 @@ Luckily, Boingo has an iPhone app that is really awesome. In the past, I thought
 Needless to say, web surfing & handling email is awesome on the iPad, so I won't bore you with the user experience details.
 
 **On the Plane**  
-Without internet on the plane, the iPad becomes a lot less useful as a work device - especially when all of my work applications are web based. So, I switched over to entertainment mode. I watched all of my Video Podcasts and actually learned about an awesome team-building exercise called the Marshmallow Challenge ([http://www.marshmallowchallenge.com](<http://www.marshmallowchallenge.com/>)) from a TED Talk. To make sure I didn't forget to try it out in the future, I opened up Evernote and made a quick note that would Sync back with the service when I got WiFi again (thus making it available to all of my other devices in the future).
+Without internet on the plane, the iPad becomes a lot less useful as a work device - especially when all of my work applications are web based. So, I switched over to entertainment mode. I watched all of my Video Podcasts and actually learned about an awesome team-building exercise called the Marshmallow Challenge ([http://www.marshmallowchallenge.com](<https://web.archive.org/web/20100430191741/http://www.marshmallowchallenge.com/>)) from a TED Talk. To make sure I didn't forget to try it out in the future, I opened up Evernote and made a quick note that would Sync back with the service when I got WiFi again (thus making it available to all of my other devices in the future).
 
 _Note: I could have done all of this with my iPod Touch, but watching the Video Podcasts is better on a larger screen._
 
@@ -110,4 +110,4 @@ NLH
 
 Sent from my iPad
 
-[Posted via email](<http://posterous.com/>) from [nicholasholland's posterous](<http://nicholasholland.posterous.com/ipad-the-first-72-hours>)
+[Posted via email](<http://posterous.com/>) from [nicholasholland's posterous](<https://web.archive.org/web/20100505081153/http://nicholasholland.posterous.com/ipad-the-first-72-hours>)

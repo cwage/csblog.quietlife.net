@@ -15,6 +15,6 @@ And it continues with more frank, thought-provoking comments. Ultimately, they n
 
 Whether you're a consumer of content OR a content creator, I strongly recommend you listen: 
 
-<http://www.thisamericanlife.org/sites/all/play_music/play_full.php?play=102>
+<https://web.archive.org/web/20100608/http://www.thisamericanlife.org/sites/all/play_music/play_full.php?play=102>
 
 [Posted via email](<http://posterous.com/>) from [The Word of Holland](<http://nicholasholland.posterous.com/when-few-support-the-many>)

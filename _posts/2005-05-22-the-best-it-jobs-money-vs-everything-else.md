@@ -14,7 +14,7 @@ Jackson Miller, another blogger in TN and friend to CentreSource, posted this in
 
 > [  
 >  I learned two things listening to the podcast today. The first is that I really miss working on software that excites me. The second is that iPods are very cool, and everyone should have one.  
->  ](<http://jaxn.org/blog/archives/730-Podcasting-I-get-it,-or-should-I-say-I-got-one.html>)
+>  ](<https://web.archive.org/web/20050524091734/http://jaxn.org/blog/archives/730-Podcasting-I-get-it,-or-should-I-say-I-got-one.html>)
 
 I am not a psychologist, but I think the 'cool job' part breaks down into the following (the order of importance is different per person):
 

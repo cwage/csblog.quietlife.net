@@ -5,39 +5,39 @@ date: 2015-07-20
 ---
 There's a lot of information on the web, and a lot of great resources for developers, designers, do-it-yourselfers and basically anyone willing to learn. We read a lot of blogs which follow development and design trends for the web. I've put together the ultimate list of UX blogs here for you. Pop open your bookmark manager, or fire up your feedly app, because you're going to want to save these links.
 
-**Smashing Magazine** - <http://www.smashingmagazine.com/>
+**Smashing Magazine** - <https://web.archive.org/web/20150720/http://www.smashingmagazine.com/>
 
 [![Smashing Magazine](http://blog.centresource.com/wp-content/uploads/2015/07/sm-logo-1-150x150.png)](<http://www.smashingmagazine.com/>)Smashing is the motherload of resources. They have sections on Coding, Design, Mobile, Graphics, UX and WordPress. These articles are highly curated, up to date and well written. If you had to be stranded on a deserted island for the rest of your life with only one UX blog, Smashing Magazine would be it.
 
-**Material Up** \- <http://www.materialup.com/>
+**Material Up** \- <https://web.archive.org/web/20150720/http://www.materialup.com/>
 
 [![Material Up](http://blog.centresource.com/wp-content/uploads/2015/07/post-attatch-150x150.png)](<http://www.materialup.com/>)
 
 Google unveiled a new design language called Material Design about a year ago, and it's changing UX across the web. Material Up is a blog which showcases design concepts, prototypes and live products that are utilizing this new design aesthetic.
 
-**Hover States** - <http://hoverstat.es/posts>
+**Hover States** - <https://web.archive.org/web/20150720/http://hoverstat.es/posts>
 
 [![Hover States](http://blog.centresource.com/wp-content/uploads/2015/07/3d5e57bddca6ff91217d992d00e611cb.jpg)](<http://hoverstat.es/posts>)
 
 Hover States is a gallery showcase of highly curated, outstanding interaction design and frontend development. If you're looking for ideas on what your next super hot site should look like, this is your spot.
 
-**UX Booth** - <http://www.uxbooth.com/>
+**UX Booth** - <https://web.archive.org/web/20150720/http://www.uxbooth.com/>
 
 This is a curated list of articles which discuss UX decisions, resources, [![UX Booth](http://blog.centresource.com/wp-content/uploads/2015/07/uxbooth-150x150.png)](<http://www.uxbooth.com/>)information architecture, and other relevant topics which aim to make the web a better place. These articles are pretty wordy, so if you're looking for pretty pictures and minimal words to actually read, this might not be the blog for you. If you like thoughtful insights and great discussion, bookmark UX Booth.
 
-**CSS Tricks** - <https://css-tricks.com/>
+**CSS Tricks** - <https://web.archive.org/web/20150720/https://css-tricks.com/>
 
 [![CSS Tricks](http://blog.centresource.com/wp-content/uploads/2015/07/CSS-Tricks-logo.png)](<https://css-tricks.com/>)
 
 Chris Coyier has established himself as a front end guru. He knows CSS with a level of intimacy that is honestly a bit frightening. This blog is more geared toward a developer, but the insights and guest posts provided here are amazing. There have been countless times where I am searching for a solution to a front-end dev problem, and I end up finding the solution on CSS Tricks.
 
-**Site Inspire** - <http://www.siteinspire.com/>
+**Site Inspire** - <https://web.archive.org/web/20150720/http://www.siteinspire.com/>
 
 [![Site Inspire](http://blog.centresource.com/wp-content/uploads/2015/07/logo_orange_400x400-150x150.png)](<http://www.siteinspire.com/>)
 
 Another great visual gallery with lots of eye candy. Site Inspire is another place for great inspiration when planning a site build. Also highly curated, this blog has really great examples of outstanding sites with solid UX.
 
-**Mashable - UX** - <http://mashable.com/category/user-experience/>
+**Mashable - UX** - <https://web.archive.org/web/20150720/http://mashable.com/category/user-experience/>
 
 [![Mashable ](http://blog.centresource.com/wp-content/uploads/2015/07/mashable_200x200-150x150.png)](<http://mashable.com/category/user-experience/>)
 

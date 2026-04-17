@@ -6,7 +6,7 @@ categories: [News, Hardware]
 ---
 To the masses, the processor in the machine barely matters. Decisions are now made strictly on the marketing blitzes made by the likes of Dell, HP, Alienware, Acer, and other lesser-known competitors. People rarely say 'I want a Pentium' - they say I want a Dell. This is sad for AMD - because now they finally have a processor that is hands-down superior to Intel... and the masses will never care.
 
-For those of us that still care what's inside - and about how much performance we can get from a machine, [check out this great review](<http://www.extremetech.com/article2/0,1558,1813757,00.asp>) of the latest Dual Core releases from AMD and Intel. AMD is late to the party in terms of marketing, but now they can definitely say they have a superior product.
+For those of us that still care what's inside - and about how much performance we can get from a machine, [check out this great review](<https://web.archive.org/web/20050618025112/http://www.extremetech.com/article2/0,1558,1813757,00.asp>) of the latest Dual Core releases from AMD and Intel. AMD is late to the party in terms of marketing, but now they can definitely say they have a superior product.
 
 This sums it up:
 

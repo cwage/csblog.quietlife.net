@@ -3,7 +3,7 @@ layout: post
 title: "TN Software Property Tax - Tennessean Article"
 date: 2006-01-25
 ---
-Software Property Tax is an issue that is near and dear to our heart. In continuing with [our first assessment](<http://blog.centresource.com/2006/01/18/tennessee-software-property-tax-bad-idea/>) and subsequent [update from the NTC](<http://blog.centresource.com/2006/01/23/tennessee-software-property-tax-update/>), we thought we'd also provide this article from the Tennessean (especially since you can't find it on their site by typing in 'Software Tax' in their Search field... go figure)
+Software Property Tax is an issue that is near and dear to our heart. In continuing with [our first assessment](<https://web.archive.org/web/20060203023500/http://blog.centresource.com/2006/01/18/tennessee-software-property-tax-bad-idea/>) and subsequent [update from the NTC](<https://web.archive.org/web/20060309194200/http://blog.centresource.com/2006/01/23/tennessee-software-property-tax-update/>), we thought we'd also provide this article from the Tennessean (especially since you can't find it on their site by typing in 'Software Tax' in their Search field... go figure)
 
 > By GETAHN WARD  
 >  Staff Writer

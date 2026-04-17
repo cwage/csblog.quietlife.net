@@ -3,7 +3,7 @@ layout: post
 title: "The Niftiest of Corners"
 date: 2007-01-25
 ---
-[Nifty Corners Cube](<http://www.html.it/articoli/niftycube/index.html>) is a javascript library written by Alessandro Fulciniti that enables you to easily implement rounded corners on your page. There are many different utilities out there on the web that do basically the same thing, but you'll be hard pressed to find one that does it any easier.
+[Nifty Corners Cube](<https://web.archive.org/web/20070125092137/http://www.html.it/articoli/niftycube/index.html>) is a javascript library written by Alessandro Fulciniti that enables you to easily implement rounded corners on your page. There are many different utilities out there on the web that do basically the same thing, but you'll be hard pressed to find one that does it any easier.
 
 If you have ever attempted to implement rounded corners in your markup and css, you'll find that your markup quickly becomes riddled with presentational divs, loads of images, and the css seems to be playing the role of a bar bouncer. It's even worse if the content box you have rounded needs to be fluid in any direction.
 

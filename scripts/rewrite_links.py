@@ -56,12 +56,16 @@ def find_links(content):
         return []
     body = parts[2]
 
-    # Match markdown links: [text](url) and bare URLs
+    # Match markdown links: [text](url)
     links = set()
     for m in re.finditer(r'\[([^\]]*)\]\(<?(https?://[^>)\s]+)>?\)', body):
         links.add(m.group(2))
     for m in re.finditer(r'\[([^\]]*)\]\((https?://[^)\s]+)\)', body):
         links.add(m.group(2))
+
+    # Match bare autolinks: <http://...>
+    for m in re.finditer(r'(?<!\()(?<!\[)<(https?://[^>]+)>', body):
+        links.add(m.group(1))
 
     return list(links)
 
@@ -116,9 +120,10 @@ def find_snapshot(url, post_date):
 
 def rewrite_link(content, old_url, new_url):
     """Replace a URL in the post content, handling markdown link syntax."""
-    # Replace both bare and angle-bracket wrapped URLs
+    # Replace in order: markdown links first, then bare autolinks
     content = content.replace(f"(<{old_url}>)", f"(<{new_url}>)")
     content = content.replace(f"({old_url})", f"({new_url})")
+    content = content.replace(f"<{old_url}>", f"<{new_url}>")
     return content
 
 

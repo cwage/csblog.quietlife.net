@@ -21,8 +21,8 @@ I now consider one of my primary hobbies reading. I absolutely love reading and 
 
 ...And I have my Centresource commute to thank for that.
 
-Check out what I've read recently: <http://lifeasachip.com/#goodreads>  
-Friend me on Goodreads: <https://www.goodreads.com/chayner>
+Check out what I've read recently: <https://web.archive.org/web/20141114/http://lifeasachip.com/#goodreads>  
+Friend me on Goodreads: <https://web.archive.org/web/20141114/https://www.goodreads.com/chayner>
 
 * * *
 

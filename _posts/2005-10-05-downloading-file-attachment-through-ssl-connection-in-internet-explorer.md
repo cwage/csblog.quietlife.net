@@ -26,6 +26,6 @@ The headers that I had to send in order to fix this issue were:
 > Pragma: private  
 >  Cache-control: private, must-revalidate 
 
-This issue has been documented on the Microsoft Help and Support website. [Click here for the full Microsoft Help File on this issue](<http://support.microsoft.com/default.aspx?scid=kb;en-us;316431>).
+This issue has been documented on the Microsoft Help and Support website. [Click here for the full Microsoft Help File on this issue](<https://web.archive.org/web/20051004082050/http://support.microsoft.com/default.aspx?scid=kb;en-us;316431>).
 
-Documentation on the issue can also be located in several comments on PHP's header() function documentation located [here](<http://us2.php.net/header>).
+Documentation on the issue can also be located in several comments on PHP's header() function documentation located [here](<https://web.archive.org/web/20051001042209/http://us2.php.net/header>).

@@ -5,7 +5,7 @@ date: 2005-05-10
 author: Chris
 categories: [News, Telecom]
 ---
-NY Attorney General Eliot Spitzer is [laying down some potential groundrules](<http://www.cbronline.com/article_news.asp?guid=2BB6940A-C7DB-4C00-BDED-62115F6C129A>) for the Verizon/MCI merger:
+NY Attorney General Eliot Spitzer is [laying down some potential groundrules](<https://web.archive.org/web/20060406162632/http://www.cbronline.com/article_news.asp?guid=2BB6940A-C7DB-4C00-BDED-62115F6C129A>) for the Verizon/MCI merger:
 
 > New York Attorney General Eliot Spitzer, known as one of the fiercest consumer rights activists in elected office in the US, did not object to the mergers outright, but asks the FCC consider two potential problems that mirror BT's concerns.
 > 

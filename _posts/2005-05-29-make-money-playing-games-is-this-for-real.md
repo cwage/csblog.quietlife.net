@@ -12,4 +12,4 @@ The article below brings up two thoughts:
 1) This is going to be an Intellectual Property Lawyer's worst nightmare...  
 2) People around the world would be smart to move to countries with lower costs of living and therefore could make their primary job to play video games... and still live prosperous.
 
-Read on:[The Game Is Virtual. The Profit Is Real. - New York Times](<http://www.nytimes.com/2005/05/29/business/yourmoney/29game.html?pagewanted=1&ei=5088&en=5ba88fe13967f663&ex=1275019200&partner=rssnyt&emc=rss>)
+Read on:[The Game Is Virtual. The Profit Is Real. - New York Times](<https://web.archive.org/web/20060428053059/http://www.nytimes.com/2005/05/29/business/yourmoney/29game.html?pagewanted=1&ei=5088&en=5ba88fe13967f663&ex=1275019200&partner=rssnyt&emc=rss>)

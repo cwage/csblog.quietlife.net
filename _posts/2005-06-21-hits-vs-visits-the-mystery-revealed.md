@@ -23,5 +23,5 @@ Many stats program are now providing more useful statistics such as 'Unique Visi
 Webstats are not a precise science - especially when you introduce things like private networking, dynamic IP addresses (via dial ups), hits, visits, unique visits, page views, content aggregators, cookies, search engine bots, etc, etc. That being said, they are a great way to get a 'feel' for how popular your site is - and how sticky your content proves to be.
 
 Some great web stats packages are:  
-<http://www.mrunix.net/webalizer/>  
-<http://awstats.sourceforge.net/>
+<https://web.archive.org/web/20050621/http://www.mrunix.net/webalizer/>  
+<https://web.archive.org/web/20050621/http://awstats.sourceforge.net/>

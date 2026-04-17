@@ -19,4 +19,4 @@ While there's no shortcuts to time, practice, and more practice to mastering thi
 > Layer 3: PHP -- the nervous system, and heart. Without a brain, or a heart, what happens to people? They die, obviously. The same is true for your drupal theme. PHP is the layer which allows you to transform a dead layout into a live breathing page. 
 
 You can read more here:  
-<http://www.nicklewis.org/node/850>
+<https://web.archive.org/web/20070809/http://www.nicklewis.org/node/850>

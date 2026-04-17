@@ -5,14 +5,14 @@ date: 2009-12-16
 author: Kurt Strickmaker
 categories: [Interactive Strategy]
 ---
-_An open letter from Kurt and[Evan](<http://blog.centresource.com/author/eowens/>):_
+_An open letter from Kurt and[Evan](<https://web.archive.org/web/20091216092322/http://blog.centresource.com/author/eowens/>):_
 
 It's no secret that every agency agrees - RFP's (request for proposals) are notoriously unhelpful, inaccurate and time wasting. However, this methodology continues to be the predominate leader in bid acquisition. Over the past several years, CentreSource had hoped that a new method would have surfaced ... but no luck yet.
 
 Thus as way of self expression and therapeutic healing, we have outlined the top 10 questions that must go through the mind of the person creating an RFP.
 
   1. Is the vendor a family member or close friend - if not, throw away their response.
-  2. Did they guess right on the budget? (our budget is listed as $50K, we want the bid to be $31K) In other words was it [closest to $1 without going over](<http://www.cbs.com/daytime/the_price_is_right/>) the second lowest bid?
+  2. Did they guess right on the budget? (our budget is listed as $50K, we want the bid to be $31K) In other words was it [closest to $1 without going over](<https://web.archive.org/web/20100126140811/http://www.cbs.com/daytime/the_price_is_right/>) the second lowest bid?
   3. As we sent out a nation wide request, are they a local firm. If not, throw away their response.
   4. Did they in fact manage to kill 12 trees and effectively raise HP's stock due to paper and ink usage? If not, throw away their response.
   5. Even though we anticipate this being a very large initiative, did we manage to reduce scope to 11 bullet points? Isn't that enough? Of course it is.

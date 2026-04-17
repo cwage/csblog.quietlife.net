@@ -4,11 +4,11 @@ title: "debian volatile"
 date: 2005-06-07
 author: Chris
 ---
-One of the nicer developments with the release of Debian 3.1 is that they have also introduced the concept of ["volatile" packages](<http://volatile.debian.net/>) (for both woody and sarge):
+One of the nicer developments with the release of Debian 3.1 is that they have also introduced the concept of ["volatile" packages](<https://web.archive.org/web/20050609023245/http://volatile.debian.net/>) (for both woody and sarge):
 
 > Some packages aim at fast moving targets like spam filtering and virus scanning, and even via using updated virus patterns, this doesn't really work for the full time of a stable release. The main issue of volatile is to allow system administrators to update their systems in a nice, consistent way without getting the drawbacks of using unstable, even without getting the drawback for the selected packages. 
 
-It should be noted, though, that this is **not** just another place for "backports" -- presumably (hopefully!) [backports.org](<http://www.backports.org/>) will soon pick up where it left off for sarge updates as it did for woody eventually. The idea behind the volatile mirrors is a place for packages that contain "volatile" data by their very nature. ClamAV is a great example -- frequently, changes to the signature database require updated clamav binaries to maintain 100% functionality.
+It should be noted, though, that this is **not** just another place for "backports" -- presumably (hopefully!) [backports.org](<https://web.archive.org/web/20050608004244/http://www.backports.org/>) will soon pick up where it left off for sarge updates as it did for woody eventually. The idea behind the volatile mirrors is a place for packages that contain "volatile" data by their very nature. ClamAV is a great example -- frequently, changes to the signature database require updated clamav binaries to maintain 100% functionality.
 
 So, how do you use it? For example, on my laptop I have various clamav packages installed:
 
@@ -18,7 +18,7 @@ So, how do you use it? For example, on my laptop I have various clamav packages 
 >  ii clamav-freshcl 0.84-2 downloads clamav virus databases from the In  
 >  ii libclamav1 0.84-2 virus scanner library 
 
-By adding the volatile mirrors (See their [mirrors list](<http://volatile.debian.net/mirrors.html>)) to my /etc/apt/sources.list:
+By adding the volatile mirrors (See their [mirrors list](<https://web.archive.org/web/20050609030351/http://volatile.debian.net/mirrors.html>)) to my /etc/apt/sources.list:
 
 > deb http://ftp2.de.debian.org/debian-volatile sarge/volatile main  
 >  deb-src http://ftp2.de.debian.org/debian-volatile sarge/volatile main 

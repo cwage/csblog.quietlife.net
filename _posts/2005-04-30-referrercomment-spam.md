@@ -11,26 +11,26 @@ There is a growing nuisance for users and administrators of sites that run web s
 
 Table of contents
 
-  1. [Introduction](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Introduction>)
-  2. [First, a Note on Spelling](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-First,-a-Note-on-Spelling>)
-  3. [What is HTTP Referer?](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-What-is-HTTP-Referer?>)
-  4. [OK, What is Referer Spam?](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-OK,-What-is-Referer-Spam?>)
-  5. [Why Referer Spam?](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Why-Referer-Spam?>)
-  6. [What is Comment/Trackback Spam?](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-What-is-Comment/Trackback-Spam?>)
-  7. [Consequences](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Consequences>)
-  8. [Solutions (and Non-Solutions)](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Solutions-\(and-Non-Solutions\)>)
-  9. [Conclusion](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Conclusion>)
-  10. [Links](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Links>)
+  1. [Introduction](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Introduction>)
+  2. [First, a Note on Spelling](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-First,-a-Note-on-Spelling>)
+  3. [What is HTTP Referer?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-What-is-HTTP-Referer?>)
+  4. [OK, What is Referer Spam?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-OK,-What-is-Referer-Spam?>)
+  5. [Why Referer Spam?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Why-Referer-Spam?>)
+  6. [What is Comment/Trackback Spam?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-What-is-Comment/Trackback-Spam?>)
+  7. [Consequences](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Consequences>)
+  8. [Solutions (and Non-Solutions)](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Solutions-\(and-Non-Solutions\>)>)
+  9. [Conclusion](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Conclusion>)
+  10. [Links](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Links>)
 
 
 
 ### First, a Note on Spelling
 
-Referrer or referer? "Referer" is, in fact, a [misspelling](<http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=referer>). A common misspelling, however -- so common that it made it into the [HTTP/1.1 spec](<http://www.ietf.org/rfc/rfc2616.txt>). This is funny, but annoying. For the purposes of this article and others, we will resist being pedantic and simply refer (ha!) to it as "referer" spam, simply because it refers to the "Referer" header. We'll use the proper spelling when referring to the actual referrer (the HTTP client in question).
+Referrer or referer? "Referer" is, in fact, a [misspelling](<http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=referer>). A common misspelling, however -- so common that it made it into the [HTTP/1.1 spec](<https://web.archive.org/web/20050429002618/http://www.ietf.org/rfc/rfc2616.txt>). This is funny, but annoying. For the purposes of this article and others, we will resist being pedantic and simply refer (ha!) to it as "referer" spam, simply because it refers to the "Referer" header. We'll use the proper spelling when referring to the actual referrer (the HTTP client in question).
 
 ### What is HTTP Referer?
 
-The [HTTP 1.1 RFC](<http://www.ietf.org/rfc/rfc2616.txt>) defines the "Referer" header as:
+The [HTTP 1.1 RFC](<https://web.archive.org/web/20050429002618/http://www.ietf.org/rfc/rfc2616.txt>) defines the "Referer" header as:
 
 > The Referer[sic] request-header field allows the client to specify,  
 >  for the server's benefit, the address (URI) of the resource from  
@@ -43,7 +43,7 @@ Essentially, it's a way for an HTTP client to send in the HTTP headers the URI o
 Referer: http://www.google.com/search?num=100&hl=en&lr=&q=centreblog&btnG=Search  
 `
 
-This is handy, because it gives the site administrator some insight into where the traffic on his webserver is coming from. Further, many of the most popular webserver log analyzers also depend on this info to provide statistics on the most common referrers. Not every web browser and HTTP client sends the Referer: header, however, so it should not be depended upon in any sort of web programming or analysis. Some web browsers, for example [Opera](<http://www.opera.com/>), give you the ability to turn off the sending of the Referer. While this improves your privacy as a web browser, it can impair your web-browsing because many websites check the Referer: header on requests for images, movies, and other forms of media likely to be "stolen" -- i.e. accessed directly rather than through the website hosting it.
+This is handy, because it gives the site administrator some insight into where the traffic on his webserver is coming from. Further, many of the most popular webserver log analyzers also depend on this info to provide statistics on the most common referrers. Not every web browser and HTTP client sends the Referer: header, however, so it should not be depended upon in any sort of web programming or analysis. Some web browsers, for example [Opera](<https://web.archive.org/web/20050428235635/http://www.opera.com/>), give you the ability to turn off the sending of the Referer. While this improves your privacy as a web browser, it can impair your web-browsing because many websites check the Referer: header on requests for images, movies, and other forms of media likely to be "stolen" -- i.e. accessed directly rather than through the website hosting it.
 
 ### OK, What is Referer Spam?
 
@@ -67,7 +67,7 @@ It's that easy. And, much like spammers have taken advantage of the fact that th
 
 You're probably thinking to yourself "Okay, I understand how Referer: spam works, but why would someone bother spamming something only the site administrator will see in the logs?"
 
-That's a good question, and others have [speculated at length](<http://the.taoofmac.com/space/blog/2004-12-10>) on the various motivations. But, briefly, the reasons are generally:
+That's a good question, and others have [speculated at length](<https://web.archive.org/web/20050401084506/http://the.taoofmac.com/space/blog/2004-12-10>) on the various motivations. But, briefly, the reasons are generally:
 
   1. an attempt at boosting search engine rankings
   2. simply to show up in any stats published by the site. That is, if the site being spammed runs Webalizer, AWStats or some other webserver log-analyzing software, the spammer can get their URL in the "top referers" section.
@@ -78,7 +78,7 @@ There are probably other reasons, but we won't waste our time psychoanalyzing th
 
 ### What is Comment/Trackback Spam?
 
-Comment spam and [trackback](<http://en.wikipedia.org/wiki/Trackback>) spam is a much more direct method that spammers have discovered. As the popularity of blogs has grown exponentially, so has their popularity grown with spammers. Initially, most blogging software (Movable Type, Wordpress, etc.) and most blogging sites (blogger.com, livejournal.com, etc) had very little restrictions against who could post a comment. There is simply an HTML form that POSTs to a CGI script which accepts and displays the comment.
+Comment spam and [trackback](<https://web.archive.org/web/20050429005702/http://en.wikipedia.org/wiki/Trackback>) spam is a much more direct method that spammers have discovered. As the popularity of blogs has grown exponentially, so has their popularity grown with spammers. Initially, most blogging software (Movable Type, Wordpress, etc.) and most blogging sites (blogger.com, livejournal.com, etc) had very little restrictions against who could post a comment. There is simply an HTML form that POSTs to a CGI script which accepts and displays the comment.
 
 Of course it takes very little technical knowledge to see that this is easily exploited by spammers who want to get their goods in front of people's eyes. These spammers have automated tools that are constantly searching for blogs that allow comments/trackback, and spam them with POST requests containing generic comments with their URLs. Sometimes the URL is in the body of the comment, the "URL" field of the comment, or both.
 
@@ -96,9 +96,9 @@ A more serious consequence is that the process of comment, trackback and Referer
 
 Anyways, this all results in quite a bit of traffic on your webserver, and bandwidth is not cheap.
 
-Further complicating the situation is the increasing prevalence of [botnets](<http://en.wikipedia.org/wiki/Botnet>) on the Internet. These massive networks of compromised computers are being used more and more to distribute the process of comment/trackback spam. This means that the potential for bandwidth usage increased exponentially. It also means that the comment spamming attacks can actually result in an effective [Denial of Service](<http://en.wikipedia.org/wiki/Denial_of_service>) attack.
+Further complicating the situation is the increasing prevalence of [botnets](<https://web.archive.org/web/20050403182208/http://en.wikipedia.org/wiki/Botnet>) on the Internet. These massive networks of compromised computers are being used more and more to distribute the process of comment/trackback spam. This means that the potential for bandwidth usage increased exponentially. It also means that the comment spamming attacks can actually result in an effective [Denial of Service](<https://web.archive.org/web/20050421163006/http://en.wikipedia.org/wiki/Denial_of_service>) attack.
 
-While CentreBlog is relatively new and hasn't had much problem with comment/Referer spam, my personal blog at [chris.quietlife.net](<http://chris.quietlife.net/>) has been in operation for around 4 years now. I'd estimate that roughly 70-80% of the traffic on my site is Comment/Referer: spam. My Wordpress blacklist plugin blocks, on average, around 500-600 comment spams a day (more on prevention techniques later). On at least 4 or 5 different occasions my website was entirely shut down by comment/referer spam attacks. In the past I had been able to simply firewall off the offending IP addresses, but these were attacks by bot-nets, meaning they were massively distributed and impossible to block -- each request comes from a different IP address.
+While CentreBlog is relatively new and hasn't had much problem with comment/Referer spam, my personal blog at [chris.quietlife.net](<https://web.archive.org/web/20050510004540/http://chris.quietlife.net/>) has been in operation for around 4 years now. I'd estimate that roughly 70-80% of the traffic on my site is Comment/Referer: spam. My Wordpress blacklist plugin blocks, on average, around 500-600 comment spams a day (more on prevention techniques later). On at least 4 or 5 different occasions my website was entirely shut down by comment/referer spam attacks. In the past I had been able to simply firewall off the offending IP addresses, but these were attacks by bot-nets, meaning they were massively distributed and impossible to block -- each request comes from a different IP address.
 
 I simply had to shut down apache (my HTTP server) and wait it out. It was quite infuriating, because there was nothing I could do.
 
@@ -120,9 +120,9 @@ The ease with which spammers register thousands of domains and rotate them as qu
 
 This is a largely effective technique to prevent comment spammers from wreaking too much havoc on your blog/website. It will do nothing to prevent a large-scale bot-net attack from bringing down your webserver (or eating up your bandwidth), however.
 
-For Wordpress, I have had great luck with Fahim Farook's [WPBlacklist](<http://sm.farook.org/WPBlacklist.htm>) plugin.
+For Wordpress, I have had great luck with Fahim Farook's [WPBlacklist](<https://web.archive.org/web/20050528052239/http://sm.farook.org/WPBlacklist.htm>) plugin.
 
-For Movable Type, there's the ubiquitous [MT-Blacklist](<http://www.jayallen.org/projects/mt-blacklist/>) written by Jay Allen.
+For Movable Type, there's the ubiquitous [MT-Blacklist](<https://web.archive.org/web/20050429003623/http://www.jayallen.org/projects/mt-blacklist/>) written by Jay Allen.
 
 These plugins simply check comments/trackbacks against certain blacklisted URLs, IP addresses, etc. and denies the request if there's a match. This prevents the site from being overwhelmed but it still uses bandwidth and system resources.
 
@@ -130,9 +130,9 @@ As mentioned before, my personal blog gets around 500 per day, and the WPBlackli
 
 **DNSBL checks**
 
-A newer but more difficult technique to stop the bot-net attacks is by using [DNS Blacklists](<http://en.wikipedia.org/wiki/DNSBL>) to check requests to a webserver.
+A newer but more difficult technique to stop the bot-net attacks is by using [DNS Blacklists](<https://web.archive.org/web/20050501210749/http://en.wikipedia.org/wiki/DNSBL>) to check requests to a webserver.
 
-I've outlined the process by which you can use mod_access_rbl in apache to accomplish this in [this article](<http://chris.quietlife.net/2005/01/16/referrer-b-gone/>). The technique involves checking each web request against many of the popular DNS blacklists typically used to fight E-mail spam. This can help mitigate the success of attacks by bot-nets, since these compromised computers are often in blacklisted IP space, or IP space at least flagged as dynamic/dial-up/broadband IP space. You have to be careful with this, though, because networks that will be blacklisted from sending e-mail are not always suitable for blocking web access -- that is, you may inadvertantly cut off legitimate users of your site.
+I've outlined the process by which you can use mod_access_rbl in apache to accomplish this in [this article](<https://web.archive.org/web/20050416232907/http://chris.quietlife.net/2005/01/16/referrer-b-gone/>). The technique involves checking each web request against many of the popular DNS blacklists typically used to fight E-mail spam. This can help mitigate the success of attacks by bot-nets, since these compromised computers are often in blacklisted IP space, or IP space at least flagged as dynamic/dial-up/broadband IP space. You have to be careful with this, though, because networks that will be blacklisted from sending e-mail are not always suitable for blocking web access -- that is, you may inadvertantly cut off legitimate users of your site.
 
 ### Conclusion
 
@@ -141,5 +141,5 @@ This sort of spamming is a growing problem. As the popularity of standards for b
 ### Links
 
   * [Tom Sherman's Summary and Proposal for combatting referer spam](<http://underscorebleach.net/jotsheet/2005/01/referrer-spam-proposal>)
-  * Wikipedia's [entry on referer spam](<http://en.wikipedia.org/wiki/Referer_spam>)
-  * An old entry on kuro5hin.org that provides a window into the early [origins](<http://www.kuro5hin.org/story/2001/5/30/22341/3757>) of this problem.
+  * Wikipedia's [entry on referer spam](<https://web.archive.org/web/20050429005702/http://en.wikipedia.org/wiki/Referer_spam>)
+  * An old entry on kuro5hin.org that provides a window into the early [origins](<https://web.archive.org/web/20050510004846/http://www.kuro5hin.org/story/2001/5/30/22341/3757>) of this problem.

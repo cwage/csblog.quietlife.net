@@ -5,7 +5,7 @@ date: 2005-11-08
 author: Jackson
 categories: [Miscellaneous]
 ---
-Adaptive Path have posted an [executive summary on AJAX](<http://adaptivepath.com/publications/reports/ajaxbrief/>). Here is what they have to say about the executive summary:
+Adaptive Path have posted an [executive summary on AJAX](<https://web.archive.org/web/20051106011041/http://adaptivepath.com/publications/reports/ajaxbrief/>). Here is what they have to say about the executive summary:
 
 > By speeding up Web application response time, Ajax has also set a more aggressive pace for industry change and business evolution. Ajax will soon be fully integrated into Web application server platforms, but in the meantime, it's already begun to alter the marketplace.
 > 

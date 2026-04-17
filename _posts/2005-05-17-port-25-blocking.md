@@ -10,7 +10,7 @@ Frankly, it seems a bit silly to me -- ISPs with a spam problem as extensive as 
 
 The counter to this is that the mailservers provided are not always reliable. This may be true, but alas, that should be a factor in your decision to use Comcast at all -- not in your opinion of whether they should block port 25.
 
-Another concern often cited is privacy -- that by smarthosting your mail through your ISP's mailserver, they have the ability to monitor your e-mail. This, too, is rather silly. SMTP is a plaintext protocol. If you're worried about privacy with e-mail, relaying to your ISP is the least of your problems. You should be using [PGP](<http://www.gnupg.org/>).
+Another concern often cited is privacy -- that by smarthosting your mail through your ISP's mailserver, they have the ability to monitor your e-mail. This, too, is rather silly. SMTP is a plaintext protocol. If you're worried about privacy with e-mail, relaying to your ISP is the least of your problems. You should be using [PGP](<https://web.archive.org/web/20050517083455/http://www.gnupg.org/>).
 
 Lastly, people claim that it will do little good as viruses and spammers get smart enough to use the ISP's mailservers rather than sending directly anyway. This may be true, but something is better than nothing.
 

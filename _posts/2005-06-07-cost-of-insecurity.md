@@ -4,7 +4,7 @@ title: "cost of insecurity"
 date: 2005-06-07
 author: Chris
 ---
-A recent study has [put a number](<http://securityfocus.com/news/11197>) on the potential for lost stock value when a disclosure is announced for a company's product:
+A recent study has [put a number](<https://web.archive.org/web/20060412082103/http://securityfocus.com/news/11197>) on the potential for lost stock value when a disclosure is announced for a company's product:
 
 > The study analyzed the release of 146 vulnerabilities and found that a software company's stock price decreased 0.63 percent compared to the tech-heavy NASDAQ on the day a flaw in the firm's product is announced. The study assumed that the stock of a company would have the same trend as the stock index, and that any departure from the index would be due to the disclosure.
 > 

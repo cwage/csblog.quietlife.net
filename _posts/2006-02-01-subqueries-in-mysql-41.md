@@ -32,7 +32,7 @@ The better way? Subqueries, introduced by MySQL in version 4.1. Subqueries allow
 
 `SELECT * FROM t1 WHERE column1 = (SELECT column1 FROM t2);`
 
-From the [MySQL Manual](<http://dev.mysql.com/doc/refman/4.1/en/subqueries.html>):
+From the [MySQL Manual](<https://web.archive.org/web/20060203064706/http://dev.mysql.com/doc/refman/4.1/en/subqueries.html>):
 
 > The main advantages of subqueries are:
 > 
@@ -71,4 +71,4 @@ That's it! All of the necessary information in one easy MySQL query. One thing t
 
 There's a lot more to subqueries that I look forward to learning about -- instead of setting a column equal to a subquery (like I did in this example), you can set a column to be **IN** a subquery, or **ALL** of the results of a subquery, etc.
 
-Check out the [MySQL manual](<http://dev.mysql.com/doc/refman/4.1/en/subqueries.html>) on everything you can do, and share your success stories below!
+Check out the [MySQL manual](<https://web.archive.org/web/20060203064706/http://dev.mysql.com/doc/refman/4.1/en/subqueries.html>) on everything you can do, and share your success stories below!

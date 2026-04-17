@@ -8,25 +8,25 @@ CentreSource, being a service provider, continues to evaluate the ideal billing 
 
 Table of contents
 
-  1. [ Introduction ](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s--Introduction->)
-     1. [Billable Hours - Time on the Table](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Billable-Hours---Time-on-the-Table>)
-        1. [Profitability: Average](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Profitability:-Average>)
-        2. [Alignment: Very Low](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Alignment:--Very-Low>)
-        3. [Management: Straightforward, but tedious](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Management:-Straightforward,-but-tedious>)
-        4. [Risk: Lowest](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:-Lowest>)
-     2. [Projects - Masterful Guessing](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Projects---Masterful-Guessing>)
-        1. [Profitability: Depends on Skill](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Profitability:-Depends-on-Skill>)
-        2. [Alignment: Average](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Alignment:-Average>)
-        3. [Management: Its own Extreme Sport](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Management:-Its-own-Extreme-Sport>)
-        4. [Risk: Possible Show Stopper](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:-Possible-Show-Stopper>)
-     3. [Value Billing - The sky is the limit](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Value-Billing---The-sky-is-the-limit>)
-        1. [Profitability: From zero to infinity!](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Profitability:-From-zero-to-infinity!>)
-        2. [Alignment: So happy together](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Alignment:-So-happy-together>)
-        3. [Management: It better be measurable](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Management:-It-better-be-measurable>)
-        4. [Risk: Its all about pre-screening](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:--Its-all-about-pre-screening>)
+  1. [ Introduction ](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s--Introduction->)
+     1. [Billable Hours - Time on the Table](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Billable-Hours---Time-on-the-Table>)
+        1. [Profitability: Average](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Profitability:-Average>)
+        2. [Alignment: Very Low](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Alignment:--Very-Low>)
+        3. [Management: Straightforward, but tedious](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Management:-Straightforward,-but-tedious>)
+        4. [Risk: Lowest](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:-Lowest>)
+     2. [Projects - Masterful Guessing](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Projects---Masterful-Guessing>)
+        1. [Profitability: Depends on Skill](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Profitability:-Depends-on-Skill>)
+        2. [Alignment: Average](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Alignment:-Average>)
+        3. [Management: Its own Extreme Sport](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Management:-Its-own-Extreme-Sport>)
+        4. [Risk: Possible Show Stopper](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:-Possible-Show-Stopper>)
+     3. [Value Billing - The sky is the limit](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Value-Billing---The-sky-is-the-limit>)
+        1. [Profitability: From zero to infinity!](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Profitability:-From-zero-to-infinity!>)
+        2. [Alignment: So happy together](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Alignment:-So-happy-together>)
+        3. [Management: It better be measurable](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Management:-It-better-be-measurable>)
+        4. [Risk: Its all about pre-screening](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:--Its-all-about-pre-screening>)
 
 
-* [Conclusion](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Conclusion>)
+* [Conclusion](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Conclusion>)
 
 #  Introduction 
 
@@ -85,9 +85,9 @@ Hourly billing is also very effective at managing the client's request list. Whe
 
 For a other perspectives on billing by the hours, read these:
 
-  * <http://civpro.blogs.com/civil_procedure/2004/04/billable_hours.html>
-  * <http://www.law.yale.edu/outside/html/Career_Development/cdo-billable.htm>
-  * <http://www.aicpa.org/pubs/tpcpa/junjul98/hatehour.htm>
+  * <https://web.archive.org/web/20050306014704/http://civpro.blogs.com/civil_procedure/2004/04/billable_hours.html>
+  * <https://web.archive.org/web/20050501/http://www.law.yale.edu/outside/html/Career_Development/cdo-billable.htm>
+  * <https://web.archive.org/web/20050312054024/http://www.aicpa.org/pubs/tpcpa/junjul98/hatehour.htm>
 
 
 

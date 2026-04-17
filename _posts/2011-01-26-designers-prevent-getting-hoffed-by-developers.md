@@ -11,9 +11,9 @@ As a designer, I know at times it is real easy to get lazy about file management
 
 -
 
-Dan Rose and the brilliant people over at Photoshop Etiquette created this great reminder for all Web Designers: <http://photoshopetiquette.com/>
+Dan Rose and the brilliant people over at Photoshop Etiquette created this great reminder for all Web Designers: <https://web.archive.org/web/20110126/http://photoshopetiquette.com/>
 
-[](<http://photoshopetiquette.com/>)  
+[](<https://web.archive.org/web/20110126/http://photoshopetiquette.com/>)  
 My goal is to have the CS Design team look at this regularly to ensure we follow best practices, even down to our PSD's. As they say, "Cleanliness is next to Godliness"... or at least a preventative measure from having your desktop background changed to a naked picture of David Hasselhoff. 
 
 Trust me, you don't want that.

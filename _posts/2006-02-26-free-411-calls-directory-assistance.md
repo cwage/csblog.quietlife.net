@@ -7,4 +7,4 @@ It seems that directory assistance (411) is getting more expensive every year. C
 
 Alas! Now you can have your directory assistance free (again)!
 
-I received an email 'forward' that touted a number to call for free assistance: **1-800-FREE-411 [800.373.3411]**. At first, I thought it was a hoax, but I my trusty sidekick, [Snopes.com](<http://www.snopes.com/>), informed me that it wasn't!. [Click her to see - it is indeed legit!](<http://www.snopes.com/inboxer/nothing/free411.asp>)
+I received an email 'forward' that touted a number to call for free assistance: **1-800-FREE-411 [800.373.3411]**. At first, I thought it was a hoax, but I my trusty sidekick, [Snopes.com](<https://web.archive.org/web/20211029004442/http://www.snopes.com/>), informed me that it wasn't!. [Click her to see - it is indeed legit!](<https://web.archive.org/web/20211029004442/http://www.snopes.com/inboxer/nothing/free411.asp>)

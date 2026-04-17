@@ -19,7 +19,7 @@ Now, instead of typing out that long statement, you only have to type `dbal` as 
 
 I do all of my coding in Textmate, which is the absolute best text editor if you are on a Mac (apologies to the `vim` fanboys). Textmate snippets work much in the same way as the aliases I mentioned above. They are shortcuts for pasting in a block of code or performing some function, and there are a LOT of them. I'm constantly finding new shortcuts that I didn't know about. 
 
-All snippets are kept in what Textmate refers to as "bundles". You can get an HTML bundle, a Subversion bundle, even a Haskell bundle. The textmate Subversion repository houses all of these bundles, which you can peruse and download at your leisure at <http://svn.textmate.org/trunk/Bundles/>
+All snippets are kept in what Textmate refers to as "bundles". You can get an HTML bundle, a Subversion bundle, even a Haskell bundle. The textmate Subversion repository houses all of these bundles, which you can peruse and download at your leisure at <https://web.archive.org/web/20100104/http://svn.textmate.org/trunk/Bundles/>
 
 ### VMware Fusion
 
@@ -33,4 +33,4 @@ Apple added the Spaces application for creating virtual desktops to the Leopard 
 
 You may think Google is a no-brainer but I mentioned it because, while it is helpful for finding information, you really need to know HOW to search to get what you want. That might be a topic for a whole separate blog post, but it makes a big difference in the information that is returned. While keywords are important for the search. Also try searching for your entire question (like "how to add symfony form validation"). Chances are, someone has already asked that exact same question, and you can find the post where it was answered. 
 
-Stack Overflow ([stackoverflow.com](<http://stackoverflow.com/>)) is another great resource for programming questions. It's a forum for asking technical questions and getting answers from other members. If you can't find an existing answer to you question, you can ask the masses and usually receive at least one answer within a few hours. I've used this site several times, and the quality of the answers I've received have always been very high.
+Stack Overflow ([stackoverflow.com](<https://web.archive.org/web/20100102003420/http://stackoverflow.com/>)) is another great resource for programming questions. It's a forum for asking technical questions and getting answers from other members. If you can't find an existing answer to you question, you can ask the masses and usually receive at least one answer within a few hours. I've used this site several times, and the quality of the answers I've received have always been very high.

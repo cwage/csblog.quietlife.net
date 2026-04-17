@@ -13,14 +13,14 @@ I don't know where these people found time to [hold a mock trial](<http://www.in
 > 
 > But defense lawyer Stewart Baker, a partner in the Washington office of Steptoe and Johnson LLP, argued that it would be a violation of privacy for ISPs to check subscribers' computers. It would be nearly impossible for ISPs to distinguish between legitimate Internet traffic, such as a subscriber's browser updating a weather map every few seconds, and a computer being used in a denial of service attack, added Baker, representing a group of fictional ISPs. 
 
-This is a fascinating debate. In the past, when I've mentioned [port 25 blocking](<http://blog.centresource.com/2005/05/17/port-25-blocking/>), good points were raised about the fact that most ISPs see this as a slippery slope insofar as:
+This is a fascinating debate. In the past, when I've mentioned [port 25 blocking](<https://web.archive.org/web/20071025193405/http://blog.centresource.com/2005/05/17/port-25-blocking/>), good points were raised about the fact that most ISPs see this as a slippery slope insofar as:
 
   1. Being perceived as having rigid usage policies, and:
   2. Being held liable for lapses in their protection
 
 
 
-These are interesting points, but I respectfully disagree that they are grounds for ISPs do to nothing at all. After all, the idea of a "slippery slope" argument is not an argument at all, but rather a fallacy. I agree that ISPs with draconian limits on what you can and can't do with your connectivity are annoying. That's why I enjoy [butler.net](<http://www.butler.net/>)'s service so much. He gives you the DSL and is, by and large, hands-off after that. But I think to some extent we're in a different world, these days, and with spam being the problem it already is, and [botnets](<http://www.honeynet.org/papers/bots/>) becoming one of the more prevalent threats on the internet, I think the bigger ISPs have an obligation to do something.
+These are interesting points, but I respectfully disagree that they are grounds for ISPs do to nothing at all. After all, the idea of a "slippery slope" argument is not an argument at all, but rather a fallacy. I agree that ISPs with draconian limits on what you can and can't do with your connectivity are annoying. That's why I enjoy [butler.net](<https://web.archive.org/web/20050612003417/http://www.butler.net/>)'s service so much. He gives you the DSL and is, by and large, hands-off after that. But I think to some extent we're in a different world, these days, and with spam being the problem it already is, and [botnets](<https://web.archive.org/web/20050609075057/http://www.honeynet.org/papers/bots/>) becoming one of the more prevalent threats on the internet, I think the bigger ISPs have an obligation to do something.
 
 In the grand scheme of things, and particularly in light to the benefit to the Internet as a whole of being a **good neighbor** , ISPs bliocking outbound SMTP and monitoring usage patterns more carefully to identify, isolate and block obviously infected/compromised Windows "bot" PCs is a small price to pay. Until solid solutions are implemented to the problems with SMTP and the problems with Windows security, something must be done, and ISPs are in a position to help.
 

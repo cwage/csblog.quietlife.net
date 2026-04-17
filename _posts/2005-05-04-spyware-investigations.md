@@ -4,9 +4,9 @@ title: "spyware investigations"
 date: 2005-05-04
 author: Chris
 ---
-Last week, NY Attorney General Elliot Spitzer [announced a lawsuit](<http://www.oag.state.ny.us/press/2005/apr/apr28a_05.html>) against one of the country's biggest Internet marketing companies, Intermix Media, Inc., in connection to their support of spyware and other forms of adware.
+Last week, NY Attorney General Elliot Spitzer [announced a lawsuit](<https://web.archive.org/web/20050923190300/http://www.oag.state.ny.us/press/2005/apr/apr28a_05.html>) against one of the country's biggest Internet marketing companies, Intermix Media, Inc., in connection to their support of spyware and other forms of adware.
 
-People are now [beginning to speculate](<http://www.alwayson-network.com/comments.php?id=10117_0_3_1_C>) that Intermix may just be the start, as they follow the money:
+People are now [beginning to speculate](<https://web.archive.org/web/20050505215042/http://www.alwayson-network.com/comments.php?id=10117_0_3_1_C>) that Intermix may just be the start, as they follow the money:
 
 > "A lot of advertisers are using spyware companies," said Assistant Attorney General Justin Brookman, who's handling the case for Spitzer's Internet Bureau. "Intermix is the only company sued at this point," said Brookman. Translation: Spitzer's team isn't stopping with Intermix. 
 > 

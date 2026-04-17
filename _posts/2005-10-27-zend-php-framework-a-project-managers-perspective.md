@@ -5,7 +5,7 @@ date: 2005-10-27
 author: Jackson
 categories: [PHP]
 ---
-The (hopefully) soon-to-be-released [Zend PHP Framework](<http://www.zend.com/collaboration/framework-overview.php>) is something that I am watching closely. I have recently started a new position here at [CentreSource](<http://www.centresource.com/>) as Director of Operations. In this role I will be involved in a fair amount of project management. Currently CentreSource is primarily a PHP shop. This gives me a different perspective on the Zend PHP Framework than I have seen elsewhere so I am sharing it here.
+The (hopefully) soon-to-be-released [Zend PHP Framework](<https://web.archive.org/web/20051028012941/http://www.zend.com/collaboration/framework-overview.php>) is something that I am watching closely. I have recently started a new position here at [CentreSource](<https://web.archive.org/web/20051103041751/http://www.centresource.com/>) as Director of Operations. In this role I will be involved in a fair amount of project management. Currently CentreSource is primarily a PHP shop. This gives me a different perspective on the Zend PHP Framework than I have seen elsewhere so I am sharing it here.
 
 The Zend PHP Framework represents a standard way of doing things. It will also be a solid codebase from which we can base our solutions without having to maintain thousands of lines of supporting code. The bulk of our revenue comes from "billable hours" and no client should be paying us to create a DB package that is flexible enough for us to use on every project. My hope is that the Zend Framework will limit the number of non-billable hours that we spend writing PHP code. It will also make it easier for us to cross-train developers on the different applications that we develop and support.
 

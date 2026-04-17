@@ -4,7 +4,7 @@ title: "obfuscated perl"
 date: 2005-06-29
 author: Chris
 ---
-[This](<http://perl.plover.com/obfuscated/bestever.pl>) is the best bit of obfuscated perl I have ever seen. It's pretty obfuscated for perl as is. What makes this amazing is that it's also valid postscript. Go ahead, try printing it out:
+[This](<https://web.archive.org/web/20050924145123/http://perl.plover.com/obfuscated/bestever.pl>) is the best bit of obfuscated perl I have ever seen. It's pretty obfuscated for perl as is. What makes this amazing is that it's also valid postscript. Go ahead, try printing it out:
 
 > /;{}def/#{def}def/$_={/Times-Bold exch selectfont}#/_{rmoveto}#/"{dup}#/*/!/$  
 >  ;/q{exch}#/x ; {/J q #}#/.{/T q #}#{stringwidth}#{}#{}# 14 string dup dup dup  

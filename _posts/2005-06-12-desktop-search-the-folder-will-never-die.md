@@ -3,7 +3,7 @@ layout: post
 title: "Desktop Search: The folder will never die!"
 date: 2005-06-12
 ---
-With the recent release of Mac OS X Tiger, I've heard [people herald the end of the folder](<http://www.wired.com/news/mac/0,2125,67774,00.html>). While I can appreciate the sentiments of those that love Desktop search and all the new doors it opens, let me state emphatically that folders are not in danger of disappearing anytime soon. The reason? Half of us can't remember what we're even looking for!
+With the recent release of Mac OS X Tiger, I've heard [people herald the end of the folder](<https://web.archive.org/web/20050612232230/http://www.wired.com/news/mac/0,2125,67774,00.html>). While I can appreciate the sentiments of those that love Desktop search and all the new doors it opens, let me state emphatically that folders are not in danger of disappearing anytime soon. The reason? Half of us can't remember what we're even looking for!
 
 When you need something on your machine, it doesn't always start with, "Hmmm... where did I place file XYZ.123". When its not, using a desktop search utility loses some of its appeal.
 

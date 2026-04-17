@@ -4,7 +4,7 @@ title: "Why have a Company Blog? - Perspective from a CEO"
 date: 2005-10-01
 categories: [Miscellaneous]
 ---
-As the CEO of CentreSource, I made the decision to start our company blog. My familiarity with blogging was minimal at best and I had never actually "blogged" myself. Chris Wage, owner of [Quietlife.net](<http://chris.quietlife.net/>), presented the idea to me and suggested we do it to share what we learn with others. I thought it over and felt that a blog could be a really beneficial way for us to 'store' what we learn for other employees to review, an easy medium to explain our services and products, and a powerful way to increase our exposure to the population at large. For these reasons, I approved the creation on [CentreBlog](<http://blog.centresource.com/>).
+As the CEO of CentreSource, I made the decision to start our company blog. My familiarity with blogging was minimal at best and I had never actually "blogged" myself. Chris Wage, owner of [Quietlife.net](<https://web.archive.org/web/20050930220400/http://chris.quietlife.net/>), presented the idea to me and suggested we do it to share what we learn with others. I thought it over and felt that a blog could be a really beneficial way for us to 'store' what we learn for other employees to review, an easy medium to explain our services and products, and a powerful way to increase our exposure to the population at large. For these reasons, I approved the creation on [CentreBlog](<https://web.archive.org/web/20050923173605/http://blog.centresource.com/>).
 
 ## Takers and Givers - Which are you
 

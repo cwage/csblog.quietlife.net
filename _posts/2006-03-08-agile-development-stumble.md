@@ -4,7 +4,7 @@ title: "Agile Development Stumble"
 date: 2006-03-08
 author: Chris
 ---
-I am going through the [Agile Web Development with Rails](<http://pragmaticprogrammer.com/titles/rails/index.html>) book, and in their tutorial, there's a slight stumbling block I ran into. I figure if anyone else has this problem and is anything like me, they'll google for it, so maybe this will help someone out there. A description of the issue and solution follows:
+I am going through the [Agile Web Development with Rails](<https://web.archive.org/web/20060315103940/http://pragmaticprogrammer.com/titles/rails/index.html>) book, and in their tutorial, there's a slight stumbling block I ran into. I figure if anyone else has this problem and is anything like me, they'll google for it, so maybe this will help someone out there. A description of the issue and solution follows:
 
 On page 145, it takes you through building some test cases for the shopping cart in the "depot" app we're learning with.
 

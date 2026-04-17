@@ -16,6 +16,6 @@ Thanks to all involved with BarCamp Nashville - we celebrate you.
 Links:  
 Presentation notes: [Hat tip - Gavin](<http://www.gavoweb.com/hit_the_back_button_to_mo/2007/08/saturday-barcam.html>)
 
-Liveblogging BarCamp: [Hat tip - Kate O'](<http://www.musiccitybloggers.com/2007/08/18/1st-barcamp-nashville-post/>)
+Liveblogging BarCamp: [Hat tip - Kate O'](<https://web.archive.org/web/20081025122331/http://www.musiccitybloggers.com/2007/08/18/1st-barcamp-nashville-post/>)
 
 Flickr Slideshow: [barcampnashville](<http://www.flickr.com/photos/tags/barcampnashville/show/>)

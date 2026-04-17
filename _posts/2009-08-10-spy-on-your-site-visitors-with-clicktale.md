@@ -5,7 +5,7 @@ date: 2009-08-10
 author: Morgan Zuehlke
 categories: [Content, Interactive Strategy, Marketing, Planning, SEM, Usability, Web Design]
 ---
-Over the course of the past few months, our designers and strategists have been hard at work brainstorming and creating a new centresource.com. We're nearing the completion of this site and can't wait to share it with you! One thing that we found to be helpful when strategizing the format and features for the new web site were observations that we made while using a tool called [ClickTale](<http://www.clicktale.com/>).
+Over the course of the past few months, our designers and strategists have been hard at work brainstorming and creating a new centresource.com. We're nearing the completion of this site and can't wait to share it with you! One thing that we found to be helpful when strategizing the format and features for the new web site were observations that we made while using a tool called [ClickTale](<https://web.archive.org/web/20090801233155/http://www.clicktale.com/>).
 
 ClickTale is a monitoring service that "delivers innovative In-Page Web Analytics that reveal the mystery of what visitors actually do inside website pages, allowing you to analyze and optimize website performance and usability." Not only does it track visits and clicks, but it visibly records a user's mouse movements on each screen during a visit. You can actually click "play" and sit back and spy on someone's actions during a visit.
 

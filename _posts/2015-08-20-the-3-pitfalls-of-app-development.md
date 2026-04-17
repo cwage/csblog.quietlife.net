@@ -15,7 +15,7 @@ Well, while you may be an expert in your industry, the software business can be 
 
 Although developing an app can be a difficult process, being cognizant of these three major pitfalls can help you avoid detrimental mistakes and develop a successful app that will benefit your business.
 
-1\. <http://www.forbes.com/sites/neilpatel/2015/01/16/90-of-startups-will-fail-heres-what-you-need-to-know-about-the-10/>
+1\. <https://web.archive.org/web/20150820/http://www.forbes.com/sites/neilpatel/2015/01/16/90-of-startups-will-fail-heres-what-you-need-to-know-about-the-10/>
 
 * * *
 

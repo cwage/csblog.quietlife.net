@@ -5,11 +5,11 @@ date: 2005-05-16
 author: Chris
 categories: [Spam]
 ---
-Filtering the spam being sent from sober.p/q is fairly easy as the bayesian/DCC type checks begin to catch it more and more accurately. In addition, someone has provided some convenient [rules](<http://mailscanner.prolocation.net/german.cf>) to catch the spam directly in spamassassin.
+Filtering the spam being sent from sober.p/q is fairly easy as the bayesian/DCC type checks begin to catch it more and more accurately. In addition, someone has provided some convenient [rules](<https://web.archive.org/web/20050517010505/http://mailscanner.prolocation.net/german.cf>) to catch the spam directly in spamassassin.
 
-But a particularly annoying problem is blocking the [backscatter](<http://blog.centresource.com/2005/05/03/backscatter/>) that results from this Sober.P spam. Blocking backscatter consistently is much tougher. In general, filtering backscatter consistently is difficult, because it's tricky to identify the the backscatter spam from the legitimate NDRs -- and simply not accepting mail with a null return path (MAIL FROM: <>) is [against the RFC](<http://www.rfc-ignorant.org/policy-dsn.php>) (all NDRs are sent with a null return path).
+But a particularly annoying problem is blocking the [backscatter](<https://web.archive.org/web/20060112095402/http://blog.centresource.com/2005/05/03/backscatter/>) that results from this Sober.P spam. Blocking backscatter consistently is much tougher. In general, filtering backscatter consistently is difficult, because it's tricky to identify the the backscatter spam from the legitimate NDRs -- and simply not accepting mail with a null return path (MAIL FROM: <>) is [against the RFC](<https://web.archive.org/web/20050602074731/http://www.rfc-ignorant.org/policy-dsn.php>) (all NDRs are sent with a null return path).
 
-So, unfortunately, the best way to filter backscatter from a worm/virus going around is sadly on a case-by-case basis. For the backscatter from this latest Sober.P worm, you may want to add some spamassassin rules like these to kill the backscatter, as a complement to the normal [rules](<http://mailscanner.prolocation.net/german.cf>) mentioned above. Naturally you will need to add a score for each of these rules as well:
+So, unfortunately, the best way to filter backscatter from a worm/virus going around is sadly on a case-by-case basis. For the backscatter from this latest Sober.P worm, you may want to add some spamassassin rules like these to kill the backscatter, as a complement to the normal [rules](<https://web.archive.org/web/20050517010505/http://mailscanner.prolocation.net/german.cf>) mentioned above. Naturally you will need to add a score for each of these rules as well:
 
 > body SOBERQ_BACKSCATTER1 /Subject:.*Volk wird nur zum zahlen/  
 >  describe SOBERQ_BACKSCATTER1 Backscatter from Sober.Q spam

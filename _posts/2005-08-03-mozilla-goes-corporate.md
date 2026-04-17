@@ -3,7 +3,7 @@ layout: post
 title: "Mozilla Goes Corporate"
 date: 2005-08-03
 ---
-Mozilla [recently announced](<http://news.yahoo.com/news?tmpl=story&u=/pcworld/20050803/tc_pcworld/122078>) a corporate arm to their non-profit open source arm. The new corporate division will make it easier for them to enter into contracts, etc.
+Mozilla [recently announced](<https://web.archive.org/web/20211105225510/http://news.yahoo.com/news?tmpl=story&u=/pcworld/20050803/tc_pcworld/122078>) a corporate arm to their non-profit open source arm. The new corporate division will make it easier for them to enter into contracts, etc.
 
 What I found interesting was that Mozilla makes their money off the search built into the browser.
 

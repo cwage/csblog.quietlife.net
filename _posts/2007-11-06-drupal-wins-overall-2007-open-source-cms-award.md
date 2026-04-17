@@ -12,6 +12,6 @@ CentreSource offers our congratulations to the open source Drupal community as *
 
 > Initially released in 2001, Drupal has grown to become one of the most downloaded Open Source Content Management Systems with one of the most enthusiastic and committed communities. "This is a great honor for the Drupal community and the thousands of individual developers who've contributed to the project" confirms Drupal developer and core contributor Jeff Eaton. "We've worked hard to make Drupal as flexible, as scalable, and as accessible as possible. It's a great week for all of Open Source; the winners in every category have shown that OSS can produce powerful solutions for a wide range of needs" he concludes.
 
-Source: [ www.packtpub.com](<http://www.packtpub.com/article/drupal-wins-overall-2007-open-source-cms-award>)
+Source: [ www.packtpub.com](<https://web.archive.org/web/20071107073557/http://www.packtpub.com/article/drupal-wins-overall-2007-open-source-cms-award>)
 
-There is a wealth of resources for those interested in Drupal at the [Drupal.org website](<http://drupal.org/handbooks>).
+There is a wealth of resources for those interested in Drupal at the [Drupal.org website](<https://web.archive.org/web/20071107104738/http://drupal.org/handbooks>).

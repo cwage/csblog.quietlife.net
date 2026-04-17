@@ -7,7 +7,7 @@ categories: [Linux/BSD]
 ---
 I had a client call me last week with a problem. They have 3 servers running Debian GNU/Linux. They had had a power failure the evening before, and everything had come back up fine except their Linux servers. All of them!
 
-They all had the exact same problem, he said, "When I boot them up, they get as far as LI...." To even the most casual Linux user, this is a sadly [common problem](<http://home.att.net/~lilo-boot/faq_er.htm#li_only>). I realized that none of these servers had been rebooted since we performed a [Woody](<http://www.us.debian.org/releases/woody/>) to [Sarge](<http://www.us.debian.org/releases/sarge/>) upgrade, and something clearly hosed LILO.
+They all had the exact same problem, he said, "When I boot them up, they get as far as LI...." To even the most casual Linux user, this is a sadly [common problem](<https://web.archive.org/web/20051211120438/http://home.att.net/~lilo-boot/faq_er.htm#li_only>). I realized that none of these servers had been rebooted since we performed a [Woody](<https://web.archive.org/web/20051126232047/http://www.us.debian.org/releases/woody/>) to [Sarge](<https://web.archive.org/web/20051126231349/http://www.us.debian.org/releases/sarge/>) upgrade, and something clearly hosed LILO.
 
 This whole experience raised a number of questions for me:
 

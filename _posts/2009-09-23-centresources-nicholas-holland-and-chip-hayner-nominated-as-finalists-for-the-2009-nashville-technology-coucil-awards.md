@@ -11,6 +11,6 @@ CentreSource is proud to announce that two of our own have been nominated for aw
 
 The winners for the awards will be announced at the "Feel the Beat" Technology Awards Gala on October 27th from 5:30pm - 8:00pm at the Schermerhorn Symphony Center.
 
-Click here for [registration information](<http://www.technologycouncil.com/2009/08/17/october-27th-feel-the-beat-technology-awards-gala/>).
+Click here for [registration information](<https://web.archive.org/web/20090825004341/http://www.technologycouncil.com/2009/08/17/october-27th-feel-the-beat-technology-awards-gala/>).
 
 Go Nick and Chip!!

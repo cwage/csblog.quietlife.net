@@ -11,6 +11,6 @@ One of his Seven Habits was to **avoid the top spot** in a Search Engine Marketi
 
 Bidding on a keyword at $10.00 for the top spot when the third or fourth spot can be obtained for much less is highly likely. Besides being a good steward of resources, if the keyword converts into a profitable lead, then the cost-per-conversion yield is obviously much better. In a sense, there is a relief to not engage in a keyword bidding war to always be number one. 
 
-Read the rest of the [Pay-Per Chase article](<http://www.biztechmagazine.com/article.asp?item_id=303>) at BizTechMagazine. There's a good discussion about maximizing a pay-per-click strategy and the rest of John's _Seven Habits Of Highly Effective Pay-Per-Click Advertisers._  
+Read the rest of the [Pay-Per Chase article](<https://web.archive.org/web/20070912221252/http://www.biztechmagazine.com/article.asp?item_id=303>) at BizTechMagazine. There's a good discussion about maximizing a pay-per-click strategy and the rest of John's _Seven Habits Of Highly Effective Pay-Per-Click Advertisers._  
 -  
 _John W. Ellis is a senior online marketing manager for ResortQuest International. Ellis blogs about search engine advertising at[www.johnwellis.com](<http://www.johnwellis.com/>)_

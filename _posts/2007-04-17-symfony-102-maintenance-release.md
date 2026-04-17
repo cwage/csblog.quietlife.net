@@ -14,4 +14,4 @@ The bug fixes include:
 * r3699: fixed highlight_text() doesn't work with / (#1621)  
 * r3692: fixed i18n support for errors in sfRequest
 
-[Here is the full link on symfony-project.com](<http://www.symfony-project.com/weblog/2007/04/17/symfony-1-0-2-is-released.html>).
+[Here is the full link on symfony-project.com](<https://web.archive.org/web/20070419133926/http://www.symfony-project.com/weblog/2007/04/17/symfony-1-0-2-is-released.html>).

@@ -9,7 +9,7 @@ You've probably caught wind of it already. A snide remark here, a subtle eye-rol
 
 So what's at the center of this debate? A cadre of Nashville's more technically proficient programmer/engineer types feel that Nashville's Barcamp is overwhelmed by "non-technical" people: entrepreneurs, business-owners, and self-proclaimed social media experts that have organized the event such that it's hardly in keeping with the original spirit of Barcamp. In a nutshell: too many business cards, not enough neckbeards. More specifically, as Rick Bradley put it:
 
-> < @[rickbradley> @[cwage](<http://twitter.com/cwage>) my (and others') annual complaints would be silenced by (a) changing the name or (b) following the rules: <http://t.co/TGRaeDm>](<http://twitter.com/rickbradley>)
+> < @[rickbradley> @[cwage](<http://twitter.com/cwage>) my (and others') annual complaints would be silenced by (a) changing the name or (b) following the rules: <https://web.archive.org/web/20110912/http://t.co/TGRaeDm>](<http://twitter.com/rickbradley>)
 
 Similarly, @[BCN_Critic](<http://twitter.com/bcn_critic>) (an account created on twitter specifically to voice complaints about Barcamp Nashville) objects to the rigid scheduling coupled with the random session selection, among other things.
 

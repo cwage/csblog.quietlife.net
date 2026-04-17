@@ -11,15 +11,15 @@ In an open environment where public art is displayed such as murals and sculptur
 
 Last year, traveling out of downtown Nashville south on I-65, an exit sign was "enhanced"...
 
-[![](http://photos1.blogger.com/x/blogger/490/922/400/280247/100_0491.jpg)](<http://photos1.blogger.com/x/blogger/490/922/1600/722170/100_0491.jpg>)
+[![](https://web.archive.org/web/20210522005502/http://photos1.blogger.com/x/blogger/490/922/400/280247/100_0491.jpg)](<http://photos1.blogger.com/x/blogger/490/922/1600/722170/100_0491.jpg>)
 
 Expression of public art is wonderful, but is this art or vandalism? Defacing public property or "tagging" private property for some is just being selfish. The art of vandalism. Many are dismayed to see tagging done on a building's glass block facade, bridges, overpasses or even on custom painted murals. A negative perception of graffiti ensues when there are significant costs to repair or replace the damage done. Volunteer groups spring up in neighborhoods to clean up the environmental eyesores perpetrated on private property.
 
-![1487924762_c5969fa439.jpg](http://blog.centresource.com/wp-content/uploads/2007/10/1487924762_c5969fa439.jpg)
+![1487924762_c5969fa439.jpg](https://web.archive.org/web/20071025023204/http://blog.centresource.com/wp-content/uploads/2007/10/1487924762_c5969fa439.jpg)
 
 So the question is graffiti true art or vandalism translated as a social blight, disruptive to our senses.
 
-Apparently there is a whole conversation on [The Culture and Politics of Graffiti Art](<http://www.graffiti.org/faq/werwath/werwath.html>)
+Apparently there is a whole conversation on [The Culture and Politics of Graffiti Art](<https://web.archive.org/web/20071004110033/http://www.graffiti.org/faq/werwath/werwath.html>)
 
 _"Graffiti writing breaks the hegemonic hold of corporate/governmental style over the urban environment and the situations of daily life. As a form of aesthetic sabotage, it interrupts the pleasant, efficient uniformity of "planned" urban space and predictable urban living. For the writers, graffiti disrupts the lived experience of mass culture, the passivity of mediated consumption." - Jeff Ferrell, Crimes of Style_
 
