@@ -5,7 +5,7 @@ date: 2014-10-08
 ---
 Here at Centresource, we create new projects for clients all the time. There is a lot of information to keep organized and up-to-date. We have tried a lot of solutions in the past, but much of the information becomes scattered across [Trello](<http://trello.com/>), [Redmine](<http://redmine.org/>), [Invision](<http://invisionapp.com/>), [Google Drive](<http://drive.google.com/>) and [Dropbox](<http://dropbox.com/>). With filenames like `ClientA-Wireframes-Interior1-Rev3A.format`, your storage becomes cluttered and difficult to interpret. Additionally, it is difficult to share this information with the client in a presentable format if they don't have our same proprietary applications like [Pages](<https://www.apple.com/mac/pages/>), [Keynote](<https://www.apple.com/mac/keynote/>), [Omnigraffle](<https://www.omnigroup.com/omnigraffle>) or [Photoshop](<http://www.photoshop.com/>).
 
-![s3auth_logo](/content/uploads/2014/08/s3auth_logo-300x52.png)
+![s3auth_logo](/wp-content/uploads/2014/08/s3auth_logo-300x52.png)
 
 This is why we've decided on a web-based solution that is viewable to anybody with a browser that just uses basic HTML/CSS/JS. More specifically, we've decided to us [Jekyll](<http://jekyllrb.com/>) that is deployed to an S3 bucket. In order to keep this site/bucket secure we are leveraging [S3Auth](<http://s3auth.com/>) to put HTTP Basic Authentication in front of our client's S3 bucket. I'll show you how we do that.
 

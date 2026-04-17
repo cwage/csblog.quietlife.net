@@ -3,7 +3,7 @@ layout: post
 title: "Building User Personas: Why? How?"
 date: 2014-12-09
 ---
-**![Persona](/content/uploads/2014/12/persona-300x298.jpg)Why?**
+**![Persona](/wp-content/uploads/2014/12/persona-300x298.jpg)Why?**
 
 Most great products are born out of recognizing a common problem that has no solution -- and providing that solution to a (hopefully paying) customer base. This, however, is really only half the battle of planning out your product or website. There are very few, if any, products out there that can be all things to all people.
 

@@ -7,7 +7,7 @@ Trying to determine if your website is lacking good user experience can be trick
 
 ## **Ask Yourself**
 
-**![User Experience](/content/uploads/2015/02/UE-SIG-300x300.jpg)How old is your site?**  
+**![User Experience](/wp-content/uploads/2015/02/UE-SIG-300x300.jpg)How old is your site?**  
 User experience, or UX, is a relatively new practice when it comes to site and product planning. We've been doing it in bits and pieces as an industry for a while, but it only became a widely recognized and cohesive discipline in the last five or so years. If your site's design and structure hasn't been critically thought through in over two to three years, chances are high that it doesn't have optimal UX.
 
 **Does your site visually represent your business?**  

@@ -3,7 +3,7 @@ layout: post
 title: "The Easiest Way To Find Your Dream Drupal Job"
 date: 2014-10-21
 ---
-![Drupal](/content/uploads/2014/10/Drupal_0-210x300.png)The Drupal Association recently announced a new website for recruiters and job-seekers in the Drupal community. The open-source platform's popularity has exploded in the past five years, and having a website like this geared towards people specifically searching within this community is a great addition. Plus, job seekers can use it for free, and the proceeds from the postings will fund Drupal.org improvements and community programs. It's a win-win for the Drupal community as a whole.
+![Drupal](/wp-content/uploads/2014/10/Drupal_0-210x300.png)The Drupal Association recently announced a new website for recruiters and job-seekers in the Drupal community. The open-source platform's popularity has exploded in the past five years, and having a website like this geared towards people specifically searching within this community is a great addition. Plus, job seekers can use it for free, and the proceeds from the postings will fund Drupal.org improvements and community programs. It's a win-win for the Drupal community as a whole.
 
 [Click here to see the new Drupal Jobs website >>](<https://jobs.drupal.org/>)
 

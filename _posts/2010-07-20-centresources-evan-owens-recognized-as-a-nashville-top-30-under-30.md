@@ -5,7 +5,7 @@ date: 2010-07-20
 author: Chip Hayner
 categories: [Company News]
 ---
-![](http://www.centresource.com/images/team/eowens-thumb.jpg)We are thrilled to congratulate Evan Owens from our team as a [Nashville 30 Under 30](<http://www.nashvilletop30.org/>) award winner this year.
+We are thrilled to congratulate Evan Owens from our team as a [Nashville 30 Under 30](<http://www.nashvilletop30.org/>) award winner this year.
 
 Nashville's Top 30 Under 30 recognizes the city's most active young philanthropists while benefiting the CFF. Honorees were nominated by co-workers, friends and family for their charitable and professional endeavors. The top 30 honorees were then selected by the Top 30 Under 30 selection committee during the month of June.
 

@@ -5,7 +5,7 @@ date: 2014-07-29
 ---
 In [Part 2 of our "User Stories 101" series](</2014/07/25/writing-good-user-stories/> "how to write user stories"), we discussed the qualities of a great user story and how to write them. Now, we'll talk about the ways in which we can retrieve user stories from a disparate team of people.
 
-[![User stories 101](/content/uploads/2014/07/user_stories_101-01-300x194.jpg)](</content/uploads/2014/07/user_stories_101-01.jpg>)
+[![User stories 101](/wp-content/uploads/2014/07/user_stories_101-01-300x194.jpg)](</wp-content/uploads/2014/07/user_stories_101-01.jpg>)
 
 At this point, you've identified your users and their unique needs. To help articulate these thoughts further, I often like to facilitate a workflow workshop. Start with an empty box and use this as your starting screen or interaction point. Walk through what happens next, and **take a depth-first approach: follow each trail to its end, rather than trying to go one level deep across the whole experience**.
 

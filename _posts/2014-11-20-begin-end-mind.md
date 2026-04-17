@@ -3,7 +3,7 @@ layout: post
 title: "Begin With The End In Mind"
 date: 2014-11-20
 ---
-![The End](/content/uploads/2014/11/Ends-Compressed-300x193.jpg)If you don't spend your days heads down, immersed in technology it's easy to feel intimidated. It's complicated, it's full of unfamiliar acronyms and it always seems like there's some secret knowledge that you can't quite grasp. And sometimes, well, it _is_ hard. But it's not rocket science either. At its core it's something you already understand. It's building, construction, putting things together to make something new. Sure, we're using code and not boards and nails, but in the end they have more in common than meets the eye.
+![The End](/wp-content/uploads/2014/11/Ends-Compressed-300x193.jpg)If you don't spend your days heads down, immersed in technology it's easy to feel intimidated. It's complicated, it's full of unfamiliar acronyms and it always seems like there's some secret knowledge that you can't quite grasp. And sometimes, well, it _is_ hard. But it's not rocket science either. At its core it's something you already understand. It's building, construction, putting things together to make something new. Sure, we're using code and not boards and nails, but in the end they have more in common than meets the eye.
 
 Every building starts with a goal. Not with a hammer. Not even with a blueprint. Just a goal.
 

@@ -3,7 +3,7 @@ layout: post
 title: "3 Essentials That Make a City Great for Startups"
 date: 2015-02-13
 ---
-![Startup](/content/uploads/2015/02/startup-300x198.jpg)In the late 1300s, the Medici family came into power in Italy. Whether due to temperament, environment, or chance, they became the family who godfathered the Italian renaissance, and helped spark the many revolutions in science, art, and politics which formed the world we live in today.
+![Startup](/wp-content/uploads/2015/02/startup-300x198.jpg)In the late 1300s, the Medici family came into power in Italy. Whether due to temperament, environment, or chance, they became the family who godfathered the Italian renaissance, and helped spark the many revolutions in science, art, and politics which formed the world we live in today.
 
 Since then, many people and cities have aspired to recapture that magic. Can one city launch a new revolution in human culture? Can one era kick off a new level of creation and innovation?
 

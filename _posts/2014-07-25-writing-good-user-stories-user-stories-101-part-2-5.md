@@ -3,7 +3,7 @@ layout: post
 title: "Writing Good User Stories (User Stories 101: Part 2 of 5)"
 date: 2014-07-25
 ---
-[![User stories 101](/content/uploads/2014/07/user_stories_101-01-300x194.jpg)](</content/uploads/2014/07/user_stories_101-01.jpg>)
+[![User stories 101](/wp-content/uploads/2014/07/user_stories_101-01-300x194.jpg)](</wp-content/uploads/2014/07/user_stories_101-01.jpg>)
 
 In [Part 1 of our "User Stories 101" series](</2014/07/14/user-story/> "user stories"), I introduced the basic model of a user story:
 

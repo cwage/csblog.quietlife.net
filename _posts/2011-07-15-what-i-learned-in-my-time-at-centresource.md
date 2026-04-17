@@ -9,7 +9,7 @@ In a melodramatic attempt to close up my time here at Centresource, I figured I 
 
 #### As a manager, you set the weather.
 
-![](http://www.centresource.com/images/team/jasonjones-huge.png)
+![](/images/team/jasonjones-huge.png)
 
 Our CEO, Nick told me early on "you set the weather for your department". At the time I had never heard the expression before. Here's how I understand it... do you remember when you were a kid? You came home from school, finished your social studies homework and curled up on your family's corduroy couch. You armed yourself with a bag of pretzels in one hand, Capri-Sun in the other and an episode of Thundercats on the TV. Life was sublime... that was until your dad walked in after a bad day at work. You didn't know exactly what it was, but in an instant you could feel the entire climate of the house change. You were suddenly nervous that the TV was too loud, you franticly cleaned spilled pretzel crumbs and feverishly went through a mental list of overdue chores you had yet to complete. You were just waiting for the parental hurricane to blow your way. The same is true in management.
 
