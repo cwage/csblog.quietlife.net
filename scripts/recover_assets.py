@@ -20,23 +20,34 @@ import glob
 import json
 import os
 import re
-import sys
 import time
 import urllib.parse
 import urllib.request
-import urllib.error
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 POSTS_DIR = os.path.join(ROOT, "_posts")
 ASSETS_DIR = os.path.join(ROOT, "wp-content", "uploads")
 
-# Any URL containing /wp-content/uploads/<path>
-URL_RE = re.compile(r"[a-zA-Z]+://[^\s)>\"']+/wp-content/uploads/[^\s)>\"']+")
+# Hosts we consider "ours". Third-party /wp-content/uploads/ URLs are skipped
+# so they don't collide with our own asset paths and pull in files that no
+# post actually references (the markdown still points at the original host).
+CANONICAL_HOSTS = {
+    "csblog.quietlife.net",
+    "blog.centresource.com",
+    "blog2.centresource.com",
+}
+
+URL_RE = re.compile(r"[a-zA-Z]+://([^\s/)>\"']+)(/wp-content/uploads/[^\s)>\"']+)")
+
+# After the PR #2+#3 rewrites, most references are relative (/wp-content/...).
+# Match those too and assume the default canonical host for CDX lookup.
+RELATIVE_RE = re.compile(r"(?<![a-zA-Z0-9/])/wp-content/uploads/[^\s)>\"']+")
+DEFAULT_HOST = "blog.centresource.com"
 
 # WordPress auto-generates sized variants like foo-300x200.jpg, foo-1024x768.png
 THUMB_RE = re.compile(r"-\d{2,4}x\d{2,4}(?=\.[A-Za-z0-9]{2,5}$)")
 
-CDX = "http://web.archive.org/cdx/search/cdx"
+CDX = "https://web.archive.org/cdx/search/cdx"
 WB = "https://web.archive.org/web"
 
 UA = "centresource-archive-recovery/1.0 (cwage@quietlife.net)"
@@ -46,13 +57,23 @@ def collect_urls():
     urls = set()
     for p in sorted(glob.glob(os.path.join(POSTS_DIR, "*.md"))):
         with open(p, encoding="utf-8") as f:
-            for m in URL_RE.finditer(f.read()):
-                urls.add(m.group(0))
+            content = f.read()
+        for m in URL_RE.finditer(content):
+            if m.group(1) not in CANONICAL_HOSTS:
+                continue
+            urls.add(m.group(0))
+        for m in RELATIVE_RE.finditer(content):
+            urls.add(f"http://{DEFAULT_HOST}{m.group(0)}")
     return sorted(urls)
 
 
 def to_cdx_target(url):
-    """Map the local canonical host back to the original for Wayback lookups."""
+    """Map the local canonical host back to the original for Wayback lookups.
+
+    Relative /wp-content/... references are already synthesized as
+    http://blog.centresource.com/... by collect_urls(), so they pass through.
+    Other canonical hosts (blog2.centresource.com) are also untouched.
+    """
     return url.replace("https://csblog.quietlife.net", "http://blog.centresource.com")
 
 
@@ -66,8 +87,20 @@ def local_path(url):
 
 
 def cdx_lookup(url, retries=1, backoff=2.0, timeout=12):
-    """Return ((timestamp, archived_url), None) for the closest snapshot, or (None, reason)."""
-    q = urllib.parse.urlencode({"url": url, "output": "json", "limit": 1})
+    """Return ((timestamp, archived_url), None) for the closest 200 snapshot, or (None, reason).
+
+    Filters to statuscode:200 so we don't save redirect/404 HTML bodies under a
+    binary filename. Collapses identical captures by digest and restricts the
+    returned fields for a stable response shape.
+    """
+    q = urllib.parse.urlencode({
+        "url": url,
+        "output": "json",
+        "limit": 1,
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "fl": "timestamp,original",
+    })
     full = f"{CDX}?{q}"
     last_err = None
     for attempt in range(retries + 1):
@@ -83,9 +116,9 @@ def cdx_lookup(url, retries=1, backoff=2.0, timeout=12):
             return None, last_err
         if len(data) < 2:
             return None, "no snapshot"
-        row = data[1]
-        # CDX columns: urlkey, timestamp, original, mimetype, statuscode, digest, length
-        return (row[1], row[2]), None
+        # fl=timestamp,original → row is [timestamp, original]
+        ts, original = data[1][0], data[1][1]
+        return (ts, original), None
     return None, last_err or "unknown"
 
 
