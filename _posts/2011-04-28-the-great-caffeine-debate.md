@@ -5,7 +5,7 @@ date: 2011-04-28
 author: Will Acuff
 categories: [Miscellaneous]
 ---
-![](https://csblog.quietlife.net/wp-content/uploads/2011/04/coffee_versus_tea.jpg)
+![](/wp-content/uploads/2011/04/coffee_versus_tea.jpg)
 
 It's 8 am. Across the US millions of people on the way to work are thinking of only one thing - caffeine. How quickly can I get this into my system? Which delivery method should I choose? Do I have to produce anything myself or do I have enough change in the cup holder to swing by Starbucks?
 

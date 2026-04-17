@@ -26,7 +26,7 @@ This is a real concern and I think that all CEO's should be aware of such risks.
 
 Ultimately, I believe all CEO's have a duty to communicate with their employees & customers on a regular basis. Whether that's through an annual report or a blog, it doesn't matter. The same duty of care should be maintained for each.
 
-I've already typed why I made the decision to embrace a company blog. You can [read it here](<https://csblog.quietlife.net/2005/10/01/why-have-a-company-blog-a-ceos-perspective/>). I also found (via Dave's article), a great article on why CEO's should blog by Jeneane D. Sessum. She interviews many CEO's around the country and asks them why they blog, etc.
+I've already typed why I made the decision to embrace a company blog. You can [read it here](</2005/10/01/why-have-a-company-blog-a-ceos-perspective/>). I also found (via Dave's article), a great article on why CEO's should blog by Jeneane D. Sessum. She interviews many CEO's around the country and asks them why they blog, etc.
 
 **Her article lists blogs from CEO's & Executives such as:**  
 [Bob Cramer](<https://web.archive.org/web/20050925011723/http://blogs.livevault.com/bob/>), CEO of LiveVault  

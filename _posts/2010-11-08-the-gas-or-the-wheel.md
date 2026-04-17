@@ -5,7 +5,7 @@ date: 2010-11-08
 author: Will Acuff
 categories: [Operations]
 ---
-![motley-crue](https://csblog.quietlife.net/wp-content/uploads/2010/11/motley-crue-300x209.jpg)
+![motley-crue](/wp-content/uploads/2010/11/motley-crue-300x209.jpg)
 
 Developers, developers, developers! And I suppose we could also say, Designers, designers, designers! In the world of the Interactive Agency these two groups of people are 'the talent'. The pampered men and women who can demand fresh socks in the green room and refuse to eat unsorted M&Ms. They complete the client facing work, deliver the goods, and reap the recognition when selected by an Awards Committee. But what about the folks lurking in the shadow of these creative giants? Who takes in the invoices, works out the scheduling details, and reports on the bottom line? Operations.
 

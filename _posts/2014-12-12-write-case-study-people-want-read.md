@@ -12,7 +12,7 @@ Every good story has a narrative arc. You may remember this from english class..
 
 
 
-![Phone Lady](https://csblog.quietlife.net/content/uploads/2014/12/phone-sales-lady-headset-300x199.jpg)****Any good case study tells a story. So often our case studies read more like a report than a story. Here are five things**not** to do in a case study:
+![Phone Lady](/content/uploads/2014/12/phone-sales-lady-headset-300x199.jpg)****Any good case study tells a story. So often our case studies read more like a report than a story. Here are five things**not** to do in a case study:
 
   * **Don't use stats that don't mean anything.**  
 As the 19th-century British Prime Minister Benjamin Disraeli said there are "lies, damned lies and statistics." So often you'll see exaggerated numbers thrown out in statistics without any explanation. If possible, focus on the case before and the case after your efforts.
@@ -50,34 +50,34 @@ Make sure to follow the narrative arc. Define the characters and the setting, ta
 
 * * *
 
-  * [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+  * [Interactive Strategy](</category/interactive-strategy-2/>)
 
 
 
-[case-study](<https://csblog.quietlife.net/tag/case-study/>)
+[case-study](</tag/case-study/>)
 
 ![](http://0.gravatar.com/avatar/28b25a12fd820b27b173ff603d7e17e6?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Evan Owens](<https://csblog.quietlife.net/author/eowens/> "Posts by Evan Owens")
+#### [Evan Owens](</author/eowens/> "Posts by Evan Owens")
 
 As an Interactive Consultant, Evan Owens uses motivating communication and intuitive thinking to help organizations merge technology and marketing strategies to produce measurable results. Throughout his career, he has helped a broad base of organizations such as Adobe, Healthways, Singer Sewing, Mapco, and SESAC revolutionize their marketing and technology strategies.
 
 
 
 
-[ ![5 Key Steps to Get a Client Relationship Back on Track](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/12/05/5-key-steps-get-client-relationship-back-track/>)
+[ ![5 Key Steps to Get a Client Relationship Back on Track](/content/themes/marroco/assets/img/empty/pixel.png) ](</2014/12/05/5-key-steps-get-client-relationship-back-track/>)
 
-### [5 Key Steps to Get a Client Relationship Back on Track](<https://csblog.quietlife.net/2014/12/05/5-key-steps-get-client-relationship-back-track/>)
+### [5 Key Steps to Get a Client Relationship Back on Track](</2014/12/05/5-key-steps-get-client-relationship-back-track/>)
 
-December 5, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+December 5, 2014 / [Interactive Strategy](</category/interactive-strategy-2/>)
 
 Breaking News: Communication is the key to success in any relationship. I know I didn't ...
 
-[ ![Your Website: An Owner's Manual](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/11/11/website-owners-manual/>)
+[ ![Your Website: An Owner's Manual](/content/themes/marroco/assets/img/empty/pixel.png) ](</2014/11/11/website-owners-manual/>)
 
-### [Your Website: An Owner's Manual](<https://csblog.quietlife.net/2014/11/11/website-owners-manual/>)
+### [Your Website: An Owner's Manual](</2014/11/11/website-owners-manual/>)
 
-November 11, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+November 11, 2014 / [Interactive Strategy](</category/interactive-strategy-2/>)
 
 In June of this year, my family welcomed our third child into the fold. Although ...
 
@@ -85,6 +85,6 @@ In June of this year, my family welcomed our third child into the fold. Although
 
 # Post navigation
 
-[← Building User Personas: Why? How?](<https://csblog.quietlife.net/2014/12/09/building-user-personas/>)
+[← Building User Personas: Why? How?](</2014/12/09/building-user-personas/>)
 
-[Tools I Use Every Day As A Full Stack Engineer →](<https://csblog.quietlife.net/2014/12/16/tools-use-every-day-full-stack-engineer/>)
+[Tools I Use Every Day As A Full Stack Engineer →](</2014/12/16/tools-use-every-day-full-stack-engineer/>)

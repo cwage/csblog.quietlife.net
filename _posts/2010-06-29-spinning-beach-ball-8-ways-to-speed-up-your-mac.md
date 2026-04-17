@@ -5,7 +5,7 @@ date: 2010-06-29
 author: Missy Larzelere
 categories: [Miscellaneous]
 ---
-[![Centresource: Eight Mac Tips](https://csblog.quietlife.net/wp-content/uploads/2010/06/centresource_eight_mac_tips-231x300.png)](<https://csblog.quietlife.net/wp-content/uploads/2010/06/centresource_eight_mac_tips.pdf>)If you own a Mac, you know what the "Spinning Beach Ball" cursor means: it is going to be a while before you get to use your computer again. At our June [Interactive Mixer](<http://mixer.centresource.com/>), we handed out sheets of paper with a few tips for keeping your Mac as fast as the first day you bought it. Several people have asked to have an extra copy of it, so here it is for your reference.
+[![Centresource: Eight Mac Tips](/wp-content/uploads/2010/06/centresource_eight_mac_tips-231x300.png)](</wp-content/uploads/2010/06/centresource_eight_mac_tips.pdf>)If you own a Mac, you know what the "Spinning Beach Ball" cursor means: it is going to be a while before you get to use your computer again. At our June [Interactive Mixer](<http://mixer.centresource.com/>), we handed out sheets of paper with a few tips for keeping your Mac as fast as the first day you bought it. Several people have asked to have an extra copy of it, so here it is for your reference.
 
 ### 8 Ways To Optimize Your Mac's Performance
 

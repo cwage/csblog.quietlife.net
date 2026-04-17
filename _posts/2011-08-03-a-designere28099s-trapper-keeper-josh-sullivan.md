@@ -5,9 +5,9 @@ date: 2011-08-03
 author: Josh Sullivan
 categories: [Miscellaneous]
 ---
-![](https://csblog.quietlife.net/wp-content/uploads/2011/07/trapperkeeper-logo.jpg)
+![](/wp-content/uploads/2011/07/trapperkeeper-logo.jpg)
 
-![](https://csblog.quietlife.net/wp-content/uploads/2011/07/whats-in-your-tool-box.jpg)
+![](/wp-content/uploads/2011/07/whats-in-your-tool-box.jpg)
 
 **1\. What's in your trapper keeper these days?**
 

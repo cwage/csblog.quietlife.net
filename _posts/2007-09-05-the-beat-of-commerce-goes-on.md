@@ -3,7 +3,7 @@ layout: post
 title: "The Beat of Commerce Goes On"
 date: 2007-09-05
 ---
-![beatgoeson.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/09/beatgoeson.jpg)
+![beatgoeson.jpg](/wp-content/uploads/2007/09/beatgoeson.jpg)
 
 At a special Apple media event in San Francisco, Steve Jobs introduced several new models of iPod goodness for the holiday season. 
 

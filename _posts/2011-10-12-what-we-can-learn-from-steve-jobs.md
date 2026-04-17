@@ -7,7 +7,7 @@ categories: [Miscellaneous]
 ---
 With the recent passing of one of the world's most brilliant minds, Steve Jobs has been at the top of discussion not only within the interactive world but throughout all types of social groups. When thinking about the life of Steve Jobs, attempting to wrap up his accomplishments within a blog post wouldn't quite do his legacy justice. Last week I listened to a [speech](<http://www.youtube.com/watch?v=UF8uR6Z6KLc&feature=share>) he gave at a Stanford graduation in 2005 and his path to success was by no means conventional. His love for unconventionality ultimately led to one of the top companies in the world and, subsequently, allows me the ability to create art for a living on a daily basis.
 
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/10/steve-jobs1.jpeg)](<https://csblog.quietlife.net/wp-content/uploads/2011/10/steve-jobs1.jpeg> "steve-jobs1")
+[![](/wp-content/uploads/2011/10/steve-jobs1.jpeg)](</wp-content/uploads/2011/10/steve-jobs1.jpeg> "steve-jobs1")
 
 Here are few ways that unconventionality led to success for Steve Jobs:
 

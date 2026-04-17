@@ -28,4 +28,4 @@ Surfing a site that requires registration? Beat spam with this quick easy email 
 
 
 
-_Found a Web site that you just can't live without? Let us know in the[comments section](<https://csblog.quietlife.net/2010/04/28/more-cool-find...-the-interwebzmore-cool-finds-on-the-interwebz/#comments>)!_
+_Found a Web site that you just can't live without? Let us know in the[comments section](</2010/04/28/more-cool-find...-the-interwebzmore-cool-finds-on-the-interwebz/#comments>)!_

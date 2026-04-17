@@ -3,7 +3,7 @@ layout: post
 title: "5 Things You May Have Overlooked Prior to Site Launch"
 date: 2014-11-25
 ---
-![Checklist](https://csblog.quietlife.net/content/uploads/2014/11/checklist.jpg)The day has finally arrived. For the past few weeks, you or your team have put in a lot of effort, time and unwavering dedication just so you can launch a perfectly functional website that offers exemplary user experience. The only thing separating you from calling it a job well done is to formally publish the pages and declare the website officially "live".
+![Checklist](/content/uploads/2014/11/checklist.jpg)The day has finally arrived. For the past few weeks, you or your team have put in a lot of effort, time and unwavering dedication just so you can launch a perfectly functional website that offers exemplary user experience. The only thing separating you from calling it a job well done is to formally publish the pages and declare the website officially "live".
 
 However, before you do that, there are a lot of things you need to double check. Putting together a website is no joke. Every overlooked error and mistake can hurt your website's user experience level, even minuscule things like a misspelled word or a single broken link.
 
@@ -23,7 +23,7 @@ Lastly, make sure all copyrighted materials are properly noted and that you have
 
 When it comes to design, the first thing you need to check is whether all codes are working properly. The last thing you need is a wayward html code standing out like a fish out of water amongst your page text. If all coding and scripting is done properly, all page elements should load properly and all design elements in their proper places.
 
-Check if your website is [responsive and intuitive](<https://csblog.quietlife.net/2012/02/01/responsive-web/>). Load the website using several different browsers to ensure it is optimized for all browsers. Check if the website is optimized across all platforms by opening it via a smartphone, a tablet or a mac.
+Check if your website is [responsive and intuitive](</2012/02/01/responsive-web/>). Load the website using several different browsers to ensure it is optimized for all browsers. Check if the website is optimized across all platforms by opening it via a smartphone, a tablet or a mac.
 
 ## Functionality and User Experience
 
@@ -55,32 +55,32 @@ Have questions on pre-launch steps? Drop me a message on [Twitter](<http://twitt
 
 * * *
 
-  * [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+  * [Interactive Strategy](</category/interactive-strategy-2/>)
 
 
 
-[website](<https://csblog.quietlife.net/tag/website/>)
+[website](</tag/website/>)
 
 ![](http://0.gravatar.com/avatar/426a3fe3c45ea3db91616cac0a0ed433?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Desmond Cain](<https://csblog.quietlife.net/author/dcain/> "Posts by Desmond Cain")
+#### [Desmond Cain](</author/dcain/> "Posts by Desmond Cain")
 
 
 
 
-[ ![Is the Inside Sales Position Becoming Obsolete?](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/09/05/inside-sales-position-becoming-obsolete/>)
+[ ![Is the Inside Sales Position Becoming Obsolete?](/content/themes/marroco/assets/img/empty/pixel.png) ](</2014/09/05/inside-sales-position-becoming-obsolete/>)
 
-### [Is the Inside Sales Position Becoming Obsolete?](<https://csblog.quietlife.net/2014/09/05/inside-sales-position-becoming-obsolete/>)
+### [Is the Inside Sales Position Becoming Obsolete?](</2014/09/05/inside-sales-position-becoming-obsolete/>)
 
-September 5, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+September 5, 2014 / [Interactive Strategy](</category/interactive-strategy-2/>)
 
 As the world of marketing automation continues to grow, I have often wondered how this ...
 
-[ ![The Lean UX Canvas](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/09/18/lean-ux-canvas/>)
+[ ![The Lean UX Canvas](/content/themes/marroco/assets/img/empty/pixel.png) ](</2014/09/18/lean-ux-canvas/>)
 
-### [The Lean UX Canvas](<https://csblog.quietlife.net/2014/09/18/lean-ux-canvas/>)
+### [The Lean UX Canvas](</2014/09/18/lean-ux-canvas/>)
 
-September 18, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>), [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
+September 18, 2014 / [Interactive Strategy](</category/interactive-strategy-2/>), [UX-Design](</category/uxdesign/>)
 
 We work with a lot of companies in varying states of maturity. Some prospective clients ...
 
@@ -88,6 +88,6 @@ We work with a lot of companies in varying states of maturity. Some prospective 
 
 # Post navigation
 
-[← Begin With The End In Mind](<https://csblog.quietlife.net/2014/11/20/begin-end-mind/>)
+[← Begin With The End In Mind](</2014/11/20/begin-end-mind/>)
 
-[Fostering Work / Life Balance →](<https://csblog.quietlife.net/2014/12/02/fostering-work-life-balance/>)
+[Fostering Work / Life Balance →](</2014/12/02/fostering-work-life-balance/>)

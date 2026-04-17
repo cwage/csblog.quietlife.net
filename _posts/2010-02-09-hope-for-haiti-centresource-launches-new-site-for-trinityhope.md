@@ -5,7 +5,7 @@ date: 2010-02-09
 author: Stephen Yeargin
 categories: [Company News, Interactive Strategy, Web Design, Web Development]
 ---
-[![Trinity/HOPE](https://csblog.quietlife.net/wp-content/uploads/2010/02/HOPE-300x210.png)](<https://web.archive.org/web/20100210205653/http://trinityhope.org/>)
+[![Trinity/HOPE](/wp-content/uploads/2010/02/HOPE-300x210.png)](<https://web.archive.org/web/20100210205653/http://trinityhope.org/>)
 
 Devastation. Tragedy. Hopeless. Those were the words used to describe the recent earthquakes that [struck the island of Haiti on January 12 near Port-au-Prince](<https://web.archive.org/web/20100212120517/http://trinityhope.org/news/updates/news-trinityhope>). To a nation that that was already struggling with poverty and trying to meet the basic needs of its people, the earthquake magnified the crisis for the world to see. Like many companies in Nashville, CentreSource matched its employees' donations to give $500 to the [UNICEF](<https://web.archive.org/web/20100209203849/http://www.unicefusa.org/>) organization to help with relief efforts.
 

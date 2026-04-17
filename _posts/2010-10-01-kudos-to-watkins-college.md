@@ -5,7 +5,7 @@ date: 2010-10-01
 author: Lyndsay Rush
 categories: [Company News, Miscellaneous]
 ---
-[![](https://csblog.quietlife.net/wp-content/uploads/2010/10/picture-5-1024x498.png)](<http://www.watkins.edu/>)We've said it before and we'll say it again, we _love_ when our clients succeed.
+[![](/wp-content/uploads/2010/10/picture-5-1024x498.png)](<http://www.watkins.edu/>)We've said it before and we'll say it again, we _love_ when our clients succeed.
 
 Kind of like a proud parent.
 

@@ -5,7 +5,7 @@ date: 2005-11-02
 author: Chris
 categories: [Linux/BSD, PHP]
 ---
-My [previous post](<https://csblog.quietlife.net/2005/11/02/phplive-best-app-ever/>) on PHP Live! reminded me of a rant I've been meaning to write about the state of some (note: some, not all) LAMP packages and the difficulties in installing and maintaining them. PHP Live! is an example of how easy and painless it can (and should) be. Others, however, suffer from a lot of the same problems:
+My [previous post](</2005/11/02/phplive-best-app-ever/>) on PHP Live! reminded me of a rant I've been meaning to write about the state of some (note: some, not all) LAMP packages and the difficulties in installing and maintaining them. PHP Live! is an example of how easy and painless it can (and should) be. Others, however, suffer from a lot of the same problems:
 
 **1) Convoluted install process.**
 

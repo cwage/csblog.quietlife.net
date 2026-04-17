@@ -12,4 +12,4 @@ It also appears to have password protected sections - an invaluable component fo
 
 The price is a little steep - $4000 can get a very nice, custom website for most photographers. What it cannot get them is the back-end functionality that allows for such easy manipulation - this is where Live-Books really shines. The downside is that their sites look very similar, so don't expect anything innovative (over the other Live Books).
 
-All in all, I think this is a great service and it lends more [truth to my theory](<https://csblog.quietlife.net/2005/07/09/the-future-of-web-applications/>) that Flash will provide the next generation of web applications
+All in all, I think this is a great service and it lends more [truth to my theory](</2005/07/09/the-future-of-web-applications/>) that Flash will provide the next generation of web applications

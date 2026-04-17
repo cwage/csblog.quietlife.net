@@ -5,7 +5,7 @@ date: 2011-02-23
 author: Matthew Phillips
 categories: [Interactive Strategy, Marketing]
 ---
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/02/news_imag_mobile453-240x300.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/02/news_imag_mobile453.jpg> "news_imag_mobile453")If you follow the mobile industry you may have stumbled across the feature 'Location Based Services' or LBS. LBS uses your geographical position to create services or entertainment via your mobile device. LBS has been around for a while, however networks and devices have never truly been able to support its full potential.
+[![](/wp-content/uploads/2011/02/news_imag_mobile453-240x300.jpg)](</wp-content/uploads/2011/02/news_imag_mobile453.jpg> "news_imag_mobile453")If you follow the mobile industry you may have stumbled across the feature 'Location Based Services' or LBS. LBS uses your geographical position to create services or entertainment via your mobile device. LBS has been around for a while, however networks and devices have never truly been able to support its full potential.
 
 I have always felt that the true potential of mobile advertising is endless. With more and more consumers moving toward smartphones and tablets there is really no medium that has the potential of mobile. (No better illustration of this than Nielsen's [Media Universe](<http://blog.nielsen.com/nielsenwire/online_mobile/factsheet-the-u-s-media-universe/>) from earlier this year.)
 

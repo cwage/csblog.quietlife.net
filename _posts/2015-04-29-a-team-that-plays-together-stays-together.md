@@ -3,7 +3,7 @@ layout: post
 title: "A Team That Plays Together, Stays Together"
 date: 2015-04-29
 ---
-![Lego Serious Play](https://csblog.quietlife.net/wp-content/uploads/2015/04/LegoSeriousPlay-300x185.jpg)"You can learn more about a person in an hour of play than you can from a lifetime of conversation." - Plato
+![Lego Serious Play](/wp-content/uploads/2015/04/LegoSeriousPlay-300x185.jpg)"You can learn more about a person in an hour of play than you can from a lifetime of conversation." - Plato
 
 The Nashville Technology Council and Centresource are teaming up to present an event that aims to improve communication between technologists and marketers.
 
@@ -35,32 +35,32 @@ Free as a member of the NTC, $10 for non-members
 
 * * *
 
-  * [News](<https://csblog.quietlife.net/category/news/>)
+  * [News](</category/news/>)
 
 
 
-[Company-News](<https://csblog.quietlife.net/tag/company-news/>)[Nashville](<https://csblog.quietlife.net/tag/nashville/>)[Networking](<https://csblog.quietlife.net/tag/networking/>)[News](<https://csblog.quietlife.net/tag/news/>)[Productivity](<https://csblog.quietlife.net/tag/productivity/>)
+[Company-News](</tag/company-news/>)[Nashville](</tag/nashville/>)[Networking](</tag/networking/>)[News](</tag/news/>)[Productivity](</tag/productivity/>)
 
 ![](http://0.gravatar.com/avatar/09133b0972e2cad2cb0edcd7265506f3?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Ann Howard](<https://csblog.quietlife.net/author/ahoward/> "Posts by Ann Howard")
+#### [Ann Howard](</author/ahoward/> "Posts by Ann Howard")
 
 
 
 
-[ ![Hiring: Sales Development Representative](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/04/21/hiring-sales-development-representative/>)
+[ ![Hiring: Sales Development Representative](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2015/04/21/hiring-sales-development-representative/>)
 
-### [Hiring: Sales Development Representative](<https://csblog.quietlife.net/2015/04/21/hiring-sales-development-representative/>)
+### [Hiring: Sales Development Representative](</2015/04/21/hiring-sales-development-representative/>)
 
-April 21, 2015 / [News](<https://csblog.quietlife.net/category/news/>)
+April 21, 2015 / [News](</category/news/>)
 
 JOB TITLE Sales Development Representative SUMMARY The Sales Development Representative (SDR) prospects into lists of ...
 
-[ ![We Won A Graphic Design USA Award!](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
+[ ![We Won A Graphic Design USA Award!](/wp-content/themes/marroco/assets/img/empty/pixel.png) ](</2015/04/24/we-won-a-graphic-design-usa-award/>)
 
-### [We Won A Graphic Design USA Award!](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
+### [We Won A Graphic Design USA Award!](</2015/04/24/we-won-a-graphic-design-usa-award/>)
 
-April 24, 2015 / [News](<https://csblog.quietlife.net/category/news/>)
+April 24, 2015 / [News](</category/news/>)
 
 We are very excited to announce that we recently won a 2015 American Web Design ...
 
@@ -68,6 +68,6 @@ We are very excited to announce that we recently won a 2015 American Web Design 
 
 # Post navigation
 
-[← We Won A Graphic Design USA Award!](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
+[← We Won A Graphic Design USA Award!](</2015/04/24/we-won-a-graphic-design-usa-award/>)
 
-[Hiring: Junior Marketing Strategist →](<https://csblog.quietlife.net/2015/04/30/junior-marketing-strategist/>)
+[Hiring: Junior Marketing Strategist →](</2015/04/30/junior-marketing-strategist/>)

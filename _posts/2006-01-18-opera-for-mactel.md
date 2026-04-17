@@ -10,4 +10,4 @@ Opera isn't one to be left in the cold either -- they [expect to have a version]
 > 
 > In addition, Opera's lead Mac developer pointed out back then that the Unix and Macintosh projects already share some low-level code, and Apple's switch to Intel processors will mean that Opera will be able to share a few more files and tools. 
 
-Maybe this will light a fire under them to release the much-anticipated [Opera 9.0](<https://csblog.quietlife.net/2005/10/22/opera-90-preview-1-available/>).
+Maybe this will light a fire under them to release the much-anticipated [Opera 9.0](</2005/10/22/opera-90-preview-1-available/>).

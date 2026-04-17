@@ -5,7 +5,7 @@ date: 2012-10-19
 author: Jeremy Holland
 categories: [Hardware, Linux/BSD, Miscellaneous, Productivity, Utilities, Web Development, Windows]
 ---
-Read [Part I](<https://csblog.quietlife.net/2012/10/15/a-confederacy-of-oses-part-i/>) and [Part II](<https://csblog.quietlife.net/2012/10/17/a-confederacy-of-oses-part-ii/>)
+Read [Part I](</2012/10/15/a-confederacy-of-oses-part-i/>) and [Part II](</2012/10/17/a-confederacy-of-oses-part-ii/>)
 
 So my strategy is as follows: I use Windows to run web browsers, the odd desktop app like Photoshop, handy GUI utilities like calculators, media playback, and the like. On top of all this, I have installed VirtualBox and the easy-to-install Windows version of Vagrant, running a VM with the Ubuntu server distribution (I have no need of the gnome or any other GUI therein.. yet. That may change when I need to start running Selenium-based tests, but it'll do for now). I use two PuTTY windows - one on each monitor - to connect to the VM, which is configured to startup at boot. I forward the necessary ports from the host to the guest (made easily configurable by Vagrant) and provision the whole affair with Chef.
 

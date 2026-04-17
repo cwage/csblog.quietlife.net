@@ -5,7 +5,7 @@ date: 2011-02-22
 author: Stephen Yeargin
 categories: [Interactive Strategy, Marketing]
 ---
-![](https://csblog.quietlife.net/wp-content/uploads/2011/02/the_sims_2-181x300.jpg)
+![](/wp-content/uploads/2011/02/the_sims_2-181x300.jpg)
 
 I found an old copy of a computer game on my shelf the other day. The game, _[The Sims 2](<http://en.wikipedia.org/wiki/The_Sims_2>)_ , had not been installed on my new Mac, and I cannot honestly recall the last time I played it. Being bored at the end of a weekend, I went ahead and played it a bit last night.
 

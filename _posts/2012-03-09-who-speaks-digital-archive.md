@@ -11,7 +11,7 @@ categories: [Miscellaneous]
 
 [](<http://whospeaks.library.vanderbilt.edu/>)
 
-[](<http://whospeaks.library.vanderbilt.edu/>) [](<http://whospeaks.library.vanderbilt.edu/>)[![Who Speaks for the Negro?](https://csblog.quietlife.net/wp-content/uploads/2012/03/Screen-Shot-2012-03-08-at-11.54.44-PM1.png)](<http://whospeaks.library.vanderbilt.edu/>)
+[](<http://whospeaks.library.vanderbilt.edu/>) [](<http://whospeaks.library.vanderbilt.edu/>)[![Who Speaks for the Negro?](/wp-content/uploads/2012/03/Screen-Shot-2012-03-08-at-11.54.44-PM1.png)](<http://whospeaks.library.vanderbilt.edu/>)
     Who Speaks for the Negro?
 
 This week Vanderbilt in conjunction with CentreSource launched a site dedicated to the timeless work of Robert Penn Warren. We are so excited! This was a major undertaking for both our staff and the Robert Penn Warren team at Vanderbilt.

@@ -5,7 +5,7 @@ date: 2012-05-23
 author: Evan Owens
 categories: [Miscellaneous]
 ---
-This is part 1 of a 2 [![](https://csblog.quietlife.net/wp-content/uploads/2012/05/Messages-Image1705359287.png)](<https://csblog.quietlife.net/wp-content/uploads/2012/05/Messages-Image1705359287.png> "Messages Image\(1705359287\)")part series discussing the power and importance of questions. As leaders, we often find ourselves quoting vision and mission statements. We make bullet point summaries of our organizational values. We state details about our ethics and operational guidelines. But do the questions we ask support those claims and talking points?
+This is part 1 of a 2 [![](/wp-content/uploads/2012/05/Messages-Image1705359287.png)](</wp-content/uploads/2012/05/Messages-Image1705359287.png> "Messages Image\(1705359287\)")part series discussing the power and importance of questions. As leaders, we often find ourselves quoting vision and mission statements. We make bullet point summaries of our organizational values. We state details about our ethics and operational guidelines. But do the questions we ask support those claims and talking points?
 
 Andy Stanley once said that you can tell what a man values by the questions he asks. If you want to know what I care about at Centresource, pay attention to the questions I ask. Before we get into business, let's take a step into the family world and you'll see what I mean.
 

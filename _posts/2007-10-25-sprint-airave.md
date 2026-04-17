@@ -4,9 +4,9 @@ title: "Sprint AIRAVE"
 date: 2007-10-25
 author: Chip
 ---
-Ok... so we haven't had the best of luck with Sprint (see [here](<https://csblog.quietlife.net/2006/01/12/sprint-yet-another-terrible-experience/>), and [here](<https://csblog.quietlife.net/2006/01/14/employee-theft-another-sprintpcs-experience/>)) and while our company is slowly moving toward AT&T due to "some device" that came out in the last few months, I do have to hand it to Sprint for be one of the first companies to actually release a "why hasn't somebody thought of this sooner" product.
+Ok... so we haven't had the best of luck with Sprint (see [here](</2006/01/12/sprint-yet-another-terrible-experience/>), and [here](</2006/01/14/employee-theft-another-sprintpcs-experience/>)) and while our company is slowly moving toward AT&T due to "some device" that came out in the last few months, I do have to hand it to Sprint for be one of the first companies to actually release a "why hasn't somebody thought of this sooner" product.
 
-> ![Sprint AIRAVE](https://csblog.quietlife.net/wp-content/uploads/2007/10/picture-3.png)
+> ![Sprint AIRAVE](/wp-content/uploads/2007/10/picture-3.png)
 > 
 > ### What Is Sprint AIRAVETM?
 > 

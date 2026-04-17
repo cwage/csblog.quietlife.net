@@ -14,7 +14,7 @@ They have made a lot of changes recently, and I am considering switching again, 
   3. The login-page has javascript that **won't even submit** the form if the password attempted is not between 4 and 6 characters. This, as far as I can tell, is to hand the password lengths on a platter to anyone wanting to brute-force crack them.
   4. Their online bill-pay is now IE-only.
   5. Even with IE, their bill-pay system is like a case-study in bad UI design. This is a screenshot of the section where I manage the payments for a particular vendor, which works only in IE, mind you. I had to fire up VMWare just to get this screenshot. In this case, my auto-payment to [butler.net](<https://web.archive.org/web/20050615002449/http://www.butler.net/>):  
-[![Suntrust Billpay Interface](https://csblog.quietlife.net/wp-content/thumb-suntrust.png)](<https://csblog.quietlife.net/wp-content/suntrust.png>)  
+[![Suntrust Billpay Interface](/wp-content/thumb-suntrust.png)](</wp-content/suntrust.png>)  
 Note the convenient items for "Payment 1" -- what exactly is "Payment 1"? Who knows. But you can delete it! 
 
 

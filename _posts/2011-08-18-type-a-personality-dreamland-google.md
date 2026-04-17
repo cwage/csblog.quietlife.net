@@ -7,7 +7,7 @@ categories: [Miscellaneous]
 ---
 Since the release of Google+, I have to be honest and say I haven't quite jumped on that bandwagon. I signed up for the account and haven't touched it since. What I have learned though is Google+ is a person with a Type A Personality's social networking dreamland. Once you're a member, you're able to organize your friends by topic: Friends, Family, College Friends, Work Friends, etc. All of this sorting is an attempt to make sharing easier and more organized.
 
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/08/real-life-sharing-rethought-for-the-web._1313439961264-300x258.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/08/real-life-sharing-rethought-for-the-web._1313439961264.png> "real life sharing, rethought for the web._1313439961264")
+[![](/wp-content/uploads/2011/08/real-life-sharing-rethought-for-the-web._1313439961264-300x258.png)](</wp-content/uploads/2011/08/real-life-sharing-rethought-for-the-web._1313439961264.png> "real life sharing, rethought for the web._1313439961264")
 
 I thought I'd share with you some facts I've learned about Google+ since I'm contemplating giving it another shot:
 

@@ -11,7 +11,7 @@ categories: [Miscellaneous]
 
 So where do the two intersect? Where are they most valuable? How do they strengthen each other? 
 
-In [![Wisdom](https://csblog.quietlife.net/wp-content/uploads/2012/07/wisdom-300x123.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2012/07/wisdom.jpg> "Wisdom")[my last "Learning Leadership" blog](<https://csblog.quietlife.net/2012/07/12/learning-leadership-management-and-leadership/>), I talked about the value of the leader and the value of the manager. I talked about the unique qualities and how each of those is to be equally valued. Today, I'd like to talk about how wisdom and knowledge are used in leadership.
+In [![Wisdom](/wp-content/uploads/2012/07/wisdom-300x123.jpg)](</wp-content/uploads/2012/07/wisdom.jpg> "Wisdom")[my last "Learning Leadership" blog](</2012/07/12/learning-leadership-management-and-leadership/>), I talked about the value of the leader and the value of the manager. I talked about the unique qualities and how each of those is to be equally valued. Today, I'd like to talk about how wisdom and knowledge are used in leadership.
 
 _Knowledge_
 

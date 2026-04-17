@@ -5,102 +5,102 @@ date: 2008-05-07
 ---
 ## blog
 
-### [Doctrine officially supported by symfony](<https://csblog.quietlife.net/blog/2008/06/16/doctrine-officially-supported-by-symfony>)
+### [Doctrine officially supported by symfony](</blog/2008/06/16/doctrine-officially-supported-by-symfony>)
 
-  * [Doctrine](<https://csblog.quietlife.net/category/topics/doctrine>)
-  * [orm](<https://csblog.quietlife.net/category/topics/orm>)
-  * [PHP](<https://csblog.quietlife.net/category/topics/development/php>)
-  * [Symfony](<https://csblog.quietlife.net/category/topics/symfony>)
+  * [Doctrine](</category/topics/doctrine>)
+  * [orm](</category/topics/orm>)
+  * [PHP](</category/topics/development/php>)
+  * [Symfony](</category/topics/symfony>)
 
 Posted by jwage @ 06/16/2008
 
 A few weeks ago on the symfony blog, Fabien [announced](<https://web.archive.org/web/20080608082520/http://www.symfony-project.org/blog/2008/06/06/documentation-updates>) that as of symfony 1.1, Doctrine is officially supported. The documentation will slowly be updated and converted from Propel to Doctrine.
 
-  * [jwage's blog](<https://csblog.quietlife.net/blog/author/jwage> "Read jwage's latest blog entries.")
-  * [Add new comment](<https://csblog.quietlife.net/comment/reply/1026#comment-form> "Add a new comment to this page.")
-  * [Read more](<https://csblog.quietlife.net/blog/2008/06/16/doctrine-officially-supported-by-symfony> "Read the rest of this posting.")
+  * [jwage's blog](</blog/author/jwage> "Read jwage's latest blog entries.")
+  * [Add new comment](</comment/reply/1026#comment-form> "Add a new comment to this page.")
+  * [Read more](</blog/2008/06/16/doctrine-officially-supported-by-symfony> "Read the rest of this posting.")
 
 
 
-### [No it's not personal but at least its not spam](<https://csblog.quietlife.net/blog/2008/05/19/no-it039s-not-personal-but-at-least-its-not-spam>)
+### [No it's not personal but at least its not spam](</blog/2008/05/19/no-it039s-not-personal-but-at-least-its-not-spam>)
 
-  * [email](<https://csblog.quietlife.net/category/topics/email>)
-  * [marketing](<https://csblog.quietlife.net/category/topics/marketing>)
+  * [email](</category/topics/email>)
+  * [marketing](</category/topics/marketing>)
 
 Posted by spatel @ 05/19/2008
 
 You know what I am talking about - all those email lists you have signed up for but you never read them. You even have a separate email account just for that. You had to get those offers for that weekend trip to Las Vegas you will never have enough time to go to or for some reason you wanted to get alerts when a friend posts a survey on your Facebook page as it happens.
 
-  * [spatel's blog](<https://csblog.quietlife.net/blog/author/spatel> "Read spatel's latest blog entries.")
-  * [Add new comment](<https://csblog.quietlife.net/comment/reply/1024#comment-form> "Add a new comment to this page.")
-  * [Read more](<https://csblog.quietlife.net/blog/2008/05/19/no-it039s-not-personal-but-at-least-its-not-spam> "Read the rest of this posting.")
+  * [spatel's blog](</blog/author/spatel> "Read spatel's latest blog entries.")
+  * [Add new comment](</comment/reply/1024#comment-form> "Add a new comment to this page.")
+  * [Read more](</blog/2008/05/19/no-it039s-not-personal-but-at-least-its-not-spam> "Read the rest of this posting.")
 
 
 
-### [Ready for Interactive? Take a Tour 2.0](<https://csblog.quietlife.net/blog/2008/05/16/ready-for-interactive-take-a-tour-20>)
+### [Ready for Interactive? Take a Tour 2.0](</blog/2008/05/16/ready-for-interactive-take-a-tour-20>)
 
-  * [interactive strategy](<https://csblog.quietlife.net/category/topics/interactive-strategy>)
-  * [Web 2.0](<https://csblog.quietlife.net/category/topics/web-20>)
+  * [interactive strategy](</category/topics/interactive-strategy>)
+  * [Web 2.0](</category/topics/web-20>)
 
 Posted by abriggs @ 05/16/2008
 
 I've seen this a few too many times now - a business starts talking about interactive strategy. They become convinced that they need to do more with the web to leverage the power of their brand and find new customers. (Yes!) They start to understand that people are starting to spend [more of their free time on the web than in front of most other media](<http://blogs.mediapost.com/research_brief/?p=1442>). (Bingo!) They learn that people are more familiar with how to use a search engine than they ever were with setting a VCR clock. (Huzzah!)
 
-  * [abriggs's blog](<https://csblog.quietlife.net/blog/author/abriggs> "Read abriggs's latest blog entries.")
-  * [1 comment](<https://csblog.quietlife.net/blog/2008/05/16/ready-for-interactive-take-a-tour-20#comments> "Jump to the first comment of this posting.")
-  * [Read more](<https://csblog.quietlife.net/blog/2008/05/16/ready-for-interactive-take-a-tour-20> "Read the rest of this posting.")
+  * [abriggs's blog](</blog/author/abriggs> "Read abriggs's latest blog entries.")
+  * [1 comment](</blog/2008/05/16/ready-for-interactive-take-a-tour-20#comments> "Jump to the first comment of this posting.")
+  * [Read more](</blog/2008/05/16/ready-for-interactive-take-a-tour-20> "Read the rest of this posting.")
 
 
 
-### [Click-to-Donate](<https://csblog.quietlife.net/blog/2008/05/16/click-to-donate>)
+### [Click-to-Donate](</blog/2008/05/16/click-to-donate>)
 
-  * [marketing](<https://csblog.quietlife.net/category/topics/marketing>)
+  * [marketing](</category/topics/marketing>)
 
 Posted by spatel @ 05/16/2008
 
 Pay per click, cost per impression, return of investment(ROI), and conversion rates are some typical buzzwords you will hear while devising an online advertising strategy. Add Click-to-Donate to that list. This is not new but a reemerging trend from the late 1990s. Click-to-donate provide users the ability to give back to the cause of their choice.
 
-  * [spatel's blog](<https://csblog.quietlife.net/blog/author/spatel> "Read spatel's latest blog entries.")
-  * [Add new comment](<https://csblog.quietlife.net/comment/reply/1022#comment-form> "Add a new comment to this page.")
-  * [Read more](<https://csblog.quietlife.net/blog/2008/05/16/click-to-donate> "Read the rest of this posting.")
+  * [spatel's blog](</blog/author/spatel> "Read spatel's latest blog entries.")
+  * [Add new comment](</comment/reply/1022#comment-form> "Add a new comment to this page.")
+  * [Read more](</blog/2008/05/16/click-to-donate> "Read the rest of this posting.")
 
 
 
-### [Kuler than ever](<https://csblog.quietlife.net/blog/2008/05/16/kuler-than-ever>)
+### [Kuler than ever](</blog/2008/05/16/kuler-than-ever>)
 
-  * [Color](<https://csblog.quietlife.net/category/topics/color>)
-  * [Design](<https://csblog.quietlife.net/category/topics/design>)
+  * [Color](</category/topics/color>)
+  * [Design](</category/topics/design>)
 
 Posted by spatel @ 05/16/2008
 
 One of the most difficult things for me is color coordination. Picking the right color combinations for the right task or job at hand is not all just having a good eye. You can mathematically get the right color sets. If you are not a designer this can be daunting and can make your application or website be a complete flop. I know a few online sites such as [http://www.colormatch.dk](<http://www.colormatch.dk/> "http://www.colormatch.dk") and [http://colorblender.com](<http://colorblender.com/> "http://colorblender.com") can help you make the right choices. I wanted to throw a spotlight on Adobe Kuler. It has a variety of delivery methods to the user.
 
-  * [spatel's blog](<https://csblog.quietlife.net/blog/author/spatel> "Read spatel's latest blog entries.")
-  * [Add new comment](<https://csblog.quietlife.net/comment/reply/1021#comment-form> "Add a new comment to this page.")
-  * [Read more](<https://csblog.quietlife.net/blog/2008/05/16/kuler-than-ever> "Read the rest of this posting.")
+  * [spatel's blog](</blog/author/spatel> "Read spatel's latest blog entries.")
+  * [Add new comment](</comment/reply/1021#comment-form> "Add a new comment to this page.")
+  * [Read more](</blog/2008/05/16/kuler-than-ever> "Read the rest of this posting.")
 
 
 
-### [Lil Puzzle of the Week #3](<https://csblog.quietlife.net/blog/2008/05/14/lil-puzzle-of-the-week-3>)
+### [Lil Puzzle of the Week #3](</blog/2008/05/14/lil-puzzle-of-the-week-3>)
 
-  * [Lil puzzle of the week](<https://csblog.quietlife.net/category/topics/lil-puzzle-of-the-week>)
-  * [puzzle](<https://csblog.quietlife.net/category/topics/puzzle>)
+  * [Lil puzzle of the week](</category/topics/lil-puzzle-of-the-week>)
+  * [puzzle](</category/topics/puzzle>)
 
 Posted by sbastet @ 05/14/2008
 
 Number 3...fantastic!  
 The answer to last week's puzzle can be found below.
 
-  * [sbastet's blog](<https://csblog.quietlife.net/blog/author/sbastet> "Read sbastet's latest blog entries.")
-  * [Add new comment](<https://csblog.quietlife.net/comment/reply/1020#comment-form> "Add a new comment to this page.")
-  * [Read more](<https://csblog.quietlife.net/blog/2008/05/14/lil-puzzle-of-the-week-3> "Read the rest of this posting.")
+  * [sbastet's blog](</blog/author/sbastet> "Read sbastet's latest blog entries.")
+  * [Add new comment](</comment/reply/1020#comment-form> "Add a new comment to this page.")
+  * [Read more](</blog/2008/05/14/lil-puzzle-of-the-week-3> "Read the rest of this posting.")
 
 
 
-### [centre{source} Named in 10 Most Dependable Web Designers List](<https://csblog.quietlife.net/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list>)
+### [centre{source} Named in 10 Most Dependable Web Designers List](</blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list>)
 
-  * [accolades](<https://csblog.quietlife.net/category/topics/accolades>)
-  * [Entrepreneur](<https://csblog.quietlife.net/category/topics/entrepreneur>)
+  * [accolades](</category/topics/accolades>)
+  * [Entrepreneur](</category/topics/entrepreneur>)
 
 Posted by abriggs @ 05/07/2008
 
@@ -110,16 +110,16 @@ This is our second year to be selected in this list, which is compiled by Goldli
 
 We always strive for excellence in delivering results to our client, and we're thrilled to be recognized for our work.
 
-  * [abriggs's blog](<https://csblog.quietlife.net/blog/author/abriggs> "Read abriggs's latest blog entries.")
-  * [Add new comment](<https://csblog.quietlife.net/comment/reply/1019#comment-form> "Add a new comment to this page.")
+  * [abriggs's blog](</blog/author/abriggs> "Read abriggs's latest blog entries.")
+  * [Add new comment](</comment/reply/1019#comment-form> "Add a new comment to this page.")
 
 
 
-### [Writing Content? Think Brief.](<https://csblog.quietlife.net/blog/2008/05/07/writing-content-think-brief>)
+### [Writing Content? Think Brief.](</blog/2008/05/07/writing-content-think-brief>)
 
-  * [content](<https://csblog.quietlife.net/category/topics/content>)
-  * [SEO](<https://csblog.quietlife.net/category/topics/seo>)
-  * [usability](<https://csblog.quietlife.net/category/topics/usability>)
+  * [content](</category/topics/content>)
+  * [SEO](</category/topics/seo>)
+  * [usability](</category/topics/usability>)
 
 Posted by abriggs @ 05/07/2008
 
@@ -134,39 +134,39 @@ Great content is keyword-focused, frequent, and direct. It's also brief - probab
 
 
 
-  * [abriggs's blog](<https://csblog.quietlife.net/blog/author/abriggs> "Read abriggs's latest blog entries.")
-  * [Add new comment](<https://csblog.quietlife.net/comment/reply/1018#comment-form> "Add a new comment to this page.")
-  * [Read more](<https://csblog.quietlife.net/blog/2008/05/07/writing-content-think-brief> "Read the rest of this posting.")
+  * [abriggs's blog](</blog/author/abriggs> "Read abriggs's latest blog entries.")
+  * [Add new comment](</comment/reply/1018#comment-form> "Add a new comment to this page.")
+  * [Read more](</blog/2008/05/07/writing-content-think-brief> "Read the rest of this posting.")
 
 
 
-### [Lil Puzzle of the Week #2](<https://csblog.quietlife.net/blog/2008/05/06/lil-puzzle-of-the-week-2>)
+### [Lil Puzzle of the Week #2](</blog/2008/05/06/lil-puzzle-of-the-week-2>)
 
-  * [Lil puzzle of the week](<https://csblog.quietlife.net/category/topics/lil-puzzle-of-the-week>)
-  * [puzzle](<https://csblog.quietlife.net/category/topics/puzzle>)
+  * [Lil puzzle of the week](</category/topics/lil-puzzle-of-the-week>)
+  * [puzzle](</category/topics/puzzle>)
 
 Posted by sbastet @ 05/06/2008
 
 Yay, it continues! Here is this week's puzzle. This is a classic Pin Board puzzle in which you determine how many squares can be made on the board. The answer to last week's puzzle can be found below.
 
-  * [sbastet's blog](<https://csblog.quietlife.net/blog/author/sbastet> "Read sbastet's latest blog entries.")
-  * [2 comments](<https://csblog.quietlife.net/blog/2008/05/06/lil-puzzle-of-the-week-2#comments> "Jump to the first comment of this posting.")
-  * [Read more](<https://csblog.quietlife.net/blog/2008/05/06/lil-puzzle-of-the-week-2> "Read the rest of this posting.")
+  * [sbastet's blog](</blog/author/sbastet> "Read sbastet's latest blog entries.")
+  * [2 comments](</blog/2008/05/06/lil-puzzle-of-the-week-2#comments> "Jump to the first comment of this posting.")
+  * [Read more](</blog/2008/05/06/lil-puzzle-of-the-week-2> "Read the rest of this posting.")
 
 
 
-### [Lil Puzzle of the Week #1](<https://csblog.quietlife.net/blog/2008/04/30/lil-puzzle-of-the-week-1>)
+### [Lil Puzzle of the Week #1](</blog/2008/04/30/lil-puzzle-of-the-week-1>)
 
 Posted by sbastet @ 04/30/2008
 
 Here marks the launch of a possible new feature called "Lil Puzzle of the Week". Will it be kept up with? One can never be sure - that's why the phrasing of "Lil Puzzle of the Week" is tricky enough to mean "this" week, not necessarily "every" week...which may be every week, we'll see :) . The premise is to create a small Flash logic puzzle using sources that range from classic logic puzzlers to original puzzles, & this is the first installment. The answers to each puzzle will be provided in the post of the following puzzle. Enjoy!
 
-  * [sbastet's blog](<https://csblog.quietlife.net/blog/author/sbastet> "Read sbastet's latest blog entries.")
-  * [Add new comment](<https://csblog.quietlife.net/comment/reply/1016#comment-form> "Add a new comment to this page.")
-  * [Read more](<https://csblog.quietlife.net/blog/2008/04/30/lil-puzzle-of-the-week-1> "Read the rest of this posting.")
+  * [sbastet's blog](</blog/author/sbastet> "Read sbastet's latest blog entries.")
+  * [Add new comment](</comment/reply/1016#comment-form> "Add a new comment to this page.")
+  * [Read more](</blog/2008/04/30/lil-puzzle-of-the-week-1> "Read the rest of this posting.")
 
 
 
-**1**[2](<https://csblog.quietlife.net/blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=1> "Go to page 2")[3](<https://csblog.quietlife.net/blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=2> "Go to page 3")[4](<https://csblog.quietlife.net/blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=3> "Go to page 4")[5](<https://csblog.quietlife.net/blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=4> "Go to page 5")[6](<https://csblog.quietlife.net/blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=5> "Go to page 6")[7](<https://csblog.quietlife.net/blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=6> "Go to page 7")[8](<https://csblog.quietlife.net/blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=7> "Go to page 8")[9](<https://csblog.quietlife.net/blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=8> "Go to page 9")...[next ›](<https://csblog.quietlife.net/blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=1> "Go to next page")[last »](<https://csblog.quietlife.net/blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=56> "Go to last page")
+**1**[2](</blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=1> "Go to page 2")[3](</blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=2> "Go to page 3")[4](</blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=3> "Go to page 4")[5](</blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=4> "Go to page 5")[6](</blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=5> "Go to page 6")[7](</blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=6> "Go to page 7")[8](</blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=7> "Go to page 8")[9](</blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=8> "Go to page 9")...[next ›](</blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=1> "Go to next page")[last »](</blog/blog/2008/05/07/centersource-named-in-10-most-dependable-web-designers-list?page=56> "Go to last page")
 
-[![Syndicate content](/web/20080723173540im_/https://csblog.quietlife.net/misc/feed.png)](<https://csblog.quietlife.net/blog/feed>)
+[![Syndicate content](/web/20080723173540im_//misc/feed.png)](</blog/feed>)

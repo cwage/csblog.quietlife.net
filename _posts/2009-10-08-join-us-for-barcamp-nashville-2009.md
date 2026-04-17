@@ -5,7 +5,7 @@ date: 2009-10-08
 author: Chip Hayner
 categories: [Company News]
 ---
-[![Legendary Sponsor](https://csblog.quietlife.net/wp-content/uploads/2009/10/bcn09_sponsor_250x250.gif)](<https://web.archive.org/web/20091003222503/http://barcampnashville.com/>)
+[![Legendary Sponsor](/wp-content/uploads/2009/10/bcn09_sponsor_250x250.gif)](<https://web.archive.org/web/20091003222503/http://barcampnashville.com/>)
 
 It will be LEGENDARY!
 

@@ -7,7 +7,7 @@ Trying to determine if your website is lacking good user experience can be trick
 
 ## **Ask Yourself**
 
-**![User Experience](https://csblog.quietlife.net/content/uploads/2015/02/UE-SIG-300x300.jpg)How old is your site?**  
+**![User Experience](/content/uploads/2015/02/UE-SIG-300x300.jpg)How old is your site?**  
 User experience, or UX, is a relatively new practice when it comes to site and product planning. We've been doing it in bits and pieces as an industry for a while, but it only became a widely recognized and cohesive discipline in the last five or so years. If your site's design and structure hasn't been critically thought through in over two to three years, chances are high that it doesn't have optimal UX.
 
 **Does your site visually represent your business?**  
@@ -45,32 +45,32 @@ What are some they ways you've identified a UX problem on your site?
 
 * * *
 
-  * [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
+  * [UX-Design](</category/uxdesign/>)
 
 
 
-[user experience](<https://csblog.quietlife.net/tag/user-experience/>)[ux](<https://csblog.quietlife.net/tag/ux/>)[UX-Design](<https://csblog.quietlife.net/tag/uxdesign/>)
+[user experience](</tag/user-experience/>)[ux](</tag/ux/>)[UX-Design](</tag/uxdesign/>)
 
 ![](http://1.gravatar.com/avatar/75b245664eaa6d08108bb6bd4c337499?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Tomiko Peirano](<https://csblog.quietlife.net/author/tpeirano/> "Posts by Tomiko Peirano")
+#### [Tomiko Peirano](</author/tpeirano/> "Posts by Tomiko Peirano")
 
 
 
 
-[ ![Three Design Tools For A More Efficient Workflow](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/10/16/three-design-tools-efficient-workflow/>)
+[ ![Three Design Tools For A More Efficient Workflow](/content/themes/marroco/assets/img/empty/pixel.png) ](</2014/10/16/three-design-tools-efficient-workflow/>)
 
-### [Three Design Tools For A More Efficient Workflow](<https://csblog.quietlife.net/2014/10/16/three-design-tools-efficient-workflow/>)
+### [Three Design Tools For A More Efficient Workflow](</2014/10/16/three-design-tools-efficient-workflow/>)
 
-October 16, 2014 / [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
+October 16, 2014 / [UX-Design](</category/uxdesign/>)
 
 "Design is dead." A line uttered too often. It is not dead, in fact, it ...
 
-[ ![Testing Your Way To a Better Idea pt.3](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/03/24/testing-your-way-to-a-better-idea-part-three/>)
+[ ![Testing Your Way To a Better Idea pt.3](/content/themes/marroco/assets/img/empty/pixel.png) ](</2014/03/24/testing-your-way-to-a-better-idea-part-three/>)
 
-### [Testing Your Way To a Better Idea pt.3](<https://csblog.quietlife.net/2014/03/24/testing-your-way-to-a-better-idea-part-three/>)
+### [Testing Your Way To a Better Idea pt.3](</2014/03/24/testing-your-way-to-a-better-idea-part-three/>)
 
-March 24, 2014 / [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
+March 24, 2014 / [UX-Design](</category/uxdesign/>)
 
 So if you're still with me, we've talked about: Product Ideation User identification User acquisition ...
 
@@ -78,6 +78,6 @@ So if you're still with me, we've talked about: Product Ideation User identifica
 
 # Post navigation
 
-[← Learning Business Skills from Profs. Hall & Oates](<https://csblog.quietlife.net/2015/02/03/learning-business-skills-profs-hall-oates/>)
+[← Learning Business Skills from Profs. Hall & Oates](</2015/02/03/learning-business-skills-profs-hall-oates/>)
 
-[What is semalt? What is buttons-for-website? →](<https://csblog.quietlife.net/2015/02/10/semalt-buttons-website/>)
+[What is semalt? What is buttons-for-website? →](</2015/02/10/semalt-buttons-website/>)

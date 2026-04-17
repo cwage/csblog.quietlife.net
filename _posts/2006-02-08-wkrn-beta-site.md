@@ -14,13 +14,13 @@ Size
 Flash abuse
     Now I am not entirely a flash-hater, but it is not a panacea. Flash can be used to make a really slick site, but you have to be willing to accept that it will alienate a percentage of viewers who a) don't have Flash installed, or b) have problems caused by the Flash. That may be acceptable for a website for, say, a musical artist. But for a TV news station? Courtesy of [Jeffraham Prestonian](<http://jprestonian.blogspot.com/>), here is what the new website looks like to someone without Flash: 
 
-[![screencap of wkrn.com's new site](https://csblog.quietlife.net/wp-content/wkrn_sm.jpg)  
-(Click to Enlarge)](<https://csblog.quietlife.net/wp-content/wkrn.jpg>)
+[![screencap of wkrn.com's new site](/wp-content/wkrn_sm.jpg)  
+(Click to Enlarge)](</wp-content/wkrn.jpg>)
 
 Jeffraham is savvy enough to know that the website looked like this because he didn't have the Flash plugin installed, but I guarantee you Grandma Smith in Shelbyville won't know that. And she'll give up and go somewhere that has a website that works. Here's what it looks like in Opera 8.5 or Firefox, even if you do have Flash:
 
-[![screencap 2 of WKRN's new website](https://csblog.quietlife.net/wp-content/wkrn2_sm.jpg)  
-(Click to Enlarge)](<https://csblog.quietlife.net/wp-content/wkrn2.jpg>)
+[![screencap 2 of WKRN's new website](/wp-content/wkrn2_sm.jpg)  
+(Click to Enlarge)](</wp-content/wkrn2.jpg>)
 
 I have no idea if it's supposed to look like this, but I hope not. I have seen weird issues with Flash displaying text properly in Linux. Who knows why, but it's another reason why relying on Flash alone for your entire site is a bad idea if accessibility is your goal, which brings me to: 
 

@@ -9,4 +9,4 @@ As the founder of centresource, I've always been tasked with choosing solutions 
 
 Digital Nashville asked me to speak on the subject at their next Education Series. You can see the invite on Facebook ([here](<https://web.archive.org/web/20080924153115/http://www.facebook.com/home.php#/event.php?eid=74859334794>)) or on the actual Digital Nashville site ([here](<http://www.digitalnashville.net/events/try-some-open-source>)). I'll go through a variety of scenarios where Open Source technologies provide a wonderful solution - ranging from work-related to fun!
 
-![dn-education-series](https://csblog.quietlife.net/wp-content/uploads/2009/05/dn-education-series.jpg)
+![dn-education-series](/wp-content/uploads/2009/05/dn-education-series.jpg)

@@ -5,7 +5,7 @@ date: 2011-02-03
 author: Shaun Jackson
 categories: [Marketing]
 ---
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/02/Picture-14.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/02/Picture-14.png> "Picture 14")
+[![](/wp-content/uploads/2011/02/Picture-14.png)](</wp-content/uploads/2011/02/Picture-14.png> "Picture 14")
 
 Just recently, Foursquare rolled out a new tool for businesses to take greater control over their venue and/or brand on its location-based social network.
 

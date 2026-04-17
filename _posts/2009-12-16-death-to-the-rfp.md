@@ -5,7 +5,7 @@ date: 2009-12-16
 author: Kurt Strickmaker
 categories: [Interactive Strategy]
 ---
-_An open letter from Kurt and[Evan](<https://csblog.quietlife.net/author/eowens/>):_
+_An open letter from Kurt and[Evan](</author/eowens/>):_
 
 It's no secret that every agency agrees - RFP's (request for proposals) are notoriously unhelpful, inaccurate and time wasting. However, this methodology continues to be the predominate leader in bid acquisition. Over the past several years, CentreSource had hoped that a new method would have surfaced ... but no luck yet.
 

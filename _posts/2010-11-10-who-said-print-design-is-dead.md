@@ -5,7 +5,7 @@ date: 2010-11-10
 author: Jason Jones
 categories: [Web Design]
 ---
-![Stencils](https://csblog.quietlife.net/wp-content/uploads/2010/11/7-300x148.jpg)
+![Stencils](/wp-content/uploads/2010/11/7-300x148.jpg)
 
 Some times you come across cool things, sometimes you come across great things... and then there are rare times when you come across something so epic that you have to proclaim the discovery from the snowy summit of the interwebs. This is one of those discoveries.
 

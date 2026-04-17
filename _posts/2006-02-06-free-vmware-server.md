@@ -5,7 +5,7 @@ date: 2006-02-06
 author: Chris
 categories: [News, Software]
 ---
-VMWare has thrown open the gates to its new Server product, as [rumored last week](<https://csblog.quietlife.net/2006/02/03/vmware-gsx-free/>). Their [press release](<https://web.archive.org/web/20060208030424/http://www.vmware.com/news/releases/server_beta.html>) has more details:
+VMWare has thrown open the gates to its new Server product, as [rumored last week](</2006/02/03/vmware-gsx-free/>). Their [press release](<https://web.archive.org/web/20060208030424/http://www.vmware.com/news/releases/server_beta.html>) has more details:
 
 > VMware Server, the successor to VMware GSX Server, enables users to quickly provision new server capacity by partitioning a physical server into multiple virtual machines, bringing the powerful benefits of virtualization to every server.
 > 

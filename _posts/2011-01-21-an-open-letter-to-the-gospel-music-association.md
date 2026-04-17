@@ -5,7 +5,7 @@ date: 2011-01-21
 author: Jason Jones
 categories: [Web Design]
 ---
-[![](https://csblog.quietlife.net/wp-content/uploads/2011/01/Dove-Awards.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/01/Dove-Awards.jpg> "Dove-Awards")I was recently invited to judge the Recorded Music Packaging category for this year's Gospel Music Association Dove Awards. I have done this for a few years now and am truly honored to review such amazing designs. I can't go into specifics on which ones I voted for, but I will say, some of this year's nominees were super inspiring! 
+[![](/wp-content/uploads/2011/01/Dove-Awards.jpg)](</wp-content/uploads/2011/01/Dove-Awards.jpg> "Dove-Awards")I was recently invited to judge the Recorded Music Packaging category for this year's Gospel Music Association Dove Awards. I have done this for a few years now and am truly honored to review such amazing designs. I can't go into specifics on which ones I voted for, but I will say, some of this year's nominees were super inspiring! 
 
 The Gospel Music Association serves as the face and voice for the Christian/Gospel music community and is dedicated to exposing, promoting and celebrating the gospel through music of all styles including pop, rock, praise & worship, country, and many more. The GMA community consists of over 4,000 members which includes agents, artists, church leaders, radio personnel, record company executives and other industry visionaries.
 
