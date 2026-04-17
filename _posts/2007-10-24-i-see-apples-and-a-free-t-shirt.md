@@ -13,10 +13,10 @@ The NY Times reports: ["Record Mac Sales Help Apple Earnings Climb 67% in Quarte
 > 
 > The market research firm Dataquest estimated last week that Apple sold 1.3 million computers in the United States, and IDC put the figure at 1.1 million. In the same period, Dell sold 5 million computers and H.P. sold 4.3 million in the United States, according to the IDC report.
 
-To fuel even more sales is the release of Mac OS X Leopard with [300 new features.](<http://www.apple.com/macosx/features/>) After viewing the online video, I'm compelled to purchase the new OS and even an iPhone! 
+To fuel even more sales is the release of Mac OS X Leopard with [300 new features.](<https://web.archive.org/web/20071023195732/http://www.apple.com/macosx/features/>) After viewing the online video, I'm compelled to purchase the new OS and even an iPhone! 
 
 As usual, Apple's Maketing doesn't miss a beat: Apple's retail launch of Leopard will take place at 6 p.m. local time this Friday, October 24 at Apple Retail stores across the U.S. Apple Stores will be giving out Leopard T-Shirts to the first 500 customers. 
 
-![macs-everywhere-450px.jpg](http://blog.centresource.com/wp-content/uploads/2007/10/macs-everywhere-450px.jpg)
+![macs-everywhere-450px.jpg](https://web.archive.org/web/20071108092817/http://blog.centresource.com/wp-content/uploads/2007/10/macs-everywhere-450px.jpg)
 
 Photo Source: [Mollie Sterling and The Missouri School of Journalism](<http://duggmirror.com/apple/Look_at_them_apples/>)

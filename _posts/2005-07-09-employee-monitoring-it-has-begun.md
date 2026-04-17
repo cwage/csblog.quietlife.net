@@ -6,7 +6,7 @@ categories: [Miscellaneous]
 ---
 Ever feel like you're being watched? Trust your instincts, it's most likely true. Employee monitoring, while old in concept, finds itself rapidly evolving thanks to the information age. Due to the advancements in technology, firms can affordably monitor, record, and analyze the daily actions of an employee such as Internet usage and even their physical location. As we progress into the next century, employee monitoring will play a powerful role in shaping both performance and social aspects of our business environment.
 
-Original Article printed in July 2005 issue of [Nashville Medical News](<http://host1.bondware.com/~nashmed30/index.php>)
+Original Article printed in July 2005 issue of [Nashville Medical News](<https://web.archive.org/web/20050710232605/http://host1.bondware.com/~nashmed30/index.php>)
 
 ## What can be monitored?
 

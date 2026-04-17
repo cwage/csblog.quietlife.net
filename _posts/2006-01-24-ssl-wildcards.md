@@ -12,7 +12,7 @@ https://foo.bar.blah.domain.com/
 https://bar.bar.blah.domain.com/  
 etc...
 
-When you register an SSL certificate, you have to set the "CN" (Common Name) to the hostname you want the certificate to match. I set the hostname to *.domain.com, my regex-training betraying me into think the * would match **anything** before .blah.com. That is not the case, however, and the [RFC for HTTP over TLS](<http://www.ietf.org/rfc/rfc2818.txt>) is quite clear about it:
+When you register an SSL certificate, you have to set the "CN" (Common Name) to the hostname you want the certificate to match. I set the hostname to *.domain.com, my regex-training betraying me into think the * would match **anything** before .blah.com. That is not the case, however, and the [RFC for HTTP over TLS](<https://web.archive.org/web/20060126225959/http://www.ietf.org/rfc/rfc2818.txt>) is quite clear about it:
 
 > Names may contain the wildcard character * which is considered to match any single domain name component or component fragment. E.g., *.a.com matches foo.a.com but not bar.foo.a.com. f*.com matches foo.com but not bar.com. 
 

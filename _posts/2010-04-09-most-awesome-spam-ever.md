@@ -5,7 +5,7 @@ date: 2010-04-09
 author: Nicholas Holland
 categories: [Miscellaneous]
 ---
-As the owner of an [Interactive Agency](<http://www.centresource.com/>), I feel like I've seen everything on the internet. Well, today I realized that I can still find myself surprised :) While checking my email, I saw a piece of spam & in the short time it took for me to go for the 'spam' button, it actually caught my attention.
+As the owner of an [Interactive Agency](<https://web.archive.org/web/20100208022615/http://www.centresource.com/>), I feel like I've seen everything on the internet. Well, today I realized that I can still find myself surprised :) While checking my email, I saw a piece of spam & in the short time it took for me to go for the 'spam' button, it actually caught my attention.
 
 Instead of explaining why, let me just post the message below and say for the record: I want to encourage Spammers to add more 'stories' to their messages. Its not like I can get you to stop, so you might as well entertain me if you're going to pollute my inbox. Plus, it makes me feel like I actually got a little 'personal reading' in for the day :)
 

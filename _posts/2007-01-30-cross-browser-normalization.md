@@ -18,24 +18,24 @@ Of equal importance, is that when you have a DOCTYPE, you can now run your marku
 ### Resources:
 
 **Yahoo Developer Network:**  
-[http://developer.yahoo.com](<http://developer.yahoo.com/>)
+[http://developer.yahoo.com](<https://web.archive.org/web/20070127182318/http://developer.yahoo.com/>)
 
 **reset.css:**  
-<http://developer.yahoo.com/yui/reset/>
+<https://web.archive.org/web/20070130/http://developer.yahoo.com/yui/reset/>
 
 **font.css:**  
-<http://developer.yahoo.com/yui/fonts/>
+<https://web.archive.org/web/20070130/http://developer.yahoo.com/yui/fonts/>
 
 **W3C HTML validator:**  
-<http://validator.w3.org/>
+<https://web.archive.org/web/20070130/http://validator.w3.org/>
 
 **W3C CSS validator:**  
-<http://jigsaw.w3.org/css-validator/>
+<https://web.archive.org/web/20070130/http://jigsaw.w3.org/css-validator/>
 
 **IE - quirks and strict modes:**  
-<http://www.quirksmode.org/css/quirksmode.html>
+<https://web.archive.org/web/20070130/http://www.quirksmode.org/css/quirksmode.html>
 
 **Other good resources for DOCTYPES:**  
-<http://www.w3.org/QA/2002/04/valid-dtd-list.html>  
-<http://alistapart.com/stories/doctype/>  
-<http://www.oreillynet.com/pub/a/javascript/synd/2001/08/28/doctype.html>
+<https://web.archive.org/web/20070130/http://www.w3.org/QA/2002/04/valid-dtd-list.html>  
+<https://web.archive.org/web/20070130/http://alistapart.com/stories/doctype/>  
+<https://web.archive.org/web/20070130/http://www.oreillynet.com/pub/a/javascript/synd/2001/08/28/doctype.html>

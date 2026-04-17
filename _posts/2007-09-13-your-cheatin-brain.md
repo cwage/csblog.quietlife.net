@@ -3,7 +3,7 @@ layout: post
 title: "Your cheatin' brain"
 date: 2007-09-13
 ---
-![got-milk.jpg](http://blog.centresource.com/wp-content/uploads/2007/09/got-milk.jpg)
+![got-milk.jpg](https://web.archive.org/web/20071012170432/http://blog.centresource.com/wp-content/uploads/2007/09/got-milk.jpg)
 
 _"I'm trying to think, but nothing happens."_ \- Curly
 

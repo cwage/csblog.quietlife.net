@@ -34,4 +34,4 @@ A lively debate continues in the article, with varying sources, polls and opinio
 
 What do YOU think?
 
-Check out the full article: <http://goo.gl/FjNip>
+Check out the full article: <https://web.archive.org/web/20101111/http://goo.gl/FjNip>

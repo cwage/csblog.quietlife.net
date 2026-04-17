@@ -5,7 +5,7 @@ date: 2008-07-24
 author: Aaron Briggs
 categories: [Interactive Strategy]
 ---
-Here's a story that serves as proof that Interactive Strategy makes it easy (and valuable) to build closeness with your customers:Last week, we started using [Adobe's Acrobat.com Buzzwords service](<http://www.acrobat.com/>) for document sharing. (Check it out if you haven't yet - very cool, very useful free online tool that made collaboration on a new project very easy). I was so impressed with it, in fact, that I made a quick post at [Twitter.com](<http://www.twitter.com/>) about how great I thought it was, and how I'll be using it instead of Google Docs from now on out.
+Here's a story that serves as proof that Interactive Strategy makes it easy (and valuable) to build closeness with your customers:Last week, we started using [Adobe's Acrobat.com Buzzwords service](<https://web.archive.org/web/20090521145443/http://www.acrobat.com/>) for document sharing. (Check it out if you haven't yet - very cool, very useful free online tool that made collaboration on a new project very easy). I was so impressed with it, in fact, that I made a quick post at [Twitter.com](<https://web.archive.org/web/20080724155350/http://www.twitter.com/>) about how great I thought it was, and how I'll be using it instead of Google Docs from now on out.
 
 Why'd I make the post? Human nature. We have an inclination to share products and tools that we're impressed with. I know most of the folks I communicate with on Twitter would likely be as interested as I am in this great service, so I shared with them.
 

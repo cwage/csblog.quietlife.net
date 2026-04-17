@@ -21,6 +21,6 @@ So I look over my results... and I start to notice things that don't belong. In 
 
 And now for the clincher... the icing on the cake... the grand finale!
 
-I want to save this search, and then perform SUB-SEARCHES on it! Now that I have a list of all Computer Consultant in Nashville, TN that perform security and hardware... now I want to see which one also offers Web Design services! And I want to do that without diluting my original search!!! If this all worked out correctly, then I could easily locate [http://www.centresource.com](<http://www.centresource.com/>) \- and it wouldn't be merely based on the fact that CentreSource was lucky enough to show up on the home page for a single search phrase.
+I want to save this search, and then perform SUB-SEARCHES on it! Now that I have a list of all Computer Consultant in Nashville, TN that perform security and hardware... now I want to see which one also offers Web Design services! And I want to do that without diluting my original search!!! If this all worked out correctly, then I could easily locate [http://www.centresource.com](<https://web.archive.org/web/20050615014726/http://www.centresource.com/>) \- and it wouldn't be merely based on the fact that CentreSource was lucky enough to show up on the home page for a single search phrase.
 
 I understand why services can't keep up with directories - but you have to admit that directories have a lot of good features in them... especially the absence of a lot of junk.

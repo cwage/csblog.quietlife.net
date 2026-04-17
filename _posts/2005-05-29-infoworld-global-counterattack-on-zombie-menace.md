@@ -17,4 +17,4 @@ The scariest part is that these botnets are actually 'controlled' by those that 
 But there's hope... people are starting to think about it.
 
 Read more:  
-[InfoWorld: Global counterattack on zombie menace](<http://weblog.infoworld.com/techwatch/archives/001428.html>)
+[InfoWorld: Global counterattack on zombie menace](<https://web.archive.org/web/20050611073254/http://weblog.infoworld.com/techwatch/archives/001428.html>)

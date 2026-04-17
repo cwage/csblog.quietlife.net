@@ -4,7 +4,7 @@ title: "Bio-Security: Promising... but risky"
 date: 2005-05-29
 categories: [News]
 ---
-A [news article](<http://www.wired.com/news/privacy/0,1848,67654,00.html>) in [Wired Magazine](<http://www.wired.com/>) (online) touches on Biometrics as it relates to international security. I've been particular fascinated with the shift in security since 9/11 - especially the surge in bio verification.
+A [news article](<https://web.archive.org/web/20050531002343/http://www.wired.com/news/privacy/0,1848,67654,00.html>) in [Wired Magazine](<http://www.wired.com/>) (online) touches on Biometrics as it relates to international security. I've been particular fascinated with the shift in security since 9/11 - especially the surge in bio verification.
 
 Michael Chertoff, Homeland Security secretary, states:
 
@@ -54,4 +54,4 @@ For the loser of the battle... there will be a lot of money lost (both in the pr
 
 With so much money at stake, it wouldn't be too far fetched that the losing firm would take great efforts to show the flaws in the winner... _but to what extent we'll never know._
 
-**Full news article:**[Wired News: For Security, the Eyes Have It](<http://www.wired.com/news/privacy/0,1848,67654,00.html>)
+**Full news article:**[Wired News: For Security, the Eyes Have It](<https://web.archive.org/web/20050531002343/http://www.wired.com/news/privacy/0,1848,67654,00.html>)

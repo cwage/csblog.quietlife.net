@@ -15,9 +15,9 @@ I'm no developer, but I felt right at home with 960 from the beginning. Instead 
 
 As the background of a website can exist outside of the 960 pixel container, it's a wonderful place to experiment with unique visual elements and horizons, as seen on Bryan Veloso's avalonstar. Designers now have some rote options for working with backgrounds, such as repeating horizontally a la Drupalcon 2009, highlighting your content by making an elegant centered background like on the Bellingham Real Estate site, or using a full photographic background like on Housing Works.
 
-  * [![avalonstar's grungy background texture](http://blog.centresource.com/wp-content/uploads/2009/06/thumb_avalon1.jpg)](<http://avalonstar.com/>)avalonstar's grungy background texture
-  * [![DrupalCon 2009's repeating city background](http://blog.centresource.com/wp-content/uploads/2009/06/thumb_drupal.jpg)](<http://dc2009.drupalcon.org/>)The DrupalCon cityscape background
-  * [![Large photographic background on Housing Works](http://blog.centresource.com/wp-content/uploads/2009/06/thumb_housingworks1.jpg)](<http://www.housingworks.org/>)Large photography on Housing Works
+  * [![avalonstar's grungy background texture](https://web.archive.org/web/20110109020528/http://blog.centresource.com/wp-content/uploads/2009/06/thumb_avalon1.jpg)](<http://avalonstar.com/>)avalonstar's grungy background texture
+  * [![DrupalCon 2009's repeating city background](https://web.archive.org/web/20110109020532/http://blog.centresource.com/wp-content/uploads/2009/06/thumb_drupal.jpg)](<http://dc2009.drupalcon.org/>)The DrupalCon cityscape background
+  * [![Large photographic background on Housing Works](https://web.archive.org/web/20110109020535/http://blog.centresource.com/wp-content/uploads/2009/06/thumb_housingworks1.jpg)](<http://www.housingworks.org/>)Large photography on Housing Works
 
 
 
@@ -27,7 +27,7 @@ The background is truly a freeform canvas. You don't have to worry about browser
 
 It's hard to deny the cold and inescapable reality of the pink columns if you sit and stare at them long enough. But fear not! With the power of CSS positioning, it's no problem to break out of those constraints.
 
-![Popcorn Thumbnail](http://blog.centresource.com/wp-content/uploads/2009/06/thumb_popcorn.jpg)
+![Popcorn Thumbnail](https://web.archive.org/web/20110109020538/http://blog.centresource.com/wp-content/uploads/2009/06/thumb_popcorn.jpg)
 
 In this example, I've moved the logo about 25 pixels outside the left edge of the grid container to help the design feel a little more free and flowing. It's often helpful to limit the width of an element you are pushing or pulling to a specific number of columns. I measured the logo out to be about 9 columns in width (out of 16 available columns), which means a front-end designer can apply a grid_9 class to the logo and then position it outside of the grid using CSS. Easy for them, easy for me.
 
@@ -37,7 +37,7 @@ Being able to push and pull things can lead to some extraordinary things and hel
 
 While the default 12 column grid template is fine for most projects, some designs might require the additional flexibility and finer control of 16 columns. Newspaper and magazine styles can benefit the most from the extra grid control, especially when you might need to nest multiple small columns. But there's no rule that you can't use BOTH the 12 and 16 column grid in the same design.
 
-![12_16_mix](http://blog.centresource.com/wp-content/uploads/2009/06/12_16_mix.jpg)
+![12_16_mix](https://web.archive.org/web/20110109020541/http://blog.centresource.com/wp-content/uploads/2009/06/12_16_mix.jpg)
 
 In this example I have a simple layout that utilizes both grid templates. The top section is more open and simple and worked well with just 12 columns. The bottom section gets a bit trickier. I really wanted 4 columns and some specific layout tricks that would have been more difficult using the default grid template. As you can see, it's as simple as placing the 16 column grid in the design and having at it.
 
@@ -53,7 +53,7 @@ I've modified the 12 and 16 column template that comes with 960 to include this 
 
 One of the biggest benefits of using 960 when designing is there's no guesswork over the general size of content areas. The most commonly used format for the web is 2/3 of the overall page width for the main content and 1/3 for sidebar content. In 960, that's as simple as fitting your main content inside 8 columns and your sidebar content inside the remaining 4 columns. Easy!
 
-![proportions](http://blog.centresource.com/wp-content/uploads/2009/06/proportions.jpg)
+![proportions](https://web.archive.org/web/20110109020547/http://blog.centresource.com/wp-content/uploads/2009/06/proportions.jpg)
 
 Obtaining complex layouts without grids can be painful because alignments need to be acutely defined. Imagine having to deal with a complex 6 column layout and working through issues of a section being 230 pixels versus 235 pixels wide, and how that 5 pixel difference might affect everything else on the page. 960 takes away a lot of the guesswork and tedium and allows you to focus on information flow and overall look and feel.
 

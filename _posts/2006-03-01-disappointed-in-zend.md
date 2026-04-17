@@ -5,7 +5,7 @@ date: 2006-03-01
 author: Jackson
 categories: [PHP]
 ---
-When [Andi Gutmans was interviewed by Marcus Whitney on the phpArchitect Pro::PHP Podcast](<http://podcast.phparch.com/main/index.php/episodes:20060127>), he stated that there would be some sort of preview release for the [Zend Framework](<http://zend.com/collaboration>) sometime in February. It is now March and there was no release that I can find. This is a big disappointment for me.
+When [Andi Gutmans was interviewed by Marcus Whitney on the phpArchitect Pro::PHP Podcast](<https://web.archive.org/web/20060320171507/http://podcast.phparch.com/main/index.php/episodes:20060127>), he stated that there would be some sort of preview release for the [Zend Framework](<http://zend.com/collaboration>) sometime in February. It is now March and there was no release that I can find. This is a big disappointment for me.
 
 PHP5 is an excellent language for developing web application, but it is in desperate need of some sort of standard or guidelines for 'enterprise' application. The Zend Framework is anticipated to fill this void. In some ways this anticipation worsens the situation. Developers are left worried that starting a big new project without the Zend Framework could be a bad idea, especially since the Zend Framework is hoped to be right around the corner.
 

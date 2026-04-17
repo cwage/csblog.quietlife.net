@@ -15,4 +15,4 @@ Tomorrow at Centresource, we're turning it red! Our team is partnering with the 
 
 Peter and his family live near the village of Kitgum, Uganda. He was just 7 years old when he was taken to a nearby hospital because he was experiencing headaches, stomach pains and had trouble eating. He tested positive for HIV and learned he had contracted the disease at birth. Because little was known about the transmission of HIV in their community, Peter didn't want to tell his friends for fear they would treat him differently.
 
-Learn more about the HIV/AIDS crisis by watching the video below or visiting <http://www.bloodwatermission.com/turnitred.html>
+Learn more about the HIV/AIDS crisis by watching the video below or visiting <https://web.archive.org/web/20111130/http://www.bloodwatermission.com/turnitred.html>

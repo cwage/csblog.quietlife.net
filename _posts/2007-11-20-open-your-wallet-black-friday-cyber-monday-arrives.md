@@ -5,7 +5,7 @@ date: 2007-11-20
 author: Kerry Woo
 categories: [Miscellaneous]
 ---
-Chris "Silver" Smith offers up a [great article - "Forget Black Friday! Are You Ready For Holiday Season's Cyber Mondays?"](<http://searchengineland.com/071119-152422.php>) regarding the onslaught of consumer madness when retailers do their best to extract as much creditworthiness from one's wallet.
+Chris "Silver" Smith offers up a [great article - "Forget Black Friday! Are You Ready For Holiday Season's Cyber Mondays?"](<https://web.archive.org/web/20071120150739/http://searchengineland.com/071119-152422.php>) regarding the onslaught of consumer madness when retailers do their best to extract as much creditworthiness from one's wallet.
 
 > "Black Friday," the day after Thanksgiving, is the biggest shopping day of the year for U.S. brick-and-mortar retailers. But, for each Monday after Black Friday, consumer searches spike up on the internet and online retail websites enjoy their highest traffic and associated sales of the year. Search engine use is directly impacting businesses during this period, and companies which haven't optimized their internet presence stand to lose out on some of the sales they could be getting if consumers could find them. This is true for online businesses as well as for brick-and-mortar stores.
 

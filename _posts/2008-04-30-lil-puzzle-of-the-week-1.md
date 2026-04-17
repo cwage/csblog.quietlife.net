@@ -58,7 +58,7 @@ Here's a story that serves as proof that Interactive Strategy makes it easy (and
 
 Posted by jwage @ 06/16/2008
 
-A few weeks ago on the symfony blog, Fabien [announced](<http://www.symfony-project.org/blog/2008/06/06/documentation-updates>) that as of symfony 1.1, Doctrine is officially supported. The documentation will slowly be updated and converted from Propel to Doctrine.
+A few weeks ago on the symfony blog, Fabien [announced](<https://web.archive.org/web/20080608082520/http://www.symfony-project.org/blog/2008/06/06/documentation-updates>) that as of symfony 1.1, Doctrine is officially supported. The documentation will slowly be updated and converted from Propel to Doctrine.
 
   * [jwage's blog](</web/20080820093351/http://blog.centresource.com/blog/author/jwage> "Read jwage's latest blog entries.")
   * [Add new comment](</web/20080820093351/http://blog.centresource.com/comment/reply/1026#comment-form> "Add a new comment to this page.")

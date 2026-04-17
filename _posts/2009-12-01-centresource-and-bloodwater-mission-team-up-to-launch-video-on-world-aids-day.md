@@ -9,4 +9,4 @@ categories: [Content, Interactive Strategy]
 
 CentreSource had the honor of [producing a video](<http://www.bloodwatermission.com/>) for BWM to show how they are an organization that is about action, not hand-outs. They are about empowering communities to fight against these dangerous threats, not about the status quo in failed programs. The video guides the viewer through the harrowing statistics, but then changes the mindset of despair to promoting one of hope and empowerment.
 
-Learn more about [Blood:Water Mission](<http://www.bloodwatermission.com/>) and [how you can help](<http://www.bloodwatermission.com/take-action/>).
+Learn more about [Blood:Water Mission](<http://www.bloodwatermission.com/>) and [how you can help](<https://web.archive.org/web/20091204141308/http://www.bloodwatermission.com/take-action/>).

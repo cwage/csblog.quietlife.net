@@ -5,7 +5,7 @@ date: 2005-08-25
 author: Chip
 categories: [Miscellaneous, Development]
 ---
-I came across this [very interesting article](<http://blog.outer-court.com/archive/2005-08-24-n14.html>) that talks about the value of being dumb and lazy as a programmer. 
+I came across this [very interesting article](<https://web.archive.org/web/20050930203719/http://blog.outer-court.com/archive/2005-08-24-n14.html>) that talks about the value of being dumb and lazy as a programmer. 
 
 In a nutshell:
 
@@ -14,4 +14,4 @@ In a nutshell:
 
 
 
-Read the [whole article here](<http://blog.outer-court.com/archive/2005-08-24-n14.html>).
+Read the [whole article here](<https://web.archive.org/web/20050930203719/http://blog.outer-court.com/archive/2005-08-24-n14.html>).

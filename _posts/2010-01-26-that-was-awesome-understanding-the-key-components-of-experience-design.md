@@ -5,7 +5,7 @@ date: 2010-01-26
 author: Jared A. Scheel
 categories: [Content, Interactive Strategy, Marketing, Usability, Web Design]
 ---
-When was the last time you had a really enjoyable experience with a product or service? Do you remember how it made you feel? Do you remember what about it made you feel that way? What about your experience stuck out most in your mind? If you are like me, some of these questions can be fairly difficult to answer, while others may be incredibly obvious. On top of this, the answers may seem clearer in one case than they do in another. Welcome to the world of experience design. This post is primarily taken from the first part of a presentation I made a BarCamp Nashville in 2009, entitled "[Whoa! Creating Engaging User Experiences](<http://barcampnashville.com/session/whoa-creating-engaging-user-experiences>)". 
+When was the last time you had a really enjoyable experience with a product or service? Do you remember how it made you feel? Do you remember what about it made you feel that way? What about your experience stuck out most in your mind? If you are like me, some of these questions can be fairly difficult to answer, while others may be incredibly obvious. On top of this, the answers may seem clearer in one case than they do in another. Welcome to the world of experience design. This post is primarily taken from the first part of a presentation I made a BarCamp Nashville in 2009, entitled "[Whoa! Creating Engaging User Experiences](<https://web.archive.org/web/20100103191104/http://barcampnashville.com/session/whoa-creating-engaging-user-experiences>)". 
 
 ![Slide from Whoa! Creating Engaging User Experiences](http://blog.centresource.com/wp-content/uploads/2010/01/whoa.jpg)
 
@@ -15,9 +15,9 @@ Unfortunately, there were some technical difficulties, so I do not have the vide
 
 ### What is Experience Design?
 
-According to [The New Everyday: Views on Ambient Intelligence](<http://www.amazon.com/New-Everyday-View-Ambient-Intelligence/dp/9064505020>), experience design (XP) is the practice of "designing products, processes, services, events, and environments with a focus placed on the quality of the user experience and culturally relevant solutions, with less emphasis placed on increasing and improving functionality of the design." 
+According to [The New Everyday: Views on Ambient Intelligence](<https://web.archive.org/web/20100113115314/http://www.amazon.com/New-Everyday-View-Ambient-Intelligence/dp/9064505020>), experience design (XP) is the practice of "designing products, processes, services, events, and environments with a focus placed on the quality of the user experience and culturally relevant solutions, with less emphasis placed on increasing and improving functionality of the design." 
 
-[![The New Everyday: View on Ambient Intelligence](http://blog.centresource.com/wp-content/uploads/2010/01/neweveryday.jpg)](<http://www.amazon.com/New-Everyday-View-Ambient-Intelligence/dp/9064505020>)
+[![The New Everyday: View on Ambient Intelligence](http://blog.centresource.com/wp-content/uploads/2010/01/neweveryday.jpg)](<https://web.archive.org/web/20100113115314/http://www.amazon.com/New-Everyday-View-Ambient-Intelligence/dp/9064505020>)
 
 The New Everyday: View on Ambient Intelligence
 
@@ -50,7 +50,7 @@ Know your playing field. What are your competitors' strengths? What are their we
 
 You must have a good grasp of your brand. In this age social media, it may seem like you are not in control, but don't make the mistake of leaving your brand to chance. You have the ability to control your brand as well as the ability to shape the perception of that brand. I promise you, this is not going to be easy. There are countless books and blog posts written about this very subject, and I definitely do not have all the answers.
 
-Customer service is one aspect of brand management that is easy to overlook when focusing on function instead of experience. Remember the last time you got off the phone with a company and were so mad you wanted to hit something? How do you feel about that company now? Manage your brand well, or you may end up on [consumerist.com's "Worst Company in America"](<http://consumerist.com/tag/worst-company-in-america/>) tournament bracket.
+Customer service is one aspect of brand management that is easy to overlook when focusing on function instead of experience. Remember the last time you got off the phone with a company and were so mad you wanted to hit something? How do you feel about that company now? Manage your brand well, or you may end up on [consumerist.com's "Worst Company in America"](<https://web.archive.org/web/20100127105755/http://consumerist.com/tag/worst-company-in-america/>) tournament bracket.
 
 #### Information Design
 
@@ -58,7 +58,7 @@ What information do you want to disseminate, and how will you organize it? Const
 
 #### Interaction Design
 
-How will users interact with your experience? This is your opportunity to be creative! I am extremely impressed with the influx of augmented reality on mobile devices. For example, if you have a compatible device, check out the [Amazon Mobile application](<http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000291661>). 
+How will users interact with your experience? This is your opportunity to be creative! I am extremely impressed with the influx of augmented reality on mobile devices. For example, if you have a compatible device, check out the [Amazon Mobile application](<https://web.archive.org/web/20100201235944/http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000291661>). 
 
 ![Amazon Remembers](http://blog.centresource.com/wp-content/uploads/2010/01/amazonremembers.jpg)
 

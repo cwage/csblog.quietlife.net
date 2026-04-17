@@ -17,21 +17,21 @@ Next, we looked at hook_form_alter(), which is certainly one of the most powerfu
 There was a good question from an audience member at this point: At which point does hook_form_alter() actually get called in the page rendering process? Drupal core builds the form first, then inside includes/form.inc, there is a function called drupal_process_form(). In this function there is a foreach loop that calls module_implements() to check for all modules that implement hook_form_alter(). It is at this point that the form(s) get modified by modules. After this, the form is rendered and returned to the user.
 
 You can read the official Drupal API documentation on both of these hook functions here:  
-<http://api.drupal.org/api/function/hook_menu/5>  
-<http://api.drupal.org/api/function/hook_form_alter/5>
+<https://web.archive.org/web/20080303/http://api.drupal.org/api/function/hook_menu/5>  
+<https://web.archive.org/web/20080303/http://api.drupal.org/api/function/hook_form_alter/5>
 
 Next, we briefly touched on how content does not equate to presentation in Drupal. Content is stored in the database, and run through the theming system to separate content from presentation. It is loosely based on the MVC pattern.
 
-The next topic involved what it takes to get Drupal up and running. The first thing, obviously, is a web server and a development environment. The easiest method of getting a development environment up and running is to download and install a pre-packaged Apache, PHP, and mySQL stack such as LAMP, MAMP, or WAMP. He briefly talks about other tools included in those packages such as phpmyadmin. Drupal has some video tutorials on getting your own environment up and running at <http://drupal.org/node/159534>.
+The next topic involved what it takes to get Drupal up and running. The first thing, obviously, is a web server and a development environment. The easiest method of getting a development environment up and running is to download and install a pre-packaged Apache, PHP, and mySQL stack such as LAMP, MAMP, or WAMP. He briefly talks about other tools included in those packages such as phpmyadmin. Drupal has some video tutorials on getting your own environment up and running at <https://web.archive.org/web/20080303/http://drupal.org/node/159534>.
 
 There was another question from the audience at this point: What about migrating to a "secure" environment from your local (localhost) development environment. Use rsync or something of the like. There was an emphasis on keeping your development environment very separate from the production environment. Of course, in our line of work, this is absolutely necessary and imperative for many reasons. Basically, use localhost or your dev environment for testing out functionality and breaking your sites.
 
 We discussed the various editors and IDE's available next, including VI/VIM, Emacs, TextMate, TextWrangler, etc... For the record, Chad uses Zend. We really didn't get into any specific details on any editor or IDE, he just gave some examples.
 
 Next up: coding standards. First and foremost, if you have any desire to code for Drupal, whether it be to contribute to core, or write a custom module, read this first:  
-<http://drupal.org/writing-secure-code>  
+<https://web.archive.org/web/20080303/http://drupal.org/writing-secure-code>  
 or, better yet, if your up here in Boston with us at the conference, there will be this session:  
-<http://boston2008.drupalcon.org/session/drupal-security-best-practices>  
+<https://web.archive.org/web/20080303/http://boston2008.drupalcon.org/session/drupal-security-best-practices>  
 Chad talked about why it is important to have coding standards:
 
   * For consistency among projects and codebases.
@@ -44,30 +44,30 @@ Chad talked about why it is important to have coding standards:
 
 Next topic: What to do when your stuck??? This was mostly a series of links and resources to help you out when your at your wits end with an issue. Here's the shortlist:
 
-  * <http://drupal.org/support>
-  * <http://drupal.org/handbooks>
+  * <https://web.archive.org/web/20080303/http://drupal.org/support>
+  * <https://web.archive.org/web/20080303/http://drupal.org/handbooks>
   * IRC channels: #drupal, #drupal-dev, #drupal-support, #drupal-themes, #drupal-dojo
-  * Full IRC chatroom list: <http://drupal.org/node/108355>
-  * IRC tutorial: <http://www.irchelp.org/irchelp/irctutorial.html>
-  * Support Forum: <http://drupal.org/forum/18>
-  * Module development support: <http://drupal.org/forum/4>
-  * Theme development support: <http://drupal.org/forum/3>
-  * Videocasts: <http://drupal.org/videocasts>
+  * Full IRC chatroom list: <https://web.archive.org/web/20080303/http://drupal.org/node/108355>
+  * IRC tutorial: <https://web.archive.org/web/20080303/http://www.irchelp.org/irchelp/irctutorial.html>
+  * Support Forum: <https://web.archive.org/web/20080303/http://drupal.org/forum/18>
+  * Module development support: <https://web.archive.org/web/20080303/http://drupal.org/forum/4>
+  * Theme development support: <https://web.archive.org/web/20080303/http://drupal.org/forum/3>
+  * Videocasts: <https://web.archive.org/web/20080303/http://drupal.org/videocasts>
 
 
 
 Next we looked at some available helper modules. These are aimed at the Drupal developer. Chad covered the API module, for locally installing a copy of Drupal's API documentation (and also, allowing you to view the documentation of contributed modules, which isn't available at the official API documentation website). The Devel module, which is the holy grail of development assistance modules for Drupal. The Coder module, which reviews module code for standards, as well as aiding in upgrading Drupal 5 modules to Drupal 6. And last was the SimpleTest module which brings the SimpleTest framework to Drupal. You can find these modules and more information in the links below:
 
-  * <http://drupal.org/project/api>
-  * <http://drupal.org/project/devel>
-  * <http://drupal.org/project/coder>
-  * <http://drupal.org/project/simpletest>
+  * <https://web.archive.org/web/20080303/http://drupal.org/project/api>
+  * <https://web.archive.org/web/20080303/http://drupal.org/project/devel>
+  * <https://web.archive.org/web/20080303/http://drupal.org/project/coder>
+  * <https://web.archive.org/web/20080303/http://drupal.org/project/simpletest>
 
 
 
 Lastly, Chad gave us some tips on what we can do to become a Drupal ninja. They are:
 
-  1. Master CVS and Project Management. Checkout the [CVS handbook](<http://drupal.org/handbook/cvs>). Documentation for Project Managemetn is available at <http://drupal.org/handbook/cvs/projects>.  
+  1. Master CVS and Project Management. Checkout the [CVS handbook](<http://drupal.org/handbook/cvs>). Documentation for Project Managemetn is available at <https://web.archive.org/web/20080303/http://drupal.org/handbook/cvs/projects>.  
 There was an question from the audience about integrating SVN into Drupal. The short answer: it would take more resources than are currently available to make this happen, and so much has been invested into CVS for Drupal. Too bad.
   2. Use test scripts. One helpful example was copying and pasting the first two lines from index.php in your Drupal web root. These two lines alone fully bootstrap Drupal and will give you a fully functional Drupal site without any of the other bloat. It is very useful for quickly trying out a snippet of code. We also talked about using debug functions such as print_r(), var_dump(), var_export(), and exit().
   3. And speaking of exit(), it was next on the tip list: exit() is your friend. Indeed it is. Use exit() to bisect your code flow until you locate the source of your problem
@@ -80,6 +80,6 @@ There was an question from the audience about integrating SVN into Drupal. The s
 
 
 
-You can view the slide presentation here: <http://drupal5.xcarnated.com/node/22/s5>
+You can view the slide presentation here: <https://web.archive.org/web/20080303/http://drupal5.xcarnated.com/node/22/s5>
 
 Also of note: this slide presentation was done using the [s5 module](<http://drupal.org/project/s5>) for Drupal. Pretty neat.

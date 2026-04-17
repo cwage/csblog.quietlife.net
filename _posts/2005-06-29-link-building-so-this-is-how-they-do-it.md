@@ -45,7 +45,7 @@ Here is the email requesting the exchange.
 > COPY AND PASTE the information between the dotted lines to your web page:  
 >  -------------------------------------------------  
 >  [Kontron Rackmount, Computer  
->  Telephony, Atx Motherboards & Embedded Systems](<http://computers.kontron.com/>) Kontron offers industrial  
+>  Telephony, Atx Motherboards & Embedded Systems](<https://web.archive.org/web/20050701013625/http://computers.kontron.com/>) Kontron offers industrial  
 >  PC products such as atx motherboards, embedded systems, rackmount servers,  
 >  PC/104 plus, and more.  
 >  -------------------------------------------------

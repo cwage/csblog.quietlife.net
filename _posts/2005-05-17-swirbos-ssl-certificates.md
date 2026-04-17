@@ -4,11 +4,11 @@ title: "SSL Introduction"
 date: 2005-05-17
 author: Chris
 ---
-We have received a number of questions from people asking why [Swirbo](<http://www.swirbo.com/>)'s e-mail management website prompts them about an "unrecognized certificate"?
+We have received a number of questions from people asking why [Swirbo](<https://web.archive.org/web/20050522012737/http://www.swirbo.com/>)'s e-mail management website prompts them about an "unrecognized certificate"?
 
 There's a good reason for this with a slightly long answer. Read on for a brief (as possible) introduction to how SSL works:
 
-SSL utilizes two different types of encryption in the process of securing a connection -- [symmetric](<http://en.wikipedia.org/wiki/Symmetric_key>) and [public key cryptography](<http://en.wikipedia.org/wiki/Public_key_cryptography>). The difference between these two types of encryption is in how keys are used. It' s a bit complicated. but briefly:
+SSL utilizes two different types of encryption in the process of securing a connection -- [symmetric](<https://web.archive.org/web/20050626081404/http://en.wikipedia.org/wiki/Symmetric_key>) and [public key cryptography](<https://web.archive.org/web/20050529102350/http://en.wikipedia.org/wiki/Public_key_cryptography>). The difference between these two types of encryption is in how keys are used. It' s a bit complicated. but briefly:
 
   * Symmetric encryption involves picking **one key** and encrypting the data with this key. The recipient that wants to decrypt this data must have the **same key**.
   * Public key encryption involves picking a **pair of keys** -- one "public" and one "private". Information encrypted with the private key can only be decrypted with the public key and vice versa. In this way, the "public" key can be distributed far and wide without concern for security. Things encrypted with the public key can only be decrypted with the **private** key, kept safe and secure by the recipient.
@@ -39,10 +39,10 @@ As a result, there are a number of large signing authorities in IE's default lis
 
 To get to the point (finally) we at CentreSource and Swirbo believe in cryptography and security but we don't believe it should be something you have to pay for.
 
-Thus we have used a signing authority that also adheres to this philosophy: [CACert](<http://www.cacert.org/>).
+Thus we have used a signing authority that also adheres to this philosophy: [CACert](<https://web.archive.org/web/20050520074824/http://www.cacert.org/>).
 
 They are an organization that offers free certificate signing and is actively campaigning to get included in the default list of signing authorities in several browsers -- cost being the primary obstacle to getting listed with Microsoft.
 
 We are using them both because we don't feel it's necessary to pay exorbitant fees for certificate signing and we also want to support this organization in its endeavor.
 
-If you want to inherently trust CACert in the future, you can opt to go to [this page](<http://www.cacert.org/index.php?id=3>) and install their root certificate into your browser. By doing this, you will no longer get warnings when you visit sites using certificates signed by CACert.
+If you want to inherently trust CACert in the future, you can opt to go to [this page](<https://web.archive.org/web/20050625202431/http://www.cacert.org/index.php?id=3>) and install their root certificate into your browser. By doing this, you will no longer get warnings when you visit sites using certificates signed by CACert.

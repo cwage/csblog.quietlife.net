@@ -16,4 +16,4 @@ The last part is for us to choose! So we've put together the best logos we have 
 
 Oh yeah, and don't get confused by the Two Ton Pixel with the Train. It was a design mistake, so vote for either of those if you can envision th words Artistic Engine instead!
 
-<http://staging.centresource.com/logos/>
+<https://web.archive.org/web/20070710/http://staging.centresource.com/logos/>

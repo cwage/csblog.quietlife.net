@@ -4,7 +4,7 @@ title: "Google and Greylisting"
 date: 2007-06-13
 author: Chris
 ---
-We'd have a recent spat of complaints from our [Swirbo](<http://www.swirbo.com/>) customers regarding their inability to receive mail from certain [Google](<http://www.google.com/>) apps -- i.e. if you invite someone to view a blog, or docs.google.com document. Today I got an example of the actual error they are getting:
+We'd have a recent spat of complaints from our [Swirbo](<http://www.swirbo.com/>) customers regarding their inability to receive mail from certain [Google](<https://web.archive.org/web/20070614025949/http://www.google.com/>) apps -- i.e. if you invite someone to view a blog, or docs.google.com document. Today I got an example of the actual error they are getting:
 
 > Technical details of permanent failure:  
 >  TEMP_FAILURE: SMTP Error (state 13): 450 : Recipient  

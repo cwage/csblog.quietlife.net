@@ -5,7 +5,7 @@ date: 2005-10-26
 author: Chris
 categories: [News]
 ---
-Is Google taking a shot at Ebay with their new [Google Base](<http://www.downloadsquad.com/2005/10/25/google-base-googles-new-free-database-service/>)?
+Is Google taking a shot at Ebay with their new [Google Base](<https://web.archive.org/web/20051027004419/http://www.downloadsquad.com/2005/10/25/google-base-googles-new-free-database-service/>)?
 
 > Google Base is Google's database into which you can add all types of content. We'll host your content and make it searchable online for free.
 > 

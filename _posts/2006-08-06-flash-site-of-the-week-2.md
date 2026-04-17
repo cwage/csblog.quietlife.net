@@ -10,4 +10,4 @@ Enjoy!
 star.  
 ps - have your sound enabled!
 
-[tokyoPlastic.com](<http://www.tokyoplastic.com/>)
+[tokyoPlastic.com](<https://web.archive.org/web/20060804042118/http://www.tokyoplastic.com/>)

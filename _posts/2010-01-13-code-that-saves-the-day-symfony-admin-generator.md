@@ -7,11 +7,11 @@ categories: [PHP, Symfony, Web Development]
 ---
 Every day at CentreSource brings with it a new challenge. With every challenge comes the opportunity to try a unique approach. We all know sailing the interweb can be stormy at best. But if you keep your eyes open, you will find code that can be a lighthouse to your sinking ship. Today's Code that Saves the Day™:**The Symfony Admin Generator!**
 
-For those who don't know, [Symfony](<http://www.symfony-project.org/>) is an MVC web framework built on PHP. Symfony is a great tool to use for custom development, and is very similar to the als0-opensource MVC framework Ruby on Rails. The [Symfony Admin Generator](<http://www.symfony-project.org/screencast/admin-generator>) is a tool connected to a command-line task that allows you to easily spin up editable interfaces for your website's administrators. Do you have a table for contacts in your database? Type a single command into your terminal...
+For those who don't know, [Symfony](<https://web.archive.org/web/20100112184910/http://www.symfony-project.org/>) is an MVC web framework built on PHP. Symfony is a great tool to use for custom development, and is very similar to the als0-opensource MVC framework Ruby on Rails. The [Symfony Admin Generator](<https://web.archive.org/web/20100115222158/http://www.symfony-project.org/screencast/admin-generator>) is a tool connected to a command-line task that allows you to easily spin up editable interfaces for your website's administrators. Do you have a table for contacts in your database? Type a single command into your terminal...
 
 > `$: php symfony doctrine:generate-admin backend Contacts`
 
-...and presto! Your users can filter, sort, view, edit, and create new contacts! Yes, it really is that simple. There are a variety of customizations available (some of which could use healthier documentation, which extends beyond the scope of this post), and you can read about those [here](<http://www.symfony-project.org/book/1_2/14-Generators>).
+...and presto! Your users can filter, sort, view, edit, and create new contacts! Yes, it really is that simple. There are a variety of customizations available (some of which could use healthier documentation, which extends beyond the scope of this post), and you can read about those [here](<https://web.archive.org/web/20100112231844/http://www.symfony-project.org/book/1_2/14-Generators>).
 
 ### Problem: Client demands additional functionality for administrative purposes.
 
@@ -56,4 +56,4 @@ _The export admin generator adds several helpful methods such as` hasExport` and
 
 
 
-You can find all of this code [here](<http://github.com/bshaffer/Symfony-Snippets/tree/master/AdminGeneratorExport>). Now go forth, and [EXTEND THY ADMIN GENERATOR](<http://www.strangebuzz.com/index.php/2008/04/03/31-symfony-10-tutorial-extending-the-admin-generator>)!!
+You can find all of this code [here](<https://web.archive.org/web/20100129114446/http://github.com/bshaffer/Symfony-Snippets/tree/master/AdminGeneratorExport>). Now go forth, and [EXTEND THY ADMIN GENERATOR](<https://web.archive.org/web/20100106112701/http://www.strangebuzz.com/index.php/2008/04/03/31-symfony-10-tutorial-extending-the-admin-generator>)!!

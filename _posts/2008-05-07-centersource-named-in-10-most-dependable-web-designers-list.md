@@ -14,7 +14,7 @@ date: 2008-05-07
 
 Posted by jwage @ 06/16/2008
 
-A few weeks ago on the symfony blog, Fabien [announced](<http://www.symfony-project.org/blog/2008/06/06/documentation-updates>) that as of symfony 1.1, Doctrine is officially supported. The documentation will slowly be updated and converted from Propel to Doctrine.
+A few weeks ago on the symfony blog, Fabien [announced](<https://web.archive.org/web/20080608082520/http://www.symfony-project.org/blog/2008/06/06/documentation-updates>) that as of symfony 1.1, Doctrine is officially supported. The documentation will slowly be updated and converted from Propel to Doctrine.
 
   * [jwage's blog](</web/20080723173540/http://blog.centresource.com/blog/author/jwage> "Read jwage's latest blog entries.")
   * [Add new comment](</web/20080723173540/http://blog.centresource.com/comment/reply/1026#comment-form> "Add a new comment to this page.")
@@ -129,7 +129,7 @@ It takes great content to both 1) optimize your website for high organic ranking
 
 Great content is keyword-focused, frequent, and direct. It's also brief - probably even more brief than you'd want to assume.
 
-[This study on web usability](<http://www.useit.com/alertbox/percent-text-read.html>) highlights some startling facts for those long-winded writers among us (myself included):
+[This study on web usability](<https://web.archive.org/web/20080511183606/http://www.useit.com/alertbox/percent-text-read.html>) highlights some startling facts for those long-winded writers among us (myself included):
 
 
 

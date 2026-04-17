@@ -21,4 +21,4 @@ I thought I'd share with you some facts I've learned about Google+ since I'm con
 
 What do you think about Google+? Do you think it will take over Facebook?
 
-To learn more about Google+ and interesting facts, check out <http://www.thefactsite.com/2011/07/top-ten-google-plus-facts.html#ixzz1V8F8tbgn>
+To learn more about Google+ and interesting facts, check out <https://web.archive.org/web/20110818/http://www.thefactsite.com/2011/07/top-ten-google-plus-facts.html#ixzz1V8F8tbgn>

@@ -4,7 +4,7 @@ title: "Failings of an internal Security Analysis..."
 date: 2005-05-22
 categories: [Security]
 ---
-[SecurityMonkey](<http://blogs.ittoolbox.com/security/investigator//authorbio.asp>) posted a great article at [IT Toolbox](<http://blogs.ittoolbox.com/>) about why an internal Security Analysis (from the view point of a team member) is destined to fail. While I can't vouch for all internal security 'experts', I can agree with much of what he says.
+[SecurityMonkey](<https://web.archive.org/web/20050529000810/http://blogs.ittoolbox.com/security/investigator//authorbio.asp>) posted a great article at [IT Toolbox](<https://web.archive.org/web/20050521235221/http://blogs.ittoolbox.com/>) about why an internal Security Analysis (from the view point of a team member) is destined to fail. While I can't vouch for all internal security 'experts', I can agree with much of what he says.
 
 We say it all the time here at CentreSource. Hackers/Viruses/Spyware/Spam are never a problem... until it's a problem. The sad thing is, we'd have much less work if everyone actually approached their security in a systematic, adequate manner.
 
@@ -23,4 +23,4 @@ But alas, out of sight... out of mind. And according to SecurityMonkey, it appea
 > 5) You don't care. The paychecks are hitting the bank on time. Management leaves you alone. None of these cases ever get looked at past the HR department. All this work is really cutting in to your Doom III time. 
 
 You can read the entire article here:  
-[A Day in the Life of an Information Security Investigator](<http://blogs.ittoolbox.com/security/investigator/archives/004288.asp>)
+[A Day in the Life of an Information Security Investigator](<https://web.archive.org/web/20050524013903/http://blogs.ittoolbox.com/security/investigator/archives/004288.asp>)

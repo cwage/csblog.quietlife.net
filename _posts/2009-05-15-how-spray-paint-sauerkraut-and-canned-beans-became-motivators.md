@@ -5,7 +5,7 @@ date: 2009-05-15
 author: Aaron Briggs
 categories: [Miscellaneous]
 ---
-[![All Hail the Golden Kraut](http://blog.centresource.com/wp-content/uploads/2009/05/picture-1.png)](<http://www.thegoldenkraut.com/>)
+[![All Hail the Golden Kraut](http://blog.centresource.com/wp-content/uploads/2009/05/picture-1.png)](<https://web.archive.org/web/20090227164705/http://www.thegoldenkraut.com/>)
 
 All Hail the Golden Kraut
 
@@ -21,11 +21,11 @@ Afterwards, I suggested we had two options for dealing with something so ridicul
 
 So, we implemented Golden Kraut and Silvery Beans as an interactive tool. How? We give one Golden Kraut and one Silvery Beans each month to the most deserving members of our team. We use the free Google Docs Form tool to submit nominations in a single location that is reviewed at the end of the month by our management team. The nominations are frequently so genuinely complementary (and hilarious) that we share them openly at our weekly staff meetings.
 
-[![Jason "Shamus" O'Brien's Silvery Beans Win](http://blog.centresource.com/wp-content/uploads/2009/05/picture-2-300x179.png)](<http://www.thegoldenkraut.com/>)
+[![Jason "Shamus" O'Brien's Silvery Beans Win](http://blog.centresource.com/wp-content/uploads/2009/05/picture-2-300x179.png)](<https://web.archive.org/web/20090227164705/http://www.thegoldenkraut.com/>)
 
 Jason "Shamus" O'Brien's Silvery Beans Win
 
-And we built a website at [www.thegoldenkraut.com ](<http://www.thegoldenkraut.com/>)where we feature a gallery of winners. Everyone who receives the Kraut or Beans gets to answer a questionnaire (again, collected using the free Google Forms tool) that is then posted to the site -- a ritual that has become well-loved for the cleverness of answers. It gives us something to laugh about, and links to send around to our peers.
+And we built a website at [www.thegoldenkraut.com ](<https://web.archive.org/web/20090227164705/http://www.thegoldenkraut.com/>)where we feature a gallery of winners. Everyone who receives the Kraut or Beans gets to answer a questionnaire (again, collected using the free Google Forms tool) that is then posted to the site -- a ritual that has become well-loved for the cleverness of answers. It gives us something to laugh about, and links to send around to our peers.
 
 After five months of giving Golden Kraut and Silvery Beans, we've found that its already made a noticeable impact on our culture: we're more likely to rely on each other, reward each other openly for outstanding performance, and collaborate to develop Kraut-worthy ideas. When the winners aren't announced promptly, our team is openly asking for the results -- proving that even silly ideas can be highly engaging. It also proves that incentive can come from, well, anything - as long as you've earned it by earning the respect of your peers.
 

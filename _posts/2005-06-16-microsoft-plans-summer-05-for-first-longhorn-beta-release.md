@@ -20,7 +20,7 @@ It went on to talk about server roles... IMHO, anything to ease a server configu
 > 
 > ... When we think about operating system generations, I think about the '07 generations of the operating system, say '07-'08 as all being Longhorn, maybe even to '09 for Longhorn R2. Whether it's '10 or '11, we'll have to look to see. It will be somewhere in that time frame we would do Blackcomb [the successor to Longhorn]. So the virtualization features are in the Longhorn time frame, but it's not in the initial release of Longhorn. 
 
-This is great news for [VMWare.](<http://www.vmware.com/>) It validates that Virtualization is a huge part of our future computing landscape.
+This is great news for [VMWare.](<https://web.archive.org/web/20050617012356/http://www.vmware.com/>) It validates that Virtualization is a huge part of our future computing landscape.
 
 Original article:  
-<http://www.microsoft-watch.com/article2/0,1995,1828570,00.asp>
+<https://web.archive.org/web/20050616/http://www.microsoft-watch.com/article2/0,1995,1828570,00.asp>

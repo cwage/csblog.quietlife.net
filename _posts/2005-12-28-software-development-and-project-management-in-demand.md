@@ -5,7 +5,7 @@ date: 2005-12-28
 author: Jackson
 categories: [Software, Operations, Productivity, Development]
 ---
-I just read an [article at ComputerWorld](<http://www.computerworld.com/careertopics/careers/story/0,10801,107363,00.html>) that talks about what Tech Skills are projected to be in the most demand in 2006. The top four skills are:
+I just read an [article at ComputerWorld](<https://web.archive.org/web/20051229203110/http://www.computerworld.com/careertopics/careers/story/0,10801,107363,00.html>) that talks about what Tech Skills are projected to be in the most demand in 2006. The top four skills are:
 
   1. Software Developers
   2. Security

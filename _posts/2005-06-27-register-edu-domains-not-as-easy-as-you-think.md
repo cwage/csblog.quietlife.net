@@ -8,7 +8,7 @@ Our firm has many clients in the education sector, many of which that want us to
 
 I then went to Google and typed the logical search criteria 'register edu domains'. The results were less than stellar. Google returned every registrar's domain under the sun, but none of which would let me register the .edu extension.
 
-Finally, I came across the [one site](<http://www.educause.edu/edudomain/>) that will let you register .edu domains. Yes, that's right... a single site for .edu domains. In fact, the intro paragraph says:
+Finally, I came across the [one site](<https://web.archive.org/web/20050628010641/http://www.educause.edu/edudomain/>) that will let you register .edu domains. Yes, that's right... a single site for .edu domains. In fact, the intro paragraph says:
 
 > EDUCAUSE, the association for information technology in higher education, is the sole registrar for names in the .edu domain. The Department of Commerce awarded management of the domain to EDUCAUSE in October 2001. 
 

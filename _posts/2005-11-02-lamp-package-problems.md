@@ -9,7 +9,7 @@ My [previous post](<http://blog.centresource.com/2005/11/02/phplive-best-app-eve
 
 **1) Convoluted install process.**
 
-[GForge](<http://gforge.org/>) is probably the best example of this I've ever encountered. In their case it's understandable, since gforge is a fork of the [sourceforge](<http://www.sourceforge.net/>) code, which is obviously a loose amalgamation of stuff to begin with. But at the end of the day, there are no excuses for its installation process. For example, here is a snippet from the "WEB SETUP - MANUAL INSTALLATION" section in the INSTALL file. (You'd think "MANUAL" installation would be as opposed to an automatic one somewhere, but not that I could find):
+[GForge](<https://web.archive.org/web/20051102092117/http://gforge.org/>) is probably the best example of this I've ever encountered. In their case it's understandable, since gforge is a fork of the [sourceforge](<https://web.archive.org/web/20051103010913/http://www.sourceforge.net/>) code, which is obviously a loose amalgamation of stuff to begin with. But at the end of the day, there are no excuses for its installation process. For example, here is a snippet from the "WEB SETUP - MANUAL INSTALLATION" section in the INSTALL file. (You'd think "MANUAL" installation would be as opposed to an automatic one somewhere, but not that I could find):
     
     
     tar -xjf gforge-4.0.2.tar.bz2
@@ -59,13 +59,13 @@ And that's it. It handles smoothly all the stuff it should -- creating the table
 
 **2) Terrible upgrade processes.**
 
-[SugarCRM](<http://www.sugarcrm.com/crm/>) wins the award here. The first problem is that SugarCRM requires you to upgrade sequentially through **every single revision** released after the version you are using. I pity anyone that lets their instance of SugarCRM get as out of date as our installation is, since it takes no less than **seven** upgrades to get current.
+[SugarCRM](<https://web.archive.org/web/20051103025128/http://www.sugarcrm.com/crm/>) wins the award here. The first problem is that SugarCRM requires you to upgrade sequentially through **every single revision** released after the version you are using. I pity anyone that lets their instance of SugarCRM get as out of date as our installation is, since it takes no less than **seven** upgrades to get current.
 
 To make matters worse is the fact that they changed the upgrade method between many versions. Some versions have a "wizard", some require manual steps. And none of the wizards, in my experience, worked much at all -- meaning it was clear that I'd have to take manual steps to fix whatever it was the upgrade "wizard" failed to do. To this day I still haven't upgraded SugarCRM because I simply don't have the time to do everything necessary.
 
 **3) "Smart" packaging**
 
-Perhaps in response to the ease of installation of things in the world of Windows, a lot of LAMP developers have taken to publishing their code in an "all-in-one" type package that includes everything necessary to run their application's **functionality**. [VTiger](<http://www.vtiger.com/>) is a great example of this. VTiger is a fork of the SugarCRM code that they have improved and repackaged, along with everything you need to run it: Apache, Postfix, etc. The problem is they have no provision for people that, you know, are **already running** this software. It's nice that they are trying to be accomodating to people that are buying a server, installing an OS and then letting Vtiger do its thing, but here in the real world, applications are usually installed on boxes already in use for other things.
+Perhaps in response to the ease of installation of things in the world of Windows, a lot of LAMP developers have taken to publishing their code in an "all-in-one" type package that includes everything necessary to run their application's **functionality**. [VTiger](<https://web.archive.org/web/20051102094740/http://www.vtiger.com/>) is a great example of this. VTiger is a fork of the SugarCRM code that they have improved and repackaged, along with everything you need to run it: Apache, Postfix, etc. The problem is they have no provision for people that, you know, are **already running** this software. It's nice that they are trying to be accomodating to people that are buying a server, installing an OS and then letting Vtiger do its thing, but here in the real world, applications are usually installed on boxes already in use for other things.
 
 It's not impossible of course to extrapolate their PHP code itself from the "smart" installation package as a whole, but it essentially means doing everything by hand, and fixing everything in their code that incorrectly assumes things about my config and the software I am using.
 

@@ -13,12 +13,12 @@ There are volumes of information, advice, and instant fix promises for SEM and S
 
 I'll settle for a daily intake of a cool drink from the Google mini fridge instead.
 
-![1205213015_415fa173da.jpg](http://blog.centresource.com/wp-content/uploads/2007/08/1205213015_415fa173da.jpg)
+![1205213015_415fa173da.jpg](https://web.archive.org/web/20071019224315/http://blog.centresource.com/wp-content/uploads/2007/08/1205213015_415fa173da.jpg)
 
 Eric Lander offers up "10 Tips to Tune Up Paid Search Efforts" that are helpful from the full catalog of 848,000 tips available.
 
 **Tip #1 -- Update Your Keywords**  
-In every market, current events will shift how people are searching for information and products. Tap the resources available to you in order to update your keyword lists regularly. [WordTracker](<http://www.wordtracker.com/>), [KeywordDiscovery](<http://www.keyworddiscovery.com/>), and the tools provided by [Google](<https://adwords.google.com/select/KeywordToolExternal>) and [Yahoo!](<http://inventory.overture.com/d/searchinventory/suggestion/>) are all great starting points.
+In every market, current events will shift how people are searching for information and products. Tap the resources available to you in order to update your keyword lists regularly. [WordTracker](<https://web.archive.org/web/20070823042431/http://www.wordtracker.com/>), [KeywordDiscovery](<http://www.keyworddiscovery.com/>), and the tools provided by [Google](<https://adwords.google.com/select/KeywordToolExternal>) and [Yahoo!](<https://web.archive.org/web/20070822150830/http://inventory.overture.com/d/searchinventory/suggestion/>) are all great starting points.
 
 **Tip #2 -- Revise Ad Copy**  
 If your ad copy is stale or less relevant, you may suffer from a low clickthrough rate, and slipping out of position -- which allows your competitors to have a stronger opportunity. The beauty of this is that you can always have ads rotating, and if your new efforts do not pan out, Google will automatically stick to what was working.

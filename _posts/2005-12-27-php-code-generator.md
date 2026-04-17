@@ -5,7 +5,7 @@ date: 2005-12-27
 author: Jackson
 categories: [Miscellaneous, Utilities, Productivity, Development, PHP]
 ---
-I just spent some time playing with [PHP Object Generator](<http://www.phpobjectgenerator.com/>) and thought I would share my thoughts.
+I just spent some time playing with [PHP Object Generator](<https://web.archive.org/web/20051228051046/http://www.phpobjectgenerator.com/>) and thought I would share my thoughts.
 
 I should mention that I think needing code generation is an indication of poor design. The reason is that in order for code generation to work there has to be enough code that is duplicated that the process of creating the code can be scripted. 
 

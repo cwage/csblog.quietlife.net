@@ -5,7 +5,7 @@ date: 2005-10-05
 author: Chris
 categories: [Spam]
 ---
-Someone on [this thread](<http://blog.centresource.com/2005/08/28/tracking-down-the-source-of-referrer-spam/>) asks the following question:
+Someone on [this thread](<https://web.archive.org/web/20051013065143/http://blog.centresource.com/2005/08/28/tracking-down-the-source-of-referrer-spam/>) asks the following question:
 
 > Your article was helpful. Thank you very much. I wanted to know how to to track the geo-location from where an email was sent. Is this possible? 
 

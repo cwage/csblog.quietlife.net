@@ -12,4 +12,4 @@ _"They want to know what you like so they can feed you ads & promotions... hopin
 Now we have a much better analysis of the entire 'money train'. In November of 2004, a particular inquisitive tech explorer traced the money train for some spyware applications... it produces a fascinating journey that has twists, turns, and surprises - just like a Hollywood movie (except only interesting to extra curious people, or tech heads).
 
 Check it out (long read, so you better really want to know the answer to 'Why spyware'):  
-[Follow the Money; or, why does my computer keep getting infested with spyware?](<http://www.livejournal.com/users/tacit/125748.html>)
+[Follow the Money; or, why does my computer keep getting infested with spyware?](<https://web.archive.org/web/20050507103627/http://www.livejournal.com/users/tacit/125748.html>)

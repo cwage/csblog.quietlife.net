@@ -8,13 +8,13 @@ Over the past five years, the consumer industry has rapidly embraced all forms o
 
 **The Darkside of Digital Media**
 
-One prevalent form of digital media we see in the workplace is Internet radio from services such as [Yahoo's LaunchCast](<http://launch.yahoo.com/>), [MSN Music](<http://music.msn.com/>) and others. While employees have always enjoyed listening to music at work, these new streaming services come at a price to your technology infrastructure.
+One prevalent form of digital media we see in the workplace is Internet radio from services such as [Yahoo's LaunchCast](<https://web.archive.org/web/20050525003140/http://launch.yahoo.com/>), [MSN Music](<https://web.archive.org/web/20050525004007/http://music.msn.com/>) and others. While employees have always enjoyed listening to music at work, these new streaming services come at a price to your technology infrastructure.
 
-Generally, the best sounding streams are at 128kbps and up - and employees listening to music will choose the highest quality available. Without getting too technical, 10 employees streaming [Internet radio](<http://www.shoutcast.com/>) at this rate will use the bandwidth of an entire T1 and possibly prevent business-related network traffic. This translates to performance decreases of servers functions such as file/print and e-mail.
+Generally, the best sounding streams are at 128kbps and up - and employees listening to music will choose the highest quality available. Without getting too technical, 10 employees streaming [Internet radio](<https://web.archive.org/web/20050525032007/http://www.shoutcast.com/>) at this rate will use the bandwidth of an entire T1 and possibly prevent business-related network traffic. This translates to performance decreases of servers functions such as file/print and e-mail.
 
 Besides using physical resources, digital media and its prevalence on the Internet lead to serious productivity losses for businesses. Employees with Internet access have ready access to hundreds of free games that don't require installation and can be accessed almost instantaneously.
 
-Game sites such as [Zone.com](<http://www.zone.com/>) and [FreeArcade.com](<http://www.freearcade.com/>) have many addictive games that employees can minimize or close as soon as management appears. Research shows Internet surfing on the job accounts for 30 percent to 40 percent of lost productivity. As if Internet surfing and games weren't enough, Nintendo and Sony provide tiny, hand-held video game players that can help workers pass the time.
+Game sites such as [Zone.com](<https://web.archive.org/web/20050106072925/http://www.zone.com/>) and [FreeArcade.com](<https://web.archive.org/web/20050525005941/http://www.freearcade.com/>) have many addictive games that employees can minimize or close as soon as management appears. Research shows Internet surfing on the job accounts for 30 percent to 40 percent of lost productivity. As if Internet surfing and games weren't enough, Nintendo and Sony provide tiny, hand-held video game players that can help workers pass the time.
 
 Risks associated with digital media appear to be benign, but they can quickly get out of control and cost the business resources, productivity, and ultimately - money. One factor to consider about entertainment digital media is that it easily spreads throughout your organization.
 
@@ -34,7 +34,7 @@ Organizations of all sizes now use [Adobe](<http://www.adobe.com/>)'s portable d
 
 Finding documents is easy and users can send the media to multiple users very quickly. For example, some billing departments are using digital media formats such as PDF to send invoices to their clients - thus eliminating paper and postal charges while simultaneously decreasing total delivery and receipt time.
 
-Companies also are using digital media to boost employee morale. Prominent sales trainers such as Hal Becker ([www.halbecker.com](<http://www.halbecker.com/>)) encourage organizations to give their sales teams portable music devices such as an iPod to improve attitudes by listening to upbeat music.
+Companies also are using digital media to boost employee morale. Prominent sales trainers such as Hal Becker ([www.halbecker.com](<https://web.archive.org/web/20050523081739/http://www.halbecker.com/>)) encourage organizations to give their sales teams portable music devices such as an iPod to improve attitudes by listening to upbeat music.
 
 Some organizations use digital media such as webcasts to communicate directly with their workers via monthly updates from the CEO or top executives. This is an inexpensive way for the C-level executives to communicate with the entire organization in a more personal manner - especially in geographically dispersed companies.
 

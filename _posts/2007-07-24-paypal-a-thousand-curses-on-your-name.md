@@ -3,7 +3,7 @@ layout: post
 title: "PayPal: A thousand curses on your name..."
 date: 2007-07-24
 ---
-**Nutshell** : After having a terrible experience with them during my campaign ([read more](<http://blog.centresource.com/2007/04/25/bad-paypal-when-security-becomes-ridiculous/>)) & spending weeks to get it fixed, they decided to come back and harass me one last time - for old time's sake. Since I'm out of the race, I decided to close my campaign-related paypal account. Upon emailing them, they send me directions on how to close the account - which I perform successfully. A few weeks later, I learn that my business-related paypal account is disabled and none of my linked credit cards even work when trying to pay someone else that uses PayPal. Last, I tried to follow the steps listed in my account but they were 'blank' and even confused the customer care rep - who was also nice enough to let me know that she really couldn't help me... only an email to compliance@paypal.com.
+**Nutshell** : After having a terrible experience with them during my campaign ([read more](<https://web.archive.org/web/20070827105736/http://blog.centresource.com/2007/04/25/bad-paypal-when-security-becomes-ridiculous/>)) & spending weeks to get it fixed, they decided to come back and harass me one last time - for old time's sake. Since I'm out of the race, I decided to close my campaign-related paypal account. Upon emailing them, they send me directions on how to close the account - which I perform successfully. A few weeks later, I learn that my business-related paypal account is disabled and none of my linked credit cards even work when trying to pay someone else that uses PayPal. Last, I tried to follow the steps listed in my account but they were 'blank' and even confused the customer care rep - who was also nice enough to let me know that she really couldn't help me... only an email to compliance@paypal.com.
 
 So, if you care about what I said to them (or the details of why PayPal is a pain in the tail...), then read below:
 
@@ -13,7 +13,7 @@ So, if you care about what I said to them (or the details of why PayPal is a pai
 > 
 > I withdrew from the political race. I can't submit a notarized petition because I withdrew before the final petition submission date. I've attached my filing of a Treasurer & my two public finance disclosures.
 > 
-> Using Paypal for my political campaign has been a nightmare. Not only did you cause me to jump through ridiculous hoops in the beginning (see blog post: <http://tinyurl.com/2ghzod>), you've now requested info AFTER you tell me how to close the account (which has a zero balance might I add).
+> Using Paypal for my political campaign has been a nightmare. Not only did you cause me to jump through ridiculous hoops in the beginning (see blog post: <https://web.archive.org/web/20070724/http://tinyurl.com/2ghzod>), you've now requested info AFTER you tell me how to close the account (which has a zero balance might I add).
 > 
 > Last, you take steps to disable my other business-related paypal account. The accounts, as confirmed by the Customer Service agent I spoke with, was opened in 2004 and has a significant number of transactions. Did anyone bother to review the account before shutting it down and banning my linked Credit cards on any PayPal checkout page?
 > 
@@ -66,4 +66,4 @@ So, if you care about what I said to them (or the details of why PayPal is a pai
 
 I have very little faith that they'll help me. I figure they'll respond with something like "Thank you, but we still need your notarized petition. If you don't provide it within 48 hours, we will shut down both you vehicles and your air conditioning until you comply with our demands"
 
-[ALL YOUR BASE ARE BELONG TO US](<http://www.youtube.com/watch?v=qItugh-fFgg>)
+[ALL YOUR BASE ARE BELONG TO US](<https://web.archive.org/web/20071016090149/http://www.youtube.com/watch?v=qItugh-fFgg>)

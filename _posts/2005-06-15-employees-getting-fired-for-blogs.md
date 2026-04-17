@@ -12,4 +12,4 @@ One of the fired employees put it nicely:
 
 > "Right now, it's too gray. There needs to be clearer guidelines," says Whitney, who has found another job. "Some people go to a bar and complain about workers, I decided to do it online. Some people say I deserve what happened, but it was really harsh. It was unfair." 
 
-Given the amount of Happy-Hour rants I heard about [my former career](<http://www.reliant.com/>), I understand his point... Unfortunately, many states are 'At Will' employers and can fire you without reason or cause.
+Given the amount of Happy-Hour rants I heard about [my former career](<https://web.archive.org/web/20041110104113/http://www.reliant.com/>), I understand his point... Unfortunately, many states are 'At Will' employers and can fire you without reason or cause.

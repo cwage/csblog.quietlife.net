@@ -6,7 +6,7 @@ categories: [Spam, News]
 ---
 I saw an article on CNET about third world countries and their growing spam problem.
 
-If you think your spam is bad, you should try living in some of those third world countries... where the ISP's lack sophisticated Spam filtration products (like [Swirbo](<http://www.swirbo.com/>)) and also harbor spammers on the same networks as good customers.
+If you think your spam is bad, you should try living in some of those third world countries... where the ISP's lack sophisticated Spam filtration products (like [Swirbo](<https://web.archive.org/web/20050522012737/http://www.swirbo.com/>)) and also harbor spammers on the same networks as good customers.
 
 In addition to clogged inboxes and wasted time, the businesses in these countries also suffer from lost bandwidth. In the US, many businesses have broadband - and the onslaught of spam is bearable in regards to their total bandwidth. This is not the case in foreign countries.
 

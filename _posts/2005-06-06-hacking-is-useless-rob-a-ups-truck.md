@@ -3,7 +3,7 @@ layout: post
 title: "Hacking is useless... Rob a UPS Truck!"
 date: 2005-06-06
 ---
-In a bizarre twist, the physical world is actually more prone to data theft than the digital world! Citibank and UPS l[ost tapes storing 3.9 Million](<http://news.yahoo.com/s/nm/20050606/bs_nm/financial_citigroup_tapes_dc>) Customer's data - including Social Security Numbers.
+In a bizarre twist, the physical world is actually more prone to data theft than the digital world! Citibank and UPS l[ost tapes storing 3.9 Million](<https://web.archive.org/web/20050608014854/http://news.yahoo.com/s/nm/20050606/bs_nm/financial_citigroup_tapes_dc>) Customer's data - including Social Security Numbers.
 
 This is on top Back of America losing tapes containing data on 1.2 million US Government employees - including some senators.
 

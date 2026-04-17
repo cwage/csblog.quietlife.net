@@ -9,4 +9,4 @@ I'll try to give some "Points of Interest" to help you get to the cool stuff qui
 This is a portfolio site for osmanDinc, an interactive media designer. All I can say about the following site is there's interactivity everywhere - just move your mouse around to find it if you think you're "stuck".  
 Enjoy,  
 star.  
-[osmanDinc.com](<http://www.osmandinc.com/>)
+[osmanDinc.com](<https://web.archive.org/web/20060804052325/http://www.osmandinc.com/>)

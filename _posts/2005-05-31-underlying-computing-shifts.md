@@ -4,7 +4,7 @@ title: "Underlying computing shifts..."
 date: 2005-05-31
 categories: [Miscellaneous, Operations, Linux/BSD]
 ---
-A friend of ours, [Jackson Miller](<http://www.jaxn.org/>), sent [this highly interesting article](<http://www.linuxjournal.com/node/4809/print>) our way. It touches on the points of Push, Pull, and Push/Pull when it comes to computing shifts.
+A friend of ours, [Jackson Miller](<http://www.jaxn.org/>), sent [this highly interesting article](<https://web.archive.org/web/20050602014813/http://www.linuxjournal.com/node/4809/print>) our way. It touches on the points of Push, Pull, and Push/Pull when it comes to computing shifts.
 
 Here is a small excerpt:
 
@@ -15,4 +15,4 @@ Here is a small excerpt:
 > Law No. 3, the Relation of Pull and Push. Push magnifies pull.
 
 You can view the full article here:  
-<http://www.linuxjournal.com/node/4809/print>
+<https://web.archive.org/web/20050531/http://www.linuxjournal.com/node/4809/print>

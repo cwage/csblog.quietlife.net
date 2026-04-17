@@ -9,7 +9,7 @@ Observation of the day:
 
 Designers don't realize how much work it takes to actually reach consensus."
 
-![japan-house.jpg](http://blog.centresource.com/wp-content/uploads/2007/10/japan-house.jpg)
+![japan-house.jpg](https://web.archive.org/web/20071108014103/http://blog.centresource.com/wp-content/uploads/2007/10/japan-house.jpg)
 
 > Dear Mr. Architect:
 > 
@@ -19,4 +19,4 @@ Designers don't realize how much work it takes to actually reach consensus."
 > 
 > As you design, also keep in mind that I want to keep yearly maintenance costs as low as possible. This should mean the incorporation of extra-cost features like aluminum, vinyl, or composite siding. (If you choose not to specify aluminum, be prepared to explain your decision in detail.)
 
-Read the rest of this parable: [If Architects Had to Work Like Web Designers! at Hello Media](<http://www.hellomedia.com.au/2007/03/article-if-architects-had-to-work-like.html>).
+Read the rest of this parable: [If Architects Had to Work Like Web Designers! at Hello Media](<https://web.archive.org/web/20071020042419/http://www.hellomedia.com.au/2007/03/article-if-architects-had-to-work-like.html>).

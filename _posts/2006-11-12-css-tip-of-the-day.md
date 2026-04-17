@@ -66,6 +66,6 @@ That's it. No other rules needed. I find that this technique really saves me tim
 
 For more information on crossbrowser CSS, as well as the discussed techniques and 'star hack' visit these links:
 
-<http://www.quirksmode.org/css/contents.html>
+<https://web.archive.org/web/20061112/http://www.quirksmode.org/css/contents.html>
 
-<http://www.webcredible.co.uk/user-friendly-resources/css/internet-explorer-7.shtml>
+<https://web.archive.org/web/20061112/http://www.webcredible.co.uk/user-friendly-resources/css/internet-explorer-7.shtml>

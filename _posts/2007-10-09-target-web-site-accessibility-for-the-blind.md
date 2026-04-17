@@ -3,7 +3,7 @@ layout: post
 title: "Target: web site accessibility for the blind"
 date: 2007-10-09
 ---
-![0166.jpg](http://blog.centresource.com/wp-content/uploads/2007/10/0166.jpg)
+![0166.jpg](https://web.archive.org/web/20071020221345/http://blog.centresource.com/wp-content/uploads/2007/10/0166.jpg)
 
 "A lawsuit brought in 2006 by a blind student at the University of California-Berkeley has now morphed into a class action case against US retailer Target. A federal judge has just certified a nationwide class in the case, which alleges that Target's web site is not fully accessible to the blind. It's a case that could help establish the ways in which the Americans With Disabilities Act applies to the Internet, and it has already generated a ruling that, in California at least, commercial web sites must be accessible."  
 Source: [Arstechnica](<http://arstechnica.com/news.ars/post/20071003-lawsuit-over-website-accessibility-for-the-blind-becomes-class-action.html>)
@@ -17,4 +17,4 @@ No explanations for visual maps on the site_
 
 The above list implies good coding practices. Will adherence with fundamental web design provide "reasonable accommodation"?
 
-The requirements that must be followed by Federal agencies when producing web pages can be found [here](<http://www.access-board.gov/sec508/guide/1194.22.htm>) and at the [Section 508 of the Rehabilitation Act of 1973 Web Site](<http://www.section508.gov/index.cfm?FuseAction=Content&ID=12>).
+The requirements that must be followed by Federal agencies when producing web pages can be found [here](<https://web.archive.org/web/20071010080602/http://www.access-board.gov/sec508/guide/1194.22.htm>) and at the [Section 508 of the Rehabilitation Act of 1973 Web Site](<https://web.archive.org/web/20071009205557/http://www.section508.gov/index.cfm?FuseAction=Content&ID=12>).

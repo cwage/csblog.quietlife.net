@@ -5,7 +5,7 @@ date: 2005-05-30
 author: Chris
 categories: [Linux/BSD]
 ---
-A [brief update](<http://lists.debian.org/debian-devel-announce/2005/05/msg00020.html>) on the release of Debian 3.1 "Sarge". Originally, Sarge was slated to release today, but:
+A [brief update](<https://web.archive.org/web/20050602234919/http://lists.debian.org/debian-devel-announce/2005/05/msg00020.html>) on the release of Debian 3.1 "Sarge". Originally, Sarge was slated to release today, but:
 
 > Well, just in case it wasn't obvious to everyone from looking at the  
 >  release-critical bug stats, we should probably come out and say it: the  

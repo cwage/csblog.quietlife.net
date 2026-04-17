@@ -11,4 +11,4 @@ Earlier this week we launched a redesigned site for [Civic Bank & Trust](<http:/
 
 As with any update, the back end content management system was given an overhaul as well, updating to the latest version of Drupal. The team at Civic Bank remarked how much Drupal has improved since the initial launch, and how they can update more of the site quickly and hassle-free. The design brings the most important information for prospective and current customers forward, making it easier to navigate and providing a better user experience.
 
-Check out the site at <http://www.civicbanktn.com/>.
+Check out the site at <https://web.archive.org/web/20100406/http://www.civicbanktn.com/>.

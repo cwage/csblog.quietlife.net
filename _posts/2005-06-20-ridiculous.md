@@ -4,7 +4,7 @@ title: "ridic.ulo.us"
 date: 2005-06-20
 author: Chris
 ---
-Okay, there are a few sites that offer really great services, using the [REST](<http://del.icio.us/doc/api>) api, which is generally very cool and useful way to organize sites. Two of them are [grat.uito.us](<http://grat.uito.us/>), a wishlist manager, and [del.icio.us](<http://del.icio.us/>), a social bookmarks thing.
+Okay, there are a few sites that offer really great services, using the [REST](<https://web.archive.org/web/20160518055514/http://del.icio.us/doc/api>) api, which is generally very cool and useful way to organize sites. Two of them are [grat.uito.us](<http://grat.uito.us/>), a wishlist manager, and [del.icio.us](<https://web.archive.org/web/20050916215933/http://del.icio.us/>), a social bookmarks thing.
 
 The problem, of course, is the names. Yes, a word made with the .us top-level domain, ha ha, very clever, yes. But, have you ever tried to vocally **tell** another human being about these sites? Go ahead, try to say del.icio.us. I'll wait. You sound like an idiot, don't you? And now you're spelling it out. Oops, but you can't remember where they divided up the word. Better check on that, and get back to the person you were talking to.
 

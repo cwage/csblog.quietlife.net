@@ -5,7 +5,7 @@ date: 2005-10-22
 author: Chris
 categories: [Software]
 ---
-Opera has released a preview of Opera 9.0, which can be found [here](<http://my.opera.com/community/forums/topic.dml?id=108345>). It comes with some rather astounding improvements:
+Opera has released a preview of Opera 9.0, which can be found [here](<https://web.archive.org/web/20051105011524/http://my.opera.com/community/forums/topic.dml?id=108345>). It comes with some rather astounding improvements:
 
 > \- support for XSLT, Canvas 2D, and Web Forms 2.0  
 >  \- rich-text editing on Web pages  
@@ -19,10 +19,10 @@ Looks like they are making a concerted effort for [Acid2 compliance](<http://www
 
 Acid2 Reference Rendering:
 
-![Acid2 reference rendering](http://blog.centresource.com/wp-content/referenceacid2.png)
+![Acid2 reference rendering](https://web.archive.org/web/20060117075846/http://blog.centresource.com/wp-content/referenceacid2.png)
 
 Opera Rendering:
 
-![Opera Acid2 rendering](http://blog.centresource.com/wp-content/operaacid2.png)
+![Opera Acid2 rendering](https://web.archive.org/web/20060117083155/http://blog.centresource.com/wp-content/operaacid2.png)
 
 Not too shabby.

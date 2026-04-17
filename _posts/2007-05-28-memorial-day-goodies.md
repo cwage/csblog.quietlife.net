@@ -6,7 +6,7 @@ date: 2007-05-28
 Just in time for the BBQ's, fireworks, and swimming- here's a list of ten links that I gathered up with a little something for everyone. Enjoy.
 
 Current state of browser market shares:  
-<http://www.w3counter.com/globalstats.php?date=2007-05-20>
+<https://web.archive.org/web/20070528/http://www.w3counter.com/globalstats.php?date=2007-05-20>
 
 Good and Bad PHP Code: An employer's perspective  
 http://www.sitepoint.com/blogs/2007/05/25/good-and-bad-php-code/

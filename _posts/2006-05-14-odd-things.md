@@ -21,7 +21,7 @@ And so on and so forth. They all appear to be universities. Does anyone have any
 
 **UPDATE:**
 
-A friend of mine did some digging and found the [culprit, planet-lab.org](<http://www.planet-lab.org/>). Here is the response from support@planet-lab.org:
+A friend of mine did some digging and found the [culprit, planet-lab.org](<https://web.archive.org/web/20060428025648/http://www.planet-lab.org/>). Here is the response from support@planet-lab.org:
 
 > Hello,
 > 

@@ -38,7 +38,7 @@ _On-going: $4,320_
   * Sales Force automation - Now your salespersons can track leads, opportunities, and manage their existing accounts. Also provides access via portable devices such as Palm Pilots.
   * Time Clock / Payroll - Have your employees clock in/out and accurately process their payroll
   * ECommerce - Complete eCommerce platform with Shopping cart functionality & customer support features.
-  * <http://www.openpro.com/erp.html>
+  * <https://web.archive.org/web/20050520/http://www.openpro.com/erp.html>
 
 
 
@@ -77,7 +77,7 @@ A completely web-based ERP & CRM integrated system, NetSuite has most of the fea
   * Sales Force Automations - Helping your salespersons track leads, opportunities, and dive deeper into existing accounts. Easily identify up-sell & cross-sell opportunities.
   * Marketing Automation - Track the success of online, offline, and direct marketing campaigns. Use promotion codes to apply limited time pricing and referral offers.
   * Customer Support and Service - Helping customer loyalty by offering tools to handle issues more quickly and improve customer relationships. Customers can create/open their own cases or even search from an online knowledge-base for self service.
-  * <http://www.netsuite.com/portal/products/netsuite/main.shtml>
+  * <https://web.archive.org/web/20050520/http://www.netsuite.com/portal/products/netsuite/main.shtml>
 
 
 
@@ -127,9 +127,9 @@ Axis is a reputable ERP consultancy firm with extensive experience on multiple s
 **Suggested Software Solutions:**
 
   * Microsoft Great Plains - Financial Management, Supply Chain Management, Customer Relationship Management, E-Business, and Business Analytics 
-    * <http://www.microsoft.com/BusinessSolutions/GreatPlains/default.aspx>
+    * <https://web.archive.org/web/20050520/http://www.microsoft.com/BusinessSolutions/GreatPlains/default.aspx>
   * Best Software, Platinum for Windows (PFW) - PFW is a comprehensive ERP system for small to medium sized businesses. The package contains modules for financials, distribution, payroll, human resource management, project management, business intelligence, eCommerce, and customer relationship management. 
-    * <http://www.bestsoftware.com/pfw/>
+    * <https://web.archive.org/web/20050520/http://www.bestsoftware.com/pfw/>
   * For more information on Axis Accounting, you can visit their site: [http://www.axisaccounting.com](<http://www.axisaccounting.com/>)
 
 
@@ -183,7 +183,7 @@ Touting itself as the 'best of breed' web based ERP, Intacct focuses primarily o
 
   * Financials - Powerful set of tools that include A/P, A/R, G/L, and Cash Management. Also focuses on Cash Management.
   * Supply Chain - Consists of Inventory, Sales Order Management, Billing, and Purchasing.
-  * <http://www.intacct.com/solutions_enterprise.html>
+  * <https://web.archive.org/web/20050520/http://www.intacct.com/solutions_enterprise.html>
 
 
 
@@ -231,7 +231,7 @@ The eBusiness Suite (Special Edition) is Oracle's entry level ERP product that a
 **Primary Modules:**
 
   * Oracle Financials - Complete management of your financials, including performance metrics, cash management, collections, planning & budgeting, payables, receivables, and much more. 
-    * <http://www.oracle.com/applications/financials/catalog.html>
+    * <https://web.archive.org/web/20050520/http://www.oracle.com/applications/financials/catalog.html>
   * Oracle Inventory - Complete management of your inventory, including demand/supply forecasting. 
     * Purchasing
     * Order Management

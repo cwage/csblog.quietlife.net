@@ -11,4 +11,4 @@ This month we are having a PET FOOD DRIVE for the [NASHVILLE HUMANE SOCIETY](<ht
 
 It's getting pretty hot out there! Come in, cool off, and mingle with the Nashville Interactive Community. Great food, great conversation - don't miss it!
 
-RSVP for the Mixer at <http://mixer.centresource.com/>.
+RSVP for the Mixer at <https://web.archive.org/web/20100820/http://mixer.centresource.com/>.

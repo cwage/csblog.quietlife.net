@@ -18,6 +18,6 @@ This, of course, renders the message useless to any poor administrator trying to
     Associations
     
 
-Can anything be done based on this? Nope. There is approximately zero information of value for any troubleshooting in this. The result is that helpdesks have to resort to convoluted instructions, for example [here](<http://micro.uoregon.edu/fullheaders/>), where they have a simple _7 step process_ for the user to dig up the headers from the bowels of the Outlook menus, copy them, and manually paste into a message to report.
+Can anything be done based on this? Nope. There is approximately zero information of value for any troubleshooting in this. The result is that helpdesks have to resort to convoluted instructions, for example [here](<https://web.archive.org/web/20060111175151/http://micro.uoregon.edu/fullheaders/>), where they have a simple _7 step process_ for the user to dig up the headers from the bowels of the Outlook menus, copy them, and manually paste into a message to report.
 
-It was really a silly decision on behalf of Microsoft. There was no reason to _remove_ the headers -- they could have at least merely _hidden_ them. But hey, I guess Microsoft figured we'd all be using [MAPI](<http://en.wikipedia.org/wiki/MAPI>) by now rather than that pesky open standard, SMTP, anyway, right?
+It was really a silly decision on behalf of Microsoft. There was no reason to _remove_ the headers -- they could have at least merely _hidden_ them. But hey, I guess Microsoft figured we'd all be using [MAPI](<https://web.archive.org/web/20051215000000/http://en.wikipedia.org/wiki/MAPI>) by now rather than that pesky open standard, SMTP, anyway, right?

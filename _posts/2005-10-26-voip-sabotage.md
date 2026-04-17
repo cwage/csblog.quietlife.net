@@ -7,4 +7,4 @@ categories: [Telecom]
 ---
 Broadband news posts [an interesting article](<http://www.broadbandreports.com/shownews/68859>) about the potential for incumbent telcos to purposefully deteriorate the quality of VOIP over their circuits to better compete.
 
-The full story is [here](<http://www.spectrum.ieee.org.nyud.net:8090/oct05/1846>).
+The full story is [here](<https://web.archive.org/web/20060525134847/http://www.spectrum.ieee.org.nyud.net:8090/oct05/1846>).

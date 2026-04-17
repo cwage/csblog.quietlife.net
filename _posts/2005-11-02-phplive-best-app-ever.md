@@ -5,7 +5,7 @@ date: 2005-11-02
 author: Chris
 categories: [Software, PHP]
 ---
-No, I'm not on [PHP Live!](<http://www.phplivesupport.com/>)'s payroll. However, I am truly impressed with their product.
+No, I'm not on [PHP Live!](<https://web.archive.org/web/20051103031507/http://www.phplivesupport.com/>)'s payroll. However, I am truly impressed with their product.
 
 We had needed some sort of web-based live chat system for sales and support for a long time, and we found the answer in PHP Live's product. I demoed it on their site and was impressed. However you have to take demonstrations with a grain of salt if they are hosted on the company's website. Often times what you'll find is that a demo of software works great on the company's webserver, but completely breaks down when you try to use it, or even just to install it. This is usually because the demo webserver is of course finely honed and tweaked to accomodate the product, masking bugs and/or problems that might arise in a more standard or variable environment.
 

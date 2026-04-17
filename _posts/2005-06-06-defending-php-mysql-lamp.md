@@ -19,10 +19,10 @@ LAMP (Linux Apache MySQL PHP/Perl) development is rocketing in popularity. Centr
 Now, on to MySQL information:
 
 The performance comparisons can be viewed here:  
-<http://www.eweek.com/article2/0,4149,293,00.asp> (compares last version of MySQL to SQL Server 2000)  
-<http://www.mysql.com/news-and-events/press-release/release_2004_27.html>
+<https://web.archive.org/web/20050606/http://www.eweek.com/article2/0,4149,293,00.asp> (compares last version of MySQL to SQL Server 2000)  
+<https://web.archive.org/web/20050606/http://www.mysql.com/news-and-events/press-release/release_2004_27.html>
 
-Here are some interesting case studies for you to consider: <http://www.mysql.com/it-resources/case-studies/>
+Here are some interesting case studies for you to consider: <https://web.archive.org/web/20050606/http://www.mysql.com/it-resources/case-studies/>
 
 _While this list is quite long, here are a few that were particularly impressive to us:_
 

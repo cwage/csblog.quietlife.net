@@ -4,7 +4,7 @@ title: "municipal ISPs"
 date: 2005-05-03
 author: Chris
 ---
-CNET has a [great article](<http://news.com.com/Cities+brace+for+broadband+war/2009-1034_3-5680305.html>) covering the ongoing battle between municipal public ISPs and the big telcos, including [this handy map](<http://news.com.com/Municipal+broadband+and+wireless+projects+map/2009-1034_3-5690287.html>) of ongoing legislative battles. Here's what it had to say about Tennessee:
+CNET has a [great article](<https://web.archive.org/web/20050507151700/http://news.com.com/Cities+brace+for+broadband+war/2009-1034_3-5680305.html>) covering the ongoing battle between municipal public ISPs and the big telcos, including [this handy map](<https://web.archive.org/web/20050507160553/http://news.com.com/Municipal+broadband+and+wireless+projects+map/2009-1034_3-5690287.html>) of ongoing legislative battles. Here's what it had to say about Tennessee:
 
 > **Municipal wireless**
 > 

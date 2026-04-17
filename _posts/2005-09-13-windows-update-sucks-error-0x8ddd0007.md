@@ -8,7 +8,7 @@ At 2AM in the morning, I had a Eureka about the future of computing. As things g
 
 Today at school, my wife was unexplainably blocked from Internet Access. She contacted the IT department and they told her that she either had a virus, malicious spyware, or needed to upgrade to SP2. Ironic bed-fellows...
 
-After running scans with [Spy-bot](<http://www.safer-networking.org/en/index.html>) and [Ad-aware](<http://www.lavasoft.de/>), I visit Trend Micro's [Housecall ](<http://housecall.trendmicro.com/>)(which is fantastic) for a comprehensive scan. Everything checked out ok... Now on to Windows Update for SP2.
+After running scans with [Spy-bot](<http://www.safer-networking.org/en/index.html>) and [Ad-aware](<http://www.lavasoft.de/>), I visit Trend Micro's [Housecall ](<https://web.archive.org/web/20050913182441/http://housecall.trendmicro.com/>)(which is fantastic) for a comprehensive scan. Everything checked out ok... Now on to Windows Update for SP2.
 
 While the site is 'Checking for Updates', I get the following message displayed for error 0×8DDD0007:
 
@@ -18,7 +18,7 @@ Easy enough... I restart and repeat. Same error. Let's try one more time - hell,
 
 Naturally, I'll thought I'd find this error code in the Microsoft Knowledge base. No luck there either... both the error code and text search string came up blank.
 
-Save me Obi-Wan-[Google](<http://www.google.com/>), you're my only hope! I type the error code into Google and [find the answer](<http://www.geekstogo.com/forum/index.php?showtopic=47526>)!
+Save me Obi-Wan-[Google](<https://web.archive.org/web/20050913215954/http://www.google.com/>), you're my only hope! I type the error code into Google and [find the answer](<https://web.archive.org/web/20060130120056/http://www.geekstogo.com/forum/index.php?showtopic=47526>)!
 
 1) Start -> Run -> regedit (Enter)  
 2) Navigate to:  
