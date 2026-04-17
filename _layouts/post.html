@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div id="navigation">
+  <div class="alignleft">
+    {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}">&laquo; {{ page.previous.title }}</a>
+    {% endif %}
+  </div>
+  <div class="alignright">
+    {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}">{{ page.next.title }} &raquo;</a>
+    {% endif %}
+  </div>
+</div>
+
+<h2 class="date">{{ page.date | date: "%B %d, %Y" }}</h2>
+<div class="post">
+  <h3 class="storytitle" id="post-{{ page.id }}">{{ page.title }}</h3>
+  <div class="meta">
+    {% if page.categories.size > 0 %}
+    Filed under:
+    {% for cat in page.categories %}
+      <a href="{{ '/' | relative_url }}">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+    {% endif %}
+    {% if page.author %} &mdash; {{ page.author }}{% endif %}
+  </div>
+
+  <div class="storycontent">
+    {{ content }}
+  </div>
+</div>

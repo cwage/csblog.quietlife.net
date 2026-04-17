@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Setting Client Expectations through Mock-Up Design"
+date: 2007-02-05
+author: Chip
+---
+One of CentreSource's strongest areas is custom application development. We've worked with a number of fantastic clients who have asked us to create a variety of applications including ones to handle [franchise management](<http://www.snappyauctions.com/>), [online book trading](<http://www.frugalreader.com/>), and [qualitative research](<http://www.2020research.com/>). With each of these, as well as a number of other development projects that we've worked on, we have had to figure out the appropriate times and methods to present a mock-up design of our work-in-progress to our clients.
+
+Here's the problem: most of the applications' bulk is in the code, that the client will never see. What they do see is the user interface (UI) of the system, which often gets put in at the very end -- at least in its final form. Until then, the UI is often plain text and input boxes that is functional, but not _pretty_. So what ends up happening? The client will often judge the status of the project based on what they see in the UI. This is what Joel Spolsky calls "The Iceburg Secret" in his post called "[The Iceberg Secret, Revealed](<http://www.joelonsoftware.com/articles/fog0000000356.html>)".
+
+Now, this is a double-edged sword. If you are telling the client that the system is 90% done, but the UI looks 2% done, the client might assume that the application is far from complete as well. Conversely, if you do a really great mock-up of the site, but you haven't actually done any of the programming behind it, you can incorrectly lead your client to believe the application is much farther along than it actually is (this is often called "vaporware").
+
+Spolsky, as well as Jan Miksovsky in his blog post "[Matching design sketches to the desired level of design feedback](<http://miksovsky.blogs.com/flowstate/2006/10/using_crude_ske.html>)" and Kathy Sierra in her post "[Don't make the Demo look Done](<http://headrush.typepad.com/creating_passionate_users/2006/12/dont_make_the_d.html>)" all talk about the importance of making sure that your UI design is reflective of your development process. As Sierra says, "How 'done' something looks should match how 'done' something is." They all mention that one key reason for this comes during the process of requesting feedback from the client. Writes Miksovsky: "A counter-intuitive principle of soliciting early design feedback is that people reviewing a highly polished design may concentrate on superficial details and overlook fundamental issues. In the early stages of the process, you may be able to elicit deeper feedback by striving for an unfinished look in your design representations."
+
+We are currently embarking on a new development project that has a requirement of ongoing feedback from the client. Hopefully using the wisdom from these three, as well as others, we'll be able to properly set our clients expectations as to the status of the project -- both from a design and development point of view.

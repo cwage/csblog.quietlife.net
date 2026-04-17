@@ -1,0 +1,299 @@
+/*
+Theme Name: CentreSource Theme (Restored)
+Original Author: Chris Wage
+Restored from the Wayback Machine, circa 2005
+*/
+
+a {
+  color: #a60000;
+}
+
+a img {
+  border: none;
+}
+
+a:visited {
+  color: #000;
+}
+
+a:hover {
+  color: #9A8E8F;
+}
+
+acronym, abbr {
+  border-bottom: 1px dashed #333;
+}
+
+acronym, abbr, span.caps {
+  font-size: 90%;
+  letter-spacing: .07em;
+}
+
+acronym, abbr {
+  cursor: help;
+}
+
+blockquote {
+  border-left: 5px solid #ccc;
+  margin-left: 1.5em;
+  padding-left: 5px;
+  font-style: italic;
+}
+
+body {
+  background: #fff;
+  color: #000;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+cite {
+  font-size: 90%;
+  font-style: normal;
+}
+
+h1 {
+  border-bottom: 1px dotted #eee;
+  font: bold 130% "Times New Roman", Times, serif;
+  margin: 15px 0 2px 0;
+  padding-bottom: 2px;
+}
+
+h2.date, h2.sidebarhead, h2 {
+  border-bottom: 1px dotted #ccc;
+  font: bold 100% "Times New Roman", Times, serif;
+  margin: 15px 0 2px 0;
+  padding-bottom: 2px;
+  white-space: nowrap;
+  clear: both;
+}
+
+#postcomment, #comments {
+  border-bottom: 1px dotted #ccc;
+  font: bold 115% "Times New Roman", Times, serif;
+  margin: 15px 0 2px 0;
+  padding-bottom: 2px;
+}
+
+h3 {
+  font: bold 100% "Times New Roman", Times, serif;
+  margin-top: 0px;
+}
+
+ol#comments li p {
+  font-size: 100%;
+}
+
+p, dt, dd, li, .feedback {
+  font: 90%/175% 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  letter-spacing: 0px;
+  padding-left: 10px;
+}
+
+.credit {
+  background: #c80000;
+  border-top: solid 3px #000;
+  color: #fff;
+  font-size: 11px;
+  margin: 10px 0 0 0;
+  padding: 3px;
+  text-align: center;
+}
+
+.credit a:link, .credit a:hover {
+  color: #fff;
+}
+
+.feedback {
+  color: #ccc;
+  text-align: right;
+  clear: both;
+}
+
+.meta {
+  font-size: .75em;
+}
+
+.meta li, ul.post-meta li {
+  display: inline;
+}
+
+.meta ul {
+  display: inline;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.meta, .meta a {
+  color: #808080;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+
+.storytitle {
+  margin: 0;
+}
+
+.storytitle a {
+  text-decoration: none;
+}
+
+#content {
+  margin: 30px 13em 0 2em;
+  padding-right: 60px;
+}
+
+#header {
+  background: #FFFFFF;
+  border-bottom: solid 3px #000;
+  border-left: solid 1px #9a9;
+  border-right: solid 1px #9F9394;
+  border-top: solid 1px #9a9;
+  font: normal 230% Verdana;
+  letter-spacing: 0.1em;
+  margin: 0;
+  padding-left: 10px;
+}
+
+#header img {
+  padding-bottom: 10px;
+}
+
+#header h3 {
+  font: normal 50% Verdana;
+  padding-left: 10px;
+}
+
+#header a {
+  color: #000;
+  text-decoration: none;
+}
+
+#header a:hover {
+  text-decoration: underline;
+}
+
+#menu {
+  background: #fff;
+  border-left: 1px dotted #ccc;
+  padding: 20px 0 10px 20px;
+  position: absolute;
+  right: 0px;
+  top: 0;
+  width: 14em;
+}
+
+#menu form {
+  margin: 0 0 0 13px;
+}
+
+#menu input#s {
+  width: 80%;
+  background: #eee;
+  border: 1px solid #999;
+  color: #000;
+}
+
+#menu ul {
+  color: #ccc;
+  font-weight: bold;
+  list-style-type: none;
+  margin: 0;
+  padding-left: 3px;
+  text-transform: lowercase;
+}
+
+#menu ul li {
+  font: italic normal 110% 'Times New Roman', Times, serif;
+  letter-spacing: 0.1em;
+  margin-top: 10px;
+  padding-bottom: 2px;
+}
+
+#menu ul ul {
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+#menu ul ul li {
+  border: 0;
+  font: normal normal 12px/115% 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  letter-spacing: 0;
+  margin-top: 0;
+  padding: 0;
+  padding-left: 12px;
+}
+
+#menu ul ul li a {
+  color: #000;
+  text-decoration: none;
+}
+
+#menu ul ul li a:hover {
+  border-bottom: 1px solid #809080;
+}
+
+.storycontent {
+  padding-left: 20px;
+}
+
+.storycontent h1 {
+  border-bottom: 1px dotted #eee;
+  font: bold 150% "Times New Roman", Times, serif;
+  margin: 50px 0 2px 0;
+  padding-bottom: 2px;
+}
+
+.storycontent h2 {
+  border-bottom: 1px dotted #eee;
+  font: bold 130% "Times New Roman", Times, serif;
+  margin: 50px 0 2px 0;
+  padding-bottom: 2px;
+}
+
+.storycontent h3 {
+  border-bottom: 1px dotted #eee;
+  font: bold 115% "Times New Roman", Times, serif;
+  margin: 30px 0 2px 0;
+  padding-bottom: 2px;
+}
+
+code {
+  color: gray;
+}
+
+.alignright {
+  float: right;
+  margin-bottom: 10px;
+}
+
+.alignleft {
+  float: left;
+  margin-bottom: 10px;
+}
+
+#navigation {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+
+/* Pagination */
+.pagination {
+  text-align: center;
+  margin: 20px 0;
+  font: 90% 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+.pagination a {
+  padding: 2px 8px;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="{{ '/feed.xml' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+<div id="rap">
+  <div id="header">
+    <a href="{{ '/' | relative_url }}"><img src="{{ '/assets/images/centreblog.png' | relative_url }}" width="210" height="124" alt="CentreBlog Logo"></a><br>
+    <h3>Technology and Business</h3>
+  </div>
+
+  <div id="content">
+    {{ content }}
+  </div>
+
+  {% include sidebar.html %}
+
+  <div class="credit">
+    <p>CentreBlog &mdash; restored from <a href="https://web.archive.org/">the Wayback Machine</a></p>
+  </div>
+</div>
+</body>
+</html>

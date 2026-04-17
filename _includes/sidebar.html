@@ -1,0 +1,23 @@
+<div id="menu">
+  <ul>
+    <li id="categories">
+      <h2>Categories</h2>
+      <ul>
+        {% assign sorted_cats = site.categories | sort %}
+        {% for cat in sorted_cats %}
+        <li><a href="{{ '/' | relative_url }}">{{ cat[0] }}</a> ({{ cat[1].size }})</li>
+        {% endfor %}
+      </ul>
+    </li>
+
+    <li id="archives">
+      <h2>Archives</h2>
+      <ul>
+        {% assign posts_by_month = site.posts | group_by_exp: "post", "post.date | date: '%Y-%m'" %}
+        {% for month in posts_by_month %}
+        <li><a href="{{ '/' | relative_url }}">{{ month.items[0].date | date: "%B %Y" }}</a> ({{ month.size }})</li>
+        {% endfor %}
+      </ul>
+    </li>
+  </ul>
+</div>

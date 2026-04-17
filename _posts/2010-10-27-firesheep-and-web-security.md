@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Firesheep and Web Security"
+date: 2010-10-27
+author: Chris Wage
+categories: [Security]
+---
+You may have heard some rumblings about ["firesheep"](<http://codebutler.com/firesheep>), a new extension for Firefox that is making the rounds, and its implications for web security. In short, it's a new extension that enables people to snoop on other people's web sessions -- websites like facebook, et al. There seems to be a lot of confusion around what it is, how it works (or doesn't work), and how to protect yourself from it.
+
+First, a quick primer on HTTP session hijacking -- the fundamental attack that firesheep uses:
+
+Any website that requires authentication typically does so with a simple username and password. Most social networking sites (i.e. facebook, which for some reason has garnered most of the attention regarding this flaw) are no exception, and they configure their site so that your username and password is submitted over an encrypted (HTTPS) connection. In this way, an intruder snooping on the network would not be able to intercept the username and password. However, once you are authenticated to the website, many sites (facebook included), continue to use unencrypted HTTP, which means that anyone snooping can intercept that data -- including something called session "cookies". Cookies are little snippets of information that the web browser allows the webserver to store locally and resend with subsequent connections. In this way, facebook, for example, can store a cookie saying "this browser is logged in as chris wage". This is convenient, because it allows you to use facebook without providing your username and password with every subsequent connection and/or reload of the page.
+
+Unfortunately, however, if these "cookies" are sent in the clear (unencrypted), they can be intercepted -- and that is precisely the case with facebook and many other websites. Once someone intercepts the authentication cookie, they can resend it to the targetted website and appear to be logged in as that user, with full access to everything.
+
+HTTP Session Hijacking by itself is nothing new -- you've been able to do it with a modicum of simple tools like tcpdump and wget for years. What firesheep has done is package the attack into a startlingly convenient extension for firefox. Simple clicking the "start" button on a sidebar and you start building a nice list of people/accounts and websites. Click the entry in the list and you get a tab with that site, logged in as them. It's pretty insidious -- and by making the exploit available to the lay-person, it has brought the insecurity of plaintext HTTP servers back to the limelight where it belongs.
+
+Of course, if you, dear reader, are anything like us here at Centresource, you probably read about firesheep, thought, "whoa.. I wonder if it works?" and immediately downloaded it to try it. Many people are downplaying the significance of the threat because they downloaded firesheep, tried it, and failed to get any results other than their own web sessions. The reason for this, without getting too technical, boils down to the fact that out of the box, firesheep will only work on open, unencrypted wireless networks. The saving grace of wired networks is that they are (usually) switched -- meaning that your workstation doesn't see traffic with other workstations unless it's required -- and it's certainly not for someone else logging in to facebook. So, the firesheep extension can sniff all it wants, but it won't see anything but your own traffic.
+
+If you think this means you're safe from it, though, think again. I won't get into the details here, but there are very simple (frighteningly simple) attacks against any switched network that overcomes this obstacle and makes anyone on the entire network vulnerable to this attack -- provided they aren't using SSL.
+
+Which brings me to the last question you probably have: how do I protect myself from this? If you're of the nerdy persuasion, you can opt to route all of your browser's traffic through an encrypted proxy. There are plenty of HOWTOs on various ways to accomplish this: [SSH + Squid](<http://bit.ly/bpoac8>), for example. This isn't a perfect solution, because your traffic still leaves the endpoint of your tunnel and heads to facebook.com unencrypted -- but you can probably trust the network at a datacenter more than your local coffee shop.
+
+For the rest of us, we're left with relying on our various websites to provide HTTPS. What's relatively unknown is that facebook (and many other sites) actually do provide HTTPS -- they simple don't redirect you to it by default. If you open your browser and go to https://www.facebook.com/, your connection will be encrypted. The downside is that it's somewhat slower, and also that it's hard to remember. Fortunately, for the last inconvenience, there are remedies in the form of browser extensions/plugins that auto-detect and force HTTPS communication if it exists: [ForceTLS for Firefox](<http://bit.ly/afwA81>) and [KB SSL Enforcer](<https://chrome.google.com/extensions/detail/flcpelgcagfhfoegekianiofphddckof>) for Chrome, among others.
+
+So go forth, install, and browse -- safe in the confidence that your pokes and farmville ... farmings .. are safe and secure, hidden away from the prying eyes of your nosey coworkers.

@@ -1,0 +1,27 @@
+services:
+  jekyll:
+    build: .
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/site
+      - bundle_cache:/usr/local/bundle
+    command: >
+      bash -c "bundle install && bundle exec jekyll serve
+      --host 0.0.0.0
+      --livereload
+      --force_polling"
+
+  scraper:
+    build:
+      context: .
+      dockerfile: Dockerfile.scraper
+    volumes:
+      - ./_posts:/output
+    user: "${UID:-1000}:${GID:-1000}"
+    profiles:
+      - scrape
+
+volumes:
+  bundle_cache:

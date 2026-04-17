@@ -1,0 +1,43 @@
+---
+layout: default
+title: CentreBlog
+---
+{% assign last_date = nil %}
+{% for post in paginator.posts %}
+  {% assign post_date = post.date | date: "%B %d, %Y" %}
+  {% if post_date != last_date %}
+    <h2 class="date">{{ post_date }}</h2>
+    {% assign last_date = post_date %}
+  {% endif %}
+
+  <div class="post">
+    <h3 class="storytitle"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h3>
+    <div class="meta">
+      {% if post.categories.size > 0 %}
+      Filed under:
+      {% for cat in post.categories %}
+        {{ cat }}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+      {% endif %}
+      {% if post.author %} &mdash; {{ post.author }}{% endif %}
+    </div>
+
+    <div class="storycontent">
+      {{ post.excerpt }}
+    </div>
+  </div>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
+  {% endif %}
+
+  Page {{ paginator.page }} of {{ paginator.total_pages }}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
+  {% endif %}
+</div>
+{% endif %}

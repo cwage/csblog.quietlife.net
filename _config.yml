@@ -1,0 +1,33 @@
+title: "CentreBlog"
+description: "Technology and Business"
+url: https://blog.centresource.com
+baseurl: ""
+
+permalink: /:year/:month/:day/:title/
+
+paginate: 10
+paginate_path: "/page/:num/"
+
+markdown: CommonMark
+commonmark:
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
+  extensions: ["strikethrough", "autolink", "table"]
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-commonmark
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Dockerfile
+  - Dockerfile.scraper
+  - docker-compose.yml
+  - vendor
+  - README.md
+  - LICENSE
+  - .gitignore
+  - scripts
+  - node_modules
