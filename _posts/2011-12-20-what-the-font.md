@@ -12,7 +12,7 @@ The web was created back in 1945 (not kidding: <https://web.archive.org/web/2011
 So wait. Are you telling me that my website can only use those fonts? That sucks.  
 Yes. That's what I'm telling you. And yes. That does suck.
 
-But wait. As of about 5 years ago, us web designers heard rumors that there are services out there that allow you to use fonts that aren't on that list. A service called Typekit was born and it changed the way designers approach type choices on the web. [Typekit.com](<http://typekit.com/>) has changed the way I design websites. There are hundreds of fonts to choose from. I use Typekit and I love it. I've used it on the following sites: 
+But wait. As of about 5 years ago, us web designers heard rumors that there are services out there that allow you to use fonts that aren't on that list. A service called Typekit was born and it changed the way designers approach type choices on the web. [Typekit.com](<https://web.archive.org/web/20111220/http://typekit.com/>) has changed the way I design websites. There are hundreds of fonts to choose from. I use Typekit and I love it. I've used it on the following sites: 
 
 [Gallerytopia.com](<http://gallerytopia.com/>)
 

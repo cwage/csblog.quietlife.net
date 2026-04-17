@@ -12,7 +12,7 @@ So, here's our setup:
 
 2) **Local PIM (personal information management)** : This includes contacts, calendar, tasks, and notes. Simply put, forget about using them. We have two issues that we're up against. First, we use Thunderbird - so we don't have a good option for calendar, tasks, and notes. I hope their progress with [Sunbird and Lightning](<https://web.archive.org/web/20061128142335/http://www.mozilla.org/projects/calendar/>) continues! The calendar isn't as hopeless as Tasks/Notes since the Blackberry can sync with iCal formatted calendars. If you use an iCal compatible Calendar, then you can have your events.
 
-As for locally stored contacts, I couldn't find an easy solution to sync to the Blackberry. The best idea I had was to use [Plaxo's Thunderbird client](<https://web.archive.org/web/20061106071408/http://www.plaxo.com/downloads/tbird>) and access via the web ([premium service](<http://www.plaxo.com/premium?src=corp_nav>))
+As for locally stored contacts, I couldn't find an easy solution to sync to the Blackberry. The best idea I had was to use [Plaxo's Thunderbird client](<https://web.archive.org/web/20061106071408/http://www.plaxo.com/downloads/tbird>) and access via the web ([premium service](<https://web.archive.org/web/20061106071408/http://www.plaxo.com/premium?src=corp_nav>))
 
 3) **Groupware Server:** If you are using an OpenSource Groupware product, there are more options available for syncing the blackberry. For basic calendars & tasks, the Blackberry will sync with any iCal formatted calendar. To do this, you will need an application like PocketMac.
 

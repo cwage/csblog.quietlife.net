@@ -7,7 +7,7 @@ date: 2005-06-05
 
 Moreover, [Pharming ](<https://web.archive.org/web/20050606231608/http://en.wikipedia.org/wiki/Pharming>)completely bypasses the email system - rendering any Anti-Spam service (like [Swirbo](<https://web.archive.org/web/20050522012737/http://www.swirbo.com/>)) useless to stop the problem.
 
-[Netcraft](<https://web.archive.org/web/20080827232325/http://www.netcraft.com/>), an Internet security firm, released a [toolbar ](<http://toolbar.netcraft.com/>)for both Internet Explorer and [Firefox ](<https://web.archive.org/web/20050606014259/http://www.mozilla.org/>)to combat phishing/pharming (site redirection / mimicry).
+[Netcraft](<https://web.archive.org/web/20080827232325/http://www.netcraft.com/>), an Internet security firm, released a [toolbar ](<https://web.archive.org/web/20050607000401/http://toolbar.netcraft.com/>)for both Internet Explorer and [Firefox ](<https://web.archive.org/web/20050606014259/http://www.mozilla.org/>)to combat phishing/pharming (site redirection / mimicry).
 
 **General Review**  
 For Firefox 1.x, the installation was very simple (most extensions for firefox are) and didn't require any personal information.

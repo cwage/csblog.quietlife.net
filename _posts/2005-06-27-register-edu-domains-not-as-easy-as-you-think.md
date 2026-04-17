@@ -12,4 +12,4 @@ Finally, I came across the [one site](<https://web.archive.org/web/2005062801064
 
 > EDUCAUSE, the association for information technology in higher education, is the sole registrar for names in the .edu domain. The Department of Commerce awarded management of the domain to EDUCAUSE in October 2001. 
 
-So now... if you want to help an educational facility register their domain name, please visit [http://www.educause.edu](<http://www.educause.edu/>) to complete the process.
+So now... if you want to help an educational facility register their domain name, please visit [http://www.educause.edu](<https://web.archive.org/web/20050628010641/http://www.educause.edu/>) to complete the process.

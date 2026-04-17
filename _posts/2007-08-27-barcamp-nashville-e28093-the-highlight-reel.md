@@ -7,4 +7,4 @@ date: 2007-08-27
 
 Here is a five-minute highlight reel produced by [StudioNow](<https://web.archive.org/web/20070907135037/http://www.studionow.com/>). While five minutes doesn't even cover what transpired over twelve hours, ask anyone who attended. Most likely, one will hear the passion from the various takeaways from the event. Whether you're a Mac or PC guy, into Search Engine Marketing, great web design, programming, blogging or some form of interactive media, the consensus is that BarCamp Nashville was the stick that stirred the pool of talent in Nashville's technology and media community.
 
-[Link](<http://www.studionow.com/watch/barcamp-nashville-2007/?m=06b7692ccf764>)
+[Link](<https://web.archive.org/web/20070907135037/http://www.studionow.com/watch/barcamp-nashville-2007/?m=06b7692ccf764>)

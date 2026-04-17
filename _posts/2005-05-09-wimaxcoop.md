@@ -11,4 +11,4 @@ This is fantastic news -- a cooperative has been started in Nashville called [Wi
 
 I was just getting excited about this site when it went belly-up with an error from drupal, but check it out when it's fixed. They even had a handy RSS feed.
 
-**UPDATE:** Looks like it's back up. Their RSS feed is [here](<http://wimaxcoop.com/node/feed>).
+**UPDATE:** Looks like it's back up. Their RSS feed is [here](<https://web.archive.org/web/20050511012406/http://wimaxcoop.com/node/feed>).

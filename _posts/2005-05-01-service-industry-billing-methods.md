@@ -23,7 +23,7 @@ Table of contents
         1. [Profitability: From zero to infinity!](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Profitability:-From-zero-to-infinity!>)
         2. [Alignment: So happy together](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Alignment:-So-happy-together>)
         3. [Management: It better be measurable](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Management:-It-better-be-measurable>)
-        4. [Risk: Its all about pre-screening](<http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:--Its-all-about-pre-screening>)
+        4. [Risk: Its all about pre-screening](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:--Its-all-about-pre-screening>)
 
 
 * [Conclusion](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Conclusion>)

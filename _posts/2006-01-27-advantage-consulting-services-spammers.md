@@ -12,7 +12,7 @@ The company name is [Advantage Consulting Services](<https://web.archive.org/web
 
 > We recognize that your website represents both your integrity and ours - and we strive to give you the best results while maintaining the highest of industry principles. We use industry best practices and ethical standards to ensure that your search engine optimization and marketing processes are achieved through honest means. 
 
-It doesn't get much more ironic than that, folks. _"Your Integrity Is Your Integrity"_ , they say at the top. I wonder how "Abrams California Health Insurance" might feel about the "ethics" involved in [Advantage Consulting Services](<https://web.archive.org/web/20060127085307/http://www.advantageconsultingservices.com/>) spamming on their behalf. Unsurprisingly, nowhere in their [Processes](<http://www.advantageconsultingservices.com/process/>) page do they mention comment spamming.
+It doesn't get much more ironic than that, folks. _"Your Integrity Is Your Integrity"_ , they say at the top. I wonder how "Abrams California Health Insurance" might feel about the "ethics" involved in [Advantage Consulting Services](<https://web.archive.org/web/20060127085307/http://www.advantageconsultingservices.com/>) spamming on their behalf. Unsurprisingly, nowhere in their [Processes](<https://web.archive.org/web/20060127085307/http://www.advantageconsultingservices.com/process/>) page do they mention comment spamming.
 
 It'd be funny if it wasn't so infuriating.
 

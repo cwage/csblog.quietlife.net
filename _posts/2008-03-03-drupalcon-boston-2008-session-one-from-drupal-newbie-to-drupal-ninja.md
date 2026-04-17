@@ -6,7 +6,7 @@ author: Bob Marchman
 categories: [Drupal, Web Development]
 ---
 Session: From Drupal Newbie to Drupal Ninja  
-Time: 9:00am (EST) 03/03/2008 Presenter: Chad Williams ([hunmonk](<http://drupal.org/user/22079>))
+Time: 9:00am (EST) 03/03/2008 Presenter: Chad Williams ([hunmonk](<https://web.archive.org/web/20080303/http://drupal.org/user/22079>))
 
 This presentation was targeted primarily at the Drupal newbie, and was mostly a "tips & tricks" session. Here are my notes from the session:
 
@@ -67,7 +67,7 @@ Next we looked at some available helper modules. These are aimed at the Drupal d
 
 Lastly, Chad gave us some tips on what we can do to become a Drupal ninja. They are:
 
-  1. Master CVS and Project Management. Checkout the [CVS handbook](<http://drupal.org/handbook/cvs>). Documentation for Project Managemetn is available at <https://web.archive.org/web/20080303/http://drupal.org/handbook/cvs/projects>.  
+  1. Master CVS and Project Management. Checkout the [CVS handbook](<https://web.archive.org/web/20080303/http://drupal.org/handbook/cvs>). Documentation for Project Managemetn is available at <https://web.archive.org/web/20080303/http://drupal.org/handbook/cvs/projects>.  
 There was an question from the audience about integrating SVN into Drupal. The short answer: it would take more resources than are currently available to make this happen, and so much has been invested into CVS for Drupal. Too bad.
   2. Use test scripts. One helpful example was copying and pasting the first two lines from index.php in your Drupal web root. These two lines alone fully bootstrap Drupal and will give you a fully functional Drupal site without any of the other bloat. It is very useful for quickly trying out a snippet of code. We also talked about using debug functions such as print_r(), var_dump(), var_export(), and exit().
   3. And speaking of exit(), it was next on the tip list: exit() is your friend. Indeed it is. Use exit() to bisect your code flow until you locate the source of your problem
@@ -82,4 +82,4 @@ There was an question from the audience about integrating SVN into Drupal. The s
 
 You can view the slide presentation here: <https://web.archive.org/web/20080303/http://drupal5.xcarnated.com/node/22/s5>
 
-Also of note: this slide presentation was done using the [s5 module](<http://drupal.org/project/s5>) for Drupal. Pretty neat.
+Also of note: this slide presentation was done using the [s5 module](<https://web.archive.org/web/20080303/http://drupal.org/project/s5>) for Drupal. Pretty neat.

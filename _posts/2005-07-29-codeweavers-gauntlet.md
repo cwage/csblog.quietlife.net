@@ -4,7 +4,7 @@ title: "codeweavers gauntlet"
 date: 2005-07-29
 author: Chris
 ---
-This is very cool. Codeweavers (makers of the popular [Crossover Office](<https://web.archive.org/web/20050725002344/http://www.codeweavers.com/products/cxoffice/>) suite) is [throwing down the gauntlet](<http://www.codeweavers.com/compatibility/challenge/>) on their mission to provide Windows compability in GNU/Linux:
+This is very cool. Codeweavers (makers of the popular [Crossover Office](<https://web.archive.org/web/20050725002344/http://www.codeweavers.com/products/cxoffice/>) suite) is [throwing down the gauntlet](<https://web.archive.org/web/20050725002344/http://www.codeweavers.com/compatibility/challenge/>) on their mission to provide Windows compability in GNU/Linux:
 
 > We are on a mission to improve Wine until it can run nearly every Windows program, and we would like your help.
 > 

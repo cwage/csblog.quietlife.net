@@ -3,7 +3,7 @@ layout: post
 title: "BarCamp Nashville: We are so there!"
 date: 2007-08-17
 ---
-CentreSource is proud to be a Silver Sponsor of [BarCamp Nashville.](<http://www.barcampnashville.com/>)
+CentreSource is proud to be a Silver Sponsor of [BarCamp Nashville.](<https://web.archive.org/web/20070912135219/http://www.barcampnashville.com/>)
 
 There is still time to register for [free here](<https://app.e2ma.net/app/view:Join/signupId:20696>). Even if your Saturday is full, you're encouraged to carve out some time, and take in a session or two. Doors at the Exit/In open at 11:30, with sessions starting at [noon to midnight.](<https://web.archive.org/web/20070912135219/http://www.barcampnashville.com/blog/speaking-schedule-the-exitin/>)
 

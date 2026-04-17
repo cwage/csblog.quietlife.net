@@ -11,4 +11,4 @@ The display of power by the incumbent telcos in trying to crush these initiative
 
 The telcos generally make the case that municipal networks are prone to failure. One is forced to wonder, then, why these incumbent carriers are spending millions of dollars lobbying against them? The answer, of course, is that they are a threat to the relative lack of competition in the market (and the high prices as a result) that the ILECs currently enjoy.
 
-PBS did a great episode of [NOW](<https://web.archive.org/web/20050512000439/http://www.pbs.org/now/>) on this topic as well, and they maintain a page with some [good resources](<http://www.pbs.org/now/politics/digidividedebate.html>) for both sides of this debate. We'll be following this debate closely as it unfolds.
+PBS did a great episode of [NOW](<https://web.archive.org/web/20050512000439/http://www.pbs.org/now/>) on this topic as well, and they maintain a page with some [good resources](<https://web.archive.org/web/20050512000439/http://www.pbs.org/now/politics/digidividedebate.html>) for both sides of this debate. We'll be following this debate closely as it unfolds.

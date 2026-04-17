@@ -16,10 +16,10 @@ Table of contents
   3. [What is HTTP Referer?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-What-is-HTTP-Referer?>)
   4. [OK, What is Referer Spam?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-OK,-What-is-Referer-Spam?>)
   5. [Why Referer Spam?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Why-Referer-Spam?>)
-  6. [What is Comment/Trackback Spam?](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-What-is-Comment/Trackback-Spam?>)
+  6. [What is Comment/Trackback Spam?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-What-is-Comment/Trackback-Spam?>)
   7. [Consequences](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Consequences>)
-  8. [Solutions (and Non-Solutions)](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Solutions-\(and-Non-Solutions\)>)
-  9. [Conclusion](<http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Conclusion>)
+  8. [Solutions (and Non-Solutions)](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Solutions-\(and-Non-Solutions\>)>)
+  9. [Conclusion](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Conclusion>)
   10. [Links](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Links>)
 
 
@@ -141,5 +141,5 @@ This sort of spamming is a growing problem. As the popularity of standards for b
 ### Links
 
   * [Tom Sherman's Summary and Proposal for combatting referer spam](<http://underscorebleach.net/jotsheet/2005/01/referrer-spam-proposal>)
-  * Wikipedia's [entry on referer spam](<http://en.wikipedia.org/wiki/Referer_spam>)
+  * Wikipedia's [entry on referer spam](<https://web.archive.org/web/20050429005702/http://en.wikipedia.org/wiki/Referer_spam>)
   * An old entry on kuro5hin.org that provides a window into the early [origins](<https://web.archive.org/web/20050510004846/http://www.kuro5hin.org/story/2001/5/30/22341/3757>) of this problem.

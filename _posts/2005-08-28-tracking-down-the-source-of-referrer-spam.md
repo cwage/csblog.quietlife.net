@@ -114,7 +114,7 @@ So I keep reading his posts on the SEO site, and I find another one where he is 
 
 I conduct a tracert (trace-route command in DOS), but I don't get the smoking gun I was looking for - but close. The website, mp3cdsoft.com is hosted at ServerMatrix too - but on a different IP address. I conduct the normal WHOIS search on it, but all the contact info is blocked. It seems that a service called NameCheap.com will keep spammers info protected. My suspicions were confirmed when I saw the WHOIS database showed them as being listed as Spammers.
 
-> Blacklist Status: Listed - Cached Today ([details](<http://www.whois.sc/rbl/?ip=67.18.111.42>)) 
+> Blacklist Status: Listed - Cached Today ([details](<https://web.archive.org/web/20050719235654/http://www.whois.sc/rbl/?ip=67.18.111.42>)) 
 
 On a hunch, I decide to check other domains listed in our Referrer Spam list. I choose one, innerspacerecords.com, and launch a WHOIS on it. **BINGO - WE HAVE A WINNER!** Its listed at ServerMatrix, has Jackie Zhao as the Contact, and has the IP address 67.18.111.42 - the very same IP for mp3cdsoft.com. Its 100% confirmed, we now know it was the right Jacky.
 

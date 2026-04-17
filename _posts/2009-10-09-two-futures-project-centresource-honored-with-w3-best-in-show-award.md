@@ -5,7 +5,7 @@ date: 2009-10-09
 author: Stephen Yeargin
 categories: [Company News]
 ---
-![Look how shiny it is! ](http://blog.centresource.com/wp-content/uploads/2009/10/w3_gold_statue.png)
+![Look how shiny it is! ](https://web.archive.org/web/20091102080008/http://blog.centresource.com/wp-content/uploads/2009/10/w3_gold_statue.png)
 
 Look how shiny it is! 
 

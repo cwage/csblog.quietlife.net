@@ -45,7 +45,7 @@ In this example I have a simple layout that utilizes both grid templates. The to
 
 Since the 960 grid has 20 pixels of margin between each column, you can rotate the grid template 90 degrees and get a nice vertical grid to work with. While the common baseline grid is based on 18 pixels, I find working with a 20 pixel vertical margin helps keep the overall structure standardized and clean.
 
-![baseline](http://blog.centresource.com/wp-content/uploads/2009/06/baseline.jpg)
+![baseline](https://web.archive.org/web/20110109020528/http://blog.centresource.com/wp-content/uploads/2009/06/baseline.jpg)
 
 I've modified the 12 and 16 column template that comes with 960 to include this baseline grid to have it readily available.
 

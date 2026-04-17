@@ -5,7 +5,7 @@ date: 2010-11-11
 author: Lyndsay Rush
 categories: [Web Design]
 ---
-One of our design wizards creative artists, Jason O'Brien was quoted in [an article in Six Revisions ](<http://goo.gl/FjNip>) last week among industry giants Jeffrey Zeldman and Elliot Jay Stocks.
+One of our design wizards creative artists, Jason O'Brien was quoted in [an article in Six Revisions ](<https://web.archive.org/web/20101111/http://goo.gl/FjNip>) last week among industry giants Jeffrey Zeldman and Elliot Jay Stocks.
 
   
 

@@ -12,7 +12,7 @@ ROLLYO takes a different approach. Users can select a specific set of URL's that
 
 In Yahoo, I [searched for the key phase](<http://search.yahoo.com/search?p=ipod+nano&sm=Yahoo%21+Search&fr=FP-tab-web-t&toggle=1&cop=&ei=UTF-8>) "ipod nano" and received 10 results - 4 of which I found to be non-relevant. I had one result from Apple's Japan site, two results from the actual Apple store (I only discounted the generic http://store.apple.com), iLounge.com, and Technorati with the tag, iPod.
 
-Now, on ROLLYO - I found a SearchRoll created by a user for only tech information. In user '[Richards](<http://www.rollyo.com/profile.html?uid=3176>)' TECHSEARCHROLL, I put the search phrase 'ipod nano' and [received 15 out of 15](<http://www.rollyo.com/search.html?q=ipod+nano&sid=3777&x=17&y=11>) exact matches for things related to the iPod nano.
+Now, on ROLLYO - I found a SearchRoll created by a user for only tech information. In user '[Richards](<https://web.archive.org/web/20050924170026/http://www.rollyo.com/profile.html?uid=3176>)' TECHSEARCHROLL, I put the search phrase 'ipod nano' and [received 15 out of 15](<https://web.archive.org/web/20050924170026/http://www.rollyo.com/search.html?q=ipod+nano&sid=3777&x=17&y=11>) exact matches for things related to the iPod nano.
 
 To be fair, 6 of those 15 were articles/reviews from one site - Gizmodo. On the other hand, it was all different pages with different information... so the entries still count!
 

@@ -16,7 +16,7 @@ The next day our Ops Manager, [Will Acuff](<https://web.archive.org/web/20100228
 
 By **Day 2** , word was spreading through our Facebook, LinkedIn, and Twitter networks. Hits started pouring into the CentreSource website, so we augmented our efforts with a [blog entry](<https://web.archive.org/web/20100209080534/http://blog.centresource.com/2010/02/01/clean-east-nashville-with-pepsis-help/>). On **Day 3** , the story jumped from social networks into the [Nashville Business Journal](<https://web.archive.org/web/20100209044148/http://nashville.bizjournals.com/nashville/stories/2010/02/01/daily35.html>). On **Day 4** , Pepsi's use of Twitter, Facebook, and other online media had combined to build national interest. The Pepsi Refresh Project -- and our own Will Acuff's photo -- was featured in a [CBS Sunday Morning](<https://web.archive.org/web/20100212030819/http://www.cbsnews.com/stories/1998/07/09/sunday/main13562.shtml>) story to an audience of 5+ million people.
 
-![twitter-image](http://blog.centresource.com/wp-content/uploads/2010/02/twitter-image.gif)
+![twitter-image](https://web.archive.org/web/20120302032214/http://blog.centresource.com/wp-content/uploads/2010/02/twitter-image.gif)
 
 An idea that began with 1 person in our office, traveled via Twitter through our local office network into our regional social and professional networks into a regional newspaper and onto a major national television network and to 5+ million people -- in 4 days.
 

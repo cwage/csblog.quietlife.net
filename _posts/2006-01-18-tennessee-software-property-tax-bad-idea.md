@@ -4,7 +4,7 @@ title: "Tennessee Software Property Tax - Bad Idea"
 date: 2006-01-18
 categories: [Miscellaneous]
 ---
-In early January, we learned that a dramatic measure to subject software to property tax was quietly making its way through our government channels. The [following document](<https://web.archive.org/web/20071031131118/http://blog.centresource.com/wp-content/uploads/2006/01/rulenotic-personalty05.pdf>)* outlines proposed amendments to Tenn. Code Ann. 67-1-305, which will be reviewed by the [Tennessee Equalization Board](<http://www.comptroller.state.tn.us/cpdivsb.htm>)** on January 23rd, 2006.
+In early January, we learned that a dramatic measure to subject software to property tax was quietly making its way through our government channels. The [following document](<https://web.archive.org/web/20071031131118/http://blog.centresource.com/wp-content/uploads/2006/01/rulenotic-personalty05.pdf>)* outlines proposed amendments to Tenn. Code Ann. 67-1-305, which will be reviewed by the [Tennessee Equalization Board](<https://web.archive.org/web/20060210003354/http://www.comptroller.state.tn.us/cpdivsb.htm>)** on January 23rd, 2006.
 
 In the document, there is one small sentence that says:
 
