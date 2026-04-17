@@ -13,7 +13,7 @@ There are volumes of information, advice, and instant fix promises for SEM and S
 
 I'll settle for a daily intake of a cool drink from the Google mini fridge instead.
 
-![1205213015_415fa173da.jpg](https://web.archive.org/web/20071019224315/http://blog.centresource.com/wp-content/uploads/2007/08/1205213015_415fa173da.jpg)
+![1205213015_415fa173da.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/08/1205213015_415fa173da.jpg)
 
 Eric Lander offers up "10 Tips to Tune Up Paid Search Efforts" that are helpful from the full catalog of 848,000 tips available.
 

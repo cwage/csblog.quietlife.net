@@ -9,7 +9,7 @@ Observation of the day:
 
 Designers don't realize how much work it takes to actually reach consensus."
 
-![japan-house.jpg](https://web.archive.org/web/20071108014103/http://blog.centresource.com/wp-content/uploads/2007/10/japan-house.jpg)
+![japan-house.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/10/japan-house.jpg)
 
 > Dear Mr. Architect:
 > 

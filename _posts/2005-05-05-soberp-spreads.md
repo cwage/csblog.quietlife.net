@@ -9,4 +9,4 @@ Sophos is claiming that this latest Sober.P variant now accounts for almost [79%
 
 [Swirbo](<https://web.archive.org/web/20050508002246/http://www.swirbo.com/>) can definitely vouch for this increase -- the number of instances of this virus we have blocked more than doubled between the 3rd and the 4th, making it a much larger portion -- nearly 90% -- of all our virus traffic.
 
-The report indicates that the worm disables both Symantec anti-virus as well as Windows firewall, which is aiding its spread and presumably preparing the workstations for use as spamming relays and members of botnets. See our [previous posts](<https://web.archive.org/web/20050611081116/http://blog.centresource.com/index.php?s=sober.p>) on this nasty worm for more details.
+The report indicates that the worm disables both Symantec anti-virus as well as Windows firewall, which is aiding its spread and presumably preparing the workstations for use as spamming relays and members of botnets. See our [previous posts](<https://csblog.quietlife.net/index.php?s=sober.p>) on this nasty worm for more details.

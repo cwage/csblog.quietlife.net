@@ -22,4 +22,4 @@ This being the case, I decided it was high time I bought my own computer, since 
 
 I found several candidates, but for the money I settled upon an HP Envy 17". I will say here that I will never buy another HP computer again: they had loaded down Windows with a truckload of proprietary crapware, they lock out almost every part of the BIOS worth mentioning, and they had taken up all 4 permitted primary partitions on the weird Intel pseudo-RAID array (one with a restore disk-image because they're too cheap to print the thing to a DVD, the other with something called HP_TOOLS the purpose of which I cannot readily fathom and have no desire to learn lest it anger me further). Of course, my usage of Windows while in possession of this machine was intended to be minuscule if present at all, and so I quickly set out about installing my preferred Linux desktop distro, Linux Mint (then version 12).
 
-[Continued in Part II!](<http://blog.centresource.com/2012/10/17/a-confederacy-of-oses-part-ii/>)
+[Continued in Part II!](<https://csblog.quietlife.net/2012/10/17/a-confederacy-of-oses-part-ii/>)

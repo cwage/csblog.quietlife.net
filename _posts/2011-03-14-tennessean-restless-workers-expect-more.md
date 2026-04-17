@@ -5,7 +5,7 @@ date: 2011-03-14
 author: Stephen Yeargin
 categories: [Company News]
 ---
-![](http://blog.centresource.com/wp-content/uploads/2011/03/jobs_pic-300x222.jpg)
+![](https://csblog.quietlife.net/wp-content/uploads/2011/03/jobs_pic-300x222.jpg)
 
 We're very excited to welcome Michael Calhoun to our development team. In fact, even _The Tennessean_ noticed that [we are a pretty cool place to work](<http://www.tennessean.com/article/20110304/BUSINESS01/103040332/Restless-workers-expect-more>).
 

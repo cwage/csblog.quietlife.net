@@ -7,38 +7,38 @@ We are very excited to announce that we recently won three 2015 [W3 Awards](<htt
 
 Of the over 4,800 entries, only 10% were selected as gold winners, with other outstanding entries receiving silver accolades. We were awarded gold honors for our web work with The Seed Company, as well as silver honors for our work with both Christ College and Your Leadership Edge. Congratulations to our teams who worked on these projects and to all of the other outstanding project winners!
 
-[![w3-award-winners](http://blog.centresource.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-15-at-1.20.30-PM-300x101.png)](<http://blog.centresource.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-15-at-1.20.30-PM.png>)
+[![w3-award-winners](https://csblog.quietlife.net/wp-content/uploads/2015/10/Screen-Shot-2015-10-15-at-1.20.30-PM-300x101.png)](<https://csblog.quietlife.net/wp-content/uploads/2015/10/Screen-Shot-2015-10-15-at-1.20.30-PM.png>)
 
 * * *
 
-  * [News](<http://blog.centresource.com/category/news/>)
+  * [News](<https://csblog.quietlife.net/category/news/>)
 
 
 
-[awards](<http://blog.centresource.com/tag/awards/>)[w3 awards](<http://blog.centresource.com/tag/w3-awards/>)
+[awards](<https://csblog.quietlife.net/tag/awards/>)[w3 awards](<https://csblog.quietlife.net/tag/w3-awards/>)
 
 ![](http://1.gravatar.com/avatar/1c9470bf5ec5ca282db78a6c438b215f?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Julie Strickland](<http://blog.centresource.com/author/jstrickland/> "Posts by Julie Strickland")
+#### [Julie Strickland](<https://csblog.quietlife.net/author/jstrickland/> "Posts by Julie Strickland")
 
 JULIE has never seen Lord of the Rings, Star Wars, or Jurassic Park. The fact that a digital company opened their doors to her is a miracle. Must be because she's good at her job or something. Julie grew up in Westport, Connecticut with 3 older sisters. Her parents now have 4 dogs--one for each time one of the daughters moved out of the house. Julie studied Economics and History at Vanderbilt and adores Nashville for its restaurant scene and four somewhat distinct seasons. When she's not dreaming of a full family trip to visit her sisters who live abroad, she enjoys cooking and grilling out, and playing soccer--a passion she's had since the age of 3.
 
 
 
 
-[ ![Welcome to the team Zach Keller!](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2015/01/09/welcome-team-zach-keller/>)
+[ ![Welcome to the team Zach Keller!](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/01/09/welcome-team-zach-keller/>)
 
-### [Welcome to the team Zach Keller!](<http://blog.centresource.com/2015/01/09/welcome-team-zach-keller/>)
+### [Welcome to the team Zach Keller!](<https://csblog.quietlife.net/2015/01/09/welcome-team-zach-keller/>)
 
-January 9, 2015 / [News](<http://blog.centresource.com/category/news/>)
+January 9, 2015 / [News](<https://csblog.quietlife.net/category/news/>)
 
 As 2014 was drawing to a close, we had an exciting addition to our production ...
 
-[ ![We Won A Graphic Design USA Award!](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2015/04/24/we-won-a-graphic-design-usa-award/>)
+[ ![We Won A Graphic Design USA Award!](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
 
-### [We Won A Graphic Design USA Award!](<http://blog.centresource.com/2015/04/24/we-won-a-graphic-design-usa-award/>)
+### [We Won A Graphic Design USA Award!](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
 
-April 24, 2015 / [News](<http://blog.centresource.com/category/news/>)
+April 24, 2015 / [News](<https://csblog.quietlife.net/category/news/>)
 
 We are very excited to announce that we recently won a 2015 American Web Design ...
 
@@ -46,6 +46,6 @@ We are very excited to announce that we recently won a 2015 American Web Design 
 
 # Post navigation
 
-[← From Camry to Camper: A Journey In The Responsive Web](<http://blog.centresource.com/2015/10/14/responsive-web-design/>)
+[← From Camry to Camper: A Journey In The Responsive Web](<https://csblog.quietlife.net/2015/10/14/responsive-web-design/>)
 
-[BarCamp 2015 Takeaways →](<http://blog.centresource.com/2015/10/28/barcamp-2015-takeaways/>)
+[BarCamp 2015 Takeaways →](<https://csblog.quietlife.net/2015/10/28/barcamp-2015-takeaways/>)

@@ -5,7 +5,7 @@ date: 2011-03-21
 author: Jason B. Jones
 categories: [Interactive Strategy, Web Design]
 ---
-![](http://blog.centresource.com/wp-content/uploads/2011/03/Gen_300x250.jpg)
+![](https://csblog.quietlife.net/wp-content/uploads/2011/03/Gen_300x250.jpg)
 
 I don't know about you, but I spend a lot of my time "doing".
 

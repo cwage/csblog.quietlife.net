@@ -90,7 +90,7 @@ All I have left is his email address... so I decide to send him an email.
 >  CentreSource Inc.  
 >  Nashville, TN 37210 
 
-Before I contact ServerMatrix, I remember [a great article about a guy tracking down Spyware](<https://web.archive.org/web/20050921042049/http://blog.centresource.com/2005/05/04/why-make-spyware/>) and its affiliates. He brought up a good point - follow the money. So I go back to the culprit's website and identify who is paying the slime-ball his money.
+Before I contact ServerMatrix, I remember [a great article about a guy tracking down Spyware](<https://csblog.quietlife.net/2005/05/04/why-make-spyware/>) and its affiliates. He brought up a good point - follow the money. So I go back to the culprit's website and identify who is paying the slime-ball his money.
 
 On the page (beyond all the links to gambling), I notice 'Webmasters, remember to join our Casino Affiliate Program'. Here's the kicker, the link is:  
 **adv.casinoblasters.com/index.php?JackyZhao**
@@ -183,7 +183,7 @@ If I get a response to any of the emails, I'll post them for everyone to read...
 
 Jackie actually responded... although he ignored my original question of why he spammed in the first place. I responded back - here's the string:
 
-> Our URL is http://blog.centresource.com. Why are you spamming blogs? That is not very nice and it upsets many people. I already reported the activity to your Casino Affiliate (Casino Blaster) and ServerMatrix. I ask that you stop this abusive practice.
+> Our URL is https://csblog.quietlife.net. Why are you spamming blogs? That is not very nice and it upsets many people. I already reported the activity to your Casino Affiliate (Casino Blaster) and ServerMatrix. I ask that you stop this abusive practice.
 > 
 > NLH
 > 

@@ -12,4 +12,4 @@ However, our experience in web programming supports 'Brock' in that development 
 
 _Pay close attention to the 2 educational research papers that are referenced in the article._
 
-Also see our other articles on [PHP vs .NET](<http://blog.centresource.com/2005/06/06/php-vs-aspnet-the-battle-rages-on/>) and a [good post by 'StupicEverything'](<https://web.archive.org/web/20060515175412/http://www.stupideverything.ca/?p=60>) comparing PHP, ASP, and JSP.
+Also see our other articles on [PHP vs .NET](<https://csblog.quietlife.net/2005/06/06/php-vs-aspnet-the-battle-rages-on/>) and a [good post by 'StupicEverything'](<https://web.archive.org/web/20060515175412/http://www.stupideverything.ca/?p=60>) comparing PHP, ASP, and JSP.

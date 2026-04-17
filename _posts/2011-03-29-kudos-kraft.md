@@ -5,7 +5,7 @@ date: 2011-03-29
 author: Lyndsay Rush
 categories: [Marketing]
 ---
-[![](http://blog.centresource.com/wp-content/uploads/2011/03/kraft-macaroni-and-cheese-profile-200x300.jpg)](<http://blog.centresource.com/wp-content/uploads/2011/03/kraft-macaroni-and-cheese-profile.jpg> "kraft-macaroni-and-cheese-profile")When I saw people tweeting about Mac n Cheese 2 weeks ago, I didn't really think much of it.
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/03/kraft-macaroni-and-cheese-profile-200x300.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/03/kraft-macaroni-and-cheese-profile.jpg> "kraft-macaroni-and-cheese-profile")When I saw people tweeting about Mac n Cheese 2 weeks ago, I didn't really think much of it.
 
 I have hungry friends, after all. And we live in the land of comfort food.
 
@@ -19,12 +19,12 @@ So I tweeted. And waited. And won.
 
 And this came in the mail last week:
 
-[![](http://blog.centresource.com/wp-content/uploads/2011/03/photo-5-300x225.jpg)](<http://blog.centresource.com/wp-content/uploads/2011/03/photo-5.jpg> "cheesy prizes")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/03/photo-5-300x225.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/03/photo-5.jpg> "cheesy prizes")
 
 Winning never tasted so cheesy.
 
 As if that weren't enough, they are now pulling an Old Spice and [taking tweets from their followers and turning them into national TV Ads](<http://mashable.com/2011/03/29/kraft-mac-cheese-ad-conan/>):
 
-[![](http://blog.centresource.com/wp-content/uploads/2011/03/Picture-18-300x48.png)](<http://blog.centresource.com/wp-content/uploads/2011/03/Picture-18.png> "Picture 18")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/03/Picture-18-300x48.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/03/Picture-18.png> "Picture 18")
 
 Not sure how they are measuring the success of these recent initiatives, but from a buzz perspective? So far, so good, Kraft.

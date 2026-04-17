@@ -3,7 +3,7 @@ layout: post
 title: "Everything you need to know about Swift, Apple's new programming language"
 date: 2014-07-18
 ---
-[![Swift programming language](http://blog.centresource.com/wp-content/uploads/2014/07/apple-swift.jpg-1920×1280--300x164.png)](<http://blog.centresource.com/wp-content/uploads/2014/07/apple-swift.jpg-1920×1280-.png>)
+[![Swift programming language](https://csblog.quietlife.net/wp-content/uploads/2014/07/apple-swift.jpg-1920×1280--300x164.png)](<https://csblog.quietlife.net/wp-content/uploads/2014/07/apple-swift.jpg-1920×1280-.png>)
 
 Meet Swift, Apple's new programming language. We think it will usher in a new generation of development talent and innovative apps.
 
@@ -23,7 +23,7 @@ Swift makes it easier for developers to write apps because it's code is easier t
 
 #### Why you should care
 
-Consumers should care because Apple apps are about to offer even more functionality. While this is partially due to Swift, it's also related to a number of other, powerful software development kits (SDKs) released by Apple, such as HomeKit and the TouchID API, which can help apps incorporate parts of your house and fingerprints, respectively, into mobile apps. It borders on what you'd read in science fiction. If you're interested, you can read about some of these SDKs released in conjunction with Swift [here](<http://blog.centresource.com/2014/07/09/swift-and-other-wwdc-news/> "WWDC 2014 news").
+Consumers should care because Apple apps are about to offer even more functionality. While this is partially due to Swift, it's also related to a number of other, powerful software development kits (SDKs) released by Apple, such as HomeKit and the TouchID API, which can help apps incorporate parts of your house and fingerprints, respectively, into mobile apps. It borders on what you'd read in science fiction. If you're interested, you can read about some of these SDKs released in conjunction with Swift [here](<https://csblog.quietlife.net/2014/07/09/swift-and-other-wwdc-news/> "WWDC 2014 news").
 
 Developers should care because Swift truly is the future of iOS development. Apple already has made it clear that Swift is here to stay. And what's not to like about it? Swift works with and is interoperable with Objective-C, so even if you want to drag your feet, you can still write in the current, lower-level language. Heads-up, though: all signs point to Swift one day replacing Objective-C entirely.
 
@@ -84,32 +84,32 @@ Our prediction? **Yes.** Swift looks like a solid improvement on top of Objectiv
 
 * * *
 
-  * [Development](<http://blog.centresource.com/category/development/>)
+  * [Development](<https://csblog.quietlife.net/category/development/>)
 
 
 
-[Development](<http://blog.centresource.com/tag/development/>)
+[Development](<https://csblog.quietlife.net/tag/development/>)
 
 ![](http://1.gravatar.com/avatar/938ffc89363cb34da3857656792b0a10?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Jonathan Moreland](<http://blog.centresource.com/author/jmoreland/> "Posts by Jonathan Moreland")
+#### [Jonathan Moreland](<https://csblog.quietlife.net/author/jmoreland/> "Posts by Jonathan Moreland")
 
 
 
 
-[ ![Three Tips to Produce Easy to Understand Code](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/05/20/three-tips-to-produce-easy-to-understand-code/>)
+[ ![Three Tips to Produce Easy to Understand Code](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/05/20/three-tips-to-produce-easy-to-understand-code/>)
 
-### [Three Tips to Produce Easy to Understand Code](<http://blog.centresource.com/2014/05/20/three-tips-to-produce-easy-to-understand-code/>)
+### [Three Tips to Produce Easy to Understand Code](<https://csblog.quietlife.net/2014/05/20/three-tips-to-produce-easy-to-understand-code/>)
 
-May 20, 2014 / [Development](<http://blog.centresource.com/category/development/>)
+May 20, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 From working the last 6 plus years in the web industry, I've come to learn ...
 
-[ ![Acceptance Testing \(User Stories 101: Part 4 of 5\)](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
+[ ![Acceptance Testing \(User Stories 101: Part 4 of 5\)](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
 
-### [Acceptance Testing (User Stories 101: Part 4 of 5)](<http://blog.centresource.com/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
+### [Acceptance Testing (User Stories 101: Part 4 of 5)](<https://csblog.quietlife.net/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
 
-August 1, 2014 / [Development](<http://blog.centresource.com/category/development/>)
+August 1, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 In Part 3 of our "User Stories 101" series, we talked about how user stories are great ...
 
@@ -117,6 +117,6 @@ In Part 3 of our "User Stories 101" series, we talked about how user stories are
 
 # Post navigation
 
-[← Swift Wasn't the Coolest Feature at WWDC 2014](<http://blog.centresource.com/2014/07/16/swift-and-other-wwdc-news/>)
+[← Swift Wasn't the Coolest Feature at WWDC 2014](<https://csblog.quietlife.net/2014/07/16/swift-and-other-wwdc-news/>)
 
-[Why construction companies need digital marketing strategies →](<http://blog.centresource.com/2014/07/24/construction-companies-need-digital-marketing-strategies/>)
+[Why construction companies need digital marketing strategies →](<https://csblog.quietlife.net/2014/07/24/construction-companies-need-digital-marketing-strategies/>)

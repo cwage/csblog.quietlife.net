@@ -3,7 +3,7 @@ layout: post
 title: "Does My Startup Really Need a Prototype? Really??"
 date: 2015-03-12
 ---
-![Do I need a prototype](http://blog.centresource.com/wp-content/uploads/2015/03/6491204853_83337521b0_m1.jpg)
+![Do I need a prototype](https://csblog.quietlife.net/wp-content/uploads/2015/03/6491204853_83337521b0_m1.jpg)
 
 Photo credit: [Canned Tuna](<https://www.flickr.com/photos/cannedtuna/>)
 
@@ -45,32 +45,32 @@ This will save you costs, allow you to keep and gain more users, and you'll spen
 
 * * *
 
-  * [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+  * [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 
 
-[prototype](<http://blog.centresource.com/tag/prototype/>)[ux](<http://blog.centresource.com/tag/ux/>)[UX-Design](<http://blog.centresource.com/tag/uxdesign/>)
+[prototype](<https://csblog.quietlife.net/tag/prototype/>)[ux](<https://csblog.quietlife.net/tag/ux/>)[UX-Design](<https://csblog.quietlife.net/tag/uxdesign/>)
 
 ![](http://1.gravatar.com/avatar/d15bdb77fb1ff88a40e904294d1806cf?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Zach Keller](<http://blog.centresource.com/author/zkeller/> "Posts by Zach Keller")
+#### [Zach Keller](<https://csblog.quietlife.net/author/zkeller/> "Posts by Zach Keller")
 
 
 
 
-[ ![6 Easy Ways to Know if Your Site Has a UX Problem](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2015/02/05/6-easy-ways-know-site-ux-problem/>)
+[ ![6 Easy Ways to Know if Your Site Has a UX Problem](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/02/05/6-easy-ways-know-site-ux-problem/>)
 
-### [6 Easy Ways to Know if Your Site Has a UX Problem](<http://blog.centresource.com/2015/02/05/6-easy-ways-know-site-ux-problem/>)
+### [6 Easy Ways to Know if Your Site Has a UX Problem](<https://csblog.quietlife.net/2015/02/05/6-easy-ways-know-site-ux-problem/>)
 
-February 5, 2015 / [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+February 5, 2015 / [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 Trying to determine if your website is lacking good user experience can be tricky. You ...
 
-[ ![Building User Personas: Why? How?](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/12/09/building-user-personas/>)
+[ ![Building User Personas: Why? How?](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/12/09/building-user-personas/>)
 
-### [Building User Personas: Why? How?](<http://blog.centresource.com/2014/12/09/building-user-personas/>)
+### [Building User Personas: Why? How?](<https://csblog.quietlife.net/2014/12/09/building-user-personas/>)
 
-December 9, 2014 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>), [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+December 9, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>), [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 Why? Most great products are born out of recognizing a common problem that has no ...
 
@@ -78,4 +78,4 @@ Why? Most great products are born out of recognizing a common problem that has n
 
 # Post navigation
 
-[← Who Owns Growth?](<http://blog.centresource.com/2015/03/10/owns-growth/>)
+[← Who Owns Growth?](<https://csblog.quietlife.net/2015/03/10/owns-growth/>)

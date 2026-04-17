@@ -5,7 +5,7 @@ date: 2007-09-05
 ---
 Vasco a.k.a. SEOz87 has gathered together [**8 Must Have FireFox Addons For SEO**](<http://seoz.wordpress.com/2007/09/04/seo-firefox-addons/>).
 
-![seo-tips.jpg](http://blog.centresource.com/wp-content/uploads/2007/09/seo-tips.jpg)
+![seo-tips.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/09/seo-tips.jpg)
 
 If you're serious about Search Engine Optimization, then it pays to have these Firefox extensions in your SEO toolbox. Here are three extensions that I'm going to test drive:
 

@@ -4,7 +4,7 @@ title: "SSL Wildcards pt. 2"
 date: 2006-01-25
 author: Chris
 ---
-While researching the situation with [SSL Wildcards](<http://blog.centresource.com/2006/01/24/ssl-wildcards/>) that i mentioned yesterday, the plot seems to have thickened a bit.
+While researching the situation with [SSL Wildcards](<https://csblog.quietlife.net/2006/01/24/ssl-wildcards/>) that i mentioned yesterday, the plot seems to have thickened a bit.
 
 Here's the situation as I see it so far. First, here's all I can find about what [the HTTP/TLS RFC](<https://web.archive.org/web/20060126225959/http://www.ietf.org/rfc/rfc2818.txt>) says:
 

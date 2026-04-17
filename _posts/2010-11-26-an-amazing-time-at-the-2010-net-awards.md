@@ -5,7 +5,7 @@ date: 2010-11-26
 author: Jason Jones
 categories: [Company News]
 ---
-![netawards2010](http://blog.centresource.com/wp-content/uploads/2010/11/netawards2010.jpg)
+![netawards2010](https://csblog.quietlife.net/wp-content/uploads/2010/11/netawards2010.jpg)
 
 [Evan Owens](<http://www.centresource.com/evanowen>) and myself had pleasure of going to this year's [2010 .NET Magazine Awards](<http://www.thenetawards.com/>) held at London's legendary [Ministry of Sound](<http://www.ministryofsound.com/>). As you might have read via our blog, our twitter feed, our website, our skywriting airplane, our fortune cookie inserts and various latte art advertisements, centresource was a finalist for "Design Agency of the Year" along with interactive rockstars [Clearleft](<http://www.clearleft.com/>) (the defending champ) and juggernaut, [Happy Cog](<http://www.happycog.com/>).
 

@@ -5,7 +5,7 @@ date: 2011-08-26
 author: Jon Arnold
 categories: [Miscellaneous]
 ---
-![](http://blog.centresource.com/wp-content/uploads/2011/08/photo1-300x224.jpg)Thanks again to everyone who came out to our Interactive Mixer last night! We had a great turnout as always, and the Latin Wagon was a big hit. Delicious tacos, amazing Cuban pork sandwiches, and huge, fresh burritos. A perfect fit for summer!
+![](https://csblog.quietlife.net/wp-content/uploads/2011/08/photo1-300x224.jpg)Thanks again to everyone who came out to our Interactive Mixer last night! We had a great turnout as always, and the Latin Wagon was a big hit. Delicious tacos, amazing Cuban pork sandwiches, and huge, fresh burritos. A perfect fit for summer!
 
 Our thanks go out to [Goodwill Industries of Middle Tennessee](<http://giveit2goodwill.org/>) for speaking last night, and reminding us what good their organization does in our community. Remember, when you give it to Goodwill, you're supporting thousands of families in our area. Donate today!
 
@@ -13,7 +13,7 @@ We also had some great beer, supplied by our pals at [Yazoo](<http://www.yazoobr
 
 The sangria went fast at the mixer, with people raving about both kinds we made. We got asked so much last night that we just have to share the recipes with you. Sangria's simple, fun to make, and is a perfect addition to any summer party. Let's go!
 
-**Traditional Red Sangria**[![](http://blog.centresource.com/wp-content/uploads/2011/08/4640911585_71e130cb6e-199x300.jpg)](<http://blog.centresource.com/wp-content/uploads/2011/08/4640911585_71e130cb6e.jpg>)
+**Traditional Red Sangria**[![](https://csblog.quietlife.net/wp-content/uploads/2011/08/4640911585_71e130cb6e-199x300.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/08/4640911585_71e130cb6e.jpg>)
 
 The key to good sangria is fresh fruit. We used the following, but really anything citrus would be great:
 
@@ -27,7 +27,7 @@ We've also seen pineapple, mango or even grapes go to good effect. Slice all thi
 
 Then, you'll pour 1 cup of cognac and about a half cup of orange liqueur (we used Triple Sec) into a pitcher. Then add about a half to 3/4 of a cup of granulated sugar to this concoction. Dissolve the sugar into this mix and then pour over the fruit in the bowl and let soak.
 
-[![](http://blog.centresource.com/wp-content/uploads/2011/08/Spanish-Demon-Tempranillo-2008-81x300.jpg)](<http://blog.centresource.com/wp-content/uploads/2011/08/Spanish-Demon-Tempranillo-2008.jpg>)This sangria calls for a dry, Spanish red. We chose the Spanish Demon Rioja Tempranillo, a dry and zesty red with lots of subtle flavor. We used three bottles of this wine, which produces a nice large punchbowl sized amount with a pitcher or so leftover to refill from.
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/08/Spanish-Demon-Tempranillo-2008-81x300.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/08/Spanish-Demon-Tempranillo-2008.jpg>)This sangria calls for a dry, Spanish red. We chose the Spanish Demon Rioja Tempranillo, a dry and zesty red with lots of subtle flavor. We used three bottles of this wine, which produces a nice large punchbowl sized amount with a pitcher or so leftover to refill from.
 
 We poured one bottle of red into the soaking fruit concoction and let it sit overnight. The next morning the other two bottles were added and they soaked for about eight full hours.
 

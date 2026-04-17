@@ -4,11 +4,11 @@ title: "debian update notification script"
 date: 2005-06-08
 author: Chris
 ---
-I realized I [mentioned](<https://web.archive.org/web/20050518172754/http://blog.centresource.com/2005/04/28/run-parts/>) this script previously, but never got around to actually posting it.
+I realized I [mentioned](<https://csblog.quietlife.net/2005/04/28/run-parts/>) this script previously, but never got around to actually posting it.
 
 This is a handy shell script you can use on your Debian system (woody or sarge, or anything that uses apt, really) to check for security (or any other) updates as per whatever repositories you have in your _/etc/apt/sources.list_. I run it from cron nightly. It basically does an "apt-get update", and if there are updates available, it downloads them (but doesn't install), and mails you with the changelogs. If you are satisfied it won't make your server explode, you can simply login to do "sudo apt-get upgrade" to actually install them. It's very handy if you manage a number of servers. The script itself isn't pretty, but what shell script is? Note: it requires apt-listchanges (_apt-get install apt-listchanges_) to do the changelog mailing.
 
-The [source can be found here](<https://web.archive.org/web/20060510001109/http://blog.centresource.com/wp-content/check-apt.txt>).
+The [source can be found here](<https://csblog.quietlife.net/wp-content/check-apt.txt>).
 
 `  
 #!/bin/sh  

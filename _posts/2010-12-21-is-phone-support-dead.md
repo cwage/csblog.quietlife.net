@@ -5,7 +5,7 @@ date: 2010-12-21
 author: Stephen Yeargin
 categories: [Interactive Strategy]
 ---
-![phone-support](http://blog.centresource.com/wp-content/uploads/2010/12/phone-support-300x289.png)
+![phone-support](https://csblog.quietlife.net/wp-content/uploads/2010/12/phone-support-300x289.png)
 
 I saw [this today](<https://optimizely.appspot.com/pricing>) while looking around at possible A/B testing vendors and had a bit of a chuckle. My inner-consumer (we all have one) was "Wow! I can have the CEO's phone number, so I will always get great service!" My inner-cynic was thinking more along the lines of "How useless is that guy or gal going to be when I actually have a problem or question?"
 

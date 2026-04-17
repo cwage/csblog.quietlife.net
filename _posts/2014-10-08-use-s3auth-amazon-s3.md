@@ -5,7 +5,7 @@ date: 2014-10-08
 ---
 Here at Centresource, we create new projects for clients all the time. There is a lot of information to keep organized and up-to-date. We have tried a lot of solutions in the past, but much of the information becomes scattered across [Trello](<http://trello.com/>), [Redmine](<http://redmine.org/>), [Invision](<http://invisionapp.com/>), [Google Drive](<http://drive.google.com/>) and [Dropbox](<http://dropbox.com/>). With filenames like `ClientA-Wireframes-Interior1-Rev3A.format`, your storage becomes cluttered and difficult to interpret. Additionally, it is difficult to share this information with the client in a presentable format if they don't have our same proprietary applications like [Pages](<https://www.apple.com/mac/pages/>), [Keynote](<https://www.apple.com/mac/keynote/>), [Omnigraffle](<https://www.omnigroup.com/omnigraffle>) or [Photoshop](<http://www.photoshop.com/>).
 
-![s3auth_logo](http://blog.centresource.com/content/uploads/2014/08/s3auth_logo-300x52.png)
+![s3auth_logo](https://csblog.quietlife.net/content/uploads/2014/08/s3auth_logo-300x52.png)
 
 This is why we've decided on a web-based solution that is viewable to anybody with a browser that just uses basic HTML/CSS/JS. More specifically, we've decided to us [Jekyll](<http://jekyllrb.com/>) that is deployed to an S3 bucket. In order to keep this site/bucket secure we are leveraging [S3Auth](<http://s3auth.com/>) to put HTTP Basic Authentication in front of our client's S3 bucket. I'll show you how we do that.
 
@@ -40,30 +40,30 @@ Let me know if you run into any problems with any of these steps. You can let me
 
 * * *
 
-  * [Development](<http://blog.centresource.com/category/development/>)
+  * [Development](<https://csblog.quietlife.net/category/development/>)
 
 
 
 ![](http://0.gravatar.com/avatar/e950a70038b437c6604caa4826641a60?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Rian Rainey](<http://blog.centresource.com/author/rrainey/> "Posts by Rian Rainey")
+#### [Rian Rainey](<https://csblog.quietlife.net/author/rrainey/> "Posts by Rian Rainey")
 
 
 
 
-[ ![Acceptance Testing \(User Stories 101: Part 4 of 5\)](http://blog.centresource.com/content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
+[ ![Acceptance Testing \(User Stories 101: Part 4 of 5\)](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
 
-### [Acceptance Testing (User Stories 101: Part 4 of 5)](<http://blog.centresource.com/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
+### [Acceptance Testing (User Stories 101: Part 4 of 5)](<https://csblog.quietlife.net/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
 
-August 1, 2014 / [Development](<http://blog.centresource.com/category/development/>)
+August 1, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 In Part 3 of our "User Stories 101" series, we talked about how user stories are great ...
 
-[ ![5 Reasons To Choose a Digital Agency Over a Unicorn](http://blog.centresource.com/content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/06/06/5-reasons-choose-digital-agency-unicorn/>)
+[ ![5 Reasons To Choose a Digital Agency Over a Unicorn](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/06/06/5-reasons-choose-digital-agency-unicorn/>)
 
-### [5 Reasons To Choose a Digital Agency Over a Unicorn](<http://blog.centresource.com/2014/06/06/5-reasons-choose-digital-agency-unicorn/>)
+### [5 Reasons To Choose a Digital Agency Over a Unicorn](<https://csblog.quietlife.net/2014/06/06/5-reasons-choose-digital-agency-unicorn/>)
 
-June 6, 2014 / [Development](<http://blog.centresource.com/category/development/>)
+June 6, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 So here's the scenario: you have a product you want to build, but like most people ...
 
@@ -71,6 +71,6 @@ So here's the scenario: you have a product you want to build, but like most peop
 
 # Post navigation
 
-[← Welcome to the team, Erick Pennington!](<http://blog.centresource.com/2014/10/02/welcome-team-erick-pennington/>)
+[← Welcome to the team, Erick Pennington!](<https://csblog.quietlife.net/2014/10/02/welcome-team-erick-pennington/>)
 
-[Do I Really Need a CMS? →](<http://blog.centresource.com/2014/10/10/really-need-cms/>)
+[Do I Really Need a CMS? →](<https://csblog.quietlife.net/2014/10/10/really-need-cms/>)

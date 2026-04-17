@@ -3,7 +3,7 @@ layout: post
 title: "5 Signs Your Startup Needs a Prototype"
 date: 2015-02-24
 ---
-![App Paper Prototype](http://blog.centresource.com/wp-content/uploads/2015/02/app-paper-prototype-2-300x200.jpg)
+![App Paper Prototype](https://csblog.quietlife.net/wp-content/uploads/2015/02/app-paper-prototype-2-300x200.jpg)
 
 Photo credit: [Rosenfeld Media](<https://www.flickr.com/photos/rosenfeldmedia/>)
 
@@ -25,32 +25,32 @@ Prototypes can be incredibly powerful. One of our startup clients invested about
 
 * * *
 
-  * [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+  * [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 
 
-[prototype](<http://blog.centresource.com/tag/prototype/>)[startups](<http://blog.centresource.com/tag/startups/>)[ux](<http://blog.centresource.com/tag/ux/>)[UX-Design](<http://blog.centresource.com/tag/uxdesign/>)
+[prototype](<https://csblog.quietlife.net/tag/prototype/>)[startups](<https://csblog.quietlife.net/tag/startups/>)[ux](<https://csblog.quietlife.net/tag/ux/>)[UX-Design](<https://csblog.quietlife.net/tag/uxdesign/>)
 
 ![](http://0.gravatar.com/avatar/09133b0972e2cad2cb0edcd7265506f3?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Ann Howard](<http://blog.centresource.com/author/ahoward/> "Posts by Ann Howard")
+#### [Ann Howard](<https://csblog.quietlife.net/author/ahoward/> "Posts by Ann Howard")
 
 
 
 
-[ ![Playbook: Improving Our UX Design Efficiency](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/04/10/playbook-improving-our-ux-design-efficiency/>)
+[ ![Playbook: Improving Our UX Design Efficiency](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/04/10/playbook-improving-our-ux-design-efficiency/>)
 
-### [Playbook: Improving Our UX Design Efficiency](<http://blog.centresource.com/2014/04/10/playbook-improving-our-ux-design-efficiency/>)
+### [Playbook: Improving Our UX Design Efficiency](<https://csblog.quietlife.net/2014/04/10/playbook-improving-our-ux-design-efficiency/>)
 
-April 10, 2014 / [Development](<http://blog.centresource.com/category/development/>), [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+April 10, 2014 / [Development](<https://csblog.quietlife.net/category/development/>), [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 Recently Centresource published our first open source tool to the world. Please welcome Playbook. Playbook is ...
 
-[ ![The Lean UX Canvas](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/09/18/lean-ux-canvas/>)
+[ ![The Lean UX Canvas](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/09/18/lean-ux-canvas/>)
 
-### [The Lean UX Canvas](<http://blog.centresource.com/2014/09/18/lean-ux-canvas/>)
+### [The Lean UX Canvas](<https://csblog.quietlife.net/2014/09/18/lean-ux-canvas/>)
 
-September 18, 2014 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>), [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+September 18, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>), [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 We work with a lot of companies in varying states of maturity. Some prospective clients ...
 
@@ -58,6 +58,6 @@ We work with a lot of companies in varying states of maturity. Some prospective 
 
 # Post navigation
 
-[← Welcome to the team Haley Devlin!](<http://blog.centresource.com/2015/02/19/welcome-team-haley-devlin/>)
+[← Welcome to the team Haley Devlin!](<https://csblog.quietlife.net/2015/02/19/welcome-team-haley-devlin/>)
 
-[How to Sell UX Design To Your Boss →](<http://blog.centresource.com/2015/02/27/sell-ux-design-boss/>)
+[How to Sell UX Design To Your Boss →](<https://csblog.quietlife.net/2015/02/27/sell-ux-design-boss/>)

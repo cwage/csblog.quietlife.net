@@ -3,7 +3,7 @@ layout: post
 title: "Who Is Your Master?"
 date: 2015-05-22
 ---
-![Iron Triangle](http://blog.centresource.com/wp-content/uploads/2015/05/Iron-Triangle-300x221.png)The Iron Triangle is the scope, budget, and timeline of your project. From these three strong components, who is your master? That is the most valuable question you will be asked in the lifetime of your website or web application engagement. Your answer guides the team through all stages of strategy, planning, development, and project management. There is no point throughout the process that the master is out of view. Around your master, we shape nearly all of the decisions we make for your website or application. Its importance cannot be stressed enough. So, how do you choose?
+![Iron Triangle](https://csblog.quietlife.net/wp-content/uploads/2015/05/Iron-Triangle-300x221.png)The Iron Triangle is the scope, budget, and timeline of your project. From these three strong components, who is your master? That is the most valuable question you will be asked in the lifetime of your website or web application engagement. Your answer guides the team through all stages of strategy, planning, development, and project management. There is no point throughout the process that the master is out of view. Around your master, we shape nearly all of the decisions we make for your website or application. Its importance cannot be stressed enough. So, how do you choose?
 
 Taking a closer look at each point of the Iron Triangle will help you make the best decision for your business.
 
@@ -25,32 +25,32 @@ When choosing your master, ask yourself what is most important to your business:
 
 * * *
 
-  * [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
+  * [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
 
 
 
-[interactive-strategy](<http://blog.centresource.com/tag/interactive-strategy/>)[iron triangle](<http://blog.centresource.com/tag/iron-triangle/>)[Planning](<http://blog.centresource.com/tag/planning/>)
+[interactive-strategy](<https://csblog.quietlife.net/tag/interactive-strategy/>)[iron triangle](<https://csblog.quietlife.net/tag/iron-triangle/>)[Planning](<https://csblog.quietlife.net/tag/planning/>)
 
 ![](http://1.gravatar.com/avatar/ff6d8aaa7cdc3bb21765d6f2f738505e?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Maureen Magnussen](<http://blog.centresource.com/author/mmagnussen/> "Posts by Maureen Magnussen")
+#### [Maureen Magnussen](<https://csblog.quietlife.net/author/mmagnussen/> "Posts by Maureen Magnussen")
 
 
 
 
-[ ![Your Website: An Owner's Manual](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/11/11/website-owners-manual/>)
+[ ![Your Website: An Owner's Manual](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/11/11/website-owners-manual/>)
 
-### [Your Website: An Owner's Manual](<http://blog.centresource.com/2014/11/11/website-owners-manual/>)
+### [Your Website: An Owner's Manual](<https://csblog.quietlife.net/2014/11/11/website-owners-manual/>)
 
-November 11, 2014 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
+November 11, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
 
 In June of this year, my family welcomed our third child into the fold. Although ...
 
-[ ![Begin With The End In Mind](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/11/20/begin-end-mind/>)
+[ ![Begin With The End In Mind](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/11/20/begin-end-mind/>)
 
-### [Begin With The End In Mind](<http://blog.centresource.com/2014/11/20/begin-end-mind/>)
+### [Begin With The End In Mind](<https://csblog.quietlife.net/2014/11/20/begin-end-mind/>)
 
-November 20, 2014 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
+November 20, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
 
 If you don't spend your days heads down, immersed in technology it's easy to feel ...
 
@@ -58,4 +58,4 @@ If you don't spend your days heads down, immersed in technology it's easy to fee
 
 # Post navigation
 
-[← Less Consuming and More Creating](<http://blog.centresource.com/2015/05/20/less-consuming-and-more-creating/>)
+[← Less Consuming and More Creating](<https://csblog.quietlife.net/2015/05/20/less-consuming-and-more-creating/>)

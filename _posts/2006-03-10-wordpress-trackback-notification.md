@@ -4,7 +4,7 @@ title: "Wordpress Trackback Notification"
 date: 2006-03-10
 author: Chris
 ---
-Last month, I [posted](<https://web.archive.org/web/20060315042823/http://blog.centresource.com/2006/02/01/eliminating-most-trackback-spam/>) about the methods we use to block comment and trackback spam. As I noted then, we hadn't had one single successful comment/trackback spam then, or since. However there was still one tremendous annoyance. Dan Sandler's [trackback validator](<https://web.archive.org/web/20060209033008/http://idli.cs.rice.edu/~dsandler/trackback/trackback-validator-plugin/>) plugin effectively eliminates the trackback spam, however Wordpress was still stubbornly e-mailing me about every single one.
+Last month, I [posted](<https://csblog.quietlife.net/2006/02/01/eliminating-most-trackback-spam/>) about the methods we use to block comment and trackback spam. As I noted then, we hadn't had one single successful comment/trackback spam then, or since. However there was still one tremendous annoyance. Dan Sandler's [trackback validator](<https://web.archive.org/web/20060209033008/http://idli.cs.rice.edu/~dsandler/trackback/trackback-validator-plugin/>) plugin effectively eliminates the trackback spam, however Wordpress was still stubbornly e-mailing me about every single one.
 
 My personal blog is currently getting slammed by a botnet of around 270+ computers so far, continually spamming it all day long, so you can imagine how this was quite an annoyance.
 

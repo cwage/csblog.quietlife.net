@@ -5,7 +5,7 @@ date: 2010-06-08
 author: Nicholas Holland
 categories: [Content]
 ---
-One of my team mates, [Will Acuff](<http://blog.centresource.com/author/wacuff/>), shared one of the best 'fundraising' pitches I've heard in a long time - and it comes from NPR no less. Its effectiveness isn't so much about 'why' you should give, but more about the shameful nature of selfishness when it comes to the internet. We, as avid internet users, enjoy so much and pay so little. Music, Movies, News, etc - all enjoyed for hours & only paid for on the backs of so few.
+One of my team mates, [Will Acuff](<https://csblog.quietlife.net/author/wacuff/>), shared one of the best 'fundraising' pitches I've heard in a long time - and it comes from NPR no less. Its effectiveness isn't so much about 'why' you should give, but more about the shameful nature of selfishness when it comes to the internet. We, as avid internet users, enjoy so much and pay so little. Music, Movies, News, etc - all enjoyed for hours & only paid for on the backs of so few.
 
 Here's a great part...
 

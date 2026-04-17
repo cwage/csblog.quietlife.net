@@ -5,7 +5,7 @@ date: 2010-09-30
 author: Katy Ludington
 categories: [Company News]
 ---
-[![.net Magazine Awards](http://blog.centresource.com/wp-content/uploads/2010/09/netawards-300x204.png)](<http://bit.ly/auSK8A>)
+[![.net Magazine Awards](https://csblog.quietlife.net/wp-content/uploads/2010/09/netawards-300x204.png)](<http://bit.ly/auSK8A>)
 
 So, [.net Magazine](<http://www.netmag.co.uk/>) thinks we are cool enough to be nominated for [Design Agency of the Year](<http://bit.ly/auSK8A>)! Our friends from across the pond selected us among 25 finalist, and it is now up to you to help put us over the top! To vote, just [visit the awards site](<http://bit.ly/auSK8A>), go down to number 8, and pick us!
 

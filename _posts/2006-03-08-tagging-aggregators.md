@@ -4,7 +4,7 @@ title: "Tagging Aggregators"
 date: 2006-03-08
 author: Chris
 ---
-And while I'm on the topic of [tags](<http://blog.centresource.com/2006/03/08/on-tagging/>), I am increasingly frustrated with the categorization of most RSS aggregators. This is rather ironic considering RSS aggregators are the swiss-army knife utility for the "Web 2.0" devotee. And yet, every RSS aggregator I have tried still constrains your feed organization to groups/categories.
+And while I'm on the topic of [tags](<https://csblog.quietlife.net/2006/03/08/on-tagging/>), I am increasingly frustrated with the categorization of most RSS aggregators. This is rather ironic considering RSS aggregators are the swiss-army knife utility for the "Web 2.0" devotee. And yet, every RSS aggregator I have tried still constrains your feed organization to groups/categories.
 
 Aggregators should start implementing tagging for your feeds. I realized this today when I found myself longing for the ability to lump some feeds into a "daily read" section -- without breaking up the content-based categorization: technology, news, politics, etc. It occurred to me that this is precisely what tagging excels at.
 

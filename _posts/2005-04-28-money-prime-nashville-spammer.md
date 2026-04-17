@@ -5,7 +5,7 @@ date: 2005-04-28
 ---
 [Money Prime - Official Home](<https://web.archive.org/web/20050503191403/http://www.moneyprime.info/>)
 
-In a previous article about [local spammers](<https://web.archive.org/web/20050507044336/http://blog.centresource.com/2005/04/28/localized-spammers/>), I mentioned that we typically figure out how we ended up on a list and then unsubscribe.
+In a previous article about [local spammers](<https://csblog.quietlife.net/2005/04/28/localized-spammers/>), I mentioned that we typically figure out how we ended up on a list and then unsubscribe.
 
 This company is a little different - a more unscrupulous bunch. We have no affiliation or contact with them, and their 'informative' website provides no contact information.
 

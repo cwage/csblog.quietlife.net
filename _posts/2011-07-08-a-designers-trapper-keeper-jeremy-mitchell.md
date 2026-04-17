@@ -5,9 +5,9 @@ date: 2011-07-08
 author: Jeremy Mitchell
 categories: [Miscellaneous]
 ---
-![](http://blog.centresource.com/wp-content/uploads/2011/07/trapperkeeper-logo.jpg)
+![](https://csblog.quietlife.net/wp-content/uploads/2011/07/trapperkeeper-logo.jpg)
 
-![](http://blog.centresource.com/wp-content/uploads/2011/07/jm1.jpg)
+![](https://csblog.quietlife.net/wp-content/uploads/2011/07/jm1.jpg)
 
 **1\. What's in your trapper keeper these days?**
 

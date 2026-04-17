@@ -5,7 +5,7 @@ date: 2010-12-06
 author: Will Acuff
 categories: [Miscellaneous]
 ---
-![thatguy](http://blog.centresource.com/wp-content/uploads/2010/11/thatguy-300x269.jpg)
+![thatguy](https://csblog.quietlife.net/wp-content/uploads/2010/11/thatguy-300x269.jpg)
 
 It might not be obvious to the casual observer, but I'm not actually gregarious. At a large party I'd rather grab my plastic plate of food and head to the corner. I'd prefer 2 good conversations over 15 high five chats that don't go anywhere. So about 2 years ago when we first started having regular mixers I had some reservations. Thankfully our times of tech camaraderie over beer and local eats has been thoroughly enjoyable. Many times I've been able to grab a few old or new friends and actually talk, actually further our friendship. While large enough where you could just blend into the crowd, I've found our [mixers](<http://mixer.centresource.com/>) to be a really enjoyable time. That is, as long as you avoid these top 5 mixer faux pas.
 

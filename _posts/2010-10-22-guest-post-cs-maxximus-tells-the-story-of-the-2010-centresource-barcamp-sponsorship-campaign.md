@@ -7,7 +7,7 @@ categories: [Miscellaneous]
 ---
 __
 
-_![picture-13](http://blog.centresource.com/wp-content/uploads/2010/10/picture-13-150x150.png)Today's post comes from guest blogger, CS-Maxximus. As annual sponsors of the conference, we wanted to make the most of our presence this year and we incorporated CS-Maxximus into an interactive Twitter promotion. Here, he writes about the three key elements of our BarCamp Nashville sponsorship campaign in vivid, robotic detail._
+_![picture-13](https://csblog.quietlife.net/wp-content/uploads/2010/10/picture-13-150x150.png)Today's post comes from guest blogger, CS-Maxximus. As annual sponsors of the conference, we wanted to make the most of our presence this year and we incorporated CS-Maxximus into an interactive Twitter promotion. Here, he writes about the three key elements of our BarCamp Nashville sponsorship campaign in vivid, robotic detail._
 
 Dear Universe,
 

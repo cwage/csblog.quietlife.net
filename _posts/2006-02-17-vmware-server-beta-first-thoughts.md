@@ -4,7 +4,7 @@ title: "VMWare Server Beta: First Thoughts"
 date: 2006-02-17
 author: Chris
 ---
-This week I installed and setup [VMWare Server Beta](<https://web.archive.org/web/20060215120609/http://www.vmware.com/support/server/doc/releasenotes_server_beta.html>), which as [we noted](<https://web.archive.org/web/20060211031742/http://blog.centresource.com/2006/02/06/free-vmware-server/>) was released for free last week. I haven't used it enough to provide a comprehensive review, but here are some things that stand out right off the bat:
+This week I installed and setup [VMWare Server Beta](<https://web.archive.org/web/20060215120609/http://www.vmware.com/support/server/doc/releasenotes_server_beta.html>), which as [we noted](<https://csblog.quietlife.net/2006/02/06/free-vmware-server/>) was released for free last week. I haven't used it enough to provide a comprehensive review, but here are some things that stand out right off the bat:
 
   * Installation, as with all of VMWare's products, is a breeze. The install script asks enough questions that you feel confident it's not just spraying files all over your filesystem, while still being fast and easy. All of the kernel modules compile cleanly and quickly, even on my highly customized (and old) Linux kernel.
   * Finally being able to run servers in VMWare without having to run XFree86 just to run the GUI (as in Workstation) is very, very cool.

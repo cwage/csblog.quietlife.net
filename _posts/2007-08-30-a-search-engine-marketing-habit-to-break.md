@@ -3,7 +3,7 @@ layout: post
 title: "A Search Engine Marketing habit to break"
 date: 2007-08-30
 ---
-![p35_180.jpg](http://blog.centresource.com/wp-content/uploads/2007/08/p35_180.jpg) Last month at BarCamp Nashville, John Ellis spoke about _Seven Habits Of Highly Effective Pay-Per-Click Advertisers._
+![p35_180.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/08/p35_180.jpg) Last month at BarCamp Nashville, John Ellis spoke about _Seven Habits Of Highly Effective Pay-Per-Click Advertisers._
 
 One of his Seven Habits was to **avoid the top spot** in a Search Engine Marketing campaign.
 

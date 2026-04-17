@@ -3,7 +3,7 @@ layout: post
 title: "How to Sell UX Design To Your Boss"
 date: 2015-02-27
 ---
-![UX Design](http://blog.centresource.com/wp-content/uploads/2015/02/ux-icon-298x300.png)It happens at least once a week. I am meeting with a client and hear a litany of reasons why the "execs" won't pay for a "long UX process." Occasionally, I hear of an executive team that values it but simply doesn't have the time or money to invest in a full UX approach.
+![UX Design](https://csblog.quietlife.net/wp-content/uploads/2015/02/ux-icon-298x300.png)It happens at least once a week. I am meeting with a client and hear a litany of reasons why the "execs" won't pay for a "long UX process." Occasionally, I hear of an executive team that values it but simply doesn't have the time or money to invest in a full UX approach.
 
 The result is that they count on their design team to craft a user experience that looks nice and works well enough. The developers often work directly from the Photoshop mockups and "build with blinders" on throughout the process.
 
@@ -45,34 +45,34 @@ So the ultimate question still remains...who owns UX? Owners are sacrificial, pa
 
 * * *
 
-  * [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+  * [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 
 
-[user experience](<http://blog.centresource.com/tag/user-experience/>)[ux](<http://blog.centresource.com/tag/ux/>)[UX-Design](<http://blog.centresource.com/tag/uxdesign/>)
+[user experience](<https://csblog.quietlife.net/tag/user-experience/>)[ux](<https://csblog.quietlife.net/tag/ux/>)[UX-Design](<https://csblog.quietlife.net/tag/uxdesign/>)
 
 ![](http://0.gravatar.com/avatar/28b25a12fd820b27b173ff603d7e17e6?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Evan Owens](<http://blog.centresource.com/author/eowens/> "Posts by Evan Owens")
+#### [Evan Owens](<https://csblog.quietlife.net/author/eowens/> "Posts by Evan Owens")
 
 As an Interactive Consultant, Evan Owens uses motivating communication and intuitive thinking to help organizations merge technology and marketing strategies to produce measurable results. Throughout his career, he has helped a broad base of organizations such as Adobe, Healthways, Singer Sewing, Mapco, and SESAC revolutionize their marketing and technology strategies.
 
 
 
 
-[ ![Testing Your Way To a Better Idea pt. 2](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
+[ ![Testing Your Way To a Better Idea pt. 2](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
 
-### [Testing Your Way To a Better Idea pt. 2](<http://blog.centresource.com/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
+### [Testing Your Way To a Better Idea pt. 2](<https://csblog.quietlife.net/2014/03/21/testing-your-way-to-a-better-idea-part-two/>)
 
-March 21, 2014 / [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+March 21, 2014 / [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 Last time we talked about the importance of a verified, evolving idea. We talked about ...
 
-[ ![5 Signs Your Startup Needs a Prototype](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2015/02/24/5-signs-startup-needs-prototype/>)
+[ ![5 Signs Your Startup Needs a Prototype](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/02/24/5-signs-startup-needs-prototype/>)
 
-### [5 Signs Your Startup Needs a Prototype](<http://blog.centresource.com/2015/02/24/5-signs-startup-needs-prototype/>)
+### [5 Signs Your Startup Needs a Prototype](<https://csblog.quietlife.net/2015/02/24/5-signs-startup-needs-prototype/>)
 
-February 24, 2015 / [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+February 24, 2015 / [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 A prototype is a visual, tangible representation of an application that doesn't require full-fledged development. ...
 
@@ -80,4 +80,4 @@ A prototype is a visual, tangible representation of an application that doesn't 
 
 # Post navigation
 
-[← 5 Signs Your Startup Needs a Prototype](<http://blog.centresource.com/2015/02/24/5-signs-startup-needs-prototype/>)
+[← 5 Signs Your Startup Needs a Prototype](<https://csblog.quietlife.net/2015/02/24/5-signs-startup-needs-prototype/>)

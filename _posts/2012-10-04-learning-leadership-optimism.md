@@ -5,7 +5,7 @@ date: 2012-10-04
 author: Evan Owens
 categories: [Company News, Miscellaneous]
 ---
-A few weeks ago we [published a blog about the power of words](<http://blog.centresource.com/2012/08/16/learning-leadership-the-power-of-words/>). This article will talk about the power of our non-verbal actions. I've been reading a number of books about leadership lately and one of the common themes is how to remain optimistic.
+A few weeks ago we [published a blog about the power of words](<https://csblog.quietlife.net/2012/08/16/learning-leadership-the-power-of-words/>). This article will talk about the power of our non-verbal actions. I've been reading a number of books about leadership lately and one of the common themes is how to remain optimistic.
 
 Often you can tell the level of a person's optimism by their non-verbal language. As leaders, we have the responsibility to remain optimistic.
 

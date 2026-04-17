@@ -15,7 +15,7 @@ Last year, traveling out of downtown Nashville south on I-65, an exit sign was "
 
 Expression of public art is wonderful, but is this art or vandalism? Defacing public property or "tagging" private property for some is just being selfish. The art of vandalism. Many are dismayed to see tagging done on a building's glass block facade, bridges, overpasses or even on custom painted murals. A negative perception of graffiti ensues when there are significant costs to repair or replace the damage done. Volunteer groups spring up in neighborhoods to clean up the environmental eyesores perpetrated on private property.
 
-![1487924762_c5969fa439.jpg](https://web.archive.org/web/20071025023204/http://blog.centresource.com/wp-content/uploads/2007/10/1487924762_c5969fa439.jpg)
+![1487924762_c5969fa439.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/10/1487924762_c5969fa439.jpg)
 
 So the question is graffiti true art or vandalism translated as a social blight, disruptive to our senses.
 

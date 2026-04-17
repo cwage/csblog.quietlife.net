@@ -5,7 +5,7 @@ date: 2010-12-20
 author: Jason Jones
 categories: [Web Design]
 ---
-![Angry Redhead](http://blog.centresource.com/wp-content/uploads/2010/12/istock_000008171373xsmall-300x198.jpg)
+![Angry Redhead](https://csblog.quietlife.net/wp-content/uploads/2010/12/istock_000008171373xsmall-300x198.jpg)
 
 For most (okay, maybe all) designers, "revisions" is a dreaded suicide mission that often leads to creative carnage and sub-portfolio worthy work. You just invested all of your creative juices into this award-worthy project, presented to the client and now they are asking for a classier font, a warmer blue and something, you know, swooshing + guttural sound + beep, beeping across the screen. What?!? What are you talking about??? Surely some designers know how to avoid this arbitrary mine field. I mean, amazing, un-compromised websites come out all the time - how do those designers avoid revision quicksand?
 

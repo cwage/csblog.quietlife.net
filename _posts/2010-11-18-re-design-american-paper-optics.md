@@ -5,7 +5,7 @@ date: 2010-11-18
 author: Lyndsay Rush
 categories: [Miscellaneous]
 ---
-![3d-glasses-3-d-glasses-3d-glasses-3d-illusions-at-3d-glasses-online-contact-information-20100830](http://blog.centresource.com/wp-content/uploads/2010/11/3d-glasses-3-d-glasses-3d-glasses-3d-illusions-at-3d-glasses-online-contact-information-20100830-300x250.png)
+![3d-glasses-3-d-glasses-3d-glasses-3d-illusions-at-3d-glasses-online-contact-information-20100830](https://csblog.quietlife.net/wp-content/uploads/2010/11/3d-glasses-3-d-glasses-3d-glasses-3d-illusions-at-3d-glasses-online-contact-information-20100830-300x250.png)
 
 When American Paper Optics came to us looking for help, we knew a few things up front: they were innovators of technology, notable leaders in their industry and the world's largest producer of 3D glasses.
 
@@ -29,7 +29,7 @@ The lead designer on this project, Jason O'Brien, weighs in on his vision and di
 
 And now, the finished product:
 
-![welcome-american-paper-optics-inc-201008301](http://blog.centresource.com/wp-content/uploads/2010/11/welcome-american-paper-optics-inc-201008301.png)
+![welcome-american-paper-optics-inc-201008301](https://csblog.quietlife.net/wp-content/uploads/2010/11/welcome-american-paper-optics-inc-201008301.png)
 
 Check out the full site:
 

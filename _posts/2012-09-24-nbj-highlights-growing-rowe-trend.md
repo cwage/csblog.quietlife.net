@@ -9,4 +9,4 @@ The Nashville Business Journal [takes a look this week](<http://www.bizjournals.
 
 > _"Aye, fight and you may die. Run, and you'll live... at least a while. And dying in your beds, many years from now, would you be willin' to trade ALL the days, from this day to that, for one chance, just one chance, to come back here and tell our enemies that they may take our lives, but they'll never take... OUR FREEDOM!"_ \-- William Wallace, on the traditional 9 to 5 office hour orthodoxy versus emergent ROWE workplace policies. 
 
-What's this all about? See our [past articles](<http://blog.centresource.com/?s=rowe>) on ROWE.
+What's this all about? See our [past articles](<https://csblog.quietlife.net/?s=rowe>) on ROWE.

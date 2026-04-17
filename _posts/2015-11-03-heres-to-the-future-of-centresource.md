@@ -35,34 +35,34 @@ Cheers to each of you. If this is what it looks like when a company grows up, th
 
 * * *
 
-  * [Culture](<http://blog.centresource.com/category/culture/>)
-  * [Development](<http://blog.centresource.com/category/development/>)
-  * [News](<http://blog.centresource.com/category/news/>)
+  * [Culture](<https://csblog.quietlife.net/category/culture/>)
+  * [Development](<https://csblog.quietlife.net/category/development/>)
+  * [News](<https://csblog.quietlife.net/category/news/>)
 
 
 
 ![](http://0.gravatar.com/avatar/09133b0972e2cad2cb0edcd7265506f3?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Ann Howard](<http://blog.centresource.com/author/ahoward/> "Posts by Ann Howard")
+#### [Ann Howard](<https://csblog.quietlife.net/author/ahoward/> "Posts by Ann Howard")
 
 ANN finally found her tribe when she started working in technology. She's enthusiastic about creating opportunities for girls in STEM (Science, Technology, Engineering, Math), and she feels strongly about empowering and encouraging moms in the workplace to embrace the unique skills and talents that are developed by parenting. Ann grew up in Cary, North Carolina and has an undergraduate degree from Salem College, as well as an MBA from UNCW. She has a happy-go-lucky personality and once appeared in a theater production of Cabaret as a Kit-Kat girl because of her resemblance to Liza Minelli. (Footage available upon request.) She was also a drummer for the bands Shamu and The Cash Flow, playing a vintage '60s Slingerland drum kit. If she were offered an all-expenses paid vacation, you'd find her traveling abroad to Greece as well as Brazil.
 
 
 
 
-[ ![Keep Your Development Customer-Focused](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2015/01/29/keep-development-customer-focused/>)
+[ ![Keep Your Development Customer-Focused](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/01/29/keep-development-customer-focused/>)
 
-### [Keep Your Development Customer-Focused](<http://blog.centresource.com/2015/01/29/keep-development-customer-focused/>)
+### [Keep Your Development Customer-Focused](<https://csblog.quietlife.net/2015/01/29/keep-development-customer-focused/>)
 
-January 29, 2015 / [Development](<http://blog.centresource.com/category/development/>)
+January 29, 2015 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 Man, why's the office computer guy or gal such a jerk? A common refrain, right? ...
 
-[ ![How'd We Do? A Look Back at our Web Predictions](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/11/18/howd-look-back-web-predictions/>)
+[ ![How'd We Do? A Look Back at our Web Predictions](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/11/18/howd-look-back-web-predictions/>)
 
-### [How'd We Do? A Look Back at our Web Predictions](<http://blog.centresource.com/2014/11/18/howd-look-back-web-predictions/>)
+### [How'd We Do? A Look Back at our Web Predictions](<https://csblog.quietlife.net/2014/11/18/howd-look-back-web-predictions/>)
 
-November 18, 2014 / [Culture](<http://blog.centresource.com/category/culture/>)
+November 18, 2014 / [Culture](<https://csblog.quietlife.net/category/culture/>)
 
 On Sept. 2, 2009, in the Centresource company meeting, our CEO had the staff break ...
 
@@ -70,4 +70,4 @@ On Sept. 2, 2009, in the Centresource company meeting, our CEO had the staff bre
 
 # Post navigation
 
-[← BarCamp 2015 Takeaways](<http://blog.centresource.com/2015/10/28/barcamp-2015-takeaways/>)
+[← BarCamp 2015 Takeaways](<https://csblog.quietlife.net/2015/10/28/barcamp-2015-takeaways/>)

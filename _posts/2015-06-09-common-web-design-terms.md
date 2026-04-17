@@ -5,7 +5,7 @@ date: 2015-06-09
 ---
 ## _Definitions to Words You Should Know Before Building A Website_
 
-![Web Design Terms](http://blog.centresource.com/wp-content/uploads/2015/06/CommonWebDesignWords-300x289.jpg)As a full-time developer, I've had the pleasure of working with some really awesome clients but sometimes communication can get a little foggy due to the number of technical terms that developers, strategists, and project managers tend to throw around during meetings and phone calls.
+![Web Design Terms](https://csblog.quietlife.net/wp-content/uploads/2015/06/CommonWebDesignWords-300x289.jpg)As a full-time developer, I've had the pleasure of working with some really awesome clients but sometimes communication can get a little foggy due to the number of technical terms that developers, strategists, and project managers tend to throw around during meetings and phone calls.
 
 In an effort to help bridge the communication gap, we've put together a fairly extensive list of terms you might across when having your site built.
 
@@ -55,34 +55,34 @@ This article assumes you already have a general understanding of the web and how
 
 * * *
 
-  * [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
+  * [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
 
 
 
-[Web design](<http://blog.centresource.com/tag/web-design/>)[Web-site-design](<http://blog.centresource.com/tag/web-site-design/>)
+[Web design](<https://csblog.quietlife.net/tag/web-design/>)[Web-site-design](<https://csblog.quietlife.net/tag/web-site-design/>)
 
 ![](http://0.gravatar.com/avatar/426a3fe3c45ea3db91616cac0a0ed433?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Desmond Cain](<http://blog.centresource.com/author/dcain/> "Posts by Desmond Cain")
+#### [Desmond Cain](<https://csblog.quietlife.net/author/dcain/> "Posts by Desmond Cain")
 
 DESMOND was born and raised in Nashville, Tennessee. He loves it here and is proud of how fast the tech community is growing. If you sense a star in your midst, it might be because he used to model for Advantage Modeling Talent, doing some commercials for Opryland Hotel and Channel 4 in Nashville. Desmond currently lives on the outskirts of town and believes Nashville has a great balance between city and country. He really loves working on import cars (His car of choice being a Nissan 240 SX) and then taking them to the racetrack. Currently his hobby is hacking together a little automotive smartphone app.
 
 
 
 
-[ ![Test yourself before you... test yourself?](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/09/02/test-test/>)
+[ ![Test yourself before you... test yourself?](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/09/02/test-test/>)
 
-### [Test yourself before you... test yourself?](<http://blog.centresource.com/2014/09/02/test-test/>)
+### [Test yourself before you... test yourself?](<https://csblog.quietlife.net/2014/09/02/test-test/>)
 
-September 2, 2014 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
+September 2, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
 
 How many times have you launched a marketing initiative and then you move onto the ...
 
-[ ![Ultimate List of SEO Blogs](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/09/23/ultimate-list-seo-blogs/>)
+[ ![Ultimate List of SEO Blogs](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/09/23/ultimate-list-seo-blogs/>)
 
-### [Ultimate List of SEO Blogs](<http://blog.centresource.com/2014/09/23/ultimate-list-seo-blogs/>)
+### [Ultimate List of SEO Blogs](<https://csblog.quietlife.net/2014/09/23/ultimate-list-seo-blogs/>)
 
-September 23, 2014 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
+September 23, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
 
 With search engine placement being a high priority for so many of our clients at ...
 
@@ -90,4 +90,4 @@ With search engine placement being a high priority for so many of our clients at
 
 # Post navigation
 
-[← Centresource Wins Two 2015 Telly Awards!](<http://blog.centresource.com/2015/06/01/centresource-wins-two-2015-telly-awards/>)
+[← Centresource Wins Two 2015 Telly Awards!](<https://csblog.quietlife.net/2015/06/01/centresource-wins-two-2015-telly-awards/>)

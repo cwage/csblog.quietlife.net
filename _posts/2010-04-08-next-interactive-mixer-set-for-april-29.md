@@ -5,7 +5,7 @@ date: 2010-04-08
 author: Missy Larzelere
 categories: [Company News]
 ---
-[![April2010Mixer](http://blog.centresource.com/wp-content/uploads/2010/04/April2010Mixer-300x214.jpg)](<https://web.archive.org/web/20140628053435/http://mixer.centresource.com/>)
+[![April2010Mixer](https://csblog.quietlife.net/wp-content/uploads/2010/04/April2010Mixer-300x214.jpg)](<https://web.archive.org/web/20140628053435/http://mixer.centresource.com/>)
 
 Spring is in the air! The sky is blue, the grass is growing, and it's time for the [CentreSource Interactive Mixer](<https://web.archive.org/web/20140628053435/http://mixer.centresource.com/>)! Come by North Forth for some great food, drink, and conversation.
 

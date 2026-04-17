@@ -5,7 +5,7 @@ date: 2011-02-01
 author: Lyndsay Rush
 categories: [Content, Miscellaneous]
 ---
-[![](http://blog.centresource.com/wp-content/uploads/2011/02/Picture-11.png)](<http://microcopywriting.com/>)
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/02/Picture-11.png)](<http://microcopywriting.com/>)
 
 Dearest Twitter,
 

@@ -3,7 +3,7 @@ layout: post
 title: "A Team That Plays Together, Stays Together"
 date: 2015-04-29
 ---
-![Lego Serious Play](http://blog.centresource.com/wp-content/uploads/2015/04/LegoSeriousPlay-300x185.jpg)"You can learn more about a person in an hour of play than you can from a lifetime of conversation." - Plato
+![Lego Serious Play](https://csblog.quietlife.net/wp-content/uploads/2015/04/LegoSeriousPlay-300x185.jpg)"You can learn more about a person in an hour of play than you can from a lifetime of conversation." - Plato
 
 The Nashville Technology Council and Centresource are teaming up to present an event that aims to improve communication between technologists and marketers.
 
@@ -35,32 +35,32 @@ Free as a member of the NTC, $10 for non-members
 
 * * *
 
-  * [News](<http://blog.centresource.com/category/news/>)
+  * [News](<https://csblog.quietlife.net/category/news/>)
 
 
 
-[Company-News](<http://blog.centresource.com/tag/company-news/>)[Nashville](<http://blog.centresource.com/tag/nashville/>)[Networking](<http://blog.centresource.com/tag/networking/>)[News](<http://blog.centresource.com/tag/news/>)[Productivity](<http://blog.centresource.com/tag/productivity/>)
+[Company-News](<https://csblog.quietlife.net/tag/company-news/>)[Nashville](<https://csblog.quietlife.net/tag/nashville/>)[Networking](<https://csblog.quietlife.net/tag/networking/>)[News](<https://csblog.quietlife.net/tag/news/>)[Productivity](<https://csblog.quietlife.net/tag/productivity/>)
 
 ![](http://0.gravatar.com/avatar/09133b0972e2cad2cb0edcd7265506f3?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Ann Howard](<http://blog.centresource.com/author/ahoward/> "Posts by Ann Howard")
+#### [Ann Howard](<https://csblog.quietlife.net/author/ahoward/> "Posts by Ann Howard")
 
 
 
 
-[ ![Hiring: Sales Development Representative](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2015/04/21/hiring-sales-development-representative/>)
+[ ![Hiring: Sales Development Representative](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/04/21/hiring-sales-development-representative/>)
 
-### [Hiring: Sales Development Representative](<http://blog.centresource.com/2015/04/21/hiring-sales-development-representative/>)
+### [Hiring: Sales Development Representative](<https://csblog.quietlife.net/2015/04/21/hiring-sales-development-representative/>)
 
-April 21, 2015 / [News](<http://blog.centresource.com/category/news/>)
+April 21, 2015 / [News](<https://csblog.quietlife.net/category/news/>)
 
 JOB TITLE Sales Development Representative SUMMARY The Sales Development Representative (SDR) prospects into lists of ...
 
-[ ![We Won A Graphic Design USA Award!](http://blog.centresource.com/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2015/04/24/we-won-a-graphic-design-usa-award/>)
+[ ![We Won A Graphic Design USA Award!](https://csblog.quietlife.net/wp-content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
 
-### [We Won A Graphic Design USA Award!](<http://blog.centresource.com/2015/04/24/we-won-a-graphic-design-usa-award/>)
+### [We Won A Graphic Design USA Award!](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
 
-April 24, 2015 / [News](<http://blog.centresource.com/category/news/>)
+April 24, 2015 / [News](<https://csblog.quietlife.net/category/news/>)
 
 We are very excited to announce that we recently won a 2015 American Web Design ...
 
@@ -68,6 +68,6 @@ We are very excited to announce that we recently won a 2015 American Web Design 
 
 # Post navigation
 
-[← We Won A Graphic Design USA Award!](<http://blog.centresource.com/2015/04/24/we-won-a-graphic-design-usa-award/>)
+[← We Won A Graphic Design USA Award!](<https://csblog.quietlife.net/2015/04/24/we-won-a-graphic-design-usa-award/>)
 
-[Hiring: Junior Marketing Strategist →](<http://blog.centresource.com/2015/04/30/junior-marketing-strategist/>)
+[Hiring: Junior Marketing Strategist →](<https://csblog.quietlife.net/2015/04/30/junior-marketing-strategist/>)

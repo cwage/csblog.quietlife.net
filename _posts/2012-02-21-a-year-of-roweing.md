@@ -5,7 +5,7 @@ date: 2012-02-21
 author: Shaun Jackson
 categories: [Company News, Miscellaneous, Operations]
 ---
-[![](http://blog.centresource.com/wp-content/uploads/2012/02/cubicles1.jpg)](<http://blog.centresource.com/wp-content/uploads/2012/02/cubicles1.jpg> "cubicles")The beginning of 2012 means that it's been a full year since the leadership team of Centresource took an enormous leap of faith and did away with start and end times for the workday, and allowed employees to work from any location desired. Around the halls of Centresource, you'll hear it referred to as the ROWE system or "going ROWE," referring to the Results-Only Work Environment philosophy.
+[![](https://csblog.quietlife.net/wp-content/uploads/2012/02/cubicles1.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2012/02/cubicles1.jpg> "cubicles")The beginning of 2012 means that it's been a full year since the leadership team of Centresource took an enormous leap of faith and did away with start and end times for the workday, and allowed employees to work from any location desired. Around the halls of Centresource, you'll hear it referred to as the ROWE system or "going ROWE," referring to the Results-Only Work Environment philosophy.
 
 The way that ROWE plays out at Centresource is that each employee has a certain metric that he or she is required to meet, such as a certain number of billable hours tracked each week, and as long as that goal is met, when or where it is done doesn't matter. In order to ensure that employees could still do their job, team members must be reachable on weekdays between 8am and 6pm, either by phone or instant message.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Building User Personas: Why? How?"
 date: 2014-12-09
 ---
-**![Persona](http://blog.centresource.com/content/uploads/2014/12/persona-300x298.jpg)Why?**
+**![Persona](https://csblog.quietlife.net/content/uploads/2014/12/persona-300x298.jpg)Why?**
 
 Most great products are born out of recognizing a common problem that has no solution -- and providing that solution to a (hopefully paying) customer base. This, however, is really only half the battle of planning out your product or website. There are very few, if any, products out there that can be all things to all people.
 
@@ -29,33 +29,33 @@ By taking these humanizing preliminary steps, you are immediately making better 
 
 * * *
 
-  * [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
-  * [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+  * [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
+  * [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 
 
-[persona](<http://blog.centresource.com/tag/persona/>)[user experience](<http://blog.centresource.com/tag/user-experience/>)[ux](<http://blog.centresource.com/tag/ux/>)[UX-Design](<http://blog.centresource.com/tag/uxdesign/>)
+[persona](<https://csblog.quietlife.net/tag/persona/>)[user experience](<https://csblog.quietlife.net/tag/user-experience/>)[ux](<https://csblog.quietlife.net/tag/ux/>)[UX-Design](<https://csblog.quietlife.net/tag/uxdesign/>)
 
 ![](http://1.gravatar.com/avatar/75b245664eaa6d08108bb6bd4c337499?s=120&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [Tomiko Peirano](<http://blog.centresource.com/author/tpeirano/> "Posts by Tomiko Peirano")
+#### [Tomiko Peirano](<https://csblog.quietlife.net/author/tpeirano/> "Posts by Tomiko Peirano")
 
 
 
 
-[ ![Testing Your Way To a Better Idea pt.3](http://blog.centresource.com/content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/03/24/testing-your-way-to-a-better-idea-part-three/>)
+[ ![Testing Your Way To a Better Idea pt.3](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/03/24/testing-your-way-to-a-better-idea-part-three/>)
 
-### [Testing Your Way To a Better Idea pt.3](<http://blog.centresource.com/2014/03/24/testing-your-way-to-a-better-idea-part-three/>)
+### [Testing Your Way To a Better Idea pt.3](<https://csblog.quietlife.net/2014/03/24/testing-your-way-to-a-better-idea-part-three/>)
 
-March 24, 2014 / [UX-Design](<http://blog.centresource.com/category/uxdesign/>)
+March 24, 2014 / [UX-Design](<https://csblog.quietlife.net/category/uxdesign/>)
 
 So if you're still with me, we've talked about: Product Ideation User identification User acquisition ...
 
-[ ![Begin With The End In Mind](http://blog.centresource.com/content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/11/20/begin-end-mind/>)
+[ ![Begin With The End In Mind](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/11/20/begin-end-mind/>)
 
-### [Begin With The End In Mind](<http://blog.centresource.com/2014/11/20/begin-end-mind/>)
+### [Begin With The End In Mind](<https://csblog.quietlife.net/2014/11/20/begin-end-mind/>)
 
-November 20, 2014 / [Interactive Strategy](<http://blog.centresource.com/category/interactive-strategy-2/>)
+November 20, 2014 / [Interactive Strategy](<https://csblog.quietlife.net/category/interactive-strategy-2/>)
 
 If you don't spend your days heads down, immersed in technology it's easy to feel ...
 
@@ -63,6 +63,6 @@ If you don't spend your days heads down, immersed in technology it's easy to fee
 
 # Post navigation
 
-[← 5 Key Steps to Get a Client Relationship Back on Track](<http://blog.centresource.com/2014/12/05/5-key-steps-get-client-relationship-back-track/>)
+[← 5 Key Steps to Get a Client Relationship Back on Track](<https://csblog.quietlife.net/2014/12/05/5-key-steps-get-client-relationship-back-track/>)
 
-[How to Write a Case Study That People Want to Read →](<http://blog.centresource.com/2014/12/12/write-case-study-people-want-read/>)
+[How to Write a Case Study That People Want to Read →](<https://csblog.quietlife.net/2014/12/12/write-case-study-people-want-read/>)

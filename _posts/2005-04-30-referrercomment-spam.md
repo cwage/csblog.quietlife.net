@@ -11,16 +11,16 @@ There is a growing nuisance for users and administrators of sites that run web s
 
 Table of contents
 
-  1. [Introduction](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Introduction>)
-  2. [First, a Note on Spelling](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-First,-a-Note-on-Spelling>)
-  3. [What is HTTP Referer?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-What-is-HTTP-Referer?>)
-  4. [OK, What is Referer Spam?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-OK,-What-is-Referer-Spam?>)
-  5. [Why Referer Spam?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Why-Referer-Spam?>)
-  6. [What is Comment/Trackback Spam?](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-What-is-Comment/Trackback-Spam?>)
-  7. [Consequences](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Consequences>)
-  8. [Solutions (and Non-Solutions)](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Solutions-\(and-Non-Solutions\>)>)
-  9. [Conclusion](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Conclusion>)
-  10. [Links](<https://web.archive.org/web/20050519003516/http://blog.centresource.com/2005/04/30/referrercomment-spam/#s-Links>)
+  1. [Introduction](<https://csblog.quietlife.net/2005/04/30/referrercomment-spam/#s-Introduction>)
+  2. [First, a Note on Spelling](<https://csblog.quietlife.net/2005/04/30/referrercomment-spam/#s-First,-a-Note-on-Spelling>)
+  3. [What is HTTP Referer?](<https://csblog.quietlife.net/2005/04/30/referrercomment-spam/#s-What-is-HTTP-Referer?>)
+  4. [OK, What is Referer Spam?](<https://csblog.quietlife.net/2005/04/30/referrercomment-spam/#s-OK,-What-is-Referer-Spam?>)
+  5. [Why Referer Spam?](<https://csblog.quietlife.net/2005/04/30/referrercomment-spam/#s-Why-Referer-Spam?>)
+  6. [What is Comment/Trackback Spam?](<https://csblog.quietlife.net/2005/04/30/referrercomment-spam/#s-What-is-Comment/Trackback-Spam?>)
+  7. [Consequences](<https://csblog.quietlife.net/2005/04/30/referrercomment-spam/#s-Consequences>)
+  8. [Solutions (and Non-Solutions)](<https://csblog.quietlife.net/2005/04/30/referrercomment-spam/#s-Solutions-\(and-Non-Solutions\>)>)
+  9. [Conclusion](<https://csblog.quietlife.net/2005/04/30/referrercomment-spam/#s-Conclusion>)
+  10. [Links](<https://csblog.quietlife.net/2005/04/30/referrercomment-spam/#s-Links>)
 
 
 

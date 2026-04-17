@@ -13,6 +13,6 @@ If you want to be less adventuresome with hacking your iPhone (and possibly void
 
 I'm actually more fascinated with baking a clay version of the iPhone:
 
-![1121752677_71b794b533.jpg](http://blog.centresource.com/wp-content/uploads/2007/08/1121752677_71b794b533.jpg)
+![1121752677_71b794b533.jpg](https://csblog.quietlife.net/wp-content/uploads/2007/08/1121752677_71b794b533.jpg)
 
 View vaughn235 [Flickr set](<https://web.archive.org/web/20251223145355/http://www.flickr.com/photos/vaughn235/>) of the clay iPhone.

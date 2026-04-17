@@ -3,9 +3,9 @@ layout: post
 title: "Collecting User Stories (User Stories 101: Part 3 of 5)"
 date: 2014-07-29
 ---
-In [Part 2 of our "User Stories 101" series](<http://blog.centresource.com/2014/07/25/writing-good-user-stories/> "how to write user stories"), we discussed the qualities of a great user story and how to write them. Now, we'll talk about the ways in which we can retrieve user stories from a disparate team of people.
+In [Part 2 of our "User Stories 101" series](<https://csblog.quietlife.net/2014/07/25/writing-good-user-stories/> "how to write user stories"), we discussed the qualities of a great user story and how to write them. Now, we'll talk about the ways in which we can retrieve user stories from a disparate team of people.
 
-[![User stories 101](http://blog.centresource.com/content/uploads/2014/07/user_stories_101-01-300x194.jpg)](<http://blog.centresource.com/content/uploads/2014/07/user_stories_101-01.jpg>)
+[![User stories 101](https://csblog.quietlife.net/content/uploads/2014/07/user_stories_101-01-300x194.jpg)](<https://csblog.quietlife.net/content/uploads/2014/07/user_stories_101-01.jpg>)
 
 At this point, you've identified your users and their unique needs. To help articulate these thoughts further, I often like to facilitate a workflow workshop. Start with an empty box and use this as your starting screen or interaction point. Walk through what happens next, and **take a depth-first approach: follow each trail to its end, rather than trying to go one level deep across the whole experience**.
 
@@ -47,38 +47,38 @@ Story sorting allows us to weed out bad ideas, poorly written or duplicate cards
 
 **At this point, you should start to have an idea of what you're building. Feel good? This process should be draining, but incredibly satisfying.**
 
-**We're just getting started. In[Part 4](<http://blog.centresource.com/2014/08/01/acceptance-testing/> "acceptance testing"), we'll unpack how to add the right amount of criteria to our user stories so they can actually be worked on. Stick around!**
+**We're just getting started. In[Part 4](<https://csblog.quietlife.net/2014/08/01/acceptance-testing/> "acceptance testing"), we'll unpack how to add the right amount of criteria to our user stories so they can actually be worked on. Stick around!**
 
 _Editor's Note: This series was originally drafted by Jon Arnold, but was not published until after he left Centresource for his next adventure as Product Manager at Taonii. You can find Jon on Twitter[@jonarnold](<http://twitter.com/jonarnold>)._
 
 * * *
 
-  * [Development](<http://blog.centresource.com/category/development/>)
+  * [Development](<https://csblog.quietlife.net/category/development/>)
 
 
 
-[Development](<http://blog.centresource.com/tag/development/>)
+[Development](<https://csblog.quietlife.net/tag/development/>)
 
 ![](http://0.gravatar.com/avatar/2152101bbbd6554dcb5b80894835408f?s=120&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G)
 
-#### [staff](<http://blog.centresource.com/author/staff/> "Posts by staff")
+#### [staff](<https://csblog.quietlife.net/author/staff/> "Posts by staff")
 
 
 
 
-[ ![Three Tips to Produce Easy to Understand Code](http://blog.centresource.com/content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/05/20/three-tips-to-produce-easy-to-understand-code/>)
+[ ![Three Tips to Produce Easy to Understand Code](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/05/20/three-tips-to-produce-easy-to-understand-code/>)
 
-### [Three Tips to Produce Easy to Understand Code](<http://blog.centresource.com/2014/05/20/three-tips-to-produce-easy-to-understand-code/>)
+### [Three Tips to Produce Easy to Understand Code](<https://csblog.quietlife.net/2014/05/20/three-tips-to-produce-easy-to-understand-code/>)
 
-May 20, 2014 / [Development](<http://blog.centresource.com/category/development/>)
+May 20, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 From working the last 6 plus years in the web industry, I've come to learn ...
 
-[ ![Writing Good User Stories \(User Stories 101: Part 2 of 5\)](http://blog.centresource.com/content/themes/marroco/assets/img/empty/pixel.png) ](<http://blog.centresource.com/2014/07/25/writing-good-user-stories-user-stories-101-part-2-5/>)
+[ ![Writing Good User Stories \(User Stories 101: Part 2 of 5\)](https://csblog.quietlife.net/content/themes/marroco/assets/img/empty/pixel.png) ](<https://csblog.quietlife.net/2014/07/25/writing-good-user-stories-user-stories-101-part-2-5/>)
 
-### [Writing Good User Stories (User Stories 101: Part 2 of 5)](<http://blog.centresource.com/2014/07/25/writing-good-user-stories-user-stories-101-part-2-5/>)
+### [Writing Good User Stories (User Stories 101: Part 2 of 5)](<https://csblog.quietlife.net/2014/07/25/writing-good-user-stories-user-stories-101-part-2-5/>)
 
-July 25, 2014 / [Development](<http://blog.centresource.com/category/development/>)
+July 25, 2014 / [Development](<https://csblog.quietlife.net/category/development/>)
 
 In Part 1 of our "User Stories 101" series, I introduced the basic model of ...
 
@@ -86,6 +86,6 @@ In Part 1 of our "User Stories 101" series, I introduced the basic model of ...
 
 # Post navigation
 
-[← Writing Good User Stories (User Stories 101: Part 2 of 5)](<http://blog.centresource.com/2014/07/25/writing-good-user-stories-user-stories-101-part-2-5/>)
+[← Writing Good User Stories (User Stories 101: Part 2 of 5)](<https://csblog.quietlife.net/2014/07/25/writing-good-user-stories-user-stories-101-part-2-5/>)
 
-[Acceptance Testing (User Stories 101: Part 4 of 5) →](<http://blog.centresource.com/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)
+[Acceptance Testing (User Stories 101: Part 4 of 5) →](<https://csblog.quietlife.net/2014/08/01/acceptance-testing-user-stories-101-part-4-5/>)

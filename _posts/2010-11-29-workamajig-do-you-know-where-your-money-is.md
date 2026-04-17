@@ -13,4 +13,4 @@ Often we don't have the time during the course of a busy day to shift through a 
 
 Without a clear idea of your companies metrics, making educated decisions that increase profitability is nearly impossible. 
 
-_Editor's note: This is the final post in an a three-part series covering Workamajig, our ERP/CRM system. Check out parts[one](<http://blog.centresource.com/2010/11/16/what-the-what-is-workamajig/>) and [two](<http://blog.centresource.com/2010/11/17/workamajig-project-central/>)._
+_Editor's note: This is the final post in an a three-part series covering Workamajig, our ERP/CRM system. Check out parts[one](<https://csblog.quietlife.net/2010/11/16/what-the-what-is-workamajig/>) and [two](<https://csblog.quietlife.net/2010/11/17/workamajig-project-central/>)._

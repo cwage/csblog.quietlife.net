@@ -18,12 +18,12 @@ With the advent of Spring and Summer weather, these mixers are sure to continue 
 
 We hope to see you out at the next mixer! Bring a friend.
 
-![winners](https://web.archive.org/web/20110109021025/http://blog.centresource.com/wp-content/uploads/2009/06/3389743303_e18e24990e-300x199.jpg)
+![winners](https://csblog.quietlife.net/wp-content/uploads/2009/06/3389743303_e18e24990e-300x199.jpg)
 
-![3494547237_31e2dd1827](https://web.archive.org/web/20110109021025/http://blog.centresource.com/wp-content/uploads/2009/06/3494547237_31e2dd1827-300x199.jpg)
+![3494547237_31e2dd1827](https://csblog.quietlife.net/wp-content/uploads/2009/06/3494547237_31e2dd1827-300x199.jpg)
 
-![3317161114_d1fb3a1c6b_b](https://web.archive.org/web/20110109021028/http://blog.centresource.com/wp-content/uploads/2009/06/3317161114_d1fb3a1c6b_b-300x200.jpg)
+![3317161114_d1fb3a1c6b_b](https://csblog.quietlife.net/wp-content/uploads/2009/06/3317161114_d1fb3a1c6b_b-300x200.jpg)
 
-![3238943253_a7b2fd2dcb_o](https://web.archive.org/web/20110109021032/http://blog.centresource.com/wp-content/uploads/2009/06/3238943253_a7b2fd2dcb_o-300x199.jpg)
+![3238943253_a7b2fd2dcb_o](https://csblog.quietlife.net/wp-content/uploads/2009/06/3238943253_a7b2fd2dcb_o-300x199.jpg)
 
-![img_2566](https://web.archive.org/web/20110109021025/http://blog.centresource.com/wp-content/uploads/2009/06/img_2566-300x200.jpg)
+![img_2566](https://csblog.quietlife.net/wp-content/uploads/2009/06/img_2566-300x200.jpg)

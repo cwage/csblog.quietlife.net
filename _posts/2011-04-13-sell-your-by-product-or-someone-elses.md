@@ -5,7 +5,7 @@ date: 2011-04-13
 author: Jeremy Mitchell
 categories: [Marketing]
 ---
-![](http://blog.centresource.com/wp-content/uploads/2011/04/Screen-shot-2011-04-13-at-7.38.30-PM-300x257.png)There's a new company called "[StickyGram](<http://stickygram.com/>)". They turn your [Instagrams](<http://instagr.am/>) into fridge magnets. StickyGram will print your favorite images as awesome little magnets for you to play with.
+![](https://csblog.quietlife.net/wp-content/uploads/2011/04/Screen-shot-2011-04-13-at-7.38.30-PM-300x257.png)There's a new company called "[StickyGram](<http://stickygram.com/>)". They turn your [Instagrams](<http://instagr.am/>) into fridge magnets. StickyGram will print your favorite images as awesome little magnets for you to play with.
 
 They took an existing idea ("[Instagram](<http://instagr.am/>)") and figured out a way to sell a "by-product" (refrigerator magnets). When I saw this, it reminded me of a chapter in the book, [Rework by Jason Fried of 37 Signals](<http://37signals.com/rework/>) entitled, "Sell your by-product."
 

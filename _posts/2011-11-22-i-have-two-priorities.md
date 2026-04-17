@@ -11,7 +11,7 @@ He did a [presentation](<http://www.slideshare.net/merlinmann/what-is-a-priority
 
 He asserts that each of us really only have one or two real priorities. He says that we can easily tell what a priority is by one simple fact: [it gets done](<http://www.43folders.com/2009/04/28/priorities>). Too often we pile ourselves up with "important" and "essential" tasks, and refuse to let ourselves admit anything else. In reality, something might just not get done, due to internal or external forces, or something might just not be a good idea. The fear of failure often binds us from making the right decision and killing our dear "priority".
 
-[![](http://blog.centresource.com/wp-content/uploads/2011/11/priorityarms-300x108.png)](<http://blog.centresource.com/wp-content/uploads/2011/11/priorityarms.png> "priorityarms")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/11/priorityarms-300x108.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/11/priorityarms.png> "priorityarms")
 
 I was spending a lot of time fretting about little details, making mountains out of molehills, instead of focusing on what really matters. So, thinking this through, I realized I have but two priorities. They are:
 

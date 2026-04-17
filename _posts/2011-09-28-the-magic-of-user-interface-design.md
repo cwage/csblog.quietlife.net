@@ -33,7 +33,7 @@ The human brain automatically compartmentalizes words and images into separate p
 
 [Shoply](<http://shoply.com/welcome/>) is an example of a site that has a great user interface. If you look at the below image, you'll notice that the design applied each of the 4 techniques I mentioned above.
 
-[![](http://blog.centresource.com/wp-content/uploads/2011/09/Screen-shot-2011-09-15-at-3.00.34-PM-1024x479.png)](<http://blog.centresource.com/wp-content/uploads/2011/09/Screen-shot-2011-09-15-at-3.00.34-PM.png> "Screen shot 2011-09-15 at 3.00.34 PM")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/09/Screen-shot-2011-09-15-at-3.00.34-PM-1024x479.png)](<https://csblog.quietlife.net/wp-content/uploads/2011/09/Screen-shot-2011-09-15-at-3.00.34-PM.png> "Screen shot 2011-09-15 at 3.00.34 PM")
 
 • The designer designed with a purpose. Immediately I knew this was a site I could purchase unique items from local businesses.  
 • They 'used their words'. I knew exactly what new items were featured, where to search the marketplace, and where to click if I wanted to open my own shop.  

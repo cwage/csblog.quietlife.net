@@ -5,7 +5,7 @@ date: 2012-08-16
 author: Evan Owens
 categories: [Miscellaneous]
 ---
-A few weeks [![Power of Words](http://blog.centresource.com/wp-content/uploads/2012/08/powerofwords.png)](<http://blog.centresource.com/wp-content/uploads/2012/08/powerofwords.png> "Power of Words")ago, I discussed the power of the questions we ask and how questions are often indicative of our values. Words are powerful. With words, wars have been started and ended. With words, entire cultures of people have been freed from bondage. Words encourage, words tear down. Much of the hurt we encounter in the world was caused by words.
+A few weeks [![Power of Words](https://csblog.quietlife.net/wp-content/uploads/2012/08/powerofwords.png)](<https://csblog.quietlife.net/wp-content/uploads/2012/08/powerofwords.png> "Power of Words")ago, I discussed the power of the questions we ask and how questions are often indicative of our values. Words are powerful. With words, wars have been started and ended. With words, entire cultures of people have been freed from bondage. Words encourage, words tear down. Much of the hurt we encounter in the world was caused by words.
 
 As a leader, the words you say are critical. As a leader here at Centresource, my words are the primary vehicle I use to communicate vision. This is an area I am working on growing in each day. Many ancient proverbs teach of choosing your words wisely. Many of these are found in the book of Proverbs and these can be found in chapter ten.
 

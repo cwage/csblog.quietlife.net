@@ -13,13 +13,13 @@ Other times...not so much.
 
 I saw this on [CopyBlogger](<http://copyranter.blogspot.com/>) yesterday (it's been circling the internet for a while now) and just couldn't resist sharing this giant #fail:
 
-[![](http://blog.centresource.com/wp-content/uploads/2011/05/Mr.Clean_-225x300.jpg)](<http://blog.centresource.com/wp-content/uploads/2011/05/Mr.Clean_.jpg> "Mr.Clean")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/05/Mr.Clean_-225x300.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/05/Mr.Clean_.jpg> "Mr.Clean")
 
 Ouch!
 
 Couldn't help but make the comparison to the below ad from nearly 50 years ago:
 
-[![](http://blog.centresource.com/wp-content/uploads/2011/05/mothers_day-227x300.jpg)](<http://blog.centresource.com/wp-content/uploads/2011/05/mothers_day.jpg> "mothers_day")
+[![](https://csblog.quietlife.net/wp-content/uploads/2011/05/mothers_day-227x300.jpg)](<https://csblog.quietlife.net/wp-content/uploads/2011/05/mothers_day.jpg> "mothers_day")
 
 Oh advertisers. When will we learn?
 

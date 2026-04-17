@@ -8,25 +8,25 @@ CentreSource, being a service provider, continues to evaluate the ideal billing 
 
 Table of contents
 
-  1. [ Introduction ](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s--Introduction->)
-     1. [Billable Hours - Time on the Table](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Billable-Hours---Time-on-the-Table>)
-        1. [Profitability: Average](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Profitability:-Average>)
-        2. [Alignment: Very Low](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Alignment:--Very-Low>)
-        3. [Management: Straightforward, but tedious](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Management:-Straightforward,-but-tedious>)
-        4. [Risk: Lowest](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:-Lowest>)
-     2. [Projects - Masterful Guessing](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Projects---Masterful-Guessing>)
-        1. [Profitability: Depends on Skill](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Profitability:-Depends-on-Skill>)
-        2. [Alignment: Average](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Alignment:-Average>)
-        3. [Management: Its own Extreme Sport](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Management:-Its-own-Extreme-Sport>)
-        4. [Risk: Possible Show Stopper](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:-Possible-Show-Stopper>)
-     3. [Value Billing - The sky is the limit](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Value-Billing---The-sky-is-the-limit>)
-        1. [Profitability: From zero to infinity!](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Profitability:-From-zero-to-infinity!>)
-        2. [Alignment: So happy together](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Alignment:-So-happy-together>)
-        3. [Management: It better be measurable](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Management:-It-better-be-measurable>)
-        4. [Risk: Its all about pre-screening](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Risk:--Its-all-about-pre-screening>)
+  1. [ Introduction ](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s--Introduction->)
+     1. [Billable Hours - Time on the Table](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Billable-Hours---Time-on-the-Table>)
+        1. [Profitability: Average](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Profitability:-Average>)
+        2. [Alignment: Very Low](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Alignment:--Very-Low>)
+        3. [Management: Straightforward, but tedious](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Management:-Straightforward,-but-tedious>)
+        4. [Risk: Lowest](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Risk:-Lowest>)
+     2. [Projects - Masterful Guessing](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Projects---Masterful-Guessing>)
+        1. [Profitability: Depends on Skill](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Profitability:-Depends-on-Skill>)
+        2. [Alignment: Average](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Alignment:-Average>)
+        3. [Management: Its own Extreme Sport](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Management:-Its-own-Extreme-Sport>)
+        4. [Risk: Possible Show Stopper](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Risk:-Possible-Show-Stopper>)
+     3. [Value Billing - The sky is the limit](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Value-Billing---The-sky-is-the-limit>)
+        1. [Profitability: From zero to infinity!](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Profitability:-From-zero-to-infinity!>)
+        2. [Alignment: So happy together](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Alignment:-So-happy-together>)
+        3. [Management: It better be measurable](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Management:-It-better-be-measurable>)
+        4. [Risk: Its all about pre-screening](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Risk:--Its-all-about-pre-screening>)
 
 
-* [Conclusion](<https://web.archive.org/web/20050507134650/http://blog.centresource.com/2005/05/01/service-industry-billing-methods/#s-Conclusion>)
+* [Conclusion](<https://csblog.quietlife.net/2005/05/01/service-industry-billing-methods/#s-Conclusion>)
 
 #  Introduction 
 
