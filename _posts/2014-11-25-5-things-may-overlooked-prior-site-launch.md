@@ -3,7 +3,7 @@ layout: post
 title: "5 Things You May Have Overlooked Prior to Site Launch"
 date: 2014-11-25
 ---
-![Checklist](/content/uploads/2014/11/checklist.jpg)The day has finally arrived. For the past few weeks, you or your team have put in a lot of effort, time and unwavering dedication just so you can launch a perfectly functional website that offers exemplary user experience. The only thing separating you from calling it a job well done is to formally publish the pages and declare the website officially "live".
+![Checklist](/wp-content/uploads/2014/11/checklist.jpg)The day has finally arrived. For the past few weeks, you or your team have put in a lot of effort, time and unwavering dedication just so you can launch a perfectly functional website that offers exemplary user experience. The only thing separating you from calling it a job well done is to formally publish the pages and declare the website officially "live".
 
 However, before you do that, there are a lot of things you need to double check. Putting together a website is no joke. Every overlooked error and mistake can hurt your website's user experience level, even minuscule things like a misspelled word or a single broken link.
 

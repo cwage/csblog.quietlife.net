@@ -3,7 +3,7 @@ layout: post
 title: "What is semalt? What is buttons-for-website?"
 date: 2015-02-10
 ---
-![Semalt](/content/uploads/2015/02/semalt-300x172.jpg)If you keep an eye on your Google Analytics referral sources, you've probably noticed a growing number of referrals from semalt.com and buttons-for-website.com. Aside from your referral sources in analytics, you've probably never heard of these sites, and you're curious why you're getting so much traffic from them.
+![Semalt](/wp-content/uploads/2015/02/semalt-300x172.jpg)If you keep an eye on your Google Analytics referral sources, you've probably noticed a growing number of referrals from semalt.com and buttons-for-website.com. Aside from your referral sources in analytics, you've probably never heard of these sites, and you're curious why you're getting so much traffic from them.
 
 In short, these sites are employing a tactic known as '[referrer spam](<http://en.wikipedia.org/wiki/Referer_spam>).' The concept is to generate a whole ton of links to a website by creating a bunch of traffic that appears to be coming from a particular site that they wish to promote. These 'referrals' then appear in access logs which are crawled by search engines. The massive quantity of links that point back to the spammer's site then improve their own SEO scores. The added side benefit is that astute observers like yourself are curious about this site that keeps showing up in your analytics, and you go and look up the site, and they've now brought in a new potential customer for their SEO services.
 

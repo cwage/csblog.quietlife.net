@@ -3,7 +3,7 @@ layout: post
 title: "Acceptance Testing (User Stories 101: Part 4 of 5)"
 date: 2014-08-01
 ---
-[![User stories 101](/content/uploads/2014/07/user_stories_101-01-300x194.jpg)](</content/uploads/2014/07/user_stories_101-01.jpg>)
+[![User stories 101](/wp-content/uploads/2014/07/user_stories_101-01-300x194.jpg)](</wp-content/uploads/2014/07/user_stories_101-01.jpg>)
 
 In [Part 3](</2014/07/29/collecting-user-stories/>) of our "User Stories 101" series, we talked about how **user stories are great placeholders for functionality, but are not all the functional requirements we need**. To go deeper on actually conveying need, we should integrate a series of acceptance tests to confirm that a story is satisfied.
 

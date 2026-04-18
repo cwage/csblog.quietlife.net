@@ -5,51 +5,51 @@ date: 2014-12-16
 ---
 As a full stack engineer, I have a tool set that I rely on every day. These tools are vital to my work as they keep me focused while also entertaining my random thoughts and helping make sure that I don't get sidetracked.
 
-  * ![Alfred](/content/uploads/2014/12/alfred-300x248.png)[Alfred](<http://www.alfredapp.com/>)
+  * ![Alfred](/wp-content/uploads/2014/12/alfred-300x248.png)[Alfred](<http://www.alfredapp.com/>)
     * Great replacement for Mac OSX's Spotlight.
 
 
-  * [![Dash](/content/uploads/2014/12/dash1-150x150.png)Dash](<http://kapeli.com/dash>)
+  * [![Dash](/wp-content/uploads/2014/12/dash1-150x150.png)Dash](<http://kapeli.com/dash>)
     * App that captures documentation from the many programming languages I use for offline access. Also works great with Alfred.
 
 
-  * ![Evernote](/content/uploads/2014/12/evernote-150x150.png)[Evernote](<https://evernote.com/>)
+  * ![Evernote](/wp-content/uploads/2014/12/evernote-150x150.png)[Evernote](<https://evernote.com/>)
     * Write down ideas I have that I want to remember for later. Blog idea, app ideas, etc.
 
 
-  * ![Pocket](/content/uploads/2014/12/pocket-150x150.png)[Pocket](<https://getpocket.com/>)
+  * ![Pocket](/wp-content/uploads/2014/12/pocket-150x150.png)[Pocket](<https://getpocket.com/>)
     * Save interesting articles to read later so I don't disrupt my focus.
 
 
-  * ![Slack](/content/uploads/2014/12/slack-150x150.png)[Slack](<https://slack.com/>)
+  * ![Slack](/wp-content/uploads/2014/12/slack-150x150.png)[Slack](<https://slack.com/>)
     * Company communication that has completely cleared out my inbox. You need it at your company if you don't already use it.
 
 
-  * ![Mailplane](/content/uploads/2014/12/mailplane-150x150.png)[Mailplane 3](<http://mailplaneapp.com/>)
+  * ![Mailplane](/wp-content/uploads/2014/12/mailplane-150x150.png)[Mailplane 3](<http://mailplaneapp.com/>)
     * Standalone email application that allows me to have all my Gmail accounts open without using more browser tabs. I've tried Mailbox, Sparrow and Apple Mail and many more. I keep coming back to needing the keyboard shortcuts and extensions like Rapportive and Boomerang.
 
 
-  * ![Macvim](/content/uploads/2014/12/macvim-150x150.png)[MacVim](<https://code.google.com/p/macvim/>)
+  * ![Macvim](/wp-content/uploads/2014/12/macvim-150x150.png)[MacVim](<https://code.google.com/p/macvim/>)
     * During my first months at Centresource, I had the opportunity to learn Vim and haven't looked back since. MacVim has nice mouse support.
 
 
-  * ![Chrome](/content/uploads/2014/12/chrome-150x150.png)[Chrome](<http://www.google.com/chrome/>)
+  * ![Chrome](/wp-content/uploads/2014/12/chrome-150x150.png)[Chrome](<http://www.google.com/chrome/>)
     * My browser of choice for development because of the great developer tools.
 
 
-  * ![Spotify](/content/uploads/2014/12/spotify-icon-150x150.png)[Spotify](<https://www.spotify.com/>)
+  * ![Spotify](/wp-content/uploads/2014/12/spotify-icon-150x150.png)[Spotify](<https://www.spotify.com/>)
     * A number of great curated playlists for staying focused and finding new music.
 
 
-  * ![iTerm](/content/uploads/2014/12/iterm-150x150.png)[iTerm](<http://iterm2.com/>)
+  * ![iTerm](/wp-content/uploads/2014/12/iterm-150x150.png)[iTerm](<http://iterm2.com/>)
     * I prefer this over the basic Terminal app on Mac. It has many customizations found in the preferences that are worth checking out.
 
 
-  * ![1Password](/content/uploads/2014/12/1password-150x150.png)[1Password](<https://agilebits.com/onepassword>)
+  * ![1Password](/wp-content/uploads/2014/12/1password-150x150.png)[1Password](<https://agilebits.com/onepassword>)
     * Save credentials of the hundreds of clients' logins. I've tried LastPass but gave up because 1Password has a great mobile app, design, offline functionality and Dropbox syncing to name a few.
 
 
-  * ![Tweetbot](/content/uploads/2014/12/Tweetboticon-150x150.png)[Tweetbot](<https://tapbots.com/software/tweetbot/mac/>)
+  * ![Tweetbot](/wp-content/uploads/2014/12/Tweetboticon-150x150.png)[Tweetbot](<https://tapbots.com/software/tweetbot/mac/>)
     * While code is deploying to Heroku or test suite is running, I run this app to see what is going on in the world of tech and add interesting articles to my Pocket app from here.
 
 

@@ -12,7 +12,7 @@ Every good story has a narrative arc. You may remember this from english class..
 
 
 
-![Phone Lady](/content/uploads/2014/12/phone-sales-lady-headset-300x199.jpg)****Any good case study tells a story. So often our case studies read more like a report than a story. Here are five things**not** to do in a case study:
+![Phone Lady](/wp-content/uploads/2014/12/phone-sales-lady-headset-300x199.jpg)****Any good case study tells a story. So often our case studies read more like a report than a story. Here are five things**not** to do in a case study:
 
   * **Don't use stats that don't mean anything.**  
 As the 19th-century British Prime Minister Benjamin Disraeli said there are "lies, damned lies and statistics." So often you'll see exaggerated numbers thrown out in statistics without any explanation. If possible, focus on the case before and the case after your efforts.

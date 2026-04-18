@@ -3,7 +3,7 @@ layout: post
 title: "My Centresource Commute - \"How I Learned to Read Again\""
 date: 2014-11-14
 ---
-![I Love My Commute](/content/uploads/2014/11/commute-300x200.jpg)I am often teased by my co-workers for living in Brentwood. Beyond the typical "you in the 'burbs" jokes, I get many comments from my teammates that live in East Nashville who think the idea of driving more than 10 minutes to work is outrageous. I have to admit -- on days like this morning, when the rain is coming down and 65N is a total zoo, there is some appeal to a quick "over the river" drive that prevents me from having to schedule to leave 45 minutes before I need to be at my desk.
+![I Love My Commute](/wp-content/uploads/2014/11/commute-300x200.jpg)I am often teased by my co-workers for living in Brentwood. Beyond the typical "you in the 'burbs" jokes, I get many comments from my teammates that live in East Nashville who think the idea of driving more than 10 minutes to work is outrageous. I have to admit -- on days like this morning, when the rain is coming down and 65N is a total zoo, there is some appeal to a quick "over the river" drive that prevents me from having to schedule to leave 45 minutes before I need to be at my desk.
 
 But then I remember... _I love my commute_. Why? Because it is an amazing opportunity to spend an hour to an hour and a half each day reading books. No, I don't have one of the new drive-on-their-own Google cars (although if someone knows someone who can hook me up, let me know!). I have fallen in love with listening to audiobooks, which, despite many people's feelings to the contrary, I feel is just as valuable as reading the books themselves.
 

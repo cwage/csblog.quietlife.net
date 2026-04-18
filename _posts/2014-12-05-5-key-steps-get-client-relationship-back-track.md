@@ -3,7 +3,7 @@ layout: post
 title: "5 Key Steps to Get a Client Relationship Back on Track"
 date: 2014-12-05
 ---
-![Unhappy customer](/content/uploads/2014/12/anger-management-221x300.jpg)Breaking News: Communication is the key to success in any relationship.
+![Unhappy customer](/wp-content/uploads/2014/12/anger-management-221x300.jpg)Breaking News: Communication is the key to success in any relationship.
 
 I know I didn't make this up, but it is especially true in the agency world and when a client is unhappy. Sometimes we all need a reminder to communicate with others what we discuss internally, and unfortunately that may come with an angry phone call or email from a client. Below are the five key steps to get a relationship with a client back on track:
 

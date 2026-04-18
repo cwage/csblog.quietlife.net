@@ -1,10 +1,17 @@
 #!/usr/bin/env python3
 """
-Recover wp-content/uploads/* image + file assets from the Wayback Machine.
+Recover hosted image/file assets from the Wayback Machine.
 
-- Collects every unique wp-content/uploads URL referenced by _posts/*.md
-- For each one, queries the Wayback CDX API for the closest snapshot
-- Downloads the raw bytes via /web/<ts>id_/<url> and saves to ./wp-content/uploads/<path>
+Handles two patterns referenced by _posts/*.md:
+  - /wp-content/uploads/**        WordPress uploads (any era)
+  - /wp-content/<file>.<ext>      early WP files dropped at the wp-content root
+                                  (excludes uploads/, themes/, plugins/)
+Plus a small allow-list of specific cross-domain image URLs (staging/www.centresource.com).
+
+For each URL, queries the Wayback CDX API for the closest 200 snapshot and
+downloads the raw bytes via /web/<ts>id_/<url>. Files land under ROOT at a
+path that mirrors the URL, so Jekyll serves them at the same location.
+
 - Idempotent: files that already exist locally are skipped
 - Thumbnail fallback: if a WordPress-sized variant like foo-300x200.jpg misses,
   retries with the unsized original (foo.jpg)
@@ -26,23 +33,38 @@ import urllib.request
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 POSTS_DIR = os.path.join(ROOT, "_posts")
-ASSETS_DIR = os.path.join(ROOT, "wp-content", "uploads")
 
-# Hosts we consider "ours". Third-party /wp-content/uploads/ URLs are skipped
-# so they don't collide with our own asset paths and pull in files that no
-# post actually references (the markdown still points at the original host).
+# Hosts we consider "ours". Third-party URLs on these paths are skipped so they
+# don't collide with our own asset paths and pull in files no post references.
 CANONICAL_HOSTS = {
     "csblog.quietlife.net",
     "blog.centresource.com",
     "blog2.centresource.com",
 }
 
-URL_RE = re.compile(r"[a-zA-Z]+://([^\s/)>\"']+)(/wp-content/uploads/[^\s)>\"']+)")
+# Asset-path alternation shared by the absolute and relative regexes.
+ASSET_PATH = (
+    r"(?:"
+    r"/wp-content/uploads/[^\s)>\"']+"
+    r"|/wp-content/(?!uploads/|themes/|plugins/)[^/\s)>\"']+\.[A-Za-z0-9]{2,5}"
+    r")"
+)
+
+URL_RE = re.compile(r"[a-zA-Z]+://([^\s/)>\"']+)(" + ASSET_PATH + r")")
 
 # After the PR #2+#3 rewrites, most references are relative (/wp-content/...).
 # Match those too and assume the default canonical host for CDX lookup.
-RELATIVE_RE = re.compile(r"(?<![a-zA-Z0-9/])/wp-content/uploads/[^\s)>\"']+")
+RELATIVE_RE = re.compile(r"(?<![a-zA-Z0-9/])" + ASSET_PATH)
 DEFAULT_HOST = "blog.centresource.com"
+
+# Individual cross-domain assets that posts link to directly. Kept as an
+# explicit list (not a regex) so we don't accidentally sweep in arbitrary
+# corporate-site URLs. Each entry is a full URL; files land at ROOT/<url-path>.
+EXTRA_URLS = [
+    "http://staging.centresource.com/Vday/CScandyHeart.jpg",
+    "http://staging.centresource.com/Vday/CScandyHeartTHUM.jpg",
+    "http://www.centresource.com/images/team/jasonjones-huge.png",
+]
 
 # WordPress auto-generates sized variants like foo-300x200.jpg, foo-1024x768.png
 THUMB_RE = re.compile(r"-\d{2,4}x\d{2,4}(?=\.[A-Za-z0-9]{2,5}$)")
@@ -64,6 +86,7 @@ def collect_urls():
             urls.add(m.group(0))
         for m in RELATIVE_RE.finditer(content):
             urls.add(f"http://{DEFAULT_HOST}{m.group(0)}")
+    urls.update(EXTRA_URLS)
     return sorted(urls)
 
 
@@ -72,18 +95,23 @@ def to_cdx_target(url):
 
     Relative /wp-content/... references are already synthesized as
     http://blog.centresource.com/... by collect_urls(), so they pass through.
-    Other canonical hosts (blog2.centresource.com) are also untouched.
+    Other canonical hosts (blog2.centresource.com) and EXTRA_URLS
+    (staging/www.centresource.com) are also untouched.
     """
     return url.replace("https://csblog.quietlife.net", "http://blog.centresource.com")
 
 
 def local_path(url):
-    """Map a wp-content/uploads URL to its local filesystem path (URL-decoded)."""
-    after = url.split("/wp-content/uploads/", 1)[1]
-    after = urllib.parse.unquote(after)
-    # Strip any query string just in case
-    after = after.split("?", 1)[0]
-    return os.path.join(ASSETS_DIR, after)
+    """Map any asset URL to a local path under ROOT that mirrors the URL path.
+
+    Drops the scheme+host, decodes %-escapes, strips query string. Jekyll
+    serves the file at the same URL path, so posts referencing the URL still
+    resolve after recovery.
+    """
+    parsed = urllib.parse.urlparse(url)
+    path = urllib.parse.unquote(parsed.path).lstrip("/")
+    path = path.split("?", 1)[0]
+    return os.path.join(ROOT, path)
 
 
 def cdx_lookup(url, retries=1, backoff=2.0, timeout=12):
@@ -183,7 +211,7 @@ def main():
         urls = urls[: args.limit]
 
     print(f"{len(urls)} unique wp-content URLs to process")
-    print(f"Output dir: {ASSETS_DIR}")
+    print(f"Output dir: {ROOT} (files saved under their URL path)")
     if args.dry_run:
         print("[dry-run]")
     print()

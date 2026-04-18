@@ -1,0 +1,86 @@
+#!/usr/bin/perl -w
+
+use strict;
+
+use GD::Graph::bars;
+use Getopt::Long;
+
+sub usage;
+
+use vars qw($opt_x $opt_y $opt_t $opt_w $opt_h $opt_f);
+
+my $PROGNAME = $0;
+
+Getopt::Long::Configure('bundling');
+
+GetOptions(
+	"x=s" => \$opt_x, "x_label=s" => \$opt_x,
+	"y=s" => \$opt_y, "y_label=s" => \$opt_y,
+	"t=s" => \$opt_t, "title=s" => \$opt_t,
+	"w=i" => \$opt_w, "width=i" => \$opt_w,
+	"f=s" => \$opt_f, "format=s" => \$opt_f,
+	"h" => \$opt_h, "help" => \$opt_h
+	);
+
+if ($opt_h) {
+	usage();
+	exit 0;
+}
+
+my $format = $opt_f || "png";
+
+my @x_vals;
+my @y_vals;
+
+while (<>) {
+	chomp;
+	my ($y, $x) = split;
+	push(@x_vals, $x);
+	push(@y_vals, $y);
+}
+
+
+my $x_val_count = $#x_vals;
+my $graph = GD::Graph::bars->new($opt_w || $x_val_count * 10,400);
+
+my @data = (
+	[ @x_vals ],
+	[ @y_vals ]
+	);
+
+
+$graph->set(
+	x_label	=> $opt_x,
+	y_label => $opt_y,
+	x_labels_vertical => 1,
+	show_values => 1,
+	bar_spacing => 5,
+	shadow_depth => 1,
+	title => $opt_t
+) or die $graph->error;
+
+print $graph->plot(\@data)->$format();
+
+sub usage() {
+	print <<EOF
+Usage: $PROGNAME [OPTION]...
+This program generates an image (PNG by default) containing a simple graph from
+simple data. Specifically, it expects to operate on the results of the shell
+commands "sort | uniq -c", which produce a sequence of <number> <text> lines.
+This script generates a bar graph with the text on the X axis and the number on
+the Y axis.
+
+Several options may be given to affect the output:
+
+  -x [text], --x_label=[text]         Set the label for the X axis
+  -y [text], --y_label=[text]         Set the label for the Y axis
+  -t [text], --title=[text]           Set the title for the graph
+  -w [pixels], --width=[pixels]       Set the width in pixels for the
+                                      resulting image. If left blank, this
+                                      will default to 10 pixels * the number
+                                      of lines.
+  -f [imgtype], --format=[imgtype]    The type of image to export, e.g: png,
+                                      gif, jpg et al. This depends on the
+                                      version of GD you have.
+EOF
+}
